@@ -69,6 +69,21 @@
             const [loading, setLoading] = useState(true);
             const [error, setError] = useState(null);
 
+            // Fonction pour traduire le texte via API de traduction
+            const translateText = async (text, targetLang = 'fr') => {
+                try {
+                    // Utilisation de l'API MyMemory (gratuite, pas de clé requise)
+                    const response = await fetch(
+                        `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|${targetLang}`
+                    );
+                    const data = await response.json();
+                    return data.responseData.translatedText;
+                } catch (error) {
+                    console.error('Erreur de traduction:', error);
+                    return text; // Retourner le texte original en cas d'erreur
+                }
+            };
+
             // Fonction pour décoder les entités HTML
             const decodeHTML = (html) => {
                 const txt = document.createElement('textarea');
@@ -105,17 +120,25 @@
                     const data = await response.json();
                     
                     if (data.response_code === 0 && data.results) {
-                        const formattedQuestions = data.results.map(q => {
+                        const translationPromises = data.results.map(async (q) => {
                             const allAnswers = [...q.incorrect_answers, q.correct_answer];
                             const shuffled = shuffleArray(allAnswers);
                             
+                            // Traduire la question et les réponses
+                            const [translatedQuestion, ...translatedOptions] = await Promise.all([
+                                translateText(decodeHTML(q.question)),
+                                ...shuffled.map(ans => translateText(decodeHTML(ans)))
+                            ]);
+                            
                             return {
-                                question: decodeHTML(q.question),
-                                options: shuffled.map(ans => decodeHTML(ans)),
+                                question: translatedQuestion,
+                                options: translatedOptions,
                                 correctAnswer: shuffled.indexOf(q.correct_answer),
-                                category: decodeHTML(q.category)
+                                category: await translateText(decodeHTML(q.category))
                             };
                         });
+                        
+                        const formattedQuestions = await Promise.all(translationPromises);
                         setDailyQuiz(formattedQuestions);
                         setLoading(false);
                     } else {
