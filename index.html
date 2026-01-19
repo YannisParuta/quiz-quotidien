@@ -129,13 +129,17 @@
                     // ÉTAPE 3 : Charger questions.json
                     // IMPORTANT : Le fichier doit être dans le même dossier que index.html
                     // ============================================
+                    console.log('Tentative de chargement de questions.json...');
                     const response = await fetch('questions.json');
                     
+                    console.log('Response status:', response.status);
+                    
                     if (!response.ok) {
-                        throw new Error('Impossible de charger les questions');
+                        throw new Error(`Impossible de charger les questions (status: ${response.status})`);
                     }
                     
                     const data = await response.json();
+                    console.log('Questions chargées:', data.questions ? data.questions.length : 0);
                     const allQuestions = data.questions;
                     setTotalQuestions(allQuestions.length);
                     
