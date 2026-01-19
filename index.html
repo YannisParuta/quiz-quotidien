@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Quotidien</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect } = React;
+
+        // Icônes SVG
+        const Calendar = () => (
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                <line x1="16" y1="2" x2="16" y2="6"></line>
+                <line x1="8" y1="2" x2="8" y2="6"></line>
+                <line x1="3" y1="10" x2="21" y2="10"></line>
+            </svg>
+        );
+
+        const Trophy = () => (
+            <svg className="w-20 h-20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path>
+                <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path>
+                <path d="M4 22h16"></path>
+                <path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"></path>
+                <path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"></path>
+                <path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"></path>
+            </svg>
+        );
+
+        const CheckCircle = () => (
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                <polyline points="22 4 12 14.01 9 11.01"></polyline>
+            </svg>
+        );
+
+        const XCircle = () => (
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="15" y1="9" x2="9" y2="15"></line>
+                <line x1="9" y1="9" x2="15" y2="15"></line>
+            </svg>
+        );
+
+        function DailyQuiz() {
+            const [currentQuestion, setCurrentQuestion] = useState(0);
+            const [selectedAnswer, setSelectedAnswer] = useState(null);
+            const [showResult, setShowResult] = useState(false);
+            const [score, setScore] = useState(0);
+            const [quizCompleted, setQuizCompleted] = useState(false);
+            const [dailyQuiz, setDailyQuiz] = useState([]);
+
+            // Banque de questions
+            const questionBank = [
+                {
+                    question: "Quelle est la capitale de la France ?",
+                    options: ["Paris", "Lyon", "Marseille", "Toulouse"],
+                    correctAnswer: 0
+                },
+                {
+                    question: "Combien de continents y a-t-il sur Terre ?",
+                    options: ["5", "6", "7", "8"],
+                    correctAnswer: 2
+                },
+                {
+                    question: "Qui a peint la Joconde ?",
+                    options: ["Van Gogh", "Picasso", "Léonard de Vinci", "Monet"],
+                    correctAnswer: 2
+                },
+                {
+                    question: "Quelle planète est la plus proche du Soleil ?",
+                    options: ["Vénus", "Mars", "Mercure", "Terre"],
+                    correctAnswer: 2
+                },
+                {
+                    question: "En quelle année l'homme a-t-il marché sur la Lune ?",
+                    options: ["1965", "1969", "1972", "1975"],
+                    correctAnswer: 1
+                },
+                {
+                    question: "Quel est le plus grand océan du monde ?",
+                    options: ["Atlantique", "Indien", "Arctique", "Pacifique"],
+                    correctAnswer: 3
+                },
+                {
+                    question: "Combien de joueurs composent une équipe de football ?",
+                    options: ["9", "10", "11", "12"],
+                    correctAnswer: 2
+                },
+                {
+                    question: "Quelle est la langue la plus parlée au monde ?",
+                    options: ["Anglais", "Mandarin", "Espagnol", "Hindi"],
+                    correctAnswer: 1
+                },
+                {
+                    question: "Quel élément chimique a pour symbole 'O' ?",
+                    options: ["Or", "Oxygène", "Osmium", "Oganesson"],
+                    correctAnswer: 1
+                },
+                {
+                    question: "Qui a écrit 'Les Misérables' ?",
+                    options: ["Victor Hugo", "Émile Zola", "Gustave Flaubert", "Balzac"],
+                    correctAnswer: 0
+                },
+                {
+                    question: "Quelle est la vitesse de la lumière ?",
+                    options: ["300 000 km/s", "150 000 km/s", "450 000 km/s", "200 000 km/s"],
+                    correctAnswer: 0
+                },
+                {
+                    question: "Quel pays a inventé les pâtes ?",
+                    options: ["Italie", "Chine", "Grèce", "France"],
+                    correctAnswer: 1
+                },
+                {
+                    question: "Combien d'os possède le corps humain adulte ?",
+                    options: ["186", "206", "226", "246"],
+                    correctAnswer: 1
+                },
+                {
+                    question: "Quelle est la plus haute montagne du monde ?",
+                    options: ["K2", "Mont Blanc", "Everest", "Kilimandjaro"],
+                    correctAnswer: 2
+                },
+                {
+                    question: "Quel est le plus petit pays du monde ?",
+                    options: ["Monaco", "Vatican", "Saint-Marin", "Liechtenstein"],
+                    correctAnswer: 1
+                }
+            ];
+
+            useEffect(() => {
+                const today = new Date();
+                const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24);
+                
+                let seed = dayOfYear;
+                const shuffled = [...questionBank].sort(() => {
+                    const x = Math.sin(seed++) * 10000;
+                    return x - Math.floor(x) - 0.5;
+                });
+                
+                setDailyQuiz(shuffled.slice(0, 5));
+            }, []);
+
+            const handleAnswerClick = (index) => {
+                if (showResult) return;
+                setSelectedAnswer(index);
+                setShowResult(true);
+                
+                if (index === dailyQuiz[currentQuestion].correctAnswer) {
+                    setScore(score + 1);
+                }
+            };
+
+            const handleNext = () => {
+                if (currentQuestion < dailyQuiz.length - 1) {
+                    setCurrentQuestion(currentQuestion + 1);
+                    setSelectedAnswer(null);
+                    setShowResult(false);
+                } else {
+                    setQuizCompleted(true);
+                }
+            };
+
+            const resetQuiz = () => {
+                setCurrentQuestion(0);
+                setSelectedAnswer(null);
+                setShowResult(false);
+                setScore(0);
+                setQuizCompleted(false);
+            };
+
+            const getDateString = () => {
+                const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+                return new Date().toLocaleDateString('fr-FR', options);
+            };
+
+            if (dailyQuiz.length === 0) {
+                return (
+                    <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
+                        <div className="text-white text-xl">Chargement du quiz...</div>
+                    </div>
+                );
+            }
+
+            return (
+                <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
+                    <div className="bg-white rounded-2xl shadow-2xl max-w-2xl w-full p-8">
+                        <div className="text-center mb-8">
+                            <div className="flex items-center justify-center gap-2 text-purple-600 mb-2">
+                                <Calendar />
+                                <span className="text-sm font-medium">{getDateString()}</span>
+                            </div>
+                            <h1 className="text-4xl font-bold text-gray-800 mb-2">Quiz Quotidien</h1>
+                            <p className="text-gray-600">Testez vos connaissances chaque jour !</p>
+                        </div>
+
+                        {!quizCompleted ? (
+                            <>
+                                <div className="mb-6">
+                                    <div className="flex justify-between text-sm text-gray-600 mb-2">
+                                        <span>Question {currentQuestion + 1} sur {dailyQuiz.length}</span>
+                                        <span>Score: {score}/{dailyQuiz.length}</span>
+                                    </div>
+                                    <div className="w-full bg-gray-200 rounded-full h-2">
+                                        <div
+                                            className="bg-purple-600 h-2 rounded-full transition-all duration-300"
+                                            style={{ width: `${((currentQuestion + 1) / dailyQuiz.length) * 100}%` }}
+                                        />
+                                    </div>
+                                </div>
+
+                                <div className="mb-8">
+                                    <h2 className="text-2xl font-semibold text-gray-800 mb-6">
+                                        {dailyQuiz[currentQuestion].question}
+                                    </h2>
+
+                                    <div className="space-y-3">
+                                        {dailyQuiz[currentQuestion].options.map((option, index) => {
+                                            const isCorrect = index === dailyQuiz[currentQuestion].correctAnswer;
+                                            const isSelected = index === selectedAnswer;
+                                            
+                                            let buttonClass = "w-full p-4 text-left rounded-lg border-2 transition-all duration-200 ";
+                                            
+                                            if (!showResult) {
+                                                buttonClass += "border-gray-200 hover:border-purple-400 hover:bg-purple-50 cursor-pointer";
+                                            } else {
+                                                if (isCorrect) {
+                                                    buttonClass += "border-green-500 bg-green-50";
+                                                } else if (isSelected && !isCorrect) {
+                                                    buttonClass += "border-red-500 bg-red-50";
+                                                } else {
+                                                    buttonClass += "border-gray-200 bg-gray-50 cursor-not-allowed";
+                                                }
+                                            }
+
+                                            return (
+                                                <button
+                                                    key={index}
+                                                    onClick={() => handleAnswerClick(index)}
+                                                    className={buttonClass}
+                                                    disabled={showResult}
+                                                >
+                                                    <div className="flex items-center justify-between">
+                                                        <span className="font-medium">{option}</span>
+                                                        {showResult && isCorrect && <CheckCircle />}
+                                                        {showResult && isSelected && !isCorrect && <XCircle />}
+                                                    </div>
+                                                </button>
+                                            );
+                                        })}
+                                    </div>
+                                </div>
+
+                                {showResult && (
+                                    <button
+                                        onClick={handleNext}
+                                        className="w-full bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-200"
+                                    >
+                                        {currentQuestion < dailyQuiz.length - 1 ? 'Question suivante' : 'Voir les résultats'}
+                                    </button>
+                                )}
+                            </>
+                        ) : (
+                            <div className="text-center">
+                                <div className="text-yellow-500 mx-auto mb-4 flex justify-center">
+                                    <Trophy />
+                                </div>
+                                <h2 className="text-3xl font-bold text-gray-800 mb-4">Quiz terminé !</h2>
+                                <div className="bg-purple-100 rounded-lg p-6 mb-6">
+                                    <p className="text-5xl font-bold text-purple-600 mb-2">
+                                        {score}/{dailyQuiz.length}
+                                    </p>
+                                    <p className="text-gray-700">
+                                        {score === dailyQuiz.length
+                                            ? "Parfait ! Vous êtes un expert !"
+                                            : score >= dailyQuiz.length * 0.7
+                                            ? "Excellent travail !"
+                                            : score >= dailyQuiz.length * 0.5
+                                            ? "Pas mal ! Continuez comme ça !"
+                                            : "Continuez à vous entraîner !"}
+                                    </p>
+                                </div>
+                                <p className="text-gray-600 mb-6">
+                                    Revenez demain pour un nouveau quiz !
+                                </p>
+                                <button
+                                    onClick={resetQuiz}
+                                    className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200"
+                                >
+                                    Refaire le quiz
+                                </button>
+                            </div>
+                        )}
+                    </div>
+                </div>
+            );
+        }
+
+        ReactDOM.render(<DailyQuiz />, document.getElementById('root'));
+    </script>
+</body>
+</html>
