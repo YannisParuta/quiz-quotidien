@@ -51,6 +51,14 @@
             </svg>
         );
 
+        const AlertCircle = () => (
+            <svg className="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="12" y1="8" x2="12" y2="12"></line>
+                <line x1="12" y1="16" x2="12.01" y2="16"></line>
+            </svg>
+        );
+
         function DailyQuiz() {
             const [currentQuestion, setCurrentQuestion] = useState(0);
             const [selectedAnswer, setSelectedAnswer] = useState(null);
@@ -58,97 +66,71 @@
             const [score, setScore] = useState(0);
             const [quizCompleted, setQuizCompleted] = useState(false);
             const [dailyQuiz, setDailyQuiz] = useState([]);
+            const [loading, setLoading] = useState(true);
+            const [error, setError] = useState(null);
 
-            // Banque de questions
-            const questionBank = [
-                {
-                    question: "Quelle est la capitale de la France ?",
-                    options: ["Paris", "Lyon", "Marseille", "Toulouse"],
-                    correctAnswer: 0
-                },
-                {
-                    question: "Combien de continents y a-t-il sur Terre ?",
-                    options: ["5", "6", "7", "8"],
-                    correctAnswer: 2
-                },
-                {
-                    question: "Qui a peint la Joconde ?",
-                    options: ["Van Gogh", "Picasso", "Léonard de Vinci", "Monet"],
-                    correctAnswer: 2
-                },
-                {
-                    question: "Quelle planète est la plus proche du Soleil ?",
-                    options: ["Vénus", "Mars", "Mercure", "Terre"],
-                    correctAnswer: 2
-                },
-                {
-                    question: "En quelle année l'homme a-t-il marché sur la Lune ?",
-                    options: ["1965", "1969", "1972", "1975"],
-                    correctAnswer: 1
-                },
-                {
-                    question: "Quel est le plus grand océan du monde ?",
-                    options: ["Atlantique", "Indien", "Arctique", "Pacifique"],
-                    correctAnswer: 3
-                },
-                {
-                    question: "Combien de joueurs composent une équipe de football ?",
-                    options: ["9", "10", "11", "12"],
-                    correctAnswer: 2
-                },
-                {
-                    question: "Quelle est la langue la plus parlée au monde ?",
-                    options: ["Anglais", "Mandarin", "Espagnol", "Hindi"],
-                    correctAnswer: 1
-                },
-                {
-                    question: "Quel élément chimique a pour symbole 'O' ?",
-                    options: ["Or", "Oxygène", "Osmium", "Oganesson"],
-                    correctAnswer: 1
-                },
-                {
-                    question: "Qui a écrit 'Les Misérables' ?",
-                    options: ["Victor Hugo", "Émile Zola", "Gustave Flaubert", "Balzac"],
-                    correctAnswer: 0
-                },
-                {
-                    question: "Quelle est la vitesse de la lumière ?",
-                    options: ["300 000 km/s", "150 000 km/s", "450 000 km/s", "200 000 km/s"],
-                    correctAnswer: 0
-                },
-                {
-                    question: "Quel pays a inventé les pâtes ?",
-                    options: ["Italie", "Chine", "Grèce", "France"],
-                    correctAnswer: 1
-                },
-                {
-                    question: "Combien d'os possède le corps humain adulte ?",
-                    options: ["186", "206", "226", "246"],
-                    correctAnswer: 1
-                },
-                {
-                    question: "Quelle est la plus haute montagne du monde ?",
-                    options: ["K2", "Mont Blanc", "Everest", "Kilimandjaro"],
-                    correctAnswer: 2
-                },
-                {
-                    question: "Quel est le plus petit pays du monde ?",
-                    options: ["Monaco", "Vatican", "Saint-Marin", "Liechtenstein"],
-                    correctAnswer: 1
+            // Fonction pour décoder les entités HTML
+            const decodeHTML = (html) => {
+                const txt = document.createElement('textarea');
+                txt.innerHTML = html;
+                return txt.value;
+            };
+
+            // Fonction pour mélanger un tableau
+            const shuffleArray = (array) => {
+                const shuffled = [...array];
+                for (let i = shuffled.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
                 }
-            ];
+                return shuffled;
+            };
 
+            // Charger les questions depuis l'API
+            const fetchQuestionsFromAPI = async () => {
+                try {
+                    setLoading(true);
+                    setError(null);
+                    
+                    // Utiliser la date comme seed pour avoir les mêmes questions chaque jour
+                    const today = new Date();
+                    const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
+                    
+                    const response = await fetch(`https://opentdb.com/api.php?amount=10&type=multiple&seed=${seed}`);
+                    
+                    if (!response.ok) {
+                        throw new Error('Impossible de se connecter à l\'API');
+                    }
+                    
+                    const data = await response.json();
+                    
+                    if (data.response_code === 0 && data.results) {
+                        const formattedQuestions = data.results.map(q => {
+                            const allAnswers = [...q.incorrect_answers, q.correct_answer];
+                            const shuffled = shuffleArray(allAnswers);
+                            
+                            return {
+                                question: decodeHTML(q.question),
+                                options: shuffled.map(ans => decodeHTML(ans)),
+                                correctAnswer: shuffled.indexOf(q.correct_answer),
+                                category: decodeHTML(q.category)
+                            };
+                        });
+                        setDailyQuiz(formattedQuestions);
+                        setLoading(false);
+                    } else {
+                        throw new Error('Aucune question disponible');
+                    }
+                } catch (err) {
+                    console.error('Erreur lors du chargement des questions:', err);
+                    setError('Impossible de charger les questions. Vérifiez votre connexion internet.');
+                    setLoading(false);
+                }
+            };
+
+            // Charger les questions au démarrage
             useEffect(() => {
-                const today = new Date();
-                const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24);
-                
-                let seed = dayOfYear;
-                const shuffled = [...questionBank].sort(() => {
-                    const x = Math.sin(seed++) * 10000;
-                    return x - Math.floor(x) - 0.5;
-                });
-                
-                setDailyQuiz(shuffled.slice(0, 5));
+                fetchQuestionsFromAPI();
             }, []);
 
             const handleAnswerClick = (index) => {
@@ -184,10 +166,32 @@
                 return new Date().toLocaleDateString('fr-FR', options);
             };
 
-            if (dailyQuiz.length === 0) {
+            // Écran de chargement
+            if (loading) {
                 return (
                     <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
                         <div className="text-white text-xl">Chargement du quiz...</div>
+                    </div>
+                );
+            }
+
+            // Écran d'erreur
+            if (error) {
+                return (
+                    <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
+                        <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full p-8 text-center">
+                            <div className="text-red-500 mx-auto mb-4 flex justify-center">
+                                <AlertCircle />
+                            </div>
+                            <h2 className="text-2xl font-bold text-gray-800 mb-4">Erreur de chargement</h2>
+                            <p className="text-gray-600 mb-6">{error}</p>
+                            <button
+                                onClick={fetchQuestionsFromAPI}
+                                className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200"
+                            >
+                                Réessayer
+                            </button>
+                        </div>
                     </div>
                 );
             }
@@ -201,7 +205,7 @@
                                 <span className="text-sm font-medium">{getDateString()}</span>
                             </div>
                             <h1 className="text-4xl font-bold text-gray-800 mb-2">Quiz Quotidien</h1>
-                            <p className="text-gray-600">Testez vos connaissances chaque jour !</p>
+                            <p className="text-gray-600">10 nouvelles questions chaque jour !</p>
                         </div>
 
                         {!quizCompleted ? (
@@ -211,6 +215,11 @@
                                         <span>Question {currentQuestion + 1} sur {dailyQuiz.length}</span>
                                         <span>Score: {score}/{dailyQuiz.length}</span>
                                     </div>
+                                    {dailyQuiz[currentQuestion].category && (
+                                        <div className="text-xs text-purple-600 mb-2">
+                                            📚 {dailyQuiz[currentQuestion].category}
+                                        </div>
+                                    )}
                                     <div className="w-full bg-gray-200 rounded-full h-2">
                                         <div
                                             className="bg-purple-600 h-2 rounded-full transition-all duration-300"
@@ -291,13 +300,13 @@
                                     </p>
                                 </div>
                                 <p className="text-gray-600 mb-6">
-                                    Revenez demain pour un nouveau quiz !
+                                    Revenez demain pour 10 nouvelles questions !
                                 </p>
                                 <button
                                     onClick={resetQuiz}
                                     className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200"
                                 >
-                                    Refaire le quiz
+                                    Refaire le quiz du jour
                                 </button>
                             </div>
                         )}
