@@ -337,7 +337,7 @@
                                         <span>Question {currentQuestion + 1} sur {dailyQuiz.length}</span>
                                         <span>Score: {score}/{dailyQuiz.length}</span>
                                     </div>
-                                    {dailyQuiz[currentQuestion].category && (
+                                    {dailyQuiz[currentQuestion] && dailyQuiz[currentQuestion].category && (
                                         <div className="text-xs text-purple-600 mb-2">
                                             📚 {dailyQuiz[currentQuestion].category}
                                         </div>
@@ -351,12 +351,14 @@
                                 </div>
 
                                 <div className="mb-8">
-                                    <h2 className="text-2xl font-semibold text-gray-800 mb-6">
-                                        {dailyQuiz[currentQuestion].question}
-                                    </h2>
+                                    {dailyQuiz[currentQuestion] && (
+                                        <>
+                                            <h2 className="text-2xl font-semibold text-gray-800 mb-6">
+                                                {dailyQuiz[currentQuestion].question}
+                                            </h2>
 
-                                    <div className="space-y-3">
-                                        {dailyQuiz[currentQuestion].options.map((option, index) => {
+                                            <div className="space-y-3">
+                                                {dailyQuiz[currentQuestion].options.map((option, index) => {
                                             const isCorrect = index === dailyQuiz[currentQuestion].correctAnswer;
                                             const isSelected = index === selectedAnswer;
                                             
@@ -390,6 +392,8 @@
                                             );
                                         })}
                                     </div>
+                                        </>
+                                    )}
                                 </div>
 
                                 {showResult && (
