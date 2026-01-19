@@ -107,11 +107,25 @@
                     setLoading(true);
                     setError(null);
                     
-                    // Utiliser la date comme seed pour avoir les mêmes questions chaque jour
+                    // Récupérer la date du jour
                     const today = new Date();
-                    const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
+                    const dateKey = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
                     
-                    const response = await fetch(`https://opentdb.com/api.php?amount=10&type=multiple&seed=${seed}`);
+                    // Vérifier si on a déjà les questions du jour en mémoire
+                    const cachedQuestions = {};
+                    try {
+                        const stored = await window.storage.get(`quiz-${dateKey}`);
+                        if (stored && stored.value) {
+                            const cached = JSON.parse(stored.value);
+                            setDailyQuiz(cached);
+                            setLoading(false);
+                            return;
+                        }
+                    } catch (e) {
+                        // Pas de questions sauvegardées, on continue
+                    }
+                    
+                    const response = await fetch('https://opentdb.com/api.php?amount=10&type=multiple');
                     
                     if (!response.ok) {
                         throw new Error('Impossible de se connecter à l\'API');
@@ -140,6 +154,14 @@
                         
                         const formattedQuestions = await Promise.all(translationPromises);
                         setDailyQuiz(formattedQuestions);
+                        
+                        // Sauvegarder les questions du jour
+                        try {
+                            await window.storage.set(`quiz-${dateKey}`, JSON.stringify(formattedQuestions));
+                        } catch (e) {
+                            console.log('Impossible de sauvegarder les questions');
+                        }
+                        
                         setLoading(false);
                     } else {
                         throw new Error('Aucune question disponible');
