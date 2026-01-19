@@ -296,7 +296,7 @@
             }
 
             // Écran d'erreur
-            if (error) {
+            if (error || !dailyQuiz || dailyQuiz.length === 0) {
                 return (
                     <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
                         <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full p-8 text-center">
@@ -304,7 +304,9 @@
                                 <AlertCircle />
                             </div>
                             <h2 className="text-2xl font-bold text-gray-800 mb-4">Erreur de chargement</h2>
-                            <p className="text-gray-600 mb-6">{error}</p>
+                            <p className="text-gray-600 mb-6">
+                                {error || "Le fichier questions.json est introuvable. Assurez-vous qu'il est bien dans le même dossier que index.html"}
+                            </p>
                             <button
                                 onClick={fetchQuestionsFromJSON}
                                 className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200"
