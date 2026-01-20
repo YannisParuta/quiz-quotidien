@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz Quotidien</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.3.1/umd/react.production.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.3.1/umd/react-dom.production.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.26.10/babel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
@@ -73,6 +73,8 @@
         );
 
         function DailyQuiz() {
+            console.log('=== DÉMARRAGE DU COMPOSANT DAILYQUIZ ===');
+            
             const [currentQuestion, setCurrentQuestion] = useState(0);
             const [selectedAnswer, setSelectedAnswer] = useState(null);
             const [showResult, setShowResult] = useState(false);
@@ -83,6 +85,13 @@
             const [error, setError] = useState(null);
             const [answers, setAnswers] = useState([]);
             const [totalQuestions, setTotalQuestions] = useState(0);
+
+            console.log('États initialisés');
+
+            console.log('=== RENDER ===');
+            console.log('loading:', loading);
+            console.log('dailyQuiz.length:', dailyQuiz.length);
+            console.log('error:', error);
 
             /**
              * CHARGEMENT DES QUESTIONS
@@ -188,8 +197,13 @@
                     
                     dailyCache[dateKey] = cacheData;
                     
+                    console.log('=== QUESTIONS SÉLECTIONNÉES ===', selectedQuestions);
+                    console.log('Nombre de questions:', selectedQuestions.length);
+                    
                     setDailyQuiz(selectedQuestions);
+                    console.log('setDailyQuiz appelé');
                     setLoading(false);
+                    console.log('setLoading(false) appelé');
                 } catch (err) {
                     console.error('Erreur lors du chargement des questions:', err);
                     setError('Impossible de charger les questions. Vérifiez votre connexion internet.');
@@ -199,6 +213,7 @@
 
             // Charger les questions au démarrage
             useEffect(() => {
+                console.log('=== USEEFFECT DÉCLENCHÉ ===');
                 fetchQuestionsFromJSON();
             }, []);
 
@@ -458,4 +473,3 @@
     </script>
 </body>
 </html>
-
