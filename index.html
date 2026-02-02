@@ -96,6 +96,28 @@
             const [error, setError] = useState(null);
             const [answers, setAnswers] = useState([]);
             const [totalQuestions, setTotalQuestions] = useState(0);
+            const [quizAlreadyCompleted, setQuizAlreadyCompleted] = useState(false);
+
+            // Vérifier si le quiz a déjà été complété aujourd'hui
+            const checkIfQuizCompleted = () => {
+                const today = new Date();
+                const dateKey = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
+                const completedKey = `quiz-completed-${dateKey}`;
+                
+                const completed = localStorage.getItem(completedKey);
+                if (completed === 'true') {
+                    setQuizAlreadyCompleted(true);
+                    // Récupérer le score sauvegardé
+                    const savedScore = localStorage.getItem(`quiz-score-${dateKey}`);
+                    const savedAnswers = localStorage.getItem(`quiz-answers-${dateKey}`);
+                    if (savedScore) setScore(parseInt(savedScore));
+                    if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
+                    setQuizCompleted(true);
+                    setLoading(false);
+                    return true;
+                }
+                return false;
+            };
 
             console.log('États initialisés');
 
@@ -114,6 +136,12 @@
                 try {
                     setLoading(true);
                     setError(null);
+                    
+                    // Vérifier si le quiz a déjà été fait aujourd'hui
+                    if (checkIfQuizCompleted()) {
+                        console.log('⚠️ Quiz déjà complété aujourd\'hui');
+                        return;
+                    }
                     
                     // Récupérer la date du jour
                     const today = new Date();
@@ -248,10 +276,25 @@
                     setShowResult(false);
                 } else {
                     setQuizCompleted(true);
+                    
+                    // Sauvegarder la complétion du quiz pour aujourd'hui
+                    const today = new Date();
+                    const dateKey = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
+                    localStorage.setItem(`quiz-completed-${dateKey}`, 'true');
+                    localStorage.setItem(`quiz-score-${dateKey}`, score.toString());
+                    localStorage.setItem(`quiz-answers-${dateKey}`, JSON.stringify(answers));
+                    
+                    console.log('✅ Quiz complété et sauvegardé pour aujourd\'hui');
                 }
             };
 
             const resetQuiz = () => {
+                // Ne pas permettre de refaire le quiz si déjà complété aujourd'hui
+                if (quizAlreadyCompleted) {
+                    alert('❌ Vous avez déjà complété le quiz d\'aujourd\'hui ! Revenez demain pour un nouveau quiz.');
+                    return;
+                }
+                
                 setCurrentQuestion(0);
                 setSelectedAnswer(null);
                 setShowResult(false);
@@ -459,7 +502,9 @@
                                     </p>
                                 </div>
                                 <p className="text-gray-600 mb-6">
-                                    Revenez demain pour 10 nouvelles questions !
+                                    {quizAlreadyCompleted 
+                                        ? "Vous avez déjà fait le quiz aujourd'hui ! Revenez demain pour de nouvelles questions."
+                                        : "Revenez demain pour 10 nouvelles questions !"}
                                 </p>
                                 <div className="flex flex-col sm:flex-row gap-3 justify-center">
                                     <button
@@ -469,12 +514,14 @@
                                         <Share2 />
                                         Partager mon score
                                     </button>
-                                    <button
-                                        onClick={resetQuiz}
-                                        className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200"
-                                    >
-                                        Refaire le quiz du jour
-                                    </button>
+                                    {!quizAlreadyCompleted && (
+                                        <button
+                                            onClick={resetQuiz}
+                                            className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200"
+                                        >
+                                            Refaire le quiz du jour
+                                        </button>
+                                    )}
                                 </div>
                             </div>
                         )}
