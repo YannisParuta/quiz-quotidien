@@ -106,14 +106,14 @@
                 
                 const completed = localStorage.getItem(completedKey);
                 if (completed === 'true') {
+                    console.log('⚠️ Quiz déjà complété aujourd\'hui');
                     setQuizAlreadyCompleted(true);
-                    // Récupérer le score sauvegardé
+                    // Récupérer le score et les réponses sauvegardés
                     const savedScore = localStorage.getItem(`quiz-score-${dateKey}`);
                     const savedAnswers = localStorage.getItem(`quiz-answers-${dateKey}`);
                     if (savedScore) setScore(parseInt(savedScore));
                     if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
                     setQuizCompleted(true);
-                    setLoading(false);
                     return true;
                 }
                 return false;
@@ -137,15 +137,12 @@
                     setLoading(true);
                     setError(null);
                     
-                    // Vérifier si le quiz a déjà été fait aujourd'hui
-                    if (checkIfQuizCompleted()) {
-                        console.log('⚠️ Quiz déjà complété aujourd\'hui');
-                        return;
-                    }
-                    
                     // Récupérer la date du jour
                     const today = new Date();
                     const dateKey = `quiz-${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
+                    
+                    // Vérifier si le quiz a déjà été fait aujourd'hui
+                    const alreadyCompleted = checkIfQuizCompleted();
                     
                     // ============================================
                     // ÉTAPE 1 : Vérifier le cache localStorage
