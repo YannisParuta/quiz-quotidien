@@ -439,6 +439,116 @@
       ],
       "correctAnswer": 2,
       "category": "Cinéma"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1990"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel est l'élément chimique dont le symbole est Fe ?",
+      "options": [
+        "Fluor",
+        "Fer",
+        "Phosphore",
+        "Francium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Pablo Picasso",
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 2,
+      "category": "Art"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Edgar Allan Poe",
+        "Arthur Conan Doyle",
+        "Charles Dickens"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros",
+        "Hippopotame",
+        "Girafe",
+        "Éléphant d'Afrique"
+      ],
+      "correctAnswer": 3,
+      "category": "Nature"
+    },
+    {
+      "question": "Que vaut π (pi) approximativement ?",
+      "options": [
+        "2,14",
+        "3,14",
+        "4,14",
+        "1,41"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
+      "options": [
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quelle entreprise a développé le système d'exploitation Android ?",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Samsung",
+        "Google"
+      ],
+      "correctAnswer": 3,
+      "category": "Technologie"
     }
   ]
 }
