@@ -12,11 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
       - name: Call Vercel API to generate questions
         run: |
           echo "🤖 Appel de l'API pour générer 10 questions..."
@@ -32,6 +27,14 @@ jobs:
           fi
           
           echo "✅ Questions générées avec succès"
+          echo "⏳ Attente de 10 secondes pour que GitHub synchronise..."
+          sleep 10
+      
+      - name: Checkout repository (après génération)
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
       
       - name: Increment quiz version in index.html
         run: |
@@ -56,38 +59,37 @@ jobs:
           
           # Vérifier s'il y a des changements
           if git diff --quiet index.html; then
-            echo "Aucun changement à commiter"
-          else
-            # Pull les derniers changements (questions.json a pu être modifié par l'API)
-            git pull --rebase origin main
-            
-            git add index.html
-            git commit -m "🤖 Auto: Incrémentation version quiz + nouvelles questions - $(date +'%Y-%m-%d')"
-            
-            # Push avec retry en cas de conflit
-            max_attempts=3
-            attempt=1
-            until git push origin main || [ $attempt -eq $max_attempts ]; do
-              echo "⚠️ Push échoué, tentative $attempt/$max_attempts..."
-              git pull --rebase origin main
-              attempt=$((attempt + 1))
-              sleep 2
-            done
-            
-            if [ $attempt -eq $max_attempts ]; then
-              echo "❌ Impossible de push après $max_attempts tentatives"
-              exit 1
-            fi
-            
-            echo "✅ Changements poussés sur GitHub"
+            echo "⚠️ Aucun changement détecté dans index.html"
+            exit 0
           fi
+          
+          # Ajouter et commiter
+          git add index.html
+          git commit -m "🤖 Auto: Incrémentation version quiz (v$new_version) - $(date +'%Y-%m-%d')"
+          
+          # Push avec gestion des conflits
+          echo "📤 Push des changements..."
+          for i in {1..5}; do
+            if git push origin main; then
+              echo "✅ Push réussi"
+              exit 0
+            else
+              echo "⚠️ Tentative $i échouée, pull et retry..."
+              git pull --rebase origin main
+              sleep 3
+            fi
+          done
+          
+          echo "❌ Impossible de pusher après 5 tentatives"
+          exit 1
       
       - name: Summary
+        if: success()
         run: |
           echo "### ✅ Génération quotidienne terminée" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "- 10 nouvelles questions ajoutées" >> $GITHUB_STEP_SUMMARY
-          echo "- Version du quiz incrémentée" >> $GITHUB_STEP_SUMMARY
-          echo "- Cache utilisateurs sera vidé automatiquement" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ 10 nouvelles questions ajoutées" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ Version du quiz incrémentée" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ Cache utilisateurs sera vidé automatiquement" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "Date: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "📅 Date: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
