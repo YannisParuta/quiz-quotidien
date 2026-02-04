@@ -549,6 +549,116 @@
       ],
       "correctAnswer": 3,
       "category": "Technologie"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Paul Cézanne"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Combien d'équipes participent à la Coupe du Monde de football ?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "36"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Edgar Allan Poe",
+        "Arthur Conan Doyle",
+        "Jules Verne"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros blanc",
+        "Hippopotame",
+        "Girafe",
+        "Éléphant d'Afrique"
+      ],
+      "correctAnswer": 3,
+      "category": "Nature"
+    },
+    {
+      "question": "Combien vaut π (pi) approximativement ?",
+      "options": [
+        "3,14",
+        "2,71",
+        "1,61",
+        "4,20"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "David Lynch"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quel réseau social a été lancé en premier ?",
+      "options": [
+        "Facebook",
+        "Twitter",
+        "MySpace",
+        "LinkedIn"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie"
     }
   ]
 }
