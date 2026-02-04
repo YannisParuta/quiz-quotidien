@@ -58,9 +58,27 @@ jobs:
           if git diff --quiet index.html; then
             echo "Aucun changement à commiter"
           else
+            # Pull les derniers changements (questions.json a pu être modifié par l'API)
+            git pull --rebase origin main
+            
             git add index.html
             git commit -m "🤖 Auto: Incrémentation version quiz + nouvelles questions - $(date +'%Y-%m-%d')"
-            git push
+            
+            # Push avec retry en cas de conflit
+            max_attempts=3
+            attempt=1
+            until git push origin main || [ $attempt -eq $max_attempts ]; do
+              echo "⚠️ Push échoué, tentative $attempt/$max_attempts..."
+              git pull --rebase origin main
+              attempt=$((attempt + 1))
+              sleep 2
+            done
+            
+            if [ $attempt -eq $max_attempts ]; then
+              echo "❌ Impossible de push après $max_attempts tentatives"
+              exit 1
+            fi
+            
             echo "✅ Changements poussés sur GitHub"
           fi
       
