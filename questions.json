@@ -2144,6 +2144,116 @@
       ],
       "correctAnswer": 1,
       "category": "Cinéma"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a écrit le roman '1984' ?",
+      "options": [
+        "Aldous Huxley",
+        "George Orwell",
+        "Ray Bradbury",
+        "H.G. Wells"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Dans quel sport Michael Jordan s'est-il illustré ?",
+      "options": [
+        "Football américain",
+        "Baseball",
+        "Basketball",
+        "Tennis"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel peintre a créé 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Salvador Dalí"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Combien font 7 au carré ?",
+      "options": [
+        "42",
+        "49",
+        "56",
+        "35"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quel mammifère marin peut retenir sa respiration le plus longtemps ?",
+      "options": [
+        "Baleine bleue",
+        "Orque",
+        "Cachalot",
+        "Dauphin"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Quel compositeur a écrit 'La Flûte enchantée' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique"
+    },
+    {
+      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
+      "options": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "C++"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie"
     }
   ]
 }
