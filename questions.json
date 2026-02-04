@@ -1,184 +1,554 @@
 {
   "questions": [
-    {"question": "Quelle est la capitale de la France ?", "options": ["Paris", "Lyon", "Marseille", "Toulouse"], "correctAnswer": 0, "category": "Géographie"},
-    {"question": "Combien de continents y a-t-il sur Terre ?", "options": ["5", "6", "7", "8"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Qui a peint la Joconde ?", "options": ["Van Gogh", "Picasso", "Léonard de Vinci", "Monet"], "correctAnswer": 2, "category": "Art"},
-    {"question": "Quelle planète est la plus proche du Soleil ?", "options": ["Vénus", "Mars", "Mercure", "Terre"], "correctAnswer": 2, "category": "Science"},
-    {"question": "En quelle année l'homme a-t-il marché sur la Lune ?", "options": ["1965", "1969", "1972", "1975"], "correctAnswer": 1, "category": "Histoire"},
-    {"question": "Quel est le plus grand océan du monde ?", "options": ["Atlantique", "Indien", "Arctique", "Pacifique"], "correctAnswer": 3, "category": "Géographie"},
-    {"question": "Combien de joueurs composent une équipe de football ?", "options": ["9", "10", "11", "12"], "correctAnswer": 2, "category": "Sport"},
-    {"question": "Quelle est la langue la plus parlée au monde ?", "options": ["Anglais", "Mandarin", "Espagnol", "Hindi"], "correctAnswer": 1, "category": "Culture"},
-    {"question": "Quel élément chimique a pour symbole O ?", "options": ["Or", "Oxygène", "Osmium", "Oganesson"], "correctAnswer": 1, "category": "Science"},
-    {"question": "Qui a écrit Les Misérables ?", "options": ["Victor Hugo", "Émile Zola", "Gustave Flaubert", "Balzac"], "correctAnswer": 0, "category": "Littérature"},
-    
-    {"question": "Quelle est la vitesse de la lumière dans le vide ?", "options": ["300 000 km/s", "150 000 km/s", "450 000 km/s", "200 000 km/s"], "correctAnswer": 0, "category": "Science"},
-    {"question": "Combien d'os possède le corps humain adulte ?", "options": ["186", "206", "226", "246"], "correctAnswer": 1, "category": "Science"},
-    {"question": "Quelle est la plus haute montagne du monde ?", "options": ["K2", "Mont Blanc", "Everest", "Kilimandjaro"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Quel est le plus petit pays du monde ?", "options": ["Monaco", "Vatican", "Saint-Marin", "Liechtenstein"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "En quelle année a eu lieu la Révolution française ?", "options": ["1789", "1799", "1815", "1776"], "correctAnswer": 0, "category": "Histoire"},
-    {"question": "Quel est l'animal terrestre le plus rapide ?", "options": ["Lion", "Guépard", "Antilope", "Cheval"], "correctAnswer": 1, "category": "Nature"},
-    {"question": "Combien de touches a un piano standard ?", "options": ["76", "88", "96", "100"], "correctAnswer": 1, "category": "Musique"},
-    {"question": "Quelle est la monnaie du Japon ?", "options": ["Yuan", "Won", "Yen", "Ringgit"], "correctAnswer": 2, "category": "Culture"},
-    {"question": "Qui a découvert la pénicilline ?", "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Robert Koch"], "correctAnswer": 1, "category": "Science"},
-    {"question": "Quel est le plus long fleuve du monde ?", "options": ["Amazone", "Nil", "Yangtsé", "Mississippi"], "correctAnswer": 1, "category": "Géographie"},
-    
-    {"question": "Combien de dents a un adulte humain ?", "options": ["28", "30", "32", "34"], "correctAnswer": 2, "category": "Science"},
-    {"question": "Dans quel pays a été inventée la pizza ?", "options": ["France", "Italie", "Grèce", "Espagne"], "correctAnswer": 1, "category": "Culture"},
-    {"question": "Quelle est la capitale de l'Espagne ?", "options": ["Barcelone", "Madrid", "Séville", "Valence"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Combien de cordes a une guitare classique ?", "options": ["4", "5", "6", "7"], "correctAnswer": 2, "category": "Musique"},
-    {"question": "Quel est le symbole chimique de l'or ?", "options": ["Or", "Au", "Ag", "Go"], "correctAnswer": 1, "category": "Science"},
-    {"question": "Qui a inventé l'ampoule électrique ?", "options": ["Tesla", "Edison", "Einstein", "Bell"], "correctAnswer": 1, "category": "Histoire"},
-    {"question": "Combien de côtés a un hexagone ?", "options": ["5", "6", "7", "8"], "correctAnswer": 1, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale de l'Italie ?", "options": ["Milan", "Rome", "Venise", "Florence"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Quel organe pompe le sang dans le corps humain ?", "options": ["Foie", "Poumons", "Cœur", "Reins"], "correctAnswer": 2, "category": "Science"},
-    {"question": "Combien de pattes a une araignée ?", "options": ["6", "8", "10", "12"], "correctAnswer": 1, "category": "Nature"},
-    
-    {"question": "Quelle est la capitale de l'Allemagne ?", "options": ["Munich", "Hambourg", "Berlin", "Francfort"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Qui a écrit Roméo et Juliette ?", "options": ["Molière", "Shakespeare", "Racine", "Corneille"], "correctAnswer": 1, "category": "Littérature"},
-    {"question": "Combien de minutes y a-t-il dans une heure ?", "options": ["50", "60", "70", "80"], "correctAnswer": 1, "category": "Mathématiques"},
-    {"question": "Quelle planète est surnommée la planète rouge ?", "options": ["Vénus", "Mars", "Jupiter", "Saturne"], "correctAnswer": 1, "category": "Science"},
-    {"question": "Quel est le plus grand désert du monde ?", "options": ["Sahara", "Gobi", "Antarctique", "Arabie"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Combien de jours compte une année bissextile ?", "options": ["364", "365", "366", "367"], "correctAnswer": 2, "category": "Culture"},
-    {"question": "Quelle est la capitale du Canada ?", "options": ["Toronto", "Montréal", "Vancouver", "Ottawa"], "correctAnswer": 3, "category": "Géographie"},
-    {"question": "Qui a peint La Nuit étoilée ?", "options": ["Monet", "Van Gogh", "Renoir", "Cézanne"], "correctAnswer": 1, "category": "Art"},
-    {"question": "Combien de couleurs y a-t-il dans un arc-en-ciel ?", "options": ["5", "6", "7", "8"], "correctAnswer": 2, "category": "Science"},
-    {"question": "Quel est le plus petit océan du monde ?", "options": ["Indien", "Arctique", "Atlantique", "Pacifique"], "correctAnswer": 1, "category": "Géographie"},
-    
-    {"question": "Qui a composé La Symphonie n°5 ?", "options": ["Mozart", "Beethoven", "Bach", "Vivaldi"], "correctAnswer": 1, "category": "Musique"},
-    {"question": "Combien de secondes y a-t-il dans une minute ?", "options": ["50", "60", "70", "100"], "correctAnswer": 1, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale de la Chine ?", "options": ["Shanghai", "Pékin", "Hong Kong", "Canton"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Quel gaz respirons-nous principalement ?", "options": ["Oxygène", "Azote", "Dioxyde de carbone", "Hydrogène"], "correctAnswer": 1, "category": "Science"},
-    {"question": "Combien de faces a un cube ?", "options": ["4", "6", "8", "12"], "correctAnswer": 1, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale du Royaume-Uni ?", "options": ["Manchester", "Liverpool", "Londres", "Édimbourg"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Qui a découvert l'Amérique en 1492 ?", "options": ["Magellan", "Vasco de Gama", "Christophe Colomb", "Amerigo Vespucci"], "correctAnswer": 2, "category": "Histoire"},
-    {"question": "Combien de côtés a un triangle ?", "options": ["2", "3", "4", "5"], "correctAnswer": 1, "category": "Mathématiques"},
-    {"question": "Quelle est la monnaie de l'Union européenne ?", "options": ["Dollar", "Livre", "Euro", "Franc"], "correctAnswer": 2, "category": "Culture"},
-    {"question": "Quel animal est considéré comme le roi de la jungle ?", "options": ["Tigre", "Lion", "Éléphant", "Gorille"], "correctAnswer": 1, "category": "Nature"},
-    
-    {"question": "Combien de semaines compte une année ?", "options": ["50", "52", "54", "56"], "correctAnswer": 1, "category": "Culture"},
-    {"question": "Quelle est la capitale de la Russie ?", "options": ["Saint-Pétersbourg", "Moscou", "Kiev", "Minsk"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a écrit Le Petit Prince ?", "options": ["Jules Verne", "Albert Camus", "Antoine de Saint-Exupéry", "Marcel Pagnol"], "correctAnswer": 2, "category": "Littérature"},
-    {"question": "Combien de saisons y a-t-il dans une année ?", "options": ["2", "3", "4", "5"], "correctAnswer": 2, "category": "Culture"},
-    {"question": "Quelle est la capitale de l'Australie ?", "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Quel est le plus grand mammifère du monde ?", "options": ["Éléphant", "Girafe", "Baleine bleue", "Ours polaire"], "correctAnswer": 2, "category": "Nature"},
-    {"question": "Combien de mois compte une année ?", "options": ["10", "12", "14", "16"], "correctAnswer": 1, "category": "Culture"},
-    {"question": "Quelle est la capitale du Brésil ?", "options": ["Rio de Janeiro", "São Paulo", "Brasilia", "Salvador"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Qui a inventé le téléphone ?", "options": ["Edison", "Bell", "Tesla", "Morse"], "correctAnswer": 1, "category": "Histoire"},
-    {"question": "Combien de zéros y a-t-il dans un million ?", "options": ["4", "5", "6", "7"], "correctAnswer": 2, "category": "Mathématiques"},
-    
-    {"question": "Quelle est la capitale de l'Égypte ?", "options": ["Alexandrie", "Le Caire", "Louxor", "Assouan"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Quel est le symbole chimique du fer ?", "options": ["F", "Fe", "Fr", "Fm"], "correctAnswer": 1, "category": "Science"},
-    {"question": "Combien de joueurs y a-t-il dans une équipe de basket ?", "options": ["4", "5", "6", "7"], "correctAnswer": 1, "category": "Sport"},
-    {"question": "Quelle est la capitale de la Suisse ?", "options": ["Zurich", "Genève", "Berne", "Lausanne"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Qui a écrit 1984 ?", "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Philip K. Dick"], "correctAnswer": 1, "category": "Littérature"},
-    {"question": "Quel est le plus grand pays du monde par superficie ?", "options": ["Canada", "Chine", "Russie", "États-Unis"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Combien de calories y a-t-il approximativement dans un gramme de lipides ?", "options": ["4", "7", "9", "11"], "correctAnswer": 2, "category": "Science"},
-    {"question": "Quelle est la monnaie du Royaume-Uni ?", "options": ["Euro", "Livre sterling", "Dollar", "Couronne"], "correctAnswer": 1, "category": "Culture"},
-    {"question": "Qui a peint La Création d'Adam au plafond de la Chapelle Sixtine ?", "options": ["Léonard de Vinci", "Michel-Ange", "Raphaël", "Le Caravage"], "correctAnswer": 1, "category": "Art"},
-    {"question": "Combien de valves a une trompette standard ?", "options": ["2", "3", "4", "5"], "correctAnswer": 1, "category": "Musique"},
-    
-    {"question": "Quelle est la capitale de la Norvège ?", "options": ["Stockholm", "Helsinki", "Oslo", "Copenhague"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Quel est le plus grand organe du corps humain ?", "options": ["Le foie", "Les poumons", "La peau", "Le cerveau"], "correctAnswer": 2, "category": "Science"},
-    {"question": "En quelle année a eu lieu la chute du mur de Berlin ?", "options": ["1987", "1989", "1991", "1993"], "correctAnswer": 1, "category": "Histoire"},
-    {"question": "Combien de joueurs y a-t-il sur un terrain de volley-ball par équipe ?", "options": ["5", "6", "7", "8"], "correctAnswer": 1, "category": "Sport"},
-    {"question": "Quelle est la capitale de la Suède ?", "options": ["Oslo", "Stockholm", "Copenhague", "Helsinki"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a écrit L'Odyssée ?", "options": ["Virgile", "Homère", "Sophocle", "Euripide"], "correctAnswer": 1, "category": "Littérature"},
-    {"question": "Quel est le symbole chimique du sodium ?", "options": ["S", "So", "Na", "Sd"], "correctAnswer": 2, "category": "Science"},
-    {"question": "Combien de côtés a un octogone ?", "options": ["6", "7", "8", "9"], "correctAnswer": 2, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale du Portugal ?", "options": ["Porto", "Lisbonne", "Faro", "Braga"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a composé Les Quatre Saisons ?", "options": ["Bach", "Mozart", "Vivaldi", "Haendel"], "correctAnswer": 2, "category": "Musique"},
-    
-    {"question": "Quel est le plus petit os du corps humain ?", "options": ["L'étrier", "Le marteau", "L'enclume", "La rotule"], "correctAnswer": 0, "category": "Science"},
-    {"question": "En quelle année a été inventée l'imprimerie par Gutenberg ?", "options": ["1440", "1450", "1460", "1470"], "correctAnswer": 1, "category": "Histoire"},
-    {"question": "Combien de temps met la Terre pour faire un tour complet autour du Soleil ?", "options": ["365 jours", "366 jours", "364 jours", "360 jours"], "correctAnswer": 0, "category": "Science"},
-    {"question": "Quelle est la capitale de l'Autriche ?", "options": ["Prague", "Budapest", "Vienne", "Bratislava"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Qui a écrit Le Comte de Monte-Cristo ?", "options": ["Victor Hugo", "Alexandre Dumas", "Honoré de Balzac", "Stendhal"], "correctAnswer": 1, "category": "Littérature"},
-    {"question": "Quel est le symbole chimique de l'argent ?", "options": ["Ar", "Ag", "Au", "Al"], "correctAnswer": 1, "category": "Science"},
-    {"question": "Combien de grammes y a-t-il dans un kilogramme ?", "options": ["100", "500", "1000", "10000"], "correctAnswer": 2, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale des Pays-Bas ?", "options": ["Rotterdam", "Amsterdam", "La Haye", "Utrecht"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a peint Les Tournesols ?", "options": ["Monet", "Van Gogh", "Gauguin", "Cézanne"], "correctAnswer": 1, "category": "Art"},
-    {"question": "Combien de notes y a-t-il dans une gamme majeure ?", "options": ["5", "6", "7", "8"], "correctAnswer": 2, "category": "Musique"},
-    
-    {"question": "Quelle est la température d'ébullition de l'eau au niveau de la mer ?", "options": ["90°C", "95°C", "100°C", "105°C"], "correctAnswer": 2, "category": "Science"},
-    {"question": "En quelle année Napoléon Bonaparte est-il devenu empereur ?", "options": ["1799", "1802", "1804", "1806"], "correctAnswer": 2, "category": "Histoire"},
-    {"question": "Combien de Grand Chelems y a-t-il dans le tennis ?", "options": ["3", "4", "5", "6"], "correctAnswer": 1, "category": "Sport"},
-    {"question": "Quelle est la capitale de la Belgique ?", "options": ["Bruges", "Anvers", "Bruxelles", "Gand"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Qui a écrit Don Quichotte ?", "options": ["Lope de Vega", "Cervantes", "Calderón", "Góngora"], "correctAnswer": 1, "category": "Littérature"},
-    {"question": "Quel est le symbole chimique du cuivre ?", "options": ["C", "Co", "Cu", "Cp"], "correctAnswer": 2, "category": "Science"},
-    {"question": "Combien font 12 fois 12 ?", "options": ["124", "134", "144", "154"], "correctAnswer": 2, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale de la Pologne ?", "options": ["Cracovie", "Varsovie", "Gdansk", "Wroclaw"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a découvert la radioactivité ?", "options": ["Einstein", "Curie", "Becquerel", "Rutherford"], "correctAnswer": 2, "category": "Science"},
-    {"question": "Quel est le symbole chimique du plomb ?", "options": ["Pl", "Pb", "Po", "Pm"], "correctAnswer": 1, "category": "Science"},
-    
-    {"question": "Quelle est la capitale de la Grèce ?", "options": ["Thessalonique", "Athènes", "Patras", "Héraklion"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a écrit Candide ?", "options": ["Rousseau", "Voltaire", "Diderot", "Montesquieu"], "correctAnswer": 1, "category": "Littérature"},
-    {"question": "Combien de cm y a-t-il dans un mètre ?", "options": ["10", "50", "100", "1000"], "correctAnswer": 2, "category": "Mathématiques"},
-    {"question": "Quel est le plus grand lac du monde ?", "options": ["Lac Supérieur", "Lac Victoria", "Mer Caspienne", "Lac Baïkal"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Qui a peint Guernica ?", "options": ["Dalí", "Picasso", "Miró", "Goya"], "correctAnswer": 1, "category": "Art"},
-    {"question": "Quelle est la formule chimique de l'eau ?", "options": ["H2O", "CO2", "O2", "H2O2"], "correctAnswer": 0, "category": "Science"},
-    {"question": "En quelle année a débuté la Première Guerre mondiale ?", "options": ["1912", "1914", "1916", "1918"], "correctAnswer": 1, "category": "Histoire"},
-    {"question": "Combien de points vaut un essai au rugby ?", "options": ["3", "4", "5", "7"], "correctAnswer": 2, "category": "Sport"},
-    {"question": "Quelle est la capitale de la Finlande ?", "options": ["Stockholm", "Oslo", "Helsinki", "Copenhague"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Qui a écrit Les Trois Mousquetaires ?", "options": ["Victor Hugo", "Alexandre Dumas", "Jules Verne", "Émile Zola"], "correctAnswer": 1, "category": "Littérature"},
-    
-    {"question": "Quel est le symbole chimique du mercure ?", "options": ["Me", "Mc", "Hg", "Mr"], "correctAnswer": 2, "category": "Science"},
-    {"question": "Combien de degrés y a-t-il dans un angle droit ?", "options": ["45", "60", "90", "180"], "correctAnswer": 2, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale du Danemark ?", "options": ["Oslo", "Stockholm", "Copenhague", "Helsinki"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Qui a composé La Flûte enchantée ?", "options": ["Beethoven", "Mozart", "Haydn", "Bach"], "correctAnswer": 1, "category": "Musique"},
-    {"question": "Quel est le plus profond océan du monde ?", "options": ["Atlantique", "Indien", "Arctique", "Pacifique"], "correctAnswer": 3, "category": "Géographie"},
-    {"question": "Qui a écrit Madame Bovary ?", "options": ["Balzac", "Flaubert", "Zola", "Maupassant"], "correctAnswer": 1, "category": "Littérature"},
-    {"question": "Quel est le symbole chimique du zinc ?", "options": ["Zi", "Zc", "Zn", "Z"], "correctAnswer": 2, "category": "Science"},
-    {"question": "Combien de millimètres y a-t-il dans un centimètre ?", "options": ["5", "10", "50", "100"], "correctAnswer": 1, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale de l'Irlande ?", "options": ["Belfast", "Dublin", "Cork", "Galway"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a peint Le Déjeuner sur l'herbe ?", "options": ["Monet", "Manet", "Renoir", "Degas"], "correctAnswer": 1, "category": "Art"},
-    
-    {"question": "Quelle est la température de congélation de l'eau ?", "options": ["-10°C", "0°C", "5°C", "10°C"], "correctAnswer": 1, "category": "Science"},
-    {"question": "En quelle année a eu lieu la Révolution russe ?", "options": ["1905", "1917", "1920", "1925"], "correctAnswer": 1, "category": "Histoire"},
-    {"question": "Combien de sets faut-il gagner pour remporter un match de tennis masculin en Grand Chelem ?", "options": ["2", "3", "4", "5"], "correctAnswer": 1, "category": "Sport"},
-    {"question": "Quelle est la capitale de la Hongrie ?", "options": ["Prague", "Budapest", "Bucarest", "Bratislava"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a écrit Germinal ?", "options": ["Victor Hugo", "Émile Zola", "Gustave Flaubert", "Guy de Maupassant"], "correctAnswer": 1, "category": "Littérature"},
-    {"question": "Quel est le symbole chimique du potassium ?", "options": ["P", "Po", "K", "Pt"], "correctAnswer": 2, "category": "Science"},
-    {"question": "Combien de côtés a un pentagone ?", "options": ["4", "5", "6", "7"], "correctAnswer": 1, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale de la République tchèque ?", "options": ["Bratislava", "Prague", "Budapest", "Varsovie"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a composé Le Lac des cygnes ?", "options": ["Stravinsky", "Tchaïkovski", "Rachmaninov", "Prokofiev"], "correctAnswer": 1, "category": "Musique"},
-    {"question": "Quel est le plus grand organe interne du corps humain ?", "options": ["Le cœur", "Le foie", "Les poumons", "L'estomac"], "correctAnswer": 1, "category": "Science"},
-    
-    {"question": "En quelle année a pris fin la Seconde Guerre mondiale ?", "options": ["1943", "1944", "1945", "1946"], "correctAnswer": 2, "category": "Histoire"},
-    {"question": "Combien de manches y a-t-il dans un match de baseball professionnel ?", "options": ["7", "8", "9", "10"], "correctAnswer": 2, "category": "Sport"},
-    {"question": "Quelle est la capitale de la Croatie ?", "options": ["Belgrade", "Zagreb", "Ljubljana", "Sarajevo"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a écrit Le Rouge et le Noir ?", "options": ["Balzac", "Stendhal", "Flaubert", "Zola"], "correctAnswer": 1, "category": "Littérature"},
-    {"question": "Quel est le symbole chimique du calcium ?", "options": ["C", "Ca", "Cl", "Cm"], "correctAnswer": 1, "category": "Science"},
-    {"question": "Combien font 15 plus 27 ?", "options": ["40", "41", "42", "43"], "correctAnswer": 2, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale de la Roumanie ?", "options": ["Budapest", "Bucarest", "Sofia", "Belgrade"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a peint Les Demoiselles d'Avignon ?", "options": ["Matisse", "Picasso", "Braque", "Léger"], "correctAnswer": 1, "category": "Art"},
-    {"question": "Combien de chromosomes possède un être humain ?", "options": ["23", "44", "46", "48"], "correctAnswer": 2, "category": "Science"},
-    {"question": "En quelle année l'euro a-t-il été mis en circulation ?", "options": ["1999", "2000", "2001", "2002"], "correctAnswer": 3, "category": "Histoire"},
-    
-    {"question": "Combien de quilles y a-t-il au bowling ?", "options": ["8", "9", "10", "12"], "correctAnswer": 2, "category": "Sport"},
-    {"question": "Quelle est la capitale de la Slovaquie ?", "options": ["Prague", "Budapest", "Bratislava", "Vienne"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Qui a écrit À la recherche du temps perdu ?", "options": ["Marcel Proust", "André Gide", "Paul Valéry", "Louis Aragon"], "correctAnswer": 0, "category": "Littérature"},
-    {"question": "Quel est le symbole chimique de l'hélium ?", "options": ["H", "He", "Hl", "Ho"], "correctAnswer": 1, "category": "Science"},
-    {"question": "Combien de degrés y a-t-il dans un cercle complet ?", "options": ["180", "270", "360", "540"], "correctAnswer": 2, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale de la Nouvelle-Zélande ?", "options": ["Auckland", "Wellington", "Christchurch", "Hamilton"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a composé Carmen ?", "options": ["Verdi", "Bizet", "Puccini", "Wagner"], "correctAnswer": 1, "category": "Musique"},
-    {"question": "Quel est le plus haut volcan actif d'Europe ?", "options": ["Vésuve", "Etna", "Stromboli", "Santorin"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a écrit L'Étranger ?", "options": ["Sartre", "Camus", "Malraux", "Céline"], "correctAnswer": 1, "category": "Littérature"},
-    {"question": "Quel est le symbole chimique de l'azote ?", "options": ["Az", "A", "N", "Nt"], "correctAnswer": 2, "category": "Science"},
-    {"question": "Combien font 8 fois 7 ?", "options": ["54", "55", "56", "57"], "correctAnswer": 2, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale de l'Argentine ?", "options": ["Santiago", "Buenos Aires", "Montevideo", "Lima"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a peint La Liberté guidant le peuple ?", "options": ["Géricault", "Delacroix", "Ingres", "David"], "correctAnswer": 1, "category": "Art"},
-    {"question": "Quelle est la planète la plus grande du système solaire ?", "options": ["Saturne", "Jupiter", "Neptune", "Uranus"], "correctAnswer": 1, "category": "Science"},
-    {"question": "En quelle année a eu lieu le débarquement en Normandie ?", "options": ["1942", "1943", "1944", "1945"], "correctAnswer": 2, "category": "Histoire"},
-    
-    {"question": "Combien de rounds y a-t-il dans un combat de boxe professionnel ?", "options": ["10", "12", "15", "20"], "correctAnswer": 1, "category": "Sport"},
-    {"question": "Quelle est la capitale du Chili ?", "options": ["Buenos Aires", "Santiago", "Lima", "Bogota"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a écrit Notre-Dame de Paris ?", "options": ["Balzac", "Hugo", "Dumas", "Sand"], "correctAnswer": 1, "category": "Littérature"},
-    {"question": "Quel est le symbole chimique du chlore ?", "options": ["C", "Ch", "Cl", "Cr"], "correctAnswer": 2, "category": "Science"},
-    {"question": "Combien de secondes y a-t-il dans une heure ?", "options": ["1800", "3000", "3600", "6000"], "correctAnswer": 2, "category": "Mathématiques"},
-    {"question": "Quelle est la capitale du Mexique ?", "options": ["Guadalajara", "Monterrey", "Mexico", "Tijuana"], "correctAnswer": 2, "category": "Géographie"},
-    {"question": "Qui a composé La Traviata ?", "options": ["Puccini", "Verdi", "Rossini", "Donizetti"], "correctAnswer": 1, "category": "Musique"},
-    {"question": "Quel est le plus grand pays d'Afrique par superficie ?", "options": ["Congo", "Algérie", "Soudan", "Libye"], "correctAnswer": 1, "category": "Géographie"},
-    {"question": "Qui a écrit Le Père Goriot ?", "options": ["Flaubert", "Balzac", "Stendhal", "Zola"], "correctAnswer": 1, "category": "Littérature"},
-    {"question": "Combien de litres y a-t-il dans un mètre cube ?", "options": ["100", "500", "1000", "10000"], "correctAnswer": 2, "category": "Mathématiques"}
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Combien de cœurs possède une pieuvre ?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 2,
+      "category": "Art"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de rugby à XV sur le terrain ?",
+      "options": [
+        "13",
+        "15",
+        "17",
+        "19"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "L'hippopotame",
+        "Le rhinocéros blanc",
+        "L'éléphant d'Afrique",
+        "L'ours polaire"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Combien vaut la racine carrée de 144 ?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Alexandre Dumas"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Dans quel film trouve-t-on la réplique 'Que la Force soit avec toi' ?",
+      "options": [
+        "Star Trek",
+        "Star Wars",
+        "Blade Runner",
+        "Matrix"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quel compositeur a écrit 'Les Quatre Saisons' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Antonio Vivaldi",
+        "Johann Sebastian Bach"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique"
+    },
+    {
+      "question": "Quelle est la capitale du Canada ?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montréal"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Salvador Dalí"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de basket-ball sur le terrain ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Alexandre Dumas"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros blanc",
+        "Hippopotame",
+        "Girafe",
+        "Éléphant d'Afrique"
+      ],
+      "correctAnswer": 3,
+      "category": "Nature"
+    },
+    {
+      "question": "Combien font 7 × 8 ?",
+      "options": [
+        "54",
+        "56",
+        "58",
+        "64"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Que signifie 'www' dans une adresse web ?",
+      "options": [
+        "World Wide Web",
+        "World Web Wide",
+        "Web World Wide",
+        "Wide World Web"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+      "options": [
+        "Oxygène",
+        "Carbone",
+        "Hélium",
+        "Hydrogène"
+      ],
+      "correctAnswer": 3,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de rugby à XV ?",
+      "options": [
+        "13",
+        "15",
+        "17",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel auteur a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Gustave Flaubert",
+        "Victor Hugo",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros blanc",
+        "Hippopotame",
+        "Éléphant d'Afrique",
+        "Girafe"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Combien font 7 au carré ?",
+      "options": [
+        "42",
+        "49",
+        "56",
+        "35"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Francis Ford Coppola"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
+      "options": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "Ruby"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel auteur a écrit 'L'Étranger' ?",
+      "options": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "André Malraux",
+        "Marcel Proust"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros blanc",
+        "Hippopotame",
+        "Éléphant d'Afrique",
+        "Girafe"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Quelle est la valeur de π (pi) arrondie à deux décimales ?",
+      "options": [
+        "3,14",
+        "3,16",
+        "3,12",
+        "3,18"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Qui a composé 'Les Quatre Saisons' ?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Antonio Vivaldi",
+        "Ludwig van Beethoven"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique"
+    },
+    {
+      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+      "options": [
+        "1917",
+        "Joker",
+        "Parasite",
+        "Once Upon a Time in Hollywood"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1990"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel est l'élément chimique dont le symbole est Fe ?",
+      "options": [
+        "Fluor",
+        "Fer",
+        "Phosphore",
+        "Francium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Pablo Picasso",
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 2,
+      "category": "Art"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Edgar Allan Poe",
+        "Arthur Conan Doyle",
+        "Charles Dickens"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros",
+        "Hippopotame",
+        "Girafe",
+        "Éléphant d'Afrique"
+      ],
+      "correctAnswer": 3,
+      "category": "Nature"
+    },
+    {
+      "question": "Que vaut π (pi) approximativement ?",
+      "options": [
+        "2,14",
+        "3,14",
+        "4,14",
+        "1,41"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
+      "options": [
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quelle entreprise a développé le système d'exploitation Android ?",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Samsung",
+        "Google"
+      ],
+      "correctAnswer": 3,
+      "category": "Technologie"
+    }
   ]
 }

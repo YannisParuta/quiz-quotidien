@@ -14,6 +14,21 @@
     <!-- Babel 7.26.10 — patche CVE-2025-27789 + SRI -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.26.10/babel.min.js" integrity="sha384-BcI7nduYchENm39cFMEVJXHEE7fwHONANyn/pY2YTa+BNtrWF2bKBZeI0wqVithi" crossorigin="anonymous"></script>
     <!-- Tailwind CDN — SRI non applicable (payload dynamique). Migration vers Tailwind CLI recommandée. -->
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XHE708K9TT"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-XHE708K9TT');
+    </script>
+    
+    <!-- Google AdSense - NE PAS ACTIVER AVANT APPROBATION -->
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
@@ -140,6 +155,47 @@
             const [error, setError] = useState(null);
             const [answers, setAnswers] = useState([]);
             const [totalQuestions, setTotalQuestions] = useState(0);
+            const [quizAlreadyCompleted, setQuizAlreadyCompleted] = useState(false);
+            const [showAd, setShowAd] = useState(false);
+
+            // Charger la pub AdSense après la question 5
+            useEffect(() => {
+                if (currentQuestion === 5 && !showResult) {
+                    setShowAd(true);
+                    
+                    // Initialiser AdSense si disponible
+                    try {
+                        if (window.adsbygoogle) {
+                            (window.adsbygoogle = window.adsbygoogle || []).push({});
+                        }
+                    } catch (e) {
+                        console.log('AdSense pas encore chargé');
+                    }
+                } else {
+                    setShowAd(false);
+                }
+            }, [currentQuestion, showResult]);
+
+            // Vérifier si le quiz a déjà été complété aujourd'hui
+            const checkIfQuizCompleted = () => {
+                const today = new Date();
+                const dateKey = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
+                const completedKey = `quiz-completed-${dateKey}`;
+                
+                const completed = localStorage.getItem(completedKey);
+                if (completed === 'true') {
+                    console.log('⚠️ Quiz déjà complété aujourd\'hui');
+                    setQuizAlreadyCompleted(true);
+                    // Récupérer le score et les réponses sauvegardés
+                    const savedScore = localStorage.getItem(`quiz-score-${dateKey}`);
+                    const savedAnswers = localStorage.getItem(`quiz-answers-${dateKey}`);
+                    if (savedScore) setScore(parseInt(savedScore));
+                    if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
+                    setQuizCompleted(true);
+                    return true;
+                }
+                return false;
+            };
 
             /**
              * CHARGEMENT DES QUESTIONS
@@ -155,6 +211,9 @@
                     // Récupérer la date du jour
                     const today = new Date();
                     const dateKey = `quiz-${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
+                    
+                    // Vérifier si le quiz a déjà été fait aujourd'hui
+                    const alreadyCompleted = checkIfQuizCompleted();
                     
                     // ============================================
                     // ÉTAPE 1 : Vérifier le cache localStorage
@@ -201,27 +260,29 @@
                     
                     // ============================================
                     // ÉTAPE 4 : Sélectionner 10 questions du jour
-                    // Basé sur le jour de l'année pour rotation automatique
+                    // Utilise la date comme seed pour un aléatoire reproductible
                     // ============================================
                     
-                    // Calculer l'index de départ basé sur le jour de l'année
-                    const startOfYear = new Date(today.getFullYear(), 0, 0);
-                    const diff = today - startOfYear;
-                    const dayOfYear = Math.floor(diff / 86400000);
+                    // Créer un seed basé sur la date (même seed = mêmes questions)
+                    const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
                     
                     // ============================================
                     // ALERTE : Prévenir quand il reste peu de questions
                     // ============================================
                     // Alerte dev : nombre de jours restants avant rotation complète (pas de log en prod)
+                    // Fonction de shuffle avec seed (pour avoir toujours les mêmes questions par jour)
+                    const seededRandom = (seed) => {
+                        let x = Math.sin(seed++) * 10000;
+                        return x - Math.floor(x);
+                    };
                     
-                    // Sélectionner 10 questions basées sur le jour de l'année
-                    const startIndex = (dayOfYear * 10) % allQuestions.length;
-                    const selectedQuestions = [];
+                    // Mélanger avec le seed du jour
+                    const shuffled = [...allQuestions].sort((a, b) => {
+                        return seededRandom(seed + allQuestions.indexOf(a)) - 0.5;
+                    });
                     
-                    for (let i = 0; i < 10; i++) {
-                        const index = (startIndex + i) % allQuestions.length;
-                        selectedQuestions.push(allQuestions[index]);
-                    }
+                    // Prendre les 10 premières
+                    const selectedQuestions = shuffled.slice(0, 10);
                     
                     // ============================================
                     // ÉTAPE 5 : Sauvegarder en cache pour la journée
@@ -276,10 +337,25 @@
                     setShowResult(false);
                 } else {
                     setQuizCompleted(true);
+                    
+                    // Sauvegarder la complétion du quiz pour aujourd'hui
+                    const today = new Date();
+                    const dateKey = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
+                    localStorage.setItem(`quiz-completed-${dateKey}`, 'true');
+                    localStorage.setItem(`quiz-score-${dateKey}`, score.toString());
+                    localStorage.setItem(`quiz-answers-${dateKey}`, JSON.stringify(answers));
+                    
+                    console.log('✅ Quiz complété et sauvegardé pour aujourd\'hui');
                 }
             };
 
             const resetQuiz = () => {
+                // Ne pas permettre de refaire le quiz si déjà complété aujourd'hui
+                if (quizAlreadyCompleted) {
+                    alert('❌ Vous avez déjà complété le quiz d\'aujourd\'hui ! Revenez demain pour un nouveau quiz.');
+                    return;
+                }
+                
                 setCurrentQuestion(0);
                 setSelectedAnswer(null);
                 setShowResult(false);
@@ -483,7 +559,9 @@
                                     </p>
                                 </div>
                                 <p className="text-gray-600 mb-6">
-                                    Revenez demain pour 10 nouvelles questions !
+                                    {quizAlreadyCompleted 
+                                        ? "Vous avez déjà fait le quiz aujourd'hui ! Revenez demain pour de nouvelles questions."
+                                        : "Revenez demain pour 10 nouvelles questions !"}
                                 </p>
                                 <div className="flex flex-col sm:flex-row gap-3 justify-center">
                                     <button
@@ -493,12 +571,14 @@
                                         <Share2 />
                                         Partager mon score
                                     </button>
-                                    <button
-                                        onClick={resetQuiz}
-                                        className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200"
-                                    >
-                                        Refaire le quiz du jour
-                                    </button>
+                                    {!quizAlreadyCompleted && (
+                                        <button
+                                            onClick={resetQuiz}
+                                            className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200"
+                                        >
+                                            Refaire le quiz du jour
+                                        </button>
+                                    )}
                                 </div>
                             </div>
                         )}
