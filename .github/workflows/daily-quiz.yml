@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: Call Vercel API to generate questions
         run: |
-          echo "🤖 Appel de l'API pour générer 10 questions..."
+          echo "🤖 Génération de 10 nouvelles questions..."
           response=$(curl -s -w "\n%{http_code}" https://quiz-quotidien.vercel.app/api/generate-questions)
           http_code=$(echo "$response" | tail -n1)
           body=$(echo "$response" | sed '$d')
@@ -26,70 +26,14 @@ jobs:
             exit 1
           fi
           
-          echo "✅ Questions générées avec succès"
-          echo "⏳ Attente de 10 secondes pour que GitHub synchronise..."
-          sleep 10
-      
-      - name: Checkout repository (après génération)
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          ref: main
-      
-      - name: Increment quiz version in index.html
-        run: |
-          echo "🔄 Incrémentation de la version du quiz..."
-          
-          # Extraire la version actuelle
-          current_version=$(grep -oP 'const QUIZ_VERSION = \K\d+' index.html || echo "1")
-          new_version=$((current_version + 1))
-          
-          echo "Version actuelle: $current_version"
-          echo "Nouvelle version: $new_version"
-          
-          # Remplacer la version dans index.html
-          sed -i "s/const QUIZ_VERSION = $current_version;/const QUIZ_VERSION = $new_version;/g" index.html
-          
-          echo "✅ Version incrémentée à $new_version"
-      
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          
-          # Vérifier s'il y a des changements
-          if git diff --quiet index.html; then
-            echo "⚠️ Aucun changement détecté dans index.html"
-            exit 0
-          fi
-          
-          # Ajouter et commiter
-          git add index.html
-          git commit -m "🤖 Auto: Incrémentation version quiz (v$new_version) - $(date +'%Y-%m-%d')"
-          
-          # Push avec gestion des conflits
-          echo "📤 Push des changements..."
-          for i in {1..5}; do
-            if git push origin main; then
-              echo "✅ Push réussi"
-              exit 0
-            else
-              echo "⚠️ Tentative $i échouée, pull et retry..."
-              git pull --rebase origin main
-              sleep 3
-            fi
-          done
-          
-          echo "❌ Impossible de pusher après 5 tentatives"
-          exit 1
+          echo "✅ Questions générées et version incrémentée automatiquement"
       
       - name: Summary
-        if: success()
         run: |
           echo "### ✅ Génération quotidienne terminée" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "- ✅ 10 nouvelles questions ajoutées" >> $GITHUB_STEP_SUMMARY
-          echo "- ✅ Version du quiz incrémentée" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ Version incrémentée dans questions.json" >> $GITHUB_STEP_SUMMARY
           echo "- ✅ Cache utilisateurs sera vidé automatiquement" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "📅 Date: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
