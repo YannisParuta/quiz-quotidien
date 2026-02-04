@@ -88,9 +88,6 @@
 
         function DailyQuiz() {
             console.log('=== DÉMARRAGE DU COMPOSANT DAILYQUIZ ===');
-
-            // Version du quiz - INCRÉMENTEZ CE NOMBRE pour forcer un refresh
-            const QUIZ_VERSION = 2; // Changez en 3, 4, 5... pour vider le cache
             
             const [currentQuestion, setCurrentQuestion] = useState(0);
             const [selectedAnswer, setSelectedAnswer] = useState(null);
@@ -166,6 +163,20 @@
                     const today = new Date();
                     const dateKey = `quiz-${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
                     
+                    // Vérifier la version du cache
+                    const cachedVersion = localStorage.getItem('quiz-version');
+                    if (cachedVersion !== QUIZ_VERSION.toString()) {
+                        console.log('🔄 Nouvelle version détectée, vidage du cache...');
+                        // Vider tout le cache du quiz
+                        Object.keys(localStorage).forEach(key => {
+                            if (key.startsWith('quiz-')) {
+                                localStorage.removeItem(key);
+                            }
+                        });
+                        // Sauvegarder la nouvelle version
+                        localStorage.setItem('quiz-version', QUIZ_VERSION.toString());
+                    }
+                    
                     // Vérifier si le quiz a déjà été fait aujourd'hui
                     const alreadyCompleted = checkIfQuizCompleted();
                     
@@ -212,6 +223,22 @@
                     console.log('Questions chargées:', data.questions ? data.questions.length : 0);
                     const allQuestions = data.questions;
                     setTotalQuestions(allQuestions.length);
+                    
+                    // Vérifier la version du fichier questions.json
+                    const fileVersion = data.version || 1;
+                    const cachedVersion = localStorage.getItem('quiz-file-version');
+                    
+                    if (cachedVersion !== fileVersion.toString()) {
+                        console.log(`🔄 Nouvelle version détectée (${cachedVersion} → ${fileVersion}), vidage du cache...`);
+                        // Vider tout le cache du quiz
+                        Object.keys(localStorage).forEach(key => {
+                            if (key.startsWith('quiz-')) {
+                                localStorage.removeItem(key);
+                            }
+                        });
+                        // Sauvegarder la nouvelle version
+                        localStorage.setItem('quiz-file-version', fileVersion.toString());
+                    }
                     
                     // ============================================
                     // ÉTAPE 4 : Sélectionner 10 questions du jour
@@ -551,4 +578,3 @@
     </script>
 </body>
 </html>
-
