@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2065250506261397"
-     crossorigin="anonymous"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz Quotidien</title>
@@ -16,6 +14,9 @@
         gtag('js', new Date());
         gtag('config', 'G-XHE708K9TT');
     </script>
+    
+    <!-- Google AdSense - NE PAS ACTIVER AVANT APPROBATION -->
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
@@ -99,6 +100,25 @@
             const [answers, setAnswers] = useState([]);
             const [totalQuestions, setTotalQuestions] = useState(0);
             const [quizAlreadyCompleted, setQuizAlreadyCompleted] = useState(false);
+            const [showAd, setShowAd] = useState(false);
+
+            // Charger la pub AdSense après la question 5
+            useEffect(() => {
+                if (currentQuestion === 5 && !showResult) {
+                    setShowAd(true);
+                    
+                    // Initialiser AdSense si disponible
+                    try {
+                        if (window.adsbygoogle) {
+                            (window.adsbygoogle = window.adsbygoogle || []).push({});
+                        }
+                    } catch (e) {
+                        console.log('AdSense pas encore chargé');
+                    }
+                } else {
+                    setShowAd(false);
+                }
+            }, [currentQuestion, showResult]);
 
             // Vérifier si le quiz a déjà été complété aujourd'hui
             const checkIfQuizCompleted = () => {
@@ -192,30 +212,25 @@
                     
                     // ============================================
                     // ÉTAPE 4 : Sélectionner 10 questions du jour
-                    // Basé sur le jour de l'année pour rotation automatique
+                    // Utilise la date comme seed pour un aléatoire reproductible
                     // ============================================
                     
-                    // Calculer l'index de départ basé sur le jour de l'année
-                    const startOfYear = new Date(today.getFullYear(), 0, 0);
-                    const diff = today - startOfYear;
-                    const dayOfYear = Math.floor(diff / 86400000);
+                    // Créer un seed basé sur la date (même seed = mêmes questions)
+                    const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
                     
-                    // ============================================
-                    // ALERTE : Prévenir quand il reste peu de questions
-                    // ============================================
-                    const daysRemaining = Math.floor((allQuestions.length - (dayOfYear * 10 % allQuestions.length)) / 10);
-                    if (daysRemaining <= 30 && daysRemaining > 0) {
-                        console.warn(`⚠️ Attention: Il reste ${daysRemaining} jours de questions uniques avant rotation complète`);
-                    }
+                    // Fonction de shuffle avec seed (pour avoir toujours les mêmes questions par jour)
+                    const seededRandom = (seed) => {
+                        let x = Math.sin(seed++) * 10000;
+                        return x - Math.floor(x);
+                    };
                     
-                    // Sélectionner 10 questions basées sur le jour de l'année
-                    const startIndex = (dayOfYear * 10) % allQuestions.length;
-                    const selectedQuestions = [];
+                    // Mélanger avec le seed du jour
+                    const shuffled = [...allQuestions].sort((a, b) => {
+                        return seededRandom(seed + allQuestions.indexOf(a)) - 0.5;
+                    });
                     
-                    for (let i = 0; i < 10; i++) {
-                        const index = (startIndex + i) % allQuestions.length;
-                        selectedQuestions.push(allQuestions[index]);
-                    }
+                    // Prendre les 10 premières
+                    const selectedQuestions = shuffled.slice(0, 10);
                     
                     // ============================================
                     // ÉTAPE 5 : Sauvegarder en cache pour la journée
@@ -533,4 +548,3 @@
     </script>
 </body>
 </html>
-
