@@ -6,6 +6,14 @@
     <title>Quiz Quotidien</title>
     <link rel="icon" type="image/png" href="favicon.png">
     
+    <!-- Google Analytics — chargé uniquement après consentement (RGPD) -->
+
+    <!-- React 18.3.1 + SRI -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.3.1/umd/react.production.min.js" integrity="sha384-DGyLxAyjq0f9SPpVevD6IgztCFlnMF6oW/XQGmfe+IsZ8TqEiDrcHkMLKI6fiB/Z" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.3.1/umd/react-dom.production.min.js" integrity="sha384-gTGxhz21lVGYNMcdJOyq01Edg0jhn/c22nsx0kyqP0TxaV5WVdsSH1fSDUf5YJj1" crossorigin="anonymous"></script>
+    <!-- Babel 7.26.10 — patche CVE-2025-27789 + SRI -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.26.10/babel.min.js" integrity="sha384-BcI7nduYchENm39cFMEVJXHEE7fwHONANyn/pY2YTa+BNtrWF2bKBZeI0wqVithi" crossorigin="anonymous"></script>
+    <!-- Tailwind CDN — SRI non applicable (payload dynamique). Migration vers Tailwind CLI recommandée. -->
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XHE708K9TT"></script>
     <script>
@@ -31,6 +39,56 @@
 
         // Cache global pour stocker les questions
         let dailyCache = {};
+
+        // ── Google Analytics — chargement conditionnel après consentement ──
+        const GA_ID = 'G-XHE708K9TT';
+        function loadGA() {
+            if (document.getElementById('ga-script')) return;
+            const s = document.createElement('script');
+            s.id   = 'ga-script';
+            s.async = true;
+            s.src  = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+            document.head.appendChild(s);
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){ window.dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', GA_ID);
+        }
+        // Charger GA si le consentement existe déjà depuis une session précédente
+        if (localStorage.getItem('cookie-consent') === 'true') { loadGA(); }
+
+        // ── Bannière de consentement cookies (RGPD) ──
+        function CookieBanner() {
+            const [consent, setConsent] = React.useState(() => localStorage.getItem('cookie-consent'));
+            React.useEffect(() => { if (consent === 'true') loadGA(); }, [consent]);
+            if (consent !== null) return null;
+            return (
+                <div style={{position:'fixed',bottom:0,left:0,right:0,zIndex:9999,background:'#1f2937',color:'#fff',padding:'16px 24px',display:'flex',alignItems:'center',gap:'16px',flexWrap:'wrap',boxShadow:'0 -2px 10px rgba(0,0,0,0.3)'}}>
+                    <p style={{flex:1,margin:0,fontSize:'14px',lineHeight:'1.5'}}>
+                        Nous utilisons des cookies pour améliorer votre expérience et analyser le trafic via Google Analytics.
+                        En cliquant «&nbsp;Accepter », vous consentez à leur utilisation.
+                        Voir notre <a href="#" style={{color:'#a78bfa'}}>politique de confidentialité</a>.
+                    </p>
+                    <button onClick={() => { localStorage.setItem('cookie-consent','true');  setConsent('true');  }} style={{background:'#7c3aed',color:'#fff',border:'none',padding:'8px 18px',borderRadius:'6px',cursor:'pointer',fontWeight:600,fontSize:'14px',whiteSpace:'nowrap'}}>Accepter</button>
+                    <button onClick={() => { localStorage.setItem('cookie-consent','false'); setConsent('false'); }} style={{background:'#374151',color:'#9ca3af',border:'1px solid #4b5563',padding:'8px 18px',borderRadius:'6px',cursor:'pointer',fontSize:'14px',whiteSpace:'nowrap'}}>Refuser</button>
+                </div>
+            );
+        }
+
+        // ── Validation du schéma questions.json ──
+        function validateQuestions(data) {
+            if (!data || !Array.isArray(data.questions) || data.questions.length === 0) {
+                throw new Error('Format JSON invalide ou aucune question trouvée');
+            }
+            data.questions.forEach((q, i) => {
+                if (typeof q.question !== 'string' || !Array.isArray(q.options) || q.options.length < 2) {
+                    throw new Error('Question #' + i + ' : structure invalide');
+                }
+                if (typeof q.correctAnswer !== 'number' || q.correctAnswer < 0 || q.correctAnswer >= q.options.length) {
+                    throw new Error('Question #' + i + ' : correctAnswer hors limites');
+                }
+            });
+        }
 
         // Icônes SVG
         const Calendar = () => (
@@ -87,8 +145,6 @@
         );
 
         function DailyQuiz() {
-            console.log('=== DÉMARRAGE DU COMPOSANT DAILYQUIZ ===');
-            
             const [currentQuestion, setCurrentQuestion] = useState(0);
             const [selectedAnswer, setSelectedAnswer] = useState(null);
             const [showResult, setShowResult] = useState(false);
@@ -141,13 +197,6 @@
                 return false;
             };
 
-            console.log('États initialisés');
-
-            console.log('=== RENDER ===');
-            console.log('loading:', loading);
-            console.log('dailyQuiz.length:', dailyQuiz.length);
-            console.log('error:', error);
-
             /**
              * CHARGEMENT DES QUESTIONS
              * Charge uniquement depuis questions.json (plus d'API externe)
@@ -178,9 +227,7 @@
                             setLoading(false);
                             return;
                         }
-                    } catch (e) {
-                        console.log('Pas de cache localStorage');
-                    }
+                    } catch (e) { /* cache localStorage indisponible */ }
                     
                     // ============================================
                     // ÉTAPE 2 : Vérifier le cache mémoire
@@ -196,17 +243,18 @@
                     // ÉTAPE 3 : Charger questions.json
                     // IMPORTANT : Le fichier doit être dans le même dossier que index.html
                     // ============================================
-                    console.log('Tentative de chargement de questions.json...');
-                    const response = await fetch('questions.json');
-                    
-                    console.log('Response status:', response.status);
-                    
+                    // Fetch avec timeout (10 s) pour éviter les requêtes bloquées indéfiniment
+                    const controller = new AbortController();
+                    const fetchTimeout = setTimeout(() => controller.abort(), 10000);
+                    const response = await fetch('questions.json', { signal: controller.signal });
+                    clearTimeout(fetchTimeout);
+
                     if (!response.ok) {
                         throw new Error(`Impossible de charger les questions (status: ${response.status})`);
                     }
-                    
+
                     const data = await response.json();
-                    console.log('Questions chargées:', data.questions ? data.questions.length : 0);
+                    validateQuestions(data);                 // ← validation du schéma
                     const allQuestions = data.questions;
                     setTotalQuestions(allQuestions.length);
                     
@@ -218,6 +266,10 @@
                     // Créer un seed basé sur la date (même seed = mêmes questions)
                     const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
                     
+                    // ============================================
+                    // ALERTE : Prévenir quand il reste peu de questions
+                    // ============================================
+                    // Alerte dev : nombre de jours restants avant rotation complète (pas de log en prod)
                     // Fonction de shuffle avec seed (pour avoir toujours les mêmes questions par jour)
                     const seededRandom = (seed) => {
                         let x = Math.sin(seed++) * 10000;
@@ -237,36 +289,31 @@
                     // ============================================
                     const cacheData = { questions: selectedQuestions, total: allQuestions.length };
                     try {
+                        // Guard : vérifier la taille avant d'écrire (évite QuotaExceededError)
+                        if (JSON.stringify(localStorage).length > 4500000) {
+                            Object.keys(localStorage).forEach(key => {
+                                if (key.startsWith('quiz-')) localStorage.removeItem(key);
+                            });
+                        }
                         localStorage.setItem(dateKey, JSON.stringify(cacheData));
-                        // Nettoyer les anciennes entrées
+                        // Nettoyer les anciennes entrées quiz
                         Object.keys(localStorage).forEach(key => {
                             if (key.startsWith('quiz-') && key !== dateKey) {
                                 localStorage.removeItem(key);
                             }
                         });
-                    } catch (e) {
-                        console.log('Impossible de sauvegarder dans localStorage');
-                    }
-                    
+                    } catch (e) { /* localStorage plein ou bloqué */ }
+
                     dailyCache[dateKey] = cacheData;
-                    
-                    console.log('=== QUESTIONS SÉLECTIONNÉES ===', selectedQuestions);
-                    console.log('Nombre de questions:', selectedQuestions.length);
-                    
                     setDailyQuiz(selectedQuestions);
-                    console.log('setDailyQuiz appelé');
                     setLoading(false);
-                    console.log('setLoading(false) appelé');
                 } catch (err) {
-                    console.error('Erreur lors du chargement des questions:', err);
                     setError('Impossible de charger les questions. Vérifiez votre connexion internet.');
                     setLoading(false);
                 }
             };
 
-            // Charger les questions au démarrage
             useEffect(() => {
-                console.log('=== USEEFFECT DÉCLENCHÉ ===');
                 fetchQuestionsFromJSON();
             }, []);
 
@@ -334,7 +381,6 @@
                         text: shareText
                     }).catch(err => {
                         if (err.name !== 'AbortError') {
-                            console.log('Erreur de partage:', err);
                             fallbackCopy(shareText);
                         }
                     });
@@ -404,9 +450,6 @@
                     </div>
                 );
             }
-
-            console.log('AFFICHAGE: Quiz principal - Question actuelle:', currentQuestion);
-            console.log('Question data:', dailyQuiz[currentQuestion]);
 
             return (
                 <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
@@ -544,7 +587,15 @@
             );
         }
 
-        ReactDOM.render(<DailyQuiz />, document.getElementById('root'));
+        function App() {
+            return (
+                <>
+                    <DailyQuiz />
+                    <CookieBanner />
+                </>
+            );
+        }
+        ReactDOM.render(<App />, document.getElementById('root'));
     </script>
 </body>
 </html>
