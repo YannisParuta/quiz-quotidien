@@ -88,6 +88,9 @@
 
         function DailyQuiz() {
             console.log('=== DÉMARRAGE DU COMPOSANT DAILYQUIZ ===');
+
+            // Version du quiz - INCRÉMENTEZ CE NOMBRE pour forcer un refresh
+            const QUIZ_VERSION = 2; // Changez en 3, 4, 5... pour vider le cache
             
             const [currentQuestion, setCurrentQuestion] = useState(0);
             const [selectedAnswer, setSelectedAnswer] = useState(null);
@@ -548,3 +551,4 @@
     </script>
 </body>
 </html>
+
