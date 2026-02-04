@@ -245,21 +245,34 @@
                     // Utilise la date comme seed pour un aléatoire reproductible
                     // ============================================
                     
+                    // Vérifier qu'on a assez de questions
+                    if (allQuestions.length < 10) {
+                        throw new Error('Pas assez de questions dans la base');
+                    }
+                    
                     // Créer un seed basé sur la date (même seed = mêmes questions)
                     const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
                     
-                    // Fonction de shuffle avec seed (pour avoir toujours les mêmes questions par jour)
-                    const seededRandom = (seed) => {
-                        let x = Math.sin(seed++) * 10000;
-                        return x - Math.floor(x);
+                    // Fonction de shuffle avec seed (Fisher-Yates seeded)
+                    const seededShuffle = (array, seed) => {
+                        const shuffled = [...array];
+                        let currentSeed = seed;
+                        
+                        for (let i = shuffled.length - 1; i > 0; i--) {
+                            // Générer un nombre pseudo-aléatoire avec le seed
+                            currentSeed = (currentSeed * 9301 + 49297) % 233280;
+                            const rnd = currentSeed / 233280;
+                            const j = Math.floor(rnd * (i + 1));
+                            
+                            // Swap
+                            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+                        }
+                        
+                        return shuffled;
                     };
                     
-                    // Mélanger avec le seed du jour
-                    const shuffled = [...allQuestions].sort((a, b) => {
-                        return seededRandom(seed + allQuestions.indexOf(a)) - 0.5;
-                    });
-                    
-                    // Prendre les 10 premières
+                    // Mélanger avec le seed du jour et prendre les 10 premières (garantit unicité)
+                    const shuffled = seededShuffle(allQuestions, seed);
                     const selectedQuestions = shuffled.slice(0, 10);
                     
                     // ============================================
