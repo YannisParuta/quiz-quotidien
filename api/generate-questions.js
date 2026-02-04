@@ -104,6 +104,13 @@ Consignes :
     
     const today = new Date().toLocaleDateString('fr-FR');
     
+    // Incrémenter aussi la version du quiz dans questions.json
+    const currentVersion = existingData.version || 1;
+    const newVersion = currentVersion + 1;
+    existingData.version = newVersion;
+    
+    console.log(`🔢 Version: ${currentVersion} → ${newVersion}`);
+    
     const updateResponse = await fetch(
       `https://api.github.com/repos/${githubRepo}/contents/${filePath}`,
       {
