@@ -28,11 +28,8 @@
 
     <script type="text/babel">
         const { useState, useEffect } = React;
-
-        // Cache global pour stocker les questions
         let dailyCache = {};
 
-        // Icônes SVG
         const Calendar = () => (
             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
@@ -87,8 +84,6 @@
         );
 
         function DailyQuiz() {
-            console.log('=== DÉMARRAGE DU COMPOSANT DAILYQUIZ ===');
-            
             const [currentQuestion, setCurrentQuestion] = useState(0);
             const [selectedAnswer, setSelectedAnswer] = useState(null);
             const [showResult, setShowResult] = useState(false);
@@ -98,29 +93,8 @@
             const [loading, setLoading] = useState(true);
             const [error, setError] = useState(null);
             const [answers, setAnswers] = useState([]);
-            const [totalQuestions, setTotalQuestions] = useState(0);
             const [quizAlreadyCompleted, setQuizAlreadyCompleted] = useState(false);
-            const [showAd, setShowAd] = useState(false);
 
-            // Charger la pub AdSense après la question 5
-            useEffect(() => {
-                if (currentQuestion === 5 && !showResult) {
-                    setShowAd(true);
-                    
-                    // Initialiser AdSense si disponible
-                    try {
-                        if (window.adsbygoogle) {
-                            (window.adsbygoogle = window.adsbygoogle || []).push({});
-                        }
-                    } catch (e) {
-                        console.log('AdSense pas encore chargé');
-                    }
-                } else {
-                    setShowAd(false);
-                }
-            }, [currentQuestion, showResult]);
-
-            // Vérifier si le quiz a déjà été complété aujourd'hui
             const checkIfQuizCompleted = () => {
                 const today = new Date();
                 const dateKey = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
@@ -128,9 +102,7 @@
                 
                 const completed = localStorage.getItem(completedKey);
                 if (completed === 'true') {
-                    console.log('⚠️ Quiz déjà complété aujourd\'hui');
                     setQuizAlreadyCompleted(true);
-                    // Récupérer le score et les réponses sauvegardés
                     const savedScore = localStorage.getItem(`quiz-score-${dateKey}`);
                     const savedAnswers = localStorage.getItem(`quiz-answers-${dateKey}`);
                     if (savedScore) setScore(parseInt(savedScore));
@@ -141,176 +113,83 @@
                 return false;
             };
 
-            console.log('États initialisés');
-
-            console.log('=== RENDER ===');
-            console.log('loading:', loading);
-            console.log('dailyQuiz.length:', dailyQuiz.length);
-            console.log('error:', error);
-
-            /**
-             * CHARGEMENT DES QUESTIONS
-             * Charge uniquement depuis questions.json (plus d'API externe)
-             * Système de cache : localStorage + mémoire
-             * Rotation quotidienne automatique basée sur le jour de l'année
-             */
             const fetchQuestionsFromJSON = async () => {
                 try {
                     setLoading(true);
                     setError(null);
                     
-                    // Récupérer la date du jour
                     const today = new Date();
                     const dateKey = `quiz-${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
                     
-                    // Vérifier la version du cache
-                    const cachedVersion = localStorage.getItem('quiz-version');
-                    if (cachedVersion !== QUIZ_VERSION.toString()) {
-                        console.log('🔄 Nouvelle version détectée, vidage du cache...');
-                        // Vider tout le cache du quiz
-                        Object.keys(localStorage).forEach(key => {
-                            if (key.startsWith('quiz-')) {
-                                localStorage.removeItem(key);
-                            }
-                        });
-                        // Sauvegarder la nouvelle version
-                        localStorage.setItem('quiz-version', QUIZ_VERSION.toString());
-                    }
+                    checkIfQuizCompleted();
                     
-                    // Vérifier si le quiz a déjà été fait aujourd'hui
-                    const alreadyCompleted = checkIfQuizCompleted();
-                    
-                    // ============================================
-                    // ÉTAPE 1 : Vérifier le cache localStorage
-                    // ============================================
                     try {
                         const cached = localStorage.getItem(dateKey);
                         if (cached) {
                             const cachedData = JSON.parse(cached);
                             setDailyQuiz(cachedData.questions);
-                            setTotalQuestions(cachedData.total);
                             setLoading(false);
                             return;
                         }
                     } catch (e) {
-                        console.log('Pas de cache localStorage');
+                        console.log('Pas de cache');
                     }
                     
-                    // ============================================
-                    // ÉTAPE 2 : Vérifier le cache mémoire
-                    // ============================================
                     if (dailyCache[dateKey]) {
                         setDailyQuiz(dailyCache[dateKey].questions);
-                        setTotalQuestions(dailyCache[dateKey].total);
                         setLoading(false);
                         return;
                     }
                     
-                    // ============================================
-                    // ÉTAPE 3 : Charger questions.json
-                    // IMPORTANT : Le fichier doit être dans le même dossier que index.html
-                    // ============================================
-                    console.log('Tentative de chargement de questions.json...');
                     const response = await fetch('questions.json');
-                    
-                    console.log('Response status:', response.status);
-                    
-                    if (!response.ok) {
-                        throw new Error(`Impossible de charger les questions (status: ${response.status})`);
-                    }
+                    if (!response.ok) throw new Error('Impossible de charger les questions');
                     
                     const data = await response.json();
-                    console.log('Questions chargées:', data.questions ? data.questions.length : 0);
-                    
                     const allQuestions = data.questions;
-                    setTotalQuestions(allQuestions.length);
                     
-                    // Vérifier la version du fichier questions.json
                     const fileVersion = data.version || 1;
                     const cachedVersion = localStorage.getItem('quiz-file-version');
                     
                     if (cachedVersion !== fileVersion.toString()) {
-                        console.log(`🔄 Nouvelle version détectée (${cachedVersion} → ${fileVersion}), vidage du cache...`);
-                        // Vider tout le cache du quiz
                         Object.keys(localStorage).forEach(key => {
-                            if (key.startsWith('quiz-')) {
-                                localStorage.removeItem(key);
-                            }
+                            if (key.startsWith('quiz-')) localStorage.removeItem(key);
                         });
-                        // Sauvegarder la nouvelle version
                         localStorage.setItem('quiz-file-version', fileVersion.toString());
                     }
                     
-                    // ============================================
-                    // ÉTAPE 4 : Sélectionner 10 questions du jour
-                    // Utilise la date comme seed pour un aléatoire reproductible
-                    // ============================================
+                    if (allQuestions.length < 10) throw new Error('Pas assez de questions');
                     
-                    // Vérifier qu'on a assez de questions
-                    if (allQuestions.length < 10) {
-                        throw new Error('Pas assez de questions dans la base');
-                    }
-                    
-                    // Créer un seed basé sur la date (même seed = mêmes questions)
                     const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
                     
-                    // Fonction de shuffle avec seed (Fisher-Yates seeded)
                     const seededShuffle = (array, seed) => {
                         const shuffled = [...array];
                         let currentSeed = seed;
                         
                         for (let i = shuffled.length - 1; i > 0; i--) {
-                            // Générer un nombre pseudo-aléatoire avec le seed
                             currentSeed = (currentSeed * 9301 + 49297) % 233280;
-                            const rnd = currentSeed / 233280;
-                            const j = Math.floor(rnd * (i + 1));
-                            
-                            // Swap
+                            const j = Math.floor((currentSeed / 233280) * (i + 1));
                             [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
                         }
-                        
                         return shuffled;
                     };
                     
-                    // Mélanger avec le seed du jour et prendre les 10 premières (garantit unicité)
-                    const shuffled = seededShuffle(allQuestions, seed);
-                    const selectedQuestions = shuffled.slice(0, 10);
+                    const selectedQuestions = seededShuffle(allQuestions, seed).slice(0, 10);
                     
-                    // ============================================
-                    // ÉTAPE 5 : Sauvegarder en cache pour la journée
-                    // ============================================
-                    const cacheData = { questions: selectedQuestions, total: allQuestions.length };
+                    const cacheData = { questions: selectedQuestions };
                     try {
                         localStorage.setItem(dateKey, JSON.stringify(cacheData));
-                        // Nettoyer les anciennes entrées
-                        Object.keys(localStorage).forEach(key => {
-                            if (key.startsWith('quiz-') && key !== dateKey) {
-                                localStorage.removeItem(key);
-                            }
-                        });
-                    } catch (e) {
-                        console.log('Impossible de sauvegarder dans localStorage');
-                    }
+                    } catch (e) {}
                     
                     dailyCache[dateKey] = cacheData;
-                    
-                    console.log('=== QUESTIONS SÉLECTIONNÉES ===', selectedQuestions);
-                    console.log('Nombre de questions:', selectedQuestions.length);
-                    
                     setDailyQuiz(selectedQuestions);
-                    console.log('setDailyQuiz appelé');
                     setLoading(false);
-                    console.log('setLoading(false) appelé');
                 } catch (err) {
-                    console.error('Erreur lors du chargement des questions:', err);
-                    setError('Impossible de charger les questions. Vérifiez votre connexion internet.');
+                    setError('Impossible de charger les questions');
                     setLoading(false);
                 }
             };
 
-            // Charger les questions au démarrage
             useEffect(() => {
-                console.log('=== USEEFFECT DÉCLENCHÉ ===');
                 fetchQuestionsFromJSON();
             }, []);
 
@@ -321,10 +200,7 @@
                 
                 const isCorrect = index === dailyQuiz[currentQuestion].correctAnswer;
                 setAnswers([...answers, isCorrect]);
-                
-                if (isCorrect) {
-                    setScore(score + 1);
-                }
+                if (isCorrect) setScore(score + 1);
             };
 
             const handleNext = () => {
@@ -334,25 +210,19 @@
                     setShowResult(false);
                 } else {
                     setQuizCompleted(true);
-                    
-                    // Sauvegarder la complétion du quiz pour aujourd'hui
                     const today = new Date();
                     const dateKey = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
                     localStorage.setItem(`quiz-completed-${dateKey}`, 'true');
                     localStorage.setItem(`quiz-score-${dateKey}`, score.toString());
                     localStorage.setItem(`quiz-answers-${dateKey}`, JSON.stringify(answers));
-                    
-                    console.log('✅ Quiz complété et sauvegardé pour aujourd\'hui');
                 }
             };
 
             const resetQuiz = () => {
-                // Ne pas permettre de refaire le quiz si déjà complété aujourd'hui
                 if (quizAlreadyCompleted) {
-                    alert('❌ Vous avez déjà complété le quiz d\'aujourd\'hui ! Revenez demain pour un nouveau quiz.');
+                    alert('❌ Vous avez déjà complété le quiz aujourd\'hui ! Revenez demain.');
                     return;
                 }
-                
                 setCurrentQuestion(0);
                 setSelectedAnswer(null);
                 setShowResult(false);
@@ -362,53 +232,25 @@
             };
 
             const shareResults = () => {
-                const siteUrl = "https://quiz-quotidien.fr";
                 const today = new Date();
                 const dateStr = `${today.getDate().toString().padStart(2, '0')}/${(today.getMonth() + 1).toString().padStart(2, '0')}/${today.getFullYear()}`;
-                
-                // Créer la grille de résultats avec des émojis
                 const resultGrid = answers.map(isCorrect => isCorrect ? '🟢' : '🔴').join('');
+                const shareText = `🎯 Quiz Quotidien - ${dateStr} 🎯\n\nScore : ${score}/${dailyQuiz.length}\n${resultGrid}\n\nhttps://quiz-quotidien.fr`;
                 
-                const shareText = `🎯 Quiz Quotidien - ${dateStr} 🎯\n\nScore : ${score}/${dailyQuiz.length}\n${resultGrid}\n\n${siteUrl}`;
-                
-                // Vérifier si l'API Web Share est disponible (mobile)
                 if (navigator.share) {
-                    navigator.share({
-                        title: 'Mon score au Quiz Quotidien',
-                        text: shareText
-                    }).catch(err => {
-                        if (err.name !== 'AbortError') {
-                            console.log('Erreur de partage:', err);
-                            fallbackCopy(shareText);
-                        }
-                    });
+                    navigator.share({ title: 'Mon score au Quiz Quotidien', text: shareText }).catch(() => {});
                 } else {
-                    fallbackCopy(shareText);
-                }
-            };
-            
-            const fallbackCopy = (text) => {
-                // Méthode fallback pour copier le texte
-                const textArea = document.createElement('textarea');
-                textArea.value = text;
-                textArea.style.position = 'fixed';
-                textArea.style.left = '-999999px';
-                textArea.style.top = '-999999px';
-                document.body.appendChild(textArea);
-                textArea.focus();
-                textArea.select();
-                
-                try {
-                    document.execCommand('copy');
+                    const textArea = document.createElement('textarea');
+                    textArea.value = shareText;
+                    textArea.style.position = 'fixed';
+                    textArea.style.left = '-999999px';
+                    document.body.appendChild(textArea);
+                    textArea.select();
+                    try {
+                        document.execCommand('copy');
+                        alert('✅ Score copié !');
+                    } catch {}
                     textArea.remove();
-                    alert('✅ Score copié dans le presse-papier !');
-                } catch (err) {
-                    textArea.remove();
-                    // Dernière solution : afficher le texte pour copie manuelle
-                    const shouldCopy = confirm('Impossible de copier automatiquement.\n\nVoulez-vous voir le texte pour le copier manuellement ?');
-                    if (shouldCopy) {
-                        prompt('Copiez ce texte :', text);
-                    }
                 }
             };
 
@@ -417,40 +259,26 @@
                 return new Date().toLocaleDateString('fr-FR', options);
             };
 
-            // Écran de chargement
             if (loading || !dailyQuiz || dailyQuiz.length === 0) {
                 return (
                     <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
-                        <div className="text-white text-xl">Chargement du quiz du jour...</div>
+                        <div className="text-white text-xl">Chargement...</div>
                     </div>
                 );
             }
 
-            // Écran d'erreur
             if (error) {
                 return (
                     <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
                         <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full p-8 text-center">
-                            <div className="text-red-500 mx-auto mb-4 flex justify-center">
-                                <AlertCircle />
-                            </div>
-                            <h2 className="text-2xl font-bold text-gray-800 mb-4">Erreur de chargement</h2>
-                            <p className="text-gray-600 mb-6">
-                                {error || "Le fichier questions.json est introuvable. Assurez-vous qu'il est bien dans le même dossier que index.html"}
-                            </p>
-                            <button
-                                onClick={fetchQuestionsFromJSON}
-                                className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200"
-                            >
-                                Réessayer
-                            </button>
+                            <div className="text-red-500 mx-auto mb-4 flex justify-center"><AlertCircle /></div>
+                            <h2 className="text-2xl font-bold text-gray-800 mb-4">Erreur</h2>
+                            <p className="text-gray-600 mb-6">{error}</p>
+                            <button onClick={fetchQuestionsFromJSON} className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg">Réessayer</button>
                         </div>
                     </div>
                 );
             }
-
-            console.log('AFFICHAGE: Quiz principal - Question actuelle:', currentQuestion);
-            console.log('Question data:', dailyQuiz[currentQuestion]);
 
             return (
                 <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
@@ -471,52 +299,30 @@
                                         <span>Question {currentQuestion + 1} sur {dailyQuiz.length}</span>
                                         <span>Score: {score}/{dailyQuiz.length}</span>
                                     </div>
-                                    {dailyQuiz[currentQuestion] && dailyQuiz[currentQuestion].category && (
-                                        <div className="text-xs text-purple-600 mb-2">
-                                            📚 {dailyQuiz[currentQuestion].category}
-                                        </div>
+                                    {dailyQuiz[currentQuestion].category && (
+                                        <div className="text-xs text-purple-600 mb-2">📚 {dailyQuiz[currentQuestion].category}</div>
                                     )}
                                     <div className="w-full bg-gray-200 rounded-full h-2">
-                                        <div
-                                            className="bg-purple-600 h-2 rounded-full transition-all duration-300"
-                                            style={{ width: `${((currentQuestion + 1) / dailyQuiz.length) * 100}%` }}
-                                        />
+                                        <div className="bg-purple-600 h-2 rounded-full transition-all duration-300" style={{ width: `${((currentQuestion + 1) / dailyQuiz.length) * 100}%` }} />
                                     </div>
                                 </div>
 
                                 <div className="mb-8">
-                                    {dailyQuiz[currentQuestion] && (
-                                        <>
-                                            <h2 className="text-2xl font-semibold text-gray-800 mb-6">
-                                                {dailyQuiz[currentQuestion].question}
-                                            </h2>
-
-                                            <div className="space-y-3">
-                                                {dailyQuiz[currentQuestion].options.map((option, index) => {
+                                    <h2 className="text-2xl font-semibold text-gray-800 mb-6">{dailyQuiz[currentQuestion].question}</h2>
+                                    <div className="space-y-3">
+                                        {dailyQuiz[currentQuestion].options.map((option, index) => {
                                             const isCorrect = index === dailyQuiz[currentQuestion].correctAnswer;
                                             const isSelected = index === selectedAnswer;
-                                            
                                             let buttonClass = "w-full p-4 text-left rounded-lg border-2 transition-all duration-200 ";
-                                            
                                             if (!showResult) {
                                                 buttonClass += "border-gray-200 hover:border-purple-400 hover:bg-purple-50 cursor-pointer";
                                             } else {
-                                                if (isCorrect) {
-                                                    buttonClass += "border-green-500 bg-green-50";
-                                                } else if (isSelected && !isCorrect) {
-                                                    buttonClass += "border-red-500 bg-red-50";
-                                                } else {
-                                                    buttonClass += "border-gray-200 bg-gray-50 cursor-not-allowed";
-                                                }
+                                                if (isCorrect) buttonClass += "border-green-500 bg-green-50";
+                                                else if (isSelected) buttonClass += "border-red-500 bg-red-50";
+                                                else buttonClass += "border-gray-200 bg-gray-50 cursor-not-allowed";
                                             }
-
                                             return (
-                                                <button
-                                                    key={index}
-                                                    onClick={() => handleAnswerClick(index)}
-                                                    className={buttonClass}
-                                                    disabled={showResult}
-                                                >
+                                                <button key={index} onClick={() => handleAnswerClick(index)} className={buttonClass} disabled={showResult}>
                                                     <div className="flex items-center justify-between">
                                                         <span className="font-medium">{option}</span>
                                                         {showResult && isCorrect && <CheckCircle />}
@@ -526,58 +332,37 @@
                                             );
                                         })}
                                     </div>
-                                        </>
-                                    )}
                                 </div>
 
                                 {showResult && (
-                                    <button
-                                        onClick={handleNext}
-                                        className="w-full bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-200"
-                                    >
+                                    <button onClick={handleNext} className="w-full bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-6 rounded-lg">
                                         {currentQuestion < dailyQuiz.length - 1 ? 'Question suivante' : 'Voir les résultats'}
                                     </button>
                                 )}
                             </>
                         ) : (
                             <div className="text-center">
-                                <div className="text-yellow-500 mx-auto mb-4 flex justify-center">
-                                    <Trophy />
-                                </div>
+                                <div className="text-yellow-500 mx-auto mb-4 flex justify-center"><Trophy /></div>
                                 <h2 className="text-3xl font-bold text-gray-800 mb-4">Quiz terminé !</h2>
                                 <div className="bg-purple-100 rounded-lg p-6 mb-6">
-                                    <p className="text-5xl font-bold text-purple-600 mb-2">
-                                        {score}/{dailyQuiz.length}
-                                    </p>
+                                    <p className="text-5xl font-bold text-purple-600 mb-2">{score}/{dailyQuiz.length}</p>
                                     <p className="text-gray-700">
-                                        {score === dailyQuiz.length
-                                            ? "Parfait ! Vous êtes un expert !"
-                                            : score >= dailyQuiz.length * 0.7
-                                            ? "Excellent travail !"
-                                            : score >= dailyQuiz.length * 0.5
-                                            ? "Pas mal ! Continuez comme ça !"
-                                            : "Continuez à vous entraîner !"}
+                                        {score === dailyQuiz.length ? "Parfait ! Vous êtes un expert !" :
+                                         score >= dailyQuiz.length * 0.7 ? "Excellent travail !" :
+                                         score >= dailyQuiz.length * 0.5 ? "Pas mal ! Continuez comme ça !" :
+                                         "Continuez à vous entraîner !"}
                                     </p>
                                 </div>
                                 <p className="text-gray-600 mb-6">
-                                    {quizAlreadyCompleted 
-                                        ? "Vous avez déjà fait le quiz aujourd'hui ! Revenez demain pour de nouvelles questions."
-                                        : "Revenez demain pour 10 nouvelles questions !"}
+                                    {quizAlreadyCompleted ? "Vous avez déjà fait le quiz aujourd'hui !" : "Revenez demain pour de nouvelles questions !"}
                                 </p>
                                 <div className="flex flex-col sm:flex-row gap-3 justify-center">
-                                    <button
-                                        onClick={shareResults}
-                                        className="flex items-center justify-center gap-2 bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200"
-                                    >
-                                        <Share2 />
-                                        Partager mon score
+                                    <button onClick={shareResults} className="flex items-center justify-center gap-2 bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-8 rounded-lg">
+                                        <Share2 /> Partager mon score
                                     </button>
                                     {!quizAlreadyCompleted && (
-                                        <button
-                                            onClick={resetQuiz}
-                                            className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200"
-                                        >
-                                            Refaire le quiz du jour
+                                        <button onClick={resetQuiz} className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg">
+                                            Refaire le quiz
                                         </button>
                                     )}
                                 </div>
