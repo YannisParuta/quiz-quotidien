@@ -219,6 +219,116 @@
       ],
       "correctAnswer": 0,
       "category": "Technologie"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+      "options": [
+        "Oxygène",
+        "Carbone",
+        "Hélium",
+        "Hydrogène"
+      ],
+      "correctAnswer": 3,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de rugby à XV ?",
+      "options": [
+        "13",
+        "15",
+        "17",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel auteur a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Gustave Flaubert",
+        "Victor Hugo",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros blanc",
+        "Hippopotame",
+        "Éléphant d'Afrique",
+        "Girafe"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Combien font 7 au carré ?",
+      "options": [
+        "42",
+        "49",
+        "56",
+        "35"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Francis Ford Coppola"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
+      "options": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "Ruby"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie"
     }
   ]
 }
