@@ -109,6 +109,116 @@
       ],
       "correctAnswer": 2,
       "category": "Musique"
+    },
+    {
+      "question": "Quelle est la capitale du Canada ?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montréal"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Salvador Dalí"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de basket-ball sur le terrain ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Alexandre Dumas"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros blanc",
+        "Hippopotame",
+        "Girafe",
+        "Éléphant d'Afrique"
+      ],
+      "correctAnswer": 3,
+      "category": "Nature"
+    },
+    {
+      "question": "Combien font 7 × 8 ?",
+      "options": [
+        "54",
+        "56",
+        "58",
+        "64"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Que signifie 'www' dans une adresse web ?",
+      "options": [
+        "World Wide Web",
+        "World Web Wide",
+        "Web World Wide",
+        "Wide World Web"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie"
     }
   ]
 }
