@@ -1319,6 +1319,116 @@
       ],
       "correctAnswer": 1,
       "category": "Technologie"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Dioxyde de carbone",
+        "Argon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 2,
+      "category": "Art"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on un 'birdie' ?",
+      "options": [
+        "Tennis",
+        "Golf",
+        "Badminton",
+        "Cricket"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel auteur a écrit 'L'Étranger' ?",
+      "options": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "Marcel Proust",
+        "André Gide"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Combien de côtés a un dodécagone ?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros blanc",
+        "Hippopotame",
+        "Éléphant d'Afrique",
+        "Girafe"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Qui a composé 'Les Quatre Saisons' ?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Antonio Vivaldi",
+        "Ludwig van Beethoven"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique"
+    },
+    {
+      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
+      "options": [
+        "Java",
+        "Python",
+        "C++",
+        "JavaScript"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie"
     }
   ]
 }
