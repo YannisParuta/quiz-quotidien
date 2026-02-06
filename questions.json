@@ -1429,6 +1429,116 @@
       ],
       "correctAnswer": 1,
       "category": "Technologie"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Combien d'os compte le corps humain adulte ?",
+      "options": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Pablo Picasso",
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 2,
+      "category": "Art"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on un shuttlecock ?",
+      "options": [
+        "Tennis",
+        "Squash",
+        "Badminton",
+        "Ping-pong"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport"
+    },
+    {
+      "question": "Qui a écrit 'L'Étranger' ?",
+      "options": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "André Malraux",
+        "Marcel Proust"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros",
+        "Hippopotame",
+        "Girafe",
+        "Éléphant d'Afrique"
+      ],
+      "correctAnswer": 3,
+      "category": "Nature"
+    },
+    {
+      "question": "Combien font 7² + 3² ?",
+      "options": [
+        "58",
+        "49",
+        "100",
+        "64"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quel compositeur a écrit 'Les Quatre Saisons' ?",
+      "options": [
+        "Jean-Sébastien Bach",
+        "Wolfgang Amadeus Mozart",
+        "Antonio Vivaldi",
+        "Ludwig van Beethoven"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique"
+    },
+    {
+      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "David Lynch"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
     }
   ]
 }
