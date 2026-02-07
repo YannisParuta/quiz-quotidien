@@ -1649,6 +1649,116 @@
       ],
       "correctAnswer": 2,
       "category": "Technologie"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel gaz compose principalement l'atmosphère de Jupiter ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Hydrogène",
+        "Méthane"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Salvador Dalí"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de rugby à XV sur le terrain ?",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Edgar Allan Poe",
+        "Arthur Conan Doyle",
+        "Oscar Wilde"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros blanc",
+        "Hippopotame",
+        "Éléphant d'Afrique",
+        "Girafe"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Combien vaut π (pi) arrondi à deux décimales ?",
+      "options": [
+        "3,14",
+        "3,16",
+        "3,12",
+        "3,15"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Qui a composé 'Les Quatre Saisons' ?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Antonio Vivaldi",
+        "Ludwig van Beethoven"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique"
+    },
+    {
+      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+      "options": [
+        "Joker",
+        "1917",
+        "Parasite",
+        "Once Upon a Time in Hollywood"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma"
     }
   ]
 }
