@@ -36,6 +36,17 @@ export default async function handler(req, res) {
     console.log(`✅ ${existingData.questions.length} questions existantes chargées`);
 
     // ============================================
+    // ÉTAPE 1.5 : Créer un Set des questions existantes (pour détecter les doublons)
+    // ============================================
+    const existingQuestionsSet = new Set(
+      existingData.questions.map(q => 
+        normalizeQuestion(q.question)
+      )
+    );
+    
+    console.log(`🔍 Index de ${existingQuestionsSet.size} questions uniques créé`);
+
+    // ============================================
     // ÉTAPE 2 : Générer 10 nouvelles questions avec Claude
     // ============================================
     console.log('🤖 Génération de nouvelles questions avec Claude...');
@@ -44,7 +55,17 @@ export default async function handler(req, res) {
       apiKey: process.env.ANTHROPIC_API_KEY,
     });
 
-    const prompt = `Génère exactement 10 questions de quiz en français avec 4 options de réponse chacune.
+    // Extraire 30 questions récentes comme exemples à éviter
+    const recentQuestions = existingData.questions
+      .slice(-30)
+      .map(q => `- ${q.question}`)
+      .join('\n');
+
+    const prompt = `Génère exactement 15 questions de quiz en français avec 4 options de réponse chacune.
+
+⚠️ IMPORTANT : NE CRÉE PAS de questions similaires aux exemples ci-dessous :
+
+${recentQuestions}
 
 Format STRICTEMENT JSON (sans markdown, sans commentaires) :
 {
@@ -60,15 +81,16 @@ Format STRICTEMENT JSON (sans markdown, sans commentaires) :
 
 Consignes :
 - Variété de catégories : Géographie, Histoire, Science, Culture, Sport, Art, Littérature, Nature, Mathématiques, Musique, Cinéma, Technologie
+- Questions ORIGINALES et DIFFÉRENTES des exemples ci-dessus
 - Questions de difficulté moyenne
 - Réponses courtes et claires
 - correctAnswer est l'INDEX (0, 1, 2 ou 3)
-- Questions originales et intéressantes
+- Questions intéressantes et éducatives
 - Retourne UNIQUEMENT le JSON, rien d'autre`;
 
     const message = await anthropic.messages.create({
       model: 'claude-sonnet-4-20250514',
-      max_tokens: 2500,
+      max_tokens: 3000,
       messages: [{
         role: 'user',
         content: prompt
@@ -79,23 +101,89 @@ Consignes :
     let jsonContent = message.content[0].text;
     jsonContent = jsonContent.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
     
-    const newQuestions = JSON.parse(jsonContent);
+    const generatedQuestions = JSON.parse(jsonContent);
     
-    console.log(`✅ ${newQuestions.questions.length} nouvelles questions générées`);
+    console.log(`✅ ${generatedQuestions.questions.length} questions générées par Claude`);
 
     // ============================================
-    // ÉTAPE 3 : Fusionner et limiter à 1000 questions max
+    // ÉTAPE 3 : FILTRER LES DOUBLONS
     // ============================================
-    existingData.questions = [...existingData.questions, ...newQuestions.questions];
+    console.log('🔍 Vérification des doublons...');
     
-    // Garder les 1000 plus récentes
-    if (existingData.questions.length > 1000) {
-      existingData.questions = existingData.questions.slice(-1000);
-      console.log('⚠️ Limitation à 1000 questions (suppression des plus anciennes)');
+    const uniqueNewQuestions = [];
+    const duplicates = [];
+    const similarQuestions = [];
+    
+    for (const newQ of generatedQuestions.questions) {
+      const normalizedNew = normalizeQuestion(newQ.question);
+      
+      // Vérification 1 : Doublon exact
+      if (existingQuestionsSet.has(normalizedNew)) {
+        duplicates.push(newQ.question);
+        console.log(`🗑️  Doublon exact : "${newQ.question.substring(0, 60)}..."`);
+        continue;
+      }
+      
+      // Vérification 2 : Similarité avec les questions existantes
+      let isSimilar = false;
+      for (const existingQ of existingData.questions.slice(-100)) {
+        const similarity = calculateSimilarity(
+          normalizedNew,
+          normalizeQuestion(existingQ.question)
+        );
+        
+        if (similarity > 0.85) { // 85% de similarité = trop proche
+          isSimilar = true;
+          similarQuestions.push({
+            new: newQ.question,
+            existing: existingQ.question,
+            similarity: Math.round(similarity * 100)
+          });
+          console.log(`⚠️  Question similaire (${Math.round(similarity * 100)}%) :`);
+          console.log(`     Nouvelle : "${newQ.question.substring(0, 50)}..."`);
+          console.log(`     Existante: "${existingQ.question.substring(0, 50)}..."`);
+          break;
+        }
+      }
+      
+      if (!isSimilar) {
+        uniqueNewQuestions.push(newQ);
+        existingQuestionsSet.add(normalizedNew); // Ajouter au Set pour éviter les doublons internes
+      }
+    }
+    
+    console.log(`\n📊 Résumé du filtrage :`);
+    console.log(`   ✅ ${uniqueNewQuestions.length} questions uniques`);
+    console.log(`   ❌ ${duplicates.length} doublons exacts`);
+    console.log(`   ⚠️  ${similarQuestions.length} questions trop similaires`);
+
+    // Si on n'a pas assez de questions uniques, on arrête
+    if (uniqueNewQuestions.length === 0) {
+      console.log('⚠️ Aucune nouvelle question unique générée !');
+      return res.status(200).json({
+        success: true,
+        message: 'Aucune nouvelle question unique (toutes étaient des doublons)',
+        added: 0,
+        duplicates: duplicates.length,
+        similar: similarQuestions.length,
+        total: existingData.questions.length
+      });
     }
 
     // ============================================
-    // ÉTAPE 4 : Commit sur GitHub
+    // ÉTAPE 4 : Fusionner et limiter à 1000 questions max
+    // ============================================
+    existingData.questions = [...existingData.questions, ...uniqueNewQuestions];
+    
+    // Garder les 1000 plus récentes
+    if (existingData.questions.length > 1000) {
+      const removed = existingData.questions.length - 1000;
+      existingData.questions = existingData.questions.slice(-1000);
+      console.log(`⚠️ Limitation à 1000 questions (${removed} anciennes supprimées)`);
+    }
+
+    // ============================================
+    // ÉTAPE 5 : Commit sur GitHub
     // ============================================
     console.log('📤 Mise à jour du fichier sur GitHub...');
     
@@ -104,7 +192,7 @@ Consignes :
     
     const today = new Date().toLocaleDateString('fr-FR');
     
-    // Incrémenter aussi la version du quiz dans questions.json
+    // Incrémenter la version
     const currentVersion = existingData.version || 1;
     const newVersion = currentVersion + 1;
     existingData.version = newVersion;
@@ -121,7 +209,7 @@ Consignes :
           'Content-Type': 'application/json'
         },
         body: JSON.stringify({
-          message: `🤖 Ajout automatique de 10 questions - ${today}`,
+          message: `🤖 Ajout automatique de ${uniqueNewQuestions.length} questions uniques - ${today}`,
           content: encodedContent,
           sha: fileData.sha
         })
@@ -136,14 +224,21 @@ Consignes :
     console.log('✅ Fichier mis à jour sur GitHub !');
 
     // ============================================
-    // ÉTAPE 5 : Réponse
+    // ÉTAPE 6 : Réponse détaillée
     // ============================================
     return res.status(200).json({
       success: true,
-      message: `${newQuestions.questions.length} questions générées et ajoutées`,
+      message: `${uniqueNewQuestions.length} questions uniques ajoutées`,
+      added: uniqueNewQuestions.length,
+      duplicatesAvoided: duplicates.length,
+      similarAvoided: similarQuestions.length,
       total: existingData.questions.length,
+      version: newVersion,
       date: today,
-      samples: newQuestions.questions.slice(0, 2)
+      samples: uniqueNewQuestions.slice(0, 3).map(q => ({
+        question: q.question,
+        category: q.category
+      }))
     });
 
   } catch (error) {
@@ -154,4 +249,74 @@ Consignes :
       stack: process.env.NODE_ENV === 'development' ? error.stack : undefined
     });
   }
+}
+
+// ============================================
+// FONCTIONS UTILITAIRES
+// ============================================
+
+/**
+ * Normalise une question pour la comparaison
+ * - Minuscules
+ * - Sans accents
+ * - Sans espaces multiples
+ * - Sans ponctuation
+ */
+function normalizeQuestion(question) {
+  return question
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '') // Enlever les accents
+    .replace(/[^\w\s]/g, '') // Enlever la ponctuation
+    .replace(/\s+/g, ' ') // Normaliser les espaces
+    .trim();
+}
+
+/**
+ * Calcule la similarité entre deux chaînes (distance de Levenshtein)
+ * Retourne un score entre 0 (différent) et 1 (identique)
+ */
+function calculateSimilarity(str1, str2) {
+  const longer = str1.length > str2.length ? str1 : str2;
+  const shorter = str1.length > str2.length ? str2 : str1;
+  
+  if (longer.length === 0) {
+    return 1.0;
+  }
+  
+  const editDistance = getEditDistance(longer, shorter);
+  return (longer.length - editDistance) / longer.length;
+}
+
+/**
+ * Calcule la distance d'édition entre deux chaînes
+ */
+function getEditDistance(str1, str2) {
+  const matrix = [];
+  
+  // Initialisation
+  for (let i = 0; i <= str2.length; i++) {
+    matrix[i] = [i];
+  }
+  
+  for (let j = 0; j <= str1.length; j++) {
+    matrix[0][j] = j;
+  }
+  
+  // Calcul
+  for (let i = 1; i <= str2.length; i++) {
+    for (let j = 1; j <= str1.length; j++) {
+      if (str2.charAt(i - 1) === str1.charAt(j - 1)) {
+        matrix[i][j] = matrix[i - 1][j - 1];
+      } else {
+        matrix[i][j] = Math.min(
+          matrix[i - 1][j - 1] + 1, // substitution
+          matrix[i][j - 1] + 1,     // insertion
+          matrix[i - 1][j] + 1      // suppression
+        );
+      }
+    }
+  }
+  
+  return matrix[str2.length][str1.length];
 }
