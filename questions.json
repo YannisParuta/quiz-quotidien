@@ -1187,9 +1187,108 @@
       ],
       "correctAnswer": 1,
       "category": "Gastronomie"
+    },
+    {
+      "question": "Qui a découvert la radioactivité naturelle ?",
+      "options": [
+        "Marie Curie",
+        "Henri Becquerel",
+        "Pierre Curie",
+        "Ernest Rutherford"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quelle décennie a été inventé le World Wide Web ?",
+      "options": [
+        "1970",
+        "1980",
+        "1990",
+        "2000"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie"
+    },
+    {
+      "question": "Quel est le plus petit pays d'Afrique continentale ?",
+      "options": [
+        "Djibouti",
+        "Gambie",
+        "Eswatini",
+        "Guinée équatoriale"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
+      "options": [
+        "Traité de Versailles",
+        "Traité de Trianon",
+        "Traité de Sèvres",
+        "Traité de Saint-Germain"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quelle vitamine est principalement synthétisée par la peau sous l'action du soleil ?",
+      "options": [
+        "Vitamine A",
+        "Vitamine C",
+        "Vitamine D",
+        "Vitamine E"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
+      "options": [
+        "Le Corbusier",
+        "Frank Lloyd Wright",
+        "Antoni Gaudí",
+        "Zaha Hadid"
+      ],
+      "correctAnswer": 2,
+      "category": "Art"
+    },
+    {
+      "question": "Quelle espèce animale peut vivre le plus longtemps ?",
+      "options": [
+        "Tortue géante",
+        "Requin du Groenland",
+        "Baleine bleue",
+        "Éléphant d'Afrique"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature"
+    },
+    {
+      "question": "De quel pays provient originalement la paella ?",
+      "options": [
+        "Portugal",
+        "Italie",
+        "Espagne",
+        "France"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie"
+    },
+    {
+      "question": "Quelle civilisation a construit le Machu Picchu ?",
+      "options": [
+        "Les Mayas",
+        "Les Aztèques",
+        "Les Incas",
+        "Les Olmèques"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
     }
   ],
-  "version": 4,
+  "version": 5,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-08T16:44:09.596Z"
+  "last_updated": "2026-02-08T16:44:53.306Z"
 }
