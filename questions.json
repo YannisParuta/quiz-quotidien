@@ -1979,6 +1979,160 @@
       ],
       "correctAnswer": 2,
       "category": "Technologie"
+    },
+    {
+      "question": "Quel océan borde la côte ouest de l'Afrique ?",
+      "options": [
+        "Océan Indien",
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
+    },
+    {
+      "question": "Qui était le premier empereur romain ?",
+      "options": [
+        "Jules César",
+        "Auguste",
+        "Néron",
+        "Trajan"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quelle vitamine est produite par la peau grâce aux rayons du soleil ?",
+      "options": [
+        "Vitamine A",
+        "Vitamine C",
+        "Vitamine D",
+        "Vitamine K"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quelle ville se trouve le musée du Louvre ?",
+      "options": [
+        "Londres",
+        "Rome",
+        "Madrid",
+        "Paris"
+      ],
+      "correctAnswer": 3,
+      "category": "Culture"
+    },
+    {
+      "question": "Combien de sets faut-il gagner pour remporter un match de tennis en Grand Chelem masculin ?",
+      "options": [
+        "2 sets",
+        "3 sets",
+        "4 sets",
+        "5 sets"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel mouvement artistique Pablo Picasso a-t-il cofondé ?",
+      "options": [
+        "Impressionnisme",
+        "Surréalisme",
+        "Cubisme",
+        "Fauvisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art"
+    },
+    {
+      "question": "Qui a écrit 'Le Petit Prince' ?",
+      "options": [
+        "Marcel Proust",
+        "Antoine de Saint-Exupéry",
+        "Jean-Paul Sartre",
+        "Albert Camus"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel animal peut vivre le plus longtemps ?",
+      "options": [
+        "Tortue géante",
+        "Baleine bleue",
+        "Méduse immortelle",
+        "Requin du Groenland"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Quelle est la racine carrée de 144 ?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quel instrument Frédéric Chopin jouait-il principalement ?",
+      "options": [
+        "Violon",
+        "Violoncelle",
+        "Piano",
+        "Flûte"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique"
+    },
+    {
+      "question": "Qui a réalisé le film 'Le Parrain' ?",
+      "options": [
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Steven Spielberg",
+        "Ridley Scott"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Que signifie l'acronyme 'URL' ?",
+      "options": [
+        "Universal Resource Locator",
+        "Uniform Resource Locator",
+        "United Resource Link",
+        "Universal Reference Link"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie"
+    },
+    {
+      "question": "Sur quel continent se trouve le désert du Sahara ?",
+      "options": [
+        "Asie",
+        "Amérique du Sud",
+        "Afrique",
+        "Australie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1967",
+        "1968",
+        "1969",
+        "1970"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
     }
   ]
 }
