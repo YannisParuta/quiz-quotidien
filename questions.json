@@ -967,9 +967,141 @@
       ],
       "correctAnswer": 1,
       "category": "Gastronomie"
+    },
+    {
+      "question": "Quelle est la capitale de l'Islande ?",
+      "options": [
+        "Oslo",
+        "Reykjavik",
+        "Helsinki",
+        "Stockholm"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel empereur romain a légalisé le christianisme avec l'Édit de Milan ?",
+      "options": [
+        "Auguste",
+        "Néron",
+        "Constantin",
+        "Trajan"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quelle est la formule chimique de l'eau oxygénée ?",
+      "options": [
+        "H2O",
+        "H2O2",
+        "HO2",
+        "H2SO4"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quel film trouve-t-on le personnage de Hannibal Lecter ?",
+      "options": [
+        "Psychose",
+        "Le Silence des agneaux",
+        "Shining",
+        "Seven"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quelle héroïne de Jane Austen vit à Longbourn ?",
+      "options": [
+        "Emma Woodhouse",
+        "Elizabeth Bennet",
+        "Anne Elliot",
+        "Marianne Dashwood"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est le plus grand désert chaud du monde ?",
+      "options": [
+        "Désert du Kalahari",
+        "Désert de Gobi",
+        "Désert du Sahara",
+        "Désert d'Atacama"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Combien vaut 7 au cube ?",
+      "options": [
+        "49",
+        "147",
+        "343",
+        "294"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "De combien de musiciens se compose généralement un quatuor à cordes ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique"
+    },
+    {
+      "question": "Quel système d'exploitation mobile a été développé par Google ?",
+      "options": [
+        "iOS",
+        "Windows Phone",
+        "Android",
+        "BlackBerry"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie"
+    },
+    {
+      "question": "Quelle spécialité culinaire est originaire de la région de Provence ?",
+      "options": [
+        "Choucroute",
+        "Bouillabaisse",
+        "Cassoulet",
+        "Pot-au-feu"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie"
+    },
+    {
+      "question": "En quelle année a été créée l'Organisation des Nations Unies ?",
+      "options": [
+        "1944",
+        "1945",
+        "1946",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Dans quelle mer se jette le Danube ?",
+      "options": [
+        "Mer Noire",
+        "Mer Adriatique",
+        "Mer Égée",
+        "Mer Baltique"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie"
     }
   ],
-  "version": 2,
+  "version": 3,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-08T16:40:41.515Z"
+  "last_updated": "2026-02-08T16:42:55.604Z"
 }
