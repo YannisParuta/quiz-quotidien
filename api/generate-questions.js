@@ -13,7 +13,7 @@ export default async function handler(req, res) {
     const githubRepo = 'yannisparuta/quiz-quotidien';
     const filePath = 'questions.json';
     
-    console.log('📥 Chargement des questions existantes...');
+    console.log('📥 Chargement des questions existantes depuis GitHub...');
     
     const getFileResponse = await fetch(
       `https://api.github.com/repos/${githubRepo}/contents/${filePath}`,
@@ -26,7 +26,7 @@ export default async function handler(req, res) {
     );
     
     if (!getFileResponse.ok) {
-      throw new Error(`Erreur GitHub: ${getFileResponse.status}`);
+      throw new Error(`Erreur GitHub GET: ${getFileResponse.status}`);
     }
     
     const fileData = await getFileResponse.json();
@@ -36,18 +36,19 @@ export default async function handler(req, res) {
     console.log(`✅ ${existingData.questions.length} questions existantes chargées`);
 
     // ============================================
-    // ÉTAPE 1.5 : Créer un Set des questions existantes (pour détecter les doublons)
+    // ÉTAPE 2 : Créer un index des questions existantes
     // ============================================
+    console.log('🔍 Création de l\'index des questions existantes...');
+    
+    // Set pour les doublons exacts
     const existingQuestionsSet = new Set(
-      existingData.questions.map(q => 
-        normalizeQuestion(q.question)
-      )
+      existingData.questions.map(q => normalizeQuestion(q.question))
     );
     
-    console.log(`🔍 Index de ${existingQuestionsSet.size} questions uniques créé`);
+    console.log(`📊 Index créé : ${existingQuestionsSet.size} questions uniques`);
 
     // ============================================
-    // ÉTAPE 2 : Générer 10 nouvelles questions avec Claude
+    // ÉTAPE 3 : Générer de nouvelles questions avec Claude
     // ============================================
     console.log('🤖 Génération de nouvelles questions avec Claude...');
     
@@ -55,19 +56,19 @@ export default async function handler(req, res) {
       apiKey: process.env.ANTHROPIC_API_KEY,
     });
 
-    // Extraire 30 questions récentes comme exemples à éviter
+    // Prendre les 30 dernières questions comme exemples à éviter
     const recentQuestions = existingData.questions
       .slice(-30)
-      .map(q => `- ${q.question}`)
+      .map((q, i) => `${i + 1}. ${q.question}`)
       .join('\n');
 
-    const prompt = `Génère exactement 15 questions de quiz en français avec 4 options de réponse chacune.
+    const prompt = `Tu es un expert en création de quiz éducatifs. Génère exactement 15 questions de quiz en français.
 
-⚠️ IMPORTANT : NE CRÉE PAS de questions similaires aux exemples ci-dessous :
+⚠️ IMPORTANT : NE CRÉE PAS de questions identiques ou trop similaires à ces exemples récents :
 
 ${recentQuestions}
 
-Format STRICTEMENT JSON (sans markdown, sans commentaires) :
+Format STRICTEMENT JSON (sans markdown, sans commentaires, sans texte avant ou après) :
 {
   "questions": [
     {
@@ -79,13 +80,14 @@ Format STRICTEMENT JSON (sans markdown, sans commentaires) :
   ]
 }
 
-Consignes :
-- Variété de catégories : Géographie, Histoire, Science, Culture, Sport, Art, Littérature, Nature, Mathématiques, Musique, Cinéma, Technologie
+CONSIGNES IMPORTANTES :
+- Variété de catégories : Géographie, Histoire, Science, Culture, Sport, Art, Littérature, Nature, Mathématiques, Musique, Cinéma, Technologie, Gastronomie
 - Questions ORIGINALES et DIFFÉRENTES des exemples ci-dessus
-- Questions de difficulté moyenne
+- Difficulté : moyenne
 - Réponses courtes et claires
-- correctAnswer est l'INDEX (0, 1, 2 ou 3)
+- correctAnswer est l'INDEX de la bonne réponse (0, 1, 2 ou 3)
 - Questions intéressantes et éducatives
+- Évite les questions trop génériques
 - Retourne UNIQUEMENT le JSON, rien d'autre`;
 
     const message = await anthropic.messages.create({
@@ -99,83 +101,121 @@ Consignes :
 
     // Extraire et nettoyer le JSON
     let jsonContent = message.content[0].text;
-    jsonContent = jsonContent.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
     
-    const generatedQuestions = JSON.parse(jsonContent);
+    // Nettoyer les balises markdown si présentes
+    jsonContent = jsonContent
+      .replace(/```json\n?/g, '')
+      .replace(/```\n?/g, '')
+      .trim();
     
-    console.log(`✅ ${generatedQuestions.questions.length} questions générées par Claude`);
+    // Parser le JSON
+    let generatedData;
+    try {
+      generatedData = JSON.parse(jsonContent);
+    } catch (parseError) {
+      console.error('❌ Erreur parsing JSON:', jsonContent.substring(0, 200));
+      throw new Error(`Erreur parsing JSON: ${parseError.message}`);
+    }
+    
+    const generatedQuestions = generatedData.questions;
+    
+    console.log(`✅ ${generatedQuestions.length} questions générées par Claude`);
 
     // ============================================
-    // ÉTAPE 3 : FILTRER LES DOUBLONS
+    // ÉTAPE 4 : FILTRER LES DOUBLONS (CRUCIAL !)
     // ============================================
-    console.log('🔍 Vérification des doublons...');
+    console.log('🔍 Vérification des doublons avec l\'historique complet...');
     
     const uniqueNewQuestions = [];
     const duplicates = [];
     const similarQuestions = [];
     
-    for (const newQ of generatedQuestions.questions) {
-      const normalizedNew = normalizeQuestion(newQ.question);
+    for (const newQuestion of generatedQuestions) {
+      const normalizedNew = normalizeQuestion(newQuestion.question);
       
-      // Vérification 1 : Doublon exact
+      // ===== VÉRIFICATION 1 : Doublon exact avec l'historique =====
       if (existingQuestionsSet.has(normalizedNew)) {
-        duplicates.push(newQ.question);
-        console.log(`🗑️  Doublon exact : "${newQ.question.substring(0, 60)}..."`);
+        duplicates.push(newQuestion.question);
+        console.log(`🗑️  Doublon exact détecté : "${newQuestion.question.substring(0, 60)}..."`);
         continue;
       }
       
-      // Vérification 2 : Similarité avec les questions existantes
-      let isSimilar = false;
-      for (const existingQ of existingData.questions.slice(-100)) {
-        const similarity = calculateSimilarity(
-          normalizedNew,
-          normalizeQuestion(existingQ.question)
-        );
+      // ===== VÉRIFICATION 2 : Similarité avec les questions existantes =====
+      let isTooSimilar = false;
+      
+      // Vérifier contre les 100 dernières questions pour optimiser la performance
+      const questionsToCheck = existingData.questions.slice(-100);
+      
+      for (const existingQuestion of questionsToCheck) {
+        const normalizedExisting = normalizeQuestion(existingQuestion.question);
+        const similarity = calculateSimilarity(normalizedNew, normalizedExisting);
         
-        if (similarity > 0.85) { // 85% de similarité = trop proche
-          isSimilar = true;
+        // Seuil de similarité : 85%
+        if (similarity > 0.85) {
+          isTooSimilar = true;
+          const similarityPercent = Math.round(similarity * 100);
+          
           similarQuestions.push({
-            new: newQ.question,
-            existing: existingQ.question,
-            similarity: Math.round(similarity * 100)
+            newQuestion: newQuestion.question,
+            existingQuestion: existingQuestion.question,
+            similarity: similarityPercent
           });
-          console.log(`⚠️  Question similaire (${Math.round(similarity * 100)}%) :`);
-          console.log(`     Nouvelle : "${newQ.question.substring(0, 50)}..."`);
-          console.log(`     Existante: "${existingQ.question.substring(0, 50)}..."`);
+          
+          console.log(`⚠️  Question trop similaire (${similarityPercent}%) :`);
+          console.log(`     Nouvelle  : "${newQuestion.question.substring(0, 50)}..."`);
+          console.log(`     Existante : "${existingQuestion.question.substring(0, 50)}..."`);
           break;
         }
       }
       
-      if (!isSimilar) {
-        uniqueNewQuestions.push(newQ);
-        existingQuestionsSet.add(normalizedNew); // Ajouter au Set pour éviter les doublons internes
+      // ===== VÉRIFICATION 3 : Doublon interne (entre les nouvelles questions) =====
+      const isDuplicateInternal = uniqueNewQuestions.some(q => 
+        normalizeQuestion(q.question) === normalizedNew
+      );
+      
+      if (isDuplicateInternal) {
+        console.log(`🗑️  Doublon interne détecté : "${newQuestion.question.substring(0, 60)}..."`);
+        continue;
+      }
+      
+      // Si pas de doublon et pas trop similaire, on l'accepte
+      if (!isTooSimilar) {
+        uniqueNewQuestions.push(newQuestion);
+        existingQuestionsSet.add(normalizedNew); // Ajouter au Set pour les prochaines vérifications
       }
     }
     
-    console.log(`\n📊 Résumé du filtrage :`);
-    console.log(`   ✅ ${uniqueNewQuestions.length} questions uniques`);
-    console.log(`   ❌ ${duplicates.length} doublons exacts`);
-    console.log(`   ⚠️  ${similarQuestions.length} questions trop similaires`);
+    console.log(`\n${'='.repeat(60)}`);
+    console.log('📊 RÉSUMÉ DU FILTRAGE');
+    console.log('='.repeat(60));
+    console.log(`✅ Questions uniques acceptées  : ${uniqueNewQuestions.length}`);
+    console.log(`❌ Doublons exacts évités       : ${duplicates.length}`);
+    console.log(`⚠️  Questions similaires évitées : ${similarQuestions.length}`);
+    console.log(`📈 Total généré par Claude      : ${generatedQuestions.length}`);
+    console.log('='.repeat(60) + '\n');
 
-    // Si on n'a pas assez de questions uniques, on arrête
+    // Si aucune question unique, on arrête
     if (uniqueNewQuestions.length === 0) {
-      console.log('⚠️ Aucune nouvelle question unique générée !');
+      console.log('⚠️ Aucune nouvelle question unique générée (toutes étaient des doublons)');
       return res.status(200).json({
         success: true,
         message: 'Aucune nouvelle question unique (toutes étaient des doublons)',
         added: 0,
-        duplicates: duplicates.length,
-        similar: similarQuestions.length,
-        total: existingData.questions.length
+        duplicatesAvoided: duplicates.length,
+        similarAvoided: similarQuestions.length,
+        total: existingData.questions.length,
+        date: new Date().toLocaleDateString('fr-FR')
       });
     }
 
     // ============================================
-    // ÉTAPE 4 : Fusionner et limiter à 1000 questions max
+    // ÉTAPE 5 : Fusionner les questions
     // ============================================
+    console.log(`📝 Ajout de ${uniqueNewQuestions.length} nouvelles questions...`);
+    
     existingData.questions = [...existingData.questions, ...uniqueNewQuestions];
     
-    // Garder les 1000 plus récentes
+    // Limiter à 1000 questions max (garder les plus récentes)
     if (existingData.questions.length > 1000) {
       const removed = existingData.questions.length - 1000;
       existingData.questions = existingData.questions.slice(-1000);
@@ -183,7 +223,17 @@ Consignes :
     }
 
     // ============================================
-    // ÉTAPE 5 : Commit sur GitHub
+    // ÉTAPE 6 : Incrémenter la version
+    // ============================================
+    const currentVersion = existingData.version || 1;
+    const newVersion = currentVersion + 1;
+    existingData.version = newVersion;
+    existingData.last_updated = new Date().toISOString();
+    
+    console.log(`🔢 Version: ${currentVersion} → ${newVersion}`);
+
+    // ============================================
+    // ÉTAPE 7 : Commit sur GitHub
     // ============================================
     console.log('📤 Mise à jour du fichier sur GitHub...');
     
@@ -191,13 +241,6 @@ Consignes :
     const encodedContent = Buffer.from(newContent).toString('base64');
     
     const today = new Date().toLocaleDateString('fr-FR');
-    
-    // Incrémenter la version
-    const currentVersion = existingData.version || 1;
-    const newVersion = currentVersion + 1;
-    existingData.version = newVersion;
-    
-    console.log(`🔢 Version: ${currentVersion} → ${newVersion}`);
     
     const updateResponse = await fetch(
       `https://api.github.com/repos/${githubRepo}/contents/${filePath}`,
@@ -221,28 +264,31 @@ Consignes :
       throw new Error(`Erreur commit GitHub: ${JSON.stringify(errorData)}`);
     }
 
-    console.log('✅ Fichier mis à jour sur GitHub !');
+    console.log('✅ Fichier mis à jour avec succès sur GitHub !');
 
     // ============================================
-    // ÉTAPE 6 : Réponse détaillée
+    // ÉTAPE 8 : Réponse détaillée
     // ============================================
     return res.status(200).json({
       success: true,
-      message: `${uniqueNewQuestions.length} questions uniques ajoutées`,
+      message: `${uniqueNewQuestions.length} questions uniques ajoutées avec succès`,
       added: uniqueNewQuestions.length,
       duplicatesAvoided: duplicates.length,
       similarAvoided: similarQuestions.length,
-      total: existingData.questions.length,
+      totalGenerated: generatedQuestions.length,
+      totalInDatabase: existingData.questions.length,
       version: newVersion,
       date: today,
       samples: uniqueNewQuestions.slice(0, 3).map(q => ({
         question: q.question,
         category: q.category
-      }))
+      })),
+      duplicatesExamples: duplicates.slice(0, 3),
+      similarExamples: similarQuestions.slice(0, 3)
     });
 
   } catch (error) {
-    console.error('❌ Erreur:', error);
+    console.error('❌ ERREUR FATALE:', error);
     return res.status(500).json({
       success: false,
       error: error.message,
@@ -259,22 +305,32 @@ Consignes :
  * Normalise une question pour la comparaison
  * - Minuscules
  * - Sans accents
- * - Sans espaces multiples
  * - Sans ponctuation
+ * - Sans espaces multiples
+ * 
+ * Exemple :
+ * "Quelle est la Capitale de la France ?" 
+ * → "quelle est la capitale de la france"
  */
 function normalizeQuestion(question) {
   return question
     .toLowerCase()
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '') // Enlever les accents
-    .replace(/[^\w\s]/g, '') // Enlever la ponctuation
-    .replace(/\s+/g, ' ') // Normaliser les espaces
+    .normalize('NFD')                    // Décomposer les caractères accentués
+    .replace(/[\u0300-\u036f]/g, '')    // Supprimer les accents
+    .replace(/[^\w\s]/g, '')            // Supprimer la ponctuation
+    .replace(/\s+/g, ' ')               // Normaliser les espaces
     .trim();
 }
 
 /**
- * Calcule la similarité entre deux chaînes (distance de Levenshtein)
- * Retourne un score entre 0 (différent) et 1 (identique)
+ * Calcule la similarité entre deux chaînes de caractères
+ * Utilise la distance de Levenshtein
+ * 
+ * Retourne un score entre 0 (complètement différent) et 1 (identique)
+ * 
+ * Exemple :
+ * calculateSimilarity("Quelle est la capitale", "Quelle capitale") 
+ * → 0.76 (76% similaire)
  */
 function calculateSimilarity(str1, str2) {
   const longer = str1.length > str2.length ? str1 : str2;
@@ -289,30 +345,41 @@ function calculateSimilarity(str1, str2) {
 }
 
 /**
- * Calcule la distance d'édition entre deux chaînes
+ * Calcule la distance d'édition (Levenshtein) entre deux chaînes
+ * 
+ * La distance de Levenshtein mesure le nombre minimum d'opérations 
+ * (insertion, suppression, substitution) nécessaires pour transformer 
+ * une chaîne en une autre.
+ * 
+ * Exemple :
+ * getEditDistance("chat", "chien") → 3
+ * (remplacer 'a' par 'i', 't' par 'e', ajouter 'n')
  */
 function getEditDistance(str1, str2) {
   const matrix = [];
   
-  // Initialisation
+  // Initialisation de la première colonne
   for (let i = 0; i <= str2.length; i++) {
     matrix[i] = [i];
   }
   
+  // Initialisation de la première ligne
   for (let j = 0; j <= str1.length; j++) {
     matrix[0][j] = j;
   }
   
-  // Calcul
+  // Calcul de la matrice
   for (let i = 1; i <= str2.length; i++) {
     for (let j = 1; j <= str1.length; j++) {
       if (str2.charAt(i - 1) === str1.charAt(j - 1)) {
+        // Les caractères sont identiques, pas d'opération nécessaire
         matrix[i][j] = matrix[i - 1][j - 1];
       } else {
+        // Prendre le minimum entre substitution, insertion, suppression
         matrix[i][j] = Math.min(
-          matrix[i - 1][j - 1] + 1, // substitution
-          matrix[i][j - 1] + 1,     // insertion
-          matrix[i - 1][j] + 1      // suppression
+          matrix[i - 1][j - 1] + 1, // Substitution
+          matrix[i][j - 1] + 1,     // Insertion
+          matrix[i - 1][j] + 1      // Suppression
         );
       }
     }
