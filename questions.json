@@ -122,17 +122,6 @@
       "category": "Géographie"
     },
     {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
       "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
       "options": [
         "Argent",
@@ -144,17 +133,6 @@
       "category": "Science"
     },
     {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Claude Monet",
-        "Salvador Dalí"
-      ],
-      "correctAnswer": 1,
-      "category": "Art"
-    },
-    {
       "question": "Combien de joueurs composent une équipe de basket-ball sur le terrain ?",
       "options": [
         "4",
@@ -164,28 +142,6 @@
       ],
       "correctAnswer": 1,
       "category": "Sport"
-    },
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Alexandre Dumas"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros blanc",
-        "Hippopotame",
-        "Girafe",
-        "Éléphant d'Afrique"
-      ],
-      "correctAnswer": 3,
-      "category": "Nature"
     },
     {
       "question": "Combien font 7 × 8 ?",
@@ -221,28 +177,6 @@
       "category": "Technologie"
     },
     {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1985"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
       "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
       "options": [
         "Oxygène",
@@ -252,17 +186,6 @@
       ],
       "correctAnswer": 3,
       "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Pablo Picasso",
-        "Leonardo da Vinci"
-      ],
-      "correctAnswer": 1,
-      "category": "Art"
     },
     {
       "question": "Combien de joueurs composent une équipe de rugby à XV ?",
@@ -285,17 +208,6 @@
       ],
       "correctAnswer": 2,
       "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros blanc",
-        "Hippopotame",
-        "Éléphant d'Afrique",
-        "Girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature"
     },
     {
       "question": "Combien font 7 au carré ?",
@@ -331,61 +243,6 @@
       "category": "Technologie"
     },
     {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
-      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Arsenic"
-      ],
-      "correctAnswer": 2,
-      "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Claude Monet",
-        "Leonardo da Vinci"
-      ],
-      "correctAnswer": 1,
-      "category": "Art"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport"
-    },
-    {
       "question": "Quel auteur a écrit 'L'Étranger' ?",
       "options": [
         "Jean-Paul Sartre",
@@ -395,17 +252,6 @@
       ],
       "correctAnswer": 1,
       "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros blanc",
-        "Hippopotame",
-        "Éléphant d'Afrique",
-        "Girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature"
     },
     {
       "question": "Quelle est la valeur de π (pi) arrondie à deux décimales ?",
@@ -441,61 +287,6 @@
       "category": "Cinéma"
     },
     {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1990"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
-      "question": "Quel est l'élément chimique dont le symbole est Fe ?",
-      "options": [
-        "Fluor",
-        "Fer",
-        "Phosphore",
-        "Francium"
-      ],
-      "correctAnswer": 1,
-      "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Pablo Picasso",
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Leonardo da Vinci"
-      ],
-      "correctAnswer": 2,
-      "category": "Art"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport"
-    },
-    {
       "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
       "options": [
         "Agatha Christie",
@@ -505,17 +296,6 @@
       ],
       "correctAnswer": 2,
       "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros",
-        "Hippopotame",
-        "Girafe",
-        "Éléphant d'Afrique"
-      ],
-      "correctAnswer": 3,
-      "category": "Nature"
     },
     {
       "question": "Que vaut π (pi) approximativement ?",
@@ -529,17 +309,6 @@
       "category": "Mathématiques"
     },
     {
-      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
-      "options": [
-        "Steven Spielberg",
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma"
-    },
-    {
       "question": "Quelle entreprise a développé le système d'exploitation Android ?",
       "options": [
         "Apple",
@@ -549,50 +318,6 @@
       ],
       "correctAnswer": 3,
       "category": "Technologie"
-    },
-    {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
-      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Arsenic"
-      ],
-      "correctAnswer": 2,
-      "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Pablo Picasso",
-        "Paul Cézanne"
-      ],
-      "correctAnswer": 1,
-      "category": "Art"
     },
     {
       "question": "Combien d'équipes participent à la Coupe du Monde de football ?",
@@ -606,28 +331,6 @@
       "category": "Sport"
     },
     {
-      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Edgar Allan Poe",
-        "Arthur Conan Doyle",
-        "Jules Verne"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros blanc",
-        "Hippopotame",
-        "Girafe",
-        "Éléphant d'Afrique"
-      ],
-      "correctAnswer": 3,
-      "category": "Nature"
-    },
-    {
       "question": "Combien vaut π (pi) approximativement ?",
       "options": [
         "3,14",
@@ -637,17 +340,6 @@
       ],
       "correctAnswer": 0,
       "category": "Mathématiques"
-    },
-    {
-      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Steven Spielberg",
-        "David Lynch"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma"
     },
     {
       "question": "Quel réseau social a été lancé en premier ?",
@@ -661,83 +353,6 @@
       "category": "Technologie"
     },
     {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Brisbane"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
-      "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
-      "options": [
-        "Oxygène",
-        "Carbone",
-        "Hélium",
-        "Hydrogène"
-      ],
-      "correctAnswer": 3,
-      "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Pablo Picasso",
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Salvador Dalí"
-      ],
-      "correctAnswer": 2,
-      "category": "Art"
-    },
-    {
-      "question": "Combien de joueurs compose une équipe de rugby à XV sur le terrain ?",
-      "options": [
-        "13",
-        "15",
-        "11",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport"
-    },
-    {
-      "question": "Quel auteur a écrit 'L'Étranger' ?",
-      "options": [
-        "Jean-Paul Sartre",
-        "Albert Camus",
-        "André Malraux",
-        "Boris Vian"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros blanc",
-        "Hippopotame",
-        "Éléphant d'Afrique",
-        "Girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature"
-    },
-    {
       "question": "Combien de faces possède un dodécaèdre ?",
       "options": [
         "10",
@@ -749,72 +364,6 @@
       "category": "Mathématiques"
     },
     {
-      "question": "Qui a composé 'Les Quatre Saisons' ?",
-      "options": [
-        "Johann Sebastian Bach",
-        "Wolfgang Amadeus Mozart",
-        "Antonio Vivaldi",
-        "Ludwig van Beethoven"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique"
-    },
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
-      "options": [
-        "Java",
-        "Python",
-        "JavaScript",
-        "Ruby"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie"
-    },
-    {
-      "question": "Quelle est la capitale du Canada ?",
-      "options": [
-        "Toronto",
-        "Vancouver",
-        "Ottawa",
-        "Montréal"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
-      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Arsenic"
-      ],
-      "correctAnswer": 2,
-      "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Pablo Picasso",
-        "Leonardo da Vinci"
-      ],
-      "correctAnswer": 1,
-      "category": "Art"
-    },
-    {
       "question": "Dans quel sport utilise-t-on un shuttlecock ?",
       "options": [
         "Tennis",
@@ -824,50 +373,6 @@
       ],
       "correctAnswer": 2,
       "category": "Sport"
-    },
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Gustave Flaubert",
-        "Victor Hugo",
-        "Émile Zola",
-        "Alexandre Dumas"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros blanc",
-        "Hippopotame",
-        "Éléphant d'Afrique",
-        "Girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature"
-    },
-    {
-      "question": "Combien font 7 au carré ?",
-      "options": [
-        "42",
-        "49",
-        "56",
-        "64"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques"
-    },
-    {
-      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Steven Spielberg",
-        "Quentin Tarantino",
-        "David Fincher"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma"
     },
     {
       "question": "Quelle entreprise a créé l'iPhone ?",
@@ -892,72 +397,6 @@
       "category": "Géographie"
     },
     {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
-      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Pablo Picasso",
-        "Leonardo da Vinci"
-      ],
-      "correctAnswer": 1,
-      "category": "Art"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de handball sur le terrain ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport"
-    },
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros",
-        "Hippopotame",
-        "Éléphant d'Afrique",
-        "Girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature"
-    },
-    {
       "question": "Que vaut π (pi) arrondi à deux décimales ?",
       "options": [
         "3,12",
@@ -967,17 +406,6 @@
       ],
       "correctAnswer": 1,
       "category": "Mathématiques"
-    },
-    {
-      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
-      "options": [
-        "Steven Spielberg",
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma"
     },
     {
       "question": "Quel système d'exploitation a été créé par Linus Torvalds ?",
@@ -991,83 +419,6 @@
       "category": "Technologie"
     },
     {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
-      "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
-      "options": [
-        "Oxygène",
-        "Carbone",
-        "Hélium",
-        "Hydrogène"
-      ],
-      "correctAnswer": 3,
-      "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Pablo Picasso",
-        "Leonardo da Vinci"
-      ],
-      "correctAnswer": 1,
-      "category": "Art"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de rugby à XV sur le terrain ?",
-      "options": [
-        "13",
-        "14",
-        "15",
-        "16"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport"
-    },
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros blanc",
-        "Hippopotame",
-        "Éléphant d'Afrique",
-        "Girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature"
-    },
-    {
       "question": "Combien de côtés a un dodécagone ?",
       "options": [
         "10",
@@ -1077,28 +428,6 @@
       ],
       "correctAnswer": 1,
       "category": "Mathématiques"
-    },
-    {
-      "question": "Qui a composé 'Les Quatre Saisons' ?",
-      "options": [
-        "Johann Sebastian Bach",
-        "Wolfgang Amadeus Mozart",
-        "Antonio Vivaldi",
-        "Ludwig van Beethoven"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique"
-    },
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
-      "options": [
-        "Java",
-        "Python",
-        "JavaScript",
-        "C++"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie"
     },
     {
       "question": "Quel est le plus long fleuve d'Europe ?",
@@ -1112,17 +441,6 @@
       "category": "Géographie"
     },
     {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1988",
-        "1989",
-        "1990"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire"
-    },
-    {
       "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
       "options": [
         "Oxygène",
@@ -1134,105 +452,6 @@
       "category": "Science"
     },
     {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Leonardo da Vinci"
-      ],
-      "correctAnswer": 2,
-      "category": "Art"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on un shuttlecock ?",
-      "options": [
-        "Tennis",
-        "Badminton",
-        "Squash",
-        "Ping-pong"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport"
-    },
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Gustave Flaubert",
-        "Victor Hugo",
-        "Alexandre Dumas"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "L'hippopotame",
-        "Le rhinocéros",
-        "La girafe",
-        "L'éléphant d'Afrique"
-      ],
-      "correctAnswer": 3,
-      "category": "Nature"
-    },
-    {
-      "question": "Combien de faces possède un dodécaèdre ?",
-      "options": [
-        "10",
-        "12",
-        "14",
-        "16"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques"
-    },
-    {
-      "question": "Quel compositeur a écrit 'Les Quatre Saisons' ?",
-      "options": [
-        "Johann Sebastian Bach",
-        "Wolfgang Amadeus Mozart",
-        "Antonio Vivaldi",
-        "Ludwig van Beethoven"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique"
-    },
-    {
-      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Steven Spielberg",
-        "David Lynch"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma"
-    },
-    {
-      "question": "Quelle est la capitale du Canada ?",
-      "options": [
-        "Toronto",
-        "Vancouver",
-        "Ottawa",
-        "Montréal"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
       "question": "Combien d'os compte le corps humain adulte ?",
       "options": [
         "186",
@@ -1242,28 +461,6 @@
       ],
       "correctAnswer": 1,
       "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Pablo Picasso",
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Salvador Dalí"
-      ],
-      "correctAnswer": 2,
-      "category": "Art"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de rugby à XV ?",
-      "options": [
-        "13",
-        "15",
-        "17",
-        "19"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport"
     },
     {
       "question": "Quel est l'auteur du roman '1984' ?",
@@ -1277,39 +474,6 @@
       "category": "Littérature"
     },
     {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros",
-        "Hippopotame",
-        "Girafe",
-        "Éléphant d'Afrique"
-      ],
-      "correctAnswer": 3,
-      "category": "Nature"
-    },
-    {
-      "question": "Combien font 7 au carré ?",
-      "options": [
-        "42",
-        "49",
-        "56",
-        "64"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques"
-    },
-    {
-      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Steven Spielberg",
-        "David Fincher"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma"
-    },
-    {
       "question": "Quel langage de programmation porte le nom d'un serpent ?",
       "options": [
         "Java",
@@ -1321,50 +485,6 @@
       "category": "Technologie"
     },
     {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
-      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Azote",
-        "Dioxyde de carbone",
-        "Argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Leonardo da Vinci"
-      ],
-      "correctAnswer": 2,
-      "category": "Art"
-    },
-    {
       "question": "Dans quel sport utilise-t-on un 'birdie' ?",
       "options": [
         "Tennis",
@@ -1373,116 +493,6 @@
         "Cricket"
       ],
       "correctAnswer": 1,
-      "category": "Sport"
-    },
-    {
-      "question": "Quel auteur a écrit 'L'Étranger' ?",
-      "options": [
-        "Jean-Paul Sartre",
-        "Albert Camus",
-        "Marcel Proust",
-        "André Gide"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature"
-    },
-    {
-      "question": "Combien de côtés a un dodécagone ?",
-      "options": [
-        "10",
-        "12",
-        "14",
-        "16"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros blanc",
-        "Hippopotame",
-        "Éléphant d'Afrique",
-        "Girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature"
-    },
-    {
-      "question": "Qui a composé 'Les Quatre Saisons' ?",
-      "options": [
-        "Johann Sebastian Bach",
-        "Wolfgang Amadeus Mozart",
-        "Antonio Vivaldi",
-        "Ludwig van Beethoven"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique"
-    },
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
-      "options": [
-        "Java",
-        "Python",
-        "C++",
-        "JavaScript"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie"
-    },
-    {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1985"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
-      "question": "Combien d'os compte le corps humain adulte ?",
-      "options": [
-        "186",
-        "206",
-        "226",
-        "246"
-      ],
-      "correctAnswer": 1,
-      "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Pablo Picasso",
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Leonardo da Vinci"
-      ],
-      "correctAnswer": 2,
-      "category": "Art"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on un shuttlecock ?",
-      "options": [
-        "Tennis",
-        "Squash",
-        "Badminton",
-        "Ping-pong"
-      ],
-      "correctAnswer": 2,
       "category": "Sport"
     },
     {
@@ -1497,72 +507,6 @@
       "category": "Littérature"
     },
     {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros",
-        "Hippopotame",
-        "Girafe",
-        "Éléphant d'Afrique"
-      ],
-      "correctAnswer": 3,
-      "category": "Nature"
-    },
-    {
-      "question": "Combien font 7² + 3² ?",
-      "options": [
-        "58",
-        "49",
-        "100",
-        "64"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques"
-    },
-    {
-      "question": "Quel compositeur a écrit 'Les Quatre Saisons' ?",
-      "options": [
-        "Jean-Sébastien Bach",
-        "Wolfgang Amadeus Mozart",
-        "Antonio Vivaldi",
-        "Ludwig van Beethoven"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique"
-    },
-    {
-      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Steven Spielberg",
-        "David Lynch"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma"
-    },
-    {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
       "question": "Combien d'os compte approximativement le corps humain adulte ?",
       "options": [
         "186",
@@ -1572,50 +516,6 @@
       ],
       "correctAnswer": 1,
       "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Pablo Picasso",
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Leonardo da Vinci"
-      ],
-      "correctAnswer": 2,
-      "category": "Art"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on un birdie ?",
-      "options": [
-        "Tennis",
-        "Badminton",
-        "Golf",
-        "Baseball"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport"
-    },
-    {
-      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
-        "Edgar Allan Poe",
-        "Charles Dickens"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros blanc",
-        "Hippopotame",
-        "Éléphant d'Afrique",
-        "Girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature"
     },
     {
       "question": "Combien vaut π (pi) arrondi à deux décimales ?",
@@ -1629,50 +529,6 @@
       "category": "Mathématiques"
     },
     {
-      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Steven Spielberg",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma"
-    },
-    {
-      "question": "Quelle entreprise a développé le système d'exploitation Android ?",
-      "options": [
-        "Apple",
-        "Microsoft",
-        "Google",
-        "Samsung"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie"
-    },
-    {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1985"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
       "question": "Quel gaz compose principalement l'atmosphère de Jupiter ?",
       "options": [
         "Oxygène",
@@ -1682,127 +538,6 @@
       ],
       "correctAnswer": 2,
       "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Claude Monet",
-        "Salvador Dalí"
-      ],
-      "correctAnswer": 1,
-      "category": "Art"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de rugby à XV sur le terrain ?",
-      "options": [
-        "13",
-        "14",
-        "15",
-        "16"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport"
-    },
-    {
-      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Edgar Allan Poe",
-        "Arthur Conan Doyle",
-        "Oscar Wilde"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros blanc",
-        "Hippopotame",
-        "Éléphant d'Afrique",
-        "Girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature"
-    },
-    {
-      "question": "Combien vaut π (pi) arrondi à deux décimales ?",
-      "options": [
-        "3,14",
-        "3,16",
-        "3,12",
-        "3,15"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques"
-    },
-    {
-      "question": "Qui a composé 'Les Quatre Saisons' ?",
-      "options": [
-        "Johann Sebastian Bach",
-        "Wolfgang Amadeus Mozart",
-        "Antonio Vivaldi",
-        "Ludwig van Beethoven"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique"
-    },
-    {
-      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
-      "options": [
-        "Joker",
-        "1917",
-        "Parasite",
-        "Once Upon a Time in Hollywood"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma"
-    },
-    {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
-      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Azote",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Pablo Picasso",
-        "Salvador Dalí"
-      ],
-      "correctAnswer": 1,
-      "category": "Art"
     },
     {
       "question": "Combien de joueurs compose une équipe de volley-ball sur le terrain ?",
@@ -1816,28 +551,6 @@
       "category": "Sport"
     },
     {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Gustave Flaubert",
-        "Victor Hugo",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros blanc",
-        "Hippopotame",
-        "Girafe",
-        "Éléphant d'Afrique"
-      ],
-      "correctAnswer": 3,
-      "category": "Nature"
-    },
-    {
       "question": "Combien de côtés possède un dodécagone ?",
       "options": [
         "10",
@@ -1849,50 +562,6 @@
       "category": "Mathématiques"
     },
     {
-      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
-      "options": [
-        "Steven Spielberg",
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "David Lynch"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma"
-    },
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
-      "options": [
-        "Java",
-        "Python",
-        "JavaScript",
-        "Ruby"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie"
-    },
-    {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire"
-    },
-    {
       "question": "Quel est l'élément chimique représenté par le symbole 'Au' ?",
       "options": [
         "Argent",
@@ -1902,83 +571,6 @@
       ],
       "correctAnswer": 2,
       "category": "Science"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Pablo Picasso",
-        "Salvador Dalí"
-      ],
-      "correctAnswer": 1,
-      "category": "Art"
-    },
-    {
-      "question": "Combien d'équipes participent à la Coupe du Monde de football ?",
-      "options": [
-        "24",
-        "32",
-        "36",
-        "48"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport"
-    },
-    {
-      "question": "Quel auteur a écrit 'L'Étranger' ?",
-      "options": [
-        "Jean-Paul Sartre",
-        "Albert Camus",
-        "André Malraux",
-        "Marcel Proust"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros",
-        "Hippopotame",
-        "Éléphant d'Afrique",
-        "Girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature"
-    },
-    {
-      "question": "Combien de faces possède un dodécaèdre ?",
-      "options": [
-        "10",
-        "12",
-        "14",
-        "16"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques"
-    },
-    {
-      "question": "Qui a composé 'Les Quatre Saisons' ?",
-      "options": [
-        "Jean-Sébastien Bach",
-        "Wolfgang Amadeus Mozart",
-        "Antonio Vivaldi",
-        "Ludwig van Beethoven"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique"
-    },
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
-      "options": [
-        "Java",
-        "JavaScript",
-        "Python",
-        "Ruby"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie"
     },
     {
       "question": "Quel océan borde la côte ouest de l'Afrique ?",
@@ -2288,5 +880,7 @@
       "correctAnswer": 1,
       "category": "Musique"
     }
-  ]
+  ],
+  "version": 1,
+  "last_cleaned": "2026-02-08T16:32:10.222Z"
 }
