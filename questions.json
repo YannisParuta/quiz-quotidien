@@ -1099,9 +1099,97 @@
       ],
       "correctAnswer": 0,
       "category": "Géographie"
+    },
+    {
+      "question": "Quel est le nom du processus par lequel les plantes convertissent la lumière en énergie ?",
+      "options": [
+        "Respiration",
+        "Photosynthèse",
+        "Transpiration",
+        "Germination"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quelle ville se trouve le célèbre musée du Prado ?",
+      "options": [
+        "Barcelone",
+        "Madrid",
+        "Séville",
+        "Valence"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture"
+    },
+    {
+      "question": "Qui a écrit le roman '1984' ?",
+      "options": [
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "George Orwell",
+        "H.G. Wells"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature"
+    },
+    {
+      "question": "Dans quel pays a été inventé le jeu d'échecs ?",
+      "options": [
+        "Chine",
+        "Perse",
+        "Inde",
+        "Égypte"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quelle est la monnaie officielle du Japon ?",
+      "options": [
+        "Won",
+        "Yuan",
+        "Yen",
+        "Ringgit"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel organe produit l'insuline dans le corps humain ?",
+      "options": [
+        "Foie",
+        "Pancréas",
+        "Rein",
+        "Rate"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "En quelle année s'est déroulée la Révolution française ?",
+      "options": [
+        "1789",
+        "1792",
+        "1799",
+        "1804"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
+      "options": [
+        "Camembert",
+        "Roquefort",
+        "Brie",
+        "Comté"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie"
     }
   ],
-  "version": 3,
+  "version": 4,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-08T16:42:55.604Z"
+  "last_updated": "2026-02-08T16:44:09.596Z"
 }
