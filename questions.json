@@ -2133,6 +2133,160 @@
       ],
       "correctAnswer": 2,
       "category": "Histoire"
+    },
+    {
+      "question": "Quel est le nom du phénomène par lequel la lumière change de direction en passant d'un milieu à un autre ?",
+      "options": [
+        "Réflexion",
+        "Réfraction",
+        "Diffraction",
+        "Polarisation"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quelle ville italienne peut-on admirer la Chapelle Sixtine ?",
+      "options": [
+        "Rome",
+        "Florence",
+        "Venise",
+        "Milan"
+      ],
+      "correctAnswer": 0,
+      "category": "Art"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde en superficie ?",
+      "options": [
+        "Monaco",
+        "Saint-Marin",
+        "Vatican",
+        "Nauru"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Qui a développé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Louis Pasteur",
+        "Alfred Wallace"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique"
+    },
+    {
+      "question": "Quel fleuve traverse la ville de Paris ?",
+      "options": [
+        "La Loire",
+        "La Seine",
+        "Le Rhône",
+        "La Garonne"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
+    },
+    {
+      "question": "En mathématiques, que représente le nombre Pi ?",
+      "options": [
+        "Le rapport entre le diamètre et la circonférence",
+        "Le rapport entre la circonférence et le diamètre",
+        "L'aire d'un cercle",
+        "Le rayon d'un cercle"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quel empire a construit le Machu Picchu ?",
+      "options": [
+        "Empire Maya",
+        "Empire Aztèque",
+        "Empire Inca",
+        "Empire Olmèque"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
+    },
+    {
+      "question": "Combien de chambres possède le cœur humain ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Quel sport se pratique sur une piste de 400 mètres ?",
+      "options": [
+        "Cyclisme",
+        "Athlétisme",
+        "Patinage",
+        "Course automobile"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quelle planète est surnommée 'la planète rouge' ?",
+      "options": [
+        "Vénus",
+        "Jupiter",
+        "Mars",
+        "Saturne"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quel pays se trouve la région de la Toscane ?",
+      "options": [
+        "Espagne",
+        "France",
+        "Italie",
+        "Grèce"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel est l'animal emblématique de l'Australie qui ne peut pas marcher à reculons ?",
+      "options": [
+        "Le koala",
+        "Le kangourou",
+        "L'émeu",
+        "Le wombat"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature"
+    },
+    {
+      "question": "Combien de touches noires possède un piano standard ?",
+      "options": [
+        "32",
+        "36",
+        "40",
+        "44"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique"
     }
   ]
 }
