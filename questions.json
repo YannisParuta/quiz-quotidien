@@ -879,8 +879,97 @@
       ],
       "correctAnswer": 1,
       "category": "Musique"
+    },
+    {
+      "question": "Quelle mer sépare l'Italie de la Croatie ?",
+      "options": [
+        "Mer Tyrrhénienne",
+        "Mer Adriatique",
+        "Mer Ionienne",
+        "Mer Égée"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
+    },
+    {
+      "question": "Qui a inventé le téléphone ?",
+      "options": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "Guglielmo Marconi"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
+    },
+    {
+      "question": "Combien d'os compte le squelette d'un adulte ?",
+      "options": [
+        "198",
+        "206",
+        "214",
+        "222"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quelle ville se déroule l'action du roman 'Notre-Dame de Paris' ?",
+      "options": [
+        "Lyon",
+        "Marseille",
+        "Paris",
+        "Rouen"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel peintre a créé 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Paul Cézanne",
+        "Henri Matisse"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Quelle bataille a marqué la fin de l'Empire de Napoléon Ier ?",
+      "options": [
+        "Austerlitz",
+        "Waterloo",
+        "Wagram",
+        "Iéna"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel mammifère marin possède le plus gros cerveau du règne animal ?",
+      "options": [
+        "Baleine bleue",
+        "Orque",
+        "Cachalot",
+        "Dauphin"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Quelle épice donne sa couleur jaune au curry ?",
+      "options": [
+        "Safran",
+        "Curcuma",
+        "Paprika",
+        "Cumin"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie"
     }
   ],
-  "version": 1,
-  "last_cleaned": "2026-02-08T16:32:10.222Z"
+  "version": 2,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-08T16:40:41.515Z"
 }
