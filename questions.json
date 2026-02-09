@@ -1286,9 +1286,108 @@
       ],
       "correctAnswer": 2,
       "category": "Histoire"
+    },
+    {
+      "question": "Quel océan sépare l'Australie de l'Amérique du Sud ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Pacifique",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quelle est la durée d'une olympiade ?",
+      "options": [
+        "2 ans",
+        "4 ans",
+        "6 ans",
+        "8 ans"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Dans quelle partie de la cellule trouve-t-on l'ADN ?",
+      "options": [
+        "Cytoplasme",
+        "Membrane",
+        "Noyau",
+        "Ribosome"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Quel pharaon a fait construire la Grande Pyramide de Gizeh ?",
+      "options": [
+        "Khéops",
+        "Ramsès II",
+        "Toutânkhamon",
+        "Cléopâtre"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire"
+    },
+    {
+      "question": "De quelle couleur est le sang des poulpes ?",
+      "options": [
+        "Rouge",
+        "Vert",
+        "Bleu",
+        "Violet"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Quelle est la boisson traditionnelle russe à base de betteraves ?",
+      "options": [
+        "Kvass",
+        "Bortsch",
+        "Vodka",
+        "Thé"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie"
+    },
+    {
+      "question": "Quelle est la langue officielle du Brésil ?",
+      "options": [
+        "Espagnol",
+        "Portugais",
+        "Français",
+        "Anglais"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture"
+    },
+    {
+      "question": "Quel personnage de Shakespeare prononce la phrase 'Être ou ne pas être' ?",
+      "options": [
+        "Othello",
+        "Roméo",
+        "Hamlet",
+        "Macbeth"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quelle entreprise a créé le processeur M1 ?",
+      "options": [
+        "Intel",
+        "AMD",
+        "Apple",
+        "NVIDIA"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie"
     }
   ],
-  "version": 5,
+  "version": 6,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-08T16:44:53.306Z"
+  "last_updated": "2026-02-09T00:55:05.270Z"
 }
