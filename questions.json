@@ -1385,9 +1385,97 @@
       ],
       "correctAnswer": 2,
       "category": "Technologie"
+    },
+    {
+      "question": "Quel peintre néerlandais est célèbre pour ses tournesols ?",
+      "options": [
+        "Rembrandt",
+        "Vincent van Gogh",
+        "Johannes Vermeer",
+        "Piet Mondrian"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Quel élément chimique a pour symbole Au ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Quel réalisateur a créé les films 'E.T.' et 'Jurassic Park' ?",
+      "options": [
+        "George Lucas",
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "Francis Ford Coppola"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quelle est la formule chimique de l'eau ?",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "correctAnswer": 0,
+      "category": "Science"
+    },
+    {
+      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Gustave Flaubert",
+        "Victor Hugo",
+        "Alexandre Dumas"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel mammifère est capable de voler ?",
+      "options": [
+        "L'écureuil volant",
+        "La chauve-souris",
+        "Le polatouche",
+        "Le colugo"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature"
+    },
+    {
+      "question": "Quel ingrédient principal compose le guacamole ?",
+      "options": [
+        "Tomate",
+        "Avocat",
+        "Concombre",
+        "Courgette"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie"
+    },
+    {
+      "question": "Quel réseau social est symbolisé par un oiseau bleu ?",
+      "options": [
+        "Facebook",
+        "Instagram",
+        "Twitter",
+        "LinkedIn"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie"
     }
   ],
-  "version": 6,
+  "version": 7,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-09T00:55:05.270Z"
+  "last_updated": "2026-02-09T02:25:05.172Z"
 }
