@@ -1473,9 +1473,130 @@
       ],
       "correctAnswer": 2,
       "category": "Technologie"
+    },
+    {
+      "question": "Quelle planète du système solaire possède le plus grand nombre de lunes ?",
+      "options": [
+        "Jupiter",
+        "Saturne",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quelle ville se trouve le siège de l'UNESCO ?",
+      "options": [
+        "Genève",
+        "New York",
+        "Paris",
+        "Vienne"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel compositeur a écrit 'La Flûte enchantée' ?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Beethoven",
+        "Vivaldi"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique"
+    },
+    {
+      "question": "Quel empire a régné sur le Pérou avant l'arrivée des conquistadors ?",
+      "options": [
+        "Empire aztèque",
+        "Empire maya",
+        "Empire inca",
+        "Empire olmèque"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quelle technique de peinture utilise des pigments mélangés à de l'eau ?",
+      "options": [
+        "Huile sur toile",
+        "Aquarelle",
+        "Acrylique",
+        "Pastel"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on un épée, un fleuret ou un sabre ?",
+      "options": [
+        "Kendo",
+        "Escrime",
+        "Pentathlon",
+        "Arts martiaux"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel désert est le plus grand du monde ?",
+      "options": [
+        "Sahara",
+        "Gobi",
+        "Antarctique",
+        "Kalahari"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Dans quelle langue a été programmé le premier navigateur web ?",
+      "options": [
+        "C",
+        "Python",
+        "Objective-C",
+        "Java"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie"
+    },
+    {
+      "question": "Quelle épice donne sa couleur jaune caractéristique au curry ?",
+      "options": [
+        "Safran",
+        "Curcuma",
+        "Paprika",
+        "Cumin"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie"
+    },
+    {
+      "question": "Quel animal peut changer de couleur pour se camoufler ?",
+      "options": [
+        "Gecko",
+        "Iguane",
+        "Caméléon",
+        "Lézard"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Quelle civilisation a inventé l'écriture cunéiforme ?",
+      "options": [
+        "Égyptiens",
+        "Sumériens",
+        "Phéniciens",
+        "Babyloniens"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
     }
   ],
-  "version": 7,
+  "version": 8,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-09T02:25:05.172Z"
+  "last_updated": "2026-02-10T00:02:54.284Z"
 }
