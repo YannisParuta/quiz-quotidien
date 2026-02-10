@@ -1594,9 +1594,130 @@
       ],
       "correctAnswer": 1,
       "category": "Histoire"
+    },
+    {
+      "question": "Quelle ville italienne est surnommée 'La Sérénissime' ?",
+      "options": [
+        "Rome",
+        "Venise",
+        "Florence",
+        "Naples"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel scientifique a développé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Mendel",
+        "Pasteur",
+        "Darwin",
+        "Curie"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quelle décennie a eu lieu la révolution française ?",
+      "options": [
+        "1770-1780",
+        "1780-1790",
+        "1790-1800",
+        "1800-1810"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel instrument de musique Frédéric Chopin maîtrisait-il particulièrement ?",
+      "options": [
+        "Violon",
+        "Piano",
+        "Flûte",
+        "Violoncelle"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique"
+    },
+    {
+      "question": "Combien de faces possède un icosaèdre ?",
+      "options": [
+        "12",
+        "16",
+        "20",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quelle hormone régule principalement le taux de sucre dans le sang ?",
+      "options": [
+        "Adrénaline",
+        "Cortisol",
+        "Insuline",
+        "Thyroxine"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quel pays se trouve la région de Transylvanie ?",
+      "options": [
+        "Hongrie",
+        "Roumanie",
+        "Bulgarie",
+        "Serbie"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel fromage français est traditionnellement utilisé dans la fondue savoyarde ?",
+      "options": [
+        "Roquefort",
+        "Camembert",
+        "Gruyère",
+        "Brie"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie"
+    },
+    {
+      "question": "Quelle technologie utilise des ondes radio pour localiser des objets ?",
+      "options": [
+        "Sonar",
+        "Radar",
+        "Laser",
+        "Infrarouge"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie"
+    },
+    {
+      "question": "Quel mammifère marin possède une défense en spirale ?",
+      "options": [
+        "Morse",
+        "Orque",
+        "Narval",
+        "Bélouga"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Quelle civilisation a construit la cité de Petra en Jordanie ?",
+      "options": [
+        "Phéniciens",
+        "Nabatéens",
+        "Byzantins",
+        "Assyriens"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
     }
   ],
-  "version": 8,
+  "version": 9,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-10T00:02:54.284Z"
+  "last_updated": "2026-02-10T02:32:51.544Z"
 }
