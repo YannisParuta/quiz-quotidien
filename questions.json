@@ -1825,9 +1825,86 @@
       ],
       "correctAnswer": 1,
       "category": "Technologie"
+    },
+    {
+      "question": "Quelle structure cellulaire est responsable de la photosynthèse chez les plantes ?",
+      "options": [
+        "Mitochondrie",
+        "Chloroplaste",
+        "Ribosome",
+        "Noyau"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quelle ville française se trouve le célèbre festival de cinéma annuel ?",
+      "options": [
+        "Nice",
+        "Cannes",
+        "Monaco",
+        "Marseille"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quel philosophe grec était le précepteur d'Alexandre le Grand ?",
+      "options": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Épicure"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
+    },
+    {
+      "question": "Dans quel pays a été inventée la pizza margherita ?",
+      "options": [
+        "France",
+        "Grèce",
+        "Espagne",
+        "Italie"
+      ],
+      "correctAnswer": 3,
+      "category": "Gastronomie"
+    },
+    {
+      "question": "Quel peintre est à l'origine du mouvement artistique appelé cubisme ?",
+      "options": [
+        "Van Gogh",
+        "Monet",
+        "Picasso",
+        "Dalí"
+      ],
+      "correctAnswer": 2,
+      "category": "Art"
+    },
+    {
+      "question": "Quel est le symbole chimique du fer ?",
+      "options": [
+        "Fr",
+        "Fe",
+        "Fi",
+        "Fo"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Quel mammifère est capable de voler activement ?",
+      "options": [
+        "Écureuil volant",
+        "Chauve-souris",
+        "Polatouche",
+        "Phalanger volant"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature"
     }
   ],
-  "version": 10,
+  "version": 11,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-11T00:14:08.944Z"
+  "last_updated": "2026-02-11T02:29:57.551Z"
 }
