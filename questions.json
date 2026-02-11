@@ -1715,9 +1715,119 @@
       ],
       "correctAnswer": 1,
       "category": "Histoire"
+    },
+    {
+      "question": "Quel volcan italien a enseveli Pompéi en 79 après J.-C. ?",
+      "options": [
+        "L'Etna",
+        "Le Vésuve",
+        "Le Stromboli",
+        "Le Vulcano"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quelle est la plus petite unité de matière ?",
+      "options": [
+        "La molécule",
+        "L'atome",
+        "Le neutron",
+        "L'électron"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quel pays se trouve le Machu Picchu ?",
+      "options": [
+        "Bolivie",
+        "Équateur",
+        "Pérou",
+        "Colombie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Qui a peint 'La Joconde' ?",
+      "options": [
+        "Michel-Ange",
+        "Léonard de Vinci",
+        "Raphaël",
+        "Donatello"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Qui a écrit 'Roméo et Juliette' ?",
+      "options": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "Oscar Wilde",
+        "Jane Austen"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est l'animal terrestre le plus rapide au monde ?",
+      "options": [
+        "Le lion",
+        "Le guépard",
+        "L'antilope",
+        "Le lièvre"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature"
+    },
+    {
+      "question": "Combien de côtés possède un hexagone ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quelle épice est la plus chère au monde ?",
+      "options": [
+        "La vanille",
+        "Le safran",
+        "La cardamome",
+        "La cannelle"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie"
+    },
+    {
+      "question": "Quel réalisateur a dirigé le film 'Titanic' ?",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Martin Scorsese",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quelle invention a révolutionné la communication au 19ème siècle ?",
+      "options": [
+        "Le téléphone",
+        "Le télégraphe",
+        "La radio",
+        "Le phonographe"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie"
     }
   ],
-  "version": 9,
+  "version": 10,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-10T02:32:51.544Z"
+  "last_updated": "2026-02-11T00:14:08.944Z"
 }
