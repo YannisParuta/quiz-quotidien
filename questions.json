@@ -1902,9 +1902,108 @@
       ],
       "correctAnswer": 1,
       "category": "Nature"
+    },
+    {
+      "question": "Dans quelle ville se trouve le siège de l'Union européenne ?",
+      "options": [
+        "Strasbourg",
+        "Luxembourg",
+        "Bruxelles",
+        "Francfort"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel empereur romain a légalisé le christianisme dans l'Empire ?",
+      "options": [
+        "Auguste",
+        "Néron",
+        "Constantin",
+        "Trajan"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
+    },
+    {
+      "question": "Combien d'arêtes possède un cube ?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quel fleuve traverse la ville de Budapest ?",
+      "options": [
+        "Le Danube",
+        "La Tisza",
+        "La Drave",
+        "La Save"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie"
+    },
+    {
+      "question": "Qui a réalisé le film 'Psychose' en 1960 ?",
+      "options": [
+        "Billy Wilder",
+        "Alfred Hitchcock",
+        "Orson Welles",
+        "John Ford"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quel mouvement artistique Pablo Picasso a-t-il cofondé avec Georges Braque ?",
+      "options": [
+        "Le surréalisme",
+        "L'expressionnisme",
+        "Le fauvisme",
+        "Le cubisme"
+      ],
+      "correctAnswer": 3,
+      "category": "Art"
+    },
+    {
+      "question": "Quel oiseau est capable de voler à reculons ?",
+      "options": [
+        "Le colibri",
+        "L'hirondelle",
+        "Le martin-pêcheur",
+        "La bécasse"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature"
+    },
+    {
+      "question": "En informatique, que signifie l'acronyme 'CPU' ?",
+      "options": [
+        "Computer Processing Unit",
+        "Central Processing Unit",
+        "Computer Power Unit",
+        "Central Power Unit"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie"
+    },
+    {
+      "question": "Quel champagne est traditionnellement utilisé pour célébrer les victoires en Formule 1 ?",
+      "options": [
+        "Dom Pérignon",
+        "Krug",
+        "Moët & Chandon",
+        "Veuve Clicquot"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie"
     }
   ],
-  "version": 11,
+  "version": 12,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-11T02:29:57.551Z"
+  "last_updated": "2026-02-12T00:23:43.562Z"
 }
