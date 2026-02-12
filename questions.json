@@ -2001,9 +2001,119 @@
       ],
       "correctAnswer": 2,
       "category": "Gastronomie"
+    },
+    {
+      "question": "Quelle mer borde la côte est de l'Italie ?",
+      "options": [
+        "Mer Tyrrhénienne",
+        "Mer Adriatique",
+        "Mer Ionienne",
+        "Mer Ligure"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
+    },
+    {
+      "question": "Combien de chambres possède le cœur d'un oiseau ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on une raquette et un volant ?",
+      "options": [
+        "Tennis de table",
+        "Squash",
+        "Badminton",
+        "Tennis"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel écrivain français a créé le personnage de d'Artagnan ?",
+      "options": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac",
+        "Émile Zola"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel archipel français se trouve dans l'océan Indien ?",
+      "options": [
+        "La Martinique",
+        "La Guadeloupe",
+        "La Réunion",
+        "La Nouvelle-Calédonie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quelle forme géométrique possède exactement 5 côtés ?",
+      "options": [
+        "Pentagone",
+        "Hexagone",
+        "Heptagone",
+        "Octogone"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quel légume est l'ingrédient principal du guacamole ?",
+      "options": [
+        "La tomate",
+        "Le concombre",
+        "L'avocat",
+        "Le poivron"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie"
+    },
+    {
+      "question": "Quel mammifère pond des œufs ?",
+      "options": [
+        "L'ornithorynque",
+        "L'échidné",
+        "Le kangourou",
+        "Les deux premières réponses"
+      ],
+      "correctAnswer": 3,
+      "category": "Nature"
+    },
+    {
+      "question": "Quel système d'exploitation a été créé par Linux Torvalds ?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Unix"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie"
+    },
+    {
+      "question": "Dans quel musée parisien peut-on admirer 'La Vénus de Milo' ?",
+      "options": [
+        "Musée d'Orsay",
+        "Musée du Louvre",
+        "Musée Rodin",
+        "Centre Pompidou"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
     }
   ],
-  "version": 12,
+  "version": 13,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-12T00:23:43.562Z"
+  "last_updated": "2026-02-12T02:25:07.480Z"
 }
