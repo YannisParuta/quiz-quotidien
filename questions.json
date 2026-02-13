@@ -1,6 +1,6 @@
 {
   "questions": [
-     {
+    {
       "question": "Combien d'équipes participent à la Coupe du Monde de football ?",
       "options": [
         "28",
@@ -2100,9 +2100,64 @@
       ],
       "correctAnswer": 2,
       "category": "Nature"
+    },
+    {
+      "question": "Quel réalisateur a dirigé le film 'Citizen Kane' ?",
+      "options": [
+        "Alfred Hitchcock",
+        "Orson Welles",
+        "John Ford",
+        "Billy Wilder"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Dans quel sport pratique-t-on le 'slam dunk' ?",
+      "options": [
+        "Tennis",
+        "Volleyball",
+        "Basketball",
+        "Badminton"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel mammifère marin utilise l'écholocation pour se diriger ?",
+      "options": [
+        "Baleine bleue",
+        "Dauphin",
+        "Phoque",
+        "Lamantin"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature"
+    },
+    {
+      "question": "Quel langage de programmation utilise l'indentation pour structurer le code ?",
+      "options": [
+        "Java",
+        "C++",
+        "Python",
+        "JavaScript"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie"
+    },
+    {
+      "question": "Dans quelle chaîne de montagnes se trouve le mont Blanc ?",
+      "options": [
+        "Pyrénées",
+        "Alpes",
+        "Vosges",
+        "Massif Central"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
     }
   ],
-  "version": 16,
+  "version": 17,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-13T07:55:32.630Z"
+  "last_updated": "2026-02-13T07:58:07.930Z"
 }
