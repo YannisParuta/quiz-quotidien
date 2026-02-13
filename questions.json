@@ -2232,9 +2232,108 @@
       ],
       "correctAnswer": 1,
       "category": "Sport"
+    },
+    {
+      "question": "Quel philosophe grec est considéré comme le père de la logique ?",
+      "options": [
+        "Platon",
+        "Aristote",
+        "Socrate",
+        "Épicure"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Dans quel pays se trouve la région de la Patagonie ?",
+      "options": [
+        "Chili et Argentine",
+        "Pérou et Bolivie",
+        "Brésil et Uruguay",
+        "Colombie et Venezuela"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel épice donne sa couleur jaune au curry ?",
+      "options": [
+        "Safran",
+        "Curcuma",
+        "Paprika",
+        "Gingembre"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie"
+    },
+    {
+      "question": "Quel animal peut régénérer sa queue ?",
+      "options": [
+        "Salamandre",
+        "Lézard",
+        "Gecko",
+        "Tous les précédents"
+      ],
+      "correctAnswer": 3,
+      "category": "Nature"
+    },
+    {
+      "question": "En quelle année fut inventé le World Wide Web ?",
+      "options": [
+        "1989",
+        "1991",
+        "1993",
+        "1995"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie"
+    },
+    {
+      "question": "Quel acteur a joué le rôle principal dans 'Forrest Gump' ?",
+      "options": [
+        "Kevin Costner",
+        "Tom Hanks",
+        "Robin Williams",
+        "Matt Damon"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on le terme 'eagle' ?",
+      "options": [
+        "Tennis",
+        "Golf",
+        "Baseball",
+        "Cricket"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel peintre néerlandais a coupé son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Van Gogh",
+        "Mondrian"
+      ],
+      "correctAnswer": 2,
+      "category": "Art"
+    },
+    {
+      "question": "Quelle planète est surnommée 'l'étoile du berger' ?",
+      "options": [
+        "Mars",
+        "Vénus",
+        "Jupiter",
+        "Mercure"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
     }
   ],
-  "version": 14,
+  "version": 15,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-13T00:56:04.749Z"
+  "last_updated": "2026-02-13T02:26:22.401Z"
 }
