@@ -2331,9 +2331,97 @@
       ],
       "correctAnswer": 1,
       "category": "Science"
+    },
+    {
+      "question": "Quelle hormone est sécrétée par le pancréas pour réguler la glycémie ?",
+      "options": [
+        "Adrénaline",
+        "Insuline",
+        "Cortisol",
+        "Thyroxine"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Quel compositeur autrichien a créé 'Les Quatre Saisons' ?",
+      "options": [
+        "Mozart",
+        "Vivaldi",
+        "Beethoven",
+        "Schubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique"
+    },
+    {
+      "question": "Dans quel film de 1994 John Travolta fait-il son retour au cinéma ?",
+      "options": [
+        "Grease",
+        "Pulp Fiction",
+        "Saturday Night Fever",
+        "Get Shorty"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Qui a peint 'Les Demoiselles d'Avignon' ?",
+      "options": [
+        "Matisse",
+        "Picasso",
+        "Braque",
+        "Cézanne"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Dans quelle discipline sportive excelle Simone Biles ?",
+      "options": [
+        "Natation",
+        "Gymnastique",
+        "Athlétisme",
+        "Tennis"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel est le plus long os du corps humain ?",
+      "options": [
+        "Tibia",
+        "Humérus",
+        "Fémur",
+        "Radius"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Quel écrivain britannique a créé Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Oscar Wilde",
+        "Charles Dickens"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel animal est capable de dormir debout ?",
+      "options": [
+        "Éléphant",
+        "Girafe",
+        "Cheval",
+        "Rhinocéros"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
     }
   ],
-  "version": 15,
+  "version": 16,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-13T02:26:22.401Z"
+  "last_updated": "2026-02-13T07:55:32.630Z"
 }
