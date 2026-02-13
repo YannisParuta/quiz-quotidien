@@ -2111,9 +2111,130 @@
       ],
       "correctAnswer": 1,
       "category": "Art"
+    },
+    {
+      "question": "Quel continent abrite le désert du Kalahari ?",
+      "options": [
+        "Asie",
+        "Afrique",
+        "Australie",
+        "Amérique du Sud"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quelle dynastie chinoise a construit la première version de la Grande Muraille ?",
+      "options": [
+        "Tang",
+        "Ming",
+        "Qin",
+        "Song"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
+    },
+    {
+      "question": "Combien de dents possède un être humain adulte en bonne santé ?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Quel instrument de musique Frédéric Chopin a-t-il principalement composé ?",
+      "options": [
+        "Violon",
+        "Piano",
+        "Violoncelle",
+        "Flûte"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique"
+    },
+    {
+      "question": "Dans quel sport français utilise-t-on des boules métalliques ?",
+      "options": [
+        "Pétanque",
+        "Pelote basque",
+        "Jeu de paume",
+        "Savate"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel romancier russe a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Tolstoï",
+        "Tchekhov",
+        "Dostoïevski",
+        "Pouchkine"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel animal est le symbole du parti démocrate américain ?",
+      "options": [
+        "Éléphant",
+        "Aigle",
+        "Âne",
+        "Ours"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture"
+    },
+    {
+      "question": "En quelle année l'homme a-t-il posé le pied sur la Lune pour la première fois ?",
+      "options": [
+        "1967",
+        "1968",
+        "1969",
+        "1970"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel est le plus grand organe du corps humain ?",
+      "options": [
+        "Le foie",
+        "Les poumons",
+        "Le cerveau",
+        "La peau"
+      ],
+      "correctAnswer": 3,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quelle langue a été écrit le livre 'Don Quichotte' ?",
+      "options": [
+        "Italien",
+        "Portugais",
+        "Espagnol",
+        "Catalan"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de volley-ball sur le terrain ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
     }
   ],
-  "version": 13,
+  "version": 14,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-12T02:25:07.480Z"
+  "last_updated": "2026-02-13T00:56:04.749Z"
 }
