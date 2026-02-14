@@ -2243,9 +2243,108 @@
       ],
       "correctAnswer": 1,
       "category": "Art"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Dans quelle ville se déroulent les Jeux Olympiques d'été 2024 ?",
+      "options": [
+        "Tokyo",
+        "Los Angeles",
+        "Paris",
+        "Brisbane"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel architecte a conçu la tour Eiffel ?",
+      "options": [
+        "Le Corbusier",
+        "Gustave Eiffel",
+        "Hector Guimard",
+        "Victor Horta"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Quel est le plus grand désert du monde ?",
+      "options": [
+        "Sahara",
+        "Gobi",
+        "Antarctique",
+        "Kalahari"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel réalisateur a créé la saga 'Star Wars' ?",
+      "options": [
+        "Steven Spielberg",
+        "George Lucas",
+        "Ridley Scott",
+        "James Cameron"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quel fleuve traverse Paris ?",
+      "options": [
+        "La Loire",
+        "Le Rhône",
+        "La Seine",
+        "La Garonne"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel inventeur a créé le téléphone ?",
+      "options": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "Guglielmo Marconi"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie"
+    },
+    {
+      "question": "Quel oiseau ne peut pas voler mais court très vite ?",
+      "options": [
+        "Pingouin",
+        "Casoar",
+        "Autruche",
+        "Émeu"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
     }
   ],
-  "version": 18,
+  "version": 19,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-14T00:41:48.744Z"
+  "last_updated": "2026-02-14T02:07:48.363Z"
 }
