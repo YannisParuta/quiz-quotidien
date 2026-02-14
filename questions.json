@@ -2155,9 +2155,97 @@
       ],
       "correctAnswer": 1,
       "category": "Géographie"
+    },
+    {
+      "question": "Qui a découvert la pénicilline en 1928 ?",
+      "options": [
+        "Louis Pasteur",
+        "Marie Curie",
+        "Alexander Fleming",
+        "Antoine Lavoisier"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quelle bataille Napoléon a-t-il été définitivement vaincu ?",
+      "options": [
+        "Austerlitz",
+        "Waterloo",
+        "Iéna",
+        "Wagram"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel fromage français est originaire de Roquefort ?",
+      "options": [
+        "Camembert",
+        "Brie",
+        "Roquefort",
+        "Comté"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie"
+    },
+    {
+      "question": "Dans quel océan se trouve l'archipel des Maldives ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Mer Méditerranée"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel mammifère est le plus rapide du monde ?",
+      "options": [
+        "Léopard",
+        "Guépard",
+        "Lion",
+        "Tigre"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature"
+    },
+    {
+      "question": "Dans quel film de 1975 un requin terrorise-t-il une station balnéaire ?",
+      "options": [
+        "L'Exorciste",
+        "Les Dents de la mer",
+        "Alien",
+        "Psychose"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quelle révolution industrielle a introduit l'électricité et la chimie ?",
+      "options": [
+        "Première",
+        "Deuxième",
+        "Troisième",
+        "Quatrième"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel sculpteur a réalisé 'Le Penseur' ?",
+      "options": [
+        "Michel-Ange",
+        "Auguste Rodin",
+        "Alberto Giacometti",
+        "Henry Moore"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
     }
   ],
-  "version": 17,
+  "version": 18,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-13T07:58:07.930Z"
+  "last_updated": "2026-02-14T00:41:48.744Z"
 }
