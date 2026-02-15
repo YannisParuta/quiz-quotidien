@@ -2441,9 +2441,108 @@
       ],
       "correctAnswer": 2,
       "category": "Nature"
+    },
+    {
+      "question": "Quel est le plus grand lac d'eau douce d'Europe ?",
+      "options": [
+        "Lac de Constance",
+        "Lac Ladoga",
+        "Lac Balaton",
+        "Lac de Genève"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel peintre espagnol a créé le mouvement cubiste ?",
+      "options": [
+        "Salvador Dalí",
+        "Joan Miró",
+        "Pablo Picasso",
+        "Francisco Goya"
+      ],
+      "correctAnswer": 2,
+      "category": "Art"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on un palet ?",
+      "options": [
+        "Curling",
+        "Hockey sur glace",
+        "Les deux",
+        "Aucun des deux"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature"
+    },
+    {
+      "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+      "options": [
+        "Oxygène",
+        "Carbone",
+        "Hélium",
+        "Hydrogène"
+      ],
+      "correctAnswer": 3,
+      "category": "Science"
+    },
+    {
+      "question": "Quel mathématicien grec a formulé un célèbre théorème sur les triangles rectangles ?",
+      "options": [
+        "Archimède",
+        "Euclide",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quel acteur joue le rôle principal dans 'Gladiator' ?",
+      "options": [
+        "Brad Pitt",
+        "Russell Crowe",
+        "Leonardo DiCaprio",
+        "Tom Cruise"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Quel animal change de couleur pour se camoufler ?",
+      "options": [
+        "Iguane",
+        "Gecko",
+        "Caméléon",
+        "Lézard"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
+    },
+    {
+      "question": "Quel plat italien est préparé avec du riz et du bouillon ?",
+      "options": [
+        "Osso buco",
+        "Risotto",
+        "Gnocchi",
+        "Polenta"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie"
     }
   ],
-  "version": 20,
+  "version": 21,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-15T00:16:17.260Z"
+  "last_updated": "2026-02-15T02:26:14.646Z"
 }
