@@ -2342,9 +2342,108 @@
       ],
       "correctAnswer": 2,
       "category": "Nature"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde ?",
+      "options": [
+        "Monaco",
+        "Vatican",
+        "Saint-Marin",
+        "Nauru"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
+    },
+    {
+      "question": "Combien y a-t-il d'os dans le corps humain adulte ?",
+      "options": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a composé 'La Flûte enchantée' ?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Beethoven",
+        "Chopin"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique"
+    },
+    {
+      "question": "Quelle est la devise de la France ?",
+      "options": [
+        "Liberté, Égalité, Fraternité",
+        "Honneur et Patrie",
+        "Dieu et mon Droit",
+        "Un pour tous, tous pour un"
+      ],
+      "correctAnswer": 0,
+      "category": "Culture"
+    },
+    {
+      "question": "Combien de faces a un dodécaèdre ?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "20"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Quel sport se joue avec une raquette et un volant ?",
+      "options": [
+        "Tennis",
+        "Squash",
+        "Badminton",
+        "Tennis de table"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel réseau social a été créé par Mark Zuckerberg ?",
+      "options": [
+        "Twitter",
+        "Instagram",
+        "Facebook",
+        "LinkedIn"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie"
+    },
+    {
+      "question": "Dans quelle ville se trouve le musée du Prado ?",
+      "options": [
+        "Barcelone",
+        "Madrid",
+        "Séville",
+        "Valence"
+      ],
+      "correctAnswer": 1,
+      "category": "Art"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros",
+        "Hippopotame",
+        "Éléphant d'Afrique",
+        "Girafe"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature"
     }
   ],
-  "version": 19,
+  "version": 20,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-14T02:07:48.363Z"
+  "last_updated": "2026-02-15T00:16:17.260Z"
 }
