@@ -267,7 +267,46 @@ CONSIGNES IMPORTANTES :
     console.log('✅ Fichier mis à jour avec succès sur GitHub !');
 
     // ============================================
-    // ÉTAPE 8 : Réponse détaillée
+    // ⭐ ÉTAPE 8 : PURGER LE CACHE VERCEL (NOUVEAU!)
+    // ============================================
+    console.log('🔄 Purge du cache Vercel...');
+    
+    try {
+      // Attendre 2 secondes que GitHub se synchronise avec Vercel
+      await new Promise(resolve => setTimeout(resolve, 2000));
+      
+      // Purger le cache du fichier questions.json
+      const purgeUrl = `https://${process.env.VERCEL_URL || 'www.quiz-quotidien.fr'}/questions.json`;
+      
+      if (process.env.VERCEL_TOKEN) {
+        // Méthode 1 : Utiliser l'API Vercel (si token disponible)
+        const purgeResponse = await fetch(
+          `https://api.vercel.com/v1/purge?url=${encodeURIComponent(purgeUrl)}`,
+          {
+            method: 'POST',
+            headers: {
+              'Authorization': `Bearer ${process.env.VERCEL_TOKEN}`
+            }
+          }
+        );
+        
+        if (purgeResponse.ok) {
+          console.log('✅ Cache Vercel purgé avec succès via API !');
+        } else {
+          console.log('⚠️  Purge API échouée, mais pas critique');
+        }
+      }
+      
+      // Méthode 2 : Forcer un redéploiement (toujours fonctionnel)
+      // Le commit GitHub va déclencher un redéploiement automatique
+      console.log('✅ Le commit GitHub va déclencher un redéploiement automatique');
+      
+    } catch (purgeError) {
+      console.log('⚠️  Erreur purge cache (non-bloquante):', purgeError.message);
+    }
+
+    // ============================================
+    // ÉTAPE 9 : Réponse détaillée
     // ============================================
     return res.status(200).json({
       success: true,
