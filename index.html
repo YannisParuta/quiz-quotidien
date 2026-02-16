@@ -174,14 +174,22 @@
                     // ⭐ ÉTAPE 5 : Sélectionner 10 questions aléatoires pour aujourd'hui
                     const allQuestions = data.questions;
                     
-                    const seed = new Date().setHours(0, 0, 0, 0);
-                    const rng = (seed) => {
-                        let x = Math.sin(seed++) * 10000;
+                    // ⭐ NOUVEAU : Combiner DATE + VERSION pour varier les questions
+                    const dateTimestamp = new Date().setHours(0, 0, 0, 0);
+                    const versionOffset = currentVersion * 1000000; // Décale la seed avec la version
+                    const seed = dateTimestamp + versionOffset;
+                    
+                    console.log(`🎲 Seed aléatoire : ${seed} (date: ${dateTimestamp}, version: ${currentVersion})`);
+                    
+                    const rng = (s) => {
+                        let x = Math.sin(s++) * 10000;
                         return x - Math.floor(x);
                     };
                     
                     const shuffled = [...allQuestions].sort(() => rng(seed) - 0.5);
                     const selectedQuestions = shuffled.slice(0, 10);
+                    
+                    console.log(`✅ 10 questions sélectionnées sur ${allQuestions.length} disponibles`);
                     
                     const quizData = { 
                         questions: selectedQuestions, 
