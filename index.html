@@ -253,10 +253,46 @@
             };
 
             const shareResults = () => {
-                const shareText = `🎯 Quiz Quotidien\n📊 Mon score : ${score}/${dailyQuiz.length}\n\n${score === dailyQuiz.length ? '🏆 Score parfait !' : score >= dailyQuiz.length * 0.7 ? '👏 Excellent !' : '💪 Pas mal !'}\n\nFaites le quiz du jour : ${window.location.href}`;
+                // Créer la date au format français
+                const today = new Date();
+                const dateString = today.toLocaleDateString('fr-FR', { 
+                    day: '2-digit', 
+                    month: '2-digit', 
+                    year: 'numeric' 
+                });
+                
+                // Créer les carrés de couleur (🟢 = correct, 🔴 = incorrect)
+                const colorSquares = answers.map((answer, index) => {
+                    const isCorrect = answer === dailyQuiz[index].correctAnswer;
+                    return isCorrect ? '🟢' : '🔴';
+                }).join('');
+                
+                // Déterminer l'emoji et le commentaire selon le score
+                let emoji = '';
+                let comment = '';
+                const percentage = (score / dailyQuiz.length) * 100;
+                
+                if (score === dailyQuiz.length) {
+                    emoji = '🏆';
+                    comment = 'Score parfait !';
+                } else if (percentage >= 70) {
+                    emoji = '👏';
+                    comment = 'Excellent !';
+                } else if (percentage >= 50) {
+                    emoji = '💪';
+                    comment = 'Pas mal !';
+                } else {
+                    emoji = '📚';
+                    comment = 'Continue de t\'entraîner !';
+                }
+                
+                const shareText = `🎯 Quiz Quotidien - ${dateString} 🎯\nScore : ${score}/${dailyQuiz.length}\n${colorSquares}\n${emoji} ${comment}\n\nhttps://quiz-quotidien.fr`;
                 
                 if (navigator.share) {
-                    navigator.share({ title: 'Mon score au Quiz Quotidien', text: shareText }).catch(() => {});
+                    navigator.share({ 
+                        title: 'Mon score au Quiz Quotidien', 
+                        text: shareText 
+                    }).catch(() => {});
                 } else {
                     const textArea = document.createElement('textarea');
                     textArea.value = shareText;
@@ -266,7 +302,7 @@
                     textArea.select();
                     try {
                         document.execCommand('copy');
-                        alert('✅ Score copié !');
+                        alert('✅ Score copié dans le presse-papier !');
                     } catch {}
                     textArea.remove();
                 }
@@ -388,15 +424,10 @@
                                 <p className="text-gray-600 mb-6">
                                     {quizAlreadyCompleted ? "Vous avez déjà fait le quiz aujourd'hui !" : "Revenez demain pour de nouvelles questions !"}
                                 </p>
-                                <div className="flex flex-col sm:flex-row gap-3 justify-center">
+                                <div className="flex justify-center">
                                     <button onClick={shareResults} className="flex items-center justify-center gap-2 bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-8 rounded-lg">
                                         <Share2 /> Partager mon score
                                     </button>
-                                    {!quizAlreadyCompleted && (
-                                        <button onClick={resetQuiz} className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg">
-                                            Refaire le quiz
-                                        </button>
-                                    )}
                                 </div>
                             </div>
                         )}
