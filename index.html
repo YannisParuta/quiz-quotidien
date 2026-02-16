@@ -141,10 +141,18 @@
                         return;
                     }
                     
-                    const response = await fetch('/questions.json');
+                    // ⭐ CORRECTION PRINCIPALE : Cache busting avec timestamp
+                    const timestamp = new Date().getTime();
+                    const response = await fetch(`/questions.json?v=${timestamp}`);
                     if (!response.ok) throw new Error('Erreur de chargement des questions');
                     
                     const data = await response.json();
+                    
+                    // ⭐ VÉRIFICATION : S'assurer que data.questions existe et n'est pas vide
+                    if (!data.questions || !Array.isArray(data.questions) || data.questions.length === 0) {
+                        throw new Error('Aucune question disponible');
+                    }
+                    
                     const allQuestions = data.questions;
                     
                     const seed = new Date().setHours(0, 0, 0, 0);
@@ -236,7 +244,6 @@
                 return new Date().toLocaleDateString('fr-FR', options);
             };
 
-            // ⭐ CORRECTION PRINCIPALE : Vérification avant d'accéder aux données
             if (loading) {
                 return (
                     <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
@@ -261,7 +268,6 @@
                 );
             }
 
-            // ⭐ NOUVELLE VÉRIFICATION : S'assurer que dailyQuiz est chargé ET a des questions
             if (!dailyQuiz || dailyQuiz.length === 0) {
                 return (
                     <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
