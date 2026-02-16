@@ -2540,9 +2540,119 @@
       ],
       "correctAnswer": 1,
       "category": "Gastronomie"
+    },
+    {
+      "question": "Quel scientifique a découvert la pénicilline ?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Marie Curie",
+        "Antoine Lavoisier"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quelle région française trouve-t-on les châteaux de la Loire ?",
+      "options": [
+        "Bourgogne",
+        "Normandie",
+        "Centre-Val de Loire",
+        "Aquitaine"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Paul Cézanne",
+        "Vincent van Gogh",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 2,
+      "category": "Art"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de rugby à XV ?",
+      "options": [
+        "13 joueurs",
+        "15 joueurs",
+        "11 joueurs",
+        "12 joueurs"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quelle bataille a eu lieu en 1805 et opposé Napoléon aux Autrichiens et Russes ?",
+      "options": [
+        "Bataille de Waterloo",
+        "Bataille d'Iéna",
+        "Bataille d'Austerlitz",
+        "Bataille de Wagram"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel instrument de musique Frédéric Chopin jouait-il principalement ?",
+      "options": [
+        "Violon",
+        "Piano",
+        "Violoncelle",
+        "Flûte"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique"
+    },
+    {
+      "question": "Dans quel pays se trouve Machu Picchu ?",
+      "options": [
+        "Bolivie",
+        "Équateur",
+        "Pérou",
+        "Chili"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Dans quel film Tom Hanks joue-t-il un homme coincé sur une île déserte ?",
+      "options": [
+        "Philadelphia",
+        "Forrest Gump",
+        "Seul au monde",
+        "Apollo 13"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Qui a fondé l'entreprise Apple avec Steve Jobs ?",
+      "options": [
+        "Bill Gates",
+        "Steve Wozniak",
+        "Larry Page",
+        "Michael Dell"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie"
+    },
+    {
+      "question": "Quelle dynastie chinoise a construit la Grande Muraille telle qu'on la connaît aujourd'hui ?",
+      "options": [
+        "Dynastie Han",
+        "Dynastie Tang",
+        "Dynastie Ming",
+        "Dynastie Qing"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire"
     }
   ],
-  "version": 21,
+  "version": 22,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-15T02:26:14.646Z"
+  "last_updated": "2026-02-16T00:07:43.443Z"
 }
