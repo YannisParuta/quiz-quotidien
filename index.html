@@ -119,29 +119,10 @@
                     setError(null);
                     
                     const today = new Date();
-                    const dateKey = `quiz-${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
                     
                     checkIfQuizCompleted();
                     
-                    try {
-                        const cached = localStorage.getItem(dateKey);
-                        if (cached) {
-                            const cachedData = JSON.parse(cached);
-                            setDailyQuiz(cachedData.questions);
-                            setLoading(false);
-                            return;
-                        }
-                    } catch (e) {
-                        console.log('Pas de cache');
-                    }
-                    
-                    if (dailyCache[dateKey]) {
-                        setDailyQuiz(dailyCache[dateKey].questions);
-                        setLoading(false);
-                        return;
-                    }
-                    
-                    // ⭐ CORRECTION PRINCIPALE : Cache busting avec timestamp
+                    // ⭐ ÉTAPE 1 : Charger le fichier questions.json (TOUJOURS)
                     const timestamp = new Date().getTime();
                     const response = await fetch(`/questions.json?v=${timestamp}`);
                     if (!response.ok) throw new Error('Erreur de chargement des questions');
@@ -153,6 +134,44 @@
                         throw new Error('Aucune question disponible');
                     }
                     
+                    // ⭐ ÉTAPE 2 : Créer une clé de cache avec DATE + VERSION
+                    const currentVersion = data.version || 1;
+                    const dateKey = `quiz-${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}-v${currentVersion}`;
+                    
+                    console.log(`📅 Clé du cache : ${dateKey}`);
+                    
+                    // ⭐ ÉTAPE 3 : Vérifier si on a déjà les questions pour cette date ET cette version
+                    try {
+                        const cached = localStorage.getItem(dateKey);
+                        if (cached) {
+                            const cachedData = JSON.parse(cached);
+                            console.log('✅ Questions chargées depuis le cache');
+                            setDailyQuiz(cachedData.questions);
+                            setLoading(false);
+                            return;
+                        }
+                    } catch (e) {
+                        console.log('⚠️ Pas de cache valide, chargement des nouvelles questions');
+                    }
+                    
+                    // ⭐ ÉTAPE 4 : Nettoyer les anciens caches (versions précédentes)
+                    try {
+                        const keysToRemove = [];
+                        for (let i = 0; i < localStorage.length; i++) {
+                            const key = localStorage.key(i);
+                            if (key && key.startsWith('quiz-') && key !== dateKey) {
+                                keysToRemove.push(key);
+                            }
+                        }
+                        keysToRemove.forEach(key => {
+                            console.log(`🗑️ Suppression ancien cache : ${key}`);
+                            localStorage.removeItem(key);
+                        });
+                    } catch (e) {
+                        console.log('⚠️ Erreur nettoyage cache');
+                    }
+                    
+                    // ⭐ ÉTAPE 5 : Sélectionner 10 questions aléatoires pour aujourd'hui
                     const allQuestions = data.questions;
                     
                     const seed = new Date().setHours(0, 0, 0, 0);
@@ -164,12 +183,18 @@
                     const shuffled = [...allQuestions].sort(() => rng(seed) - 0.5);
                     const selectedQuestions = shuffled.slice(0, 10);
                     
-                    const quizData = { questions: selectedQuestions, date: today.toISOString() };
+                    const quizData = { 
+                        questions: selectedQuestions, 
+                        date: today.toISOString(),
+                        version: currentVersion
+                    };
                     
+                    // ⭐ ÉTAPE 6 : Sauvegarder dans le cache avec la nouvelle clé
                     try {
                         localStorage.setItem(dateKey, JSON.stringify(quizData));
+                        console.log(`💾 Nouvelles questions sauvegardées en cache (version ${currentVersion})`);
                     } catch (e) {
-                        console.log('Erreur de sauvegarde cache');
+                        console.log('⚠️ Erreur de sauvegarde cache');
                     }
                     
                     dailyCache[dateKey] = quizData;
