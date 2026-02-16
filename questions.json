@@ -2650,9 +2650,97 @@
       ],
       "correctAnswer": 2,
       "category": "Histoire"
+    },
+    {
+      "question": "En quelle année la chute du mur de Berlin a-t-elle eu lieu ?",
+      "options": [
+        "1987",
+        "1989",
+        "1990",
+        "1991"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel gaz compose principalement l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "David Fincher"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
+    },
+    {
+      "question": "Dans quel sport Michael Jordan s'est-il illustré ?",
+      "options": [
+        "Football américain",
+        "Baseball",
+        "Basketball",
+        "Tennis"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport"
+    },
+    {
+      "question": "Combien de continents y a-t-il sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Dans quelle ville se déroule l'action de 'Roméo et Juliette' ?",
+      "options": [
+        "Florence",
+        "Rome",
+        "Venise",
+        "Vérone"
+      ],
+      "correctAnswer": 3,
+      "category": "Littérature"
+    },
+    {
+      "question": "Combien de minutes y a-t-il dans un match de football ?",
+      "options": [
+        "80",
+        "90",
+        "100",
+        "120"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel fromage français est originaire de Normandie ?",
+      "options": [
+        "Roquefort",
+        "Camembert",
+        "Comté",
+        "Cantal"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie"
     }
   ],
-  "version": 22,
+  "version": 23,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-16T00:07:43.443Z"
+  "last_updated": "2026-02-16T02:22:27.665Z"
 }
