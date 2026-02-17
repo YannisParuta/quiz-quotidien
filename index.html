@@ -153,10 +153,20 @@
                         const cached = localStorage.getItem(dateKey);
                         if (cached) {
                             const cachedData = JSON.parse(cached);
-                            console.log('✅ Questions chargées depuis le cache');
-                            setDailyQuiz(cachedData.questions);
-                            setLoading(false);
-                            return;
+                            
+                            // ⭐ Vérification : S'assurer que le cache a la bonne structure
+                            if (cachedData.questions && 
+                                Array.isArray(cachedData.questions) && 
+                                cachedData.questions.length === 10 &&
+                                cachedData.questions.every(q => q && q.question && q.options && typeof q.correctAnswer !== 'undefined')) {
+                                console.log('✅ Questions chargées depuis le cache');
+                                setDailyQuiz(cachedData.questions);
+                                setLoading(false);
+                                return;
+                            } else {
+                                console.log('⚠️ Cache invalide ou corrompu, rechargement...');
+                                localStorage.removeItem(dateKey);
+                            }
                         }
                     } catch (e) {
                         console.log('⚠️ Pas de cache valide, chargement des nouvelles questions');
@@ -247,8 +257,14 @@
                 } else {
                     // ⭐ FIX : Calculer le score total à partir de toutes les réponses
                     const finalAnswers = [...answers, selectedAnswer];
+                    
+                    // Vérification de sécurité : s'assurer que dailyQuiz a bien toutes les questions
                     const finalScore = finalAnswers.reduce((total, answer, index) => {
-                        return total + (answer === dailyQuiz[index].correctAnswer ? 1 : 0);
+                        // Vérifier que la question existe avant d'accéder à correctAnswer
+                        if (dailyQuiz[index] && typeof dailyQuiz[index].correctAnswer !== 'undefined') {
+                            return total + (answer === dailyQuiz[index].correctAnswer ? 1 : 0);
+                        }
+                        return total;
                     }, 0);
                     
                     setQuizCompleted(true);
@@ -282,8 +298,12 @@
                 
                 // Créer les carrés de couleur (🟢 = correct, 🔴 = incorrect)
                 const colorSquares = answers.map((answer, index) => {
-                    const isCorrect = answer === dailyQuiz[index].correctAnswer;
-                    return isCorrect ? '🟢' : '🔴';
+                    // Vérification de sécurité
+                    if (dailyQuiz[index] && typeof dailyQuiz[index].correctAnswer !== 'undefined') {
+                        const isCorrect = answer === dailyQuiz[index].correctAnswer;
+                        return isCorrect ? '🟢' : '🔴';
+                    }
+                    return '⚪'; // Fallback si question manquante
                 }).join('');
                 
                 // Déterminer l'emoji et le commentaire selon le score
