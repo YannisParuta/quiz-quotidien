@@ -6,6 +6,22 @@
     <title>Quiz Quotidien</title>
     <link rel="icon" type="image/png" href="favicon.png">
     
+    <!-- PWA Configuration -->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#9333ea">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Quiz Quotidien">
+    <link rel="apple-touch-icon" href="/favicon.png">
+    
+    <!-- Meta tags pour SEO et partage -->
+    <meta name="description" content="Quiz Quotidien - 10 nouvelles questions chaque jour pour tester vos connaissances !">
+    <meta property="og:title" content="Quiz Quotidien">
+    <meta property="og:description" content="10 nouvelles questions chaque jour pour tester vos connaissances !">
+    <meta property="og:image" content="https://quiz-quotidien.fr/favicon.png">
+    <meta property="og:url" content="https://quiz-quotidien.fr">
+    <meta name="twitter:card" content="summary">
+    
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XHE708K9TT"></script>
     <script>
@@ -234,12 +250,20 @@
                     setSelectedAnswer(null);
                     setShowResult(false);
                 } else {
+                    // ⭐ FIX : Calculer le score total à partir de toutes les réponses
+                    const finalAnswers = [...answers, selectedAnswer];
+                    const finalScore = finalAnswers.reduce((total, answer, index) => {
+                        return total + (answer === dailyQuiz[index].correctAnswer ? 1 : 0);
+                    }, 0);
+                    
                     setQuizCompleted(true);
+                    setScore(finalScore); // Mettre à jour le score pour l'affichage
+                    
                     const today = new Date();
                     const dateKey = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
                     localStorage.setItem(`quiz-completed-${dateKey}`, 'true');
-                    localStorage.setItem(`quiz-score-${dateKey}`, score + (selectedAnswer === dailyQuiz[currentQuestion].correctAnswer ? 1 : 0));
-                    localStorage.setItem(`quiz-answers-${dateKey}`, JSON.stringify([...answers, selectedAnswer]));
+                    localStorage.setItem(`quiz-score-${dateKey}`, finalScore.toString());
+                    localStorage.setItem(`quiz-answers-${dateKey}`, JSON.stringify(finalAnswers));
                 }
             };
 
@@ -437,6 +461,21 @@
         }
 
         ReactDOM.render(<DailyQuiz />, document.getElementById('root'));
+    </script>
+    
+    <!-- Service Worker pour PWA -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/service-worker.js')
+                    .then((registration) => {
+                        console.log('✅ Service Worker enregistré:', registration);
+                    })
+                    .catch((error) => {
+                        console.log('❌ Erreur Service Worker:', error);
+                    });
+            });
+        }
     </script>
 </body>
 </html>
