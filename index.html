@@ -187,10 +187,44 @@
                         console.log('⚠️ Erreur nettoyage cache');
                     }
                     
-                    // ⭐ ÉTAPE 5 : Sélectionner 10 questions aléatoires pour aujourd'hui
+                    // ⭐ ÉTAPE 4 : NOUVEAU - Récupérer les questions déjà utilisées
+                    let usedQuestionIds = [];
+                    try {
+                        const usedData = localStorage.getItem('used-questions-ids');
+                        if (usedData) {
+                            usedQuestionIds = JSON.parse(usedData);
+                            console.log(`📚 Questions déjà utilisées : ${usedQuestionIds.length}`);
+                        }
+                    } catch (e) {
+                        console.log('⚠️ Pas d\'historique de questions utilisées');
+                    }
+                    
+                    // ⭐ ÉTAPE 5 : Préparer les questions avec IDs uniques et filtrer
                     const allQuestions = data.questions;
                     
-                    // ⭐ NOUVEAU : Combiner DATE + VERSION pour varier les questions
+                    // Ajouter un ID unique à chaque question si elle n'en a pas
+                    const questionsWithIds = allQuestions.map((q, index) => ({
+                        ...q,
+                        id: q.id || `q_${index}_${q.question.substring(0, 20).replace(/\s+/g, '_')}`
+                    }));
+                    
+                    // Filtrer les questions NON utilisées
+                    const availableQuestions = questionsWithIds.filter(q => !usedQuestionIds.includes(q.id));
+                    
+                    console.log(`📊 Questions totales : ${questionsWithIds.length}`);
+                    console.log(`📊 Questions disponibles : ${availableQuestions.length}`);
+                    console.log(`📊 Questions utilisées : ${usedQuestionIds.length}`);
+                    
+                    // ⭐ Si moins de 50 questions disponibles, on reset l'historique
+                    let questionsToUse = availableQuestions;
+                    if (availableQuestions.length < 50) {
+                        console.log('🔄 Moins de 50 questions dispo → Reset de l\'historique !');
+                        questionsToUse = questionsWithIds;
+                        usedQuestionIds = []; // Reset
+                        localStorage.removeItem('used-questions-ids');
+                    }
+                    
+                    // ⭐ ÉTAPE 6 : Sélectionner 10 questions aléatoires pour aujourd'hui
                     const dateTimestamp = new Date().setHours(0, 0, 0, 0);
                     const versionOffset = currentVersion * 1000000; // Décale la seed avec la version
                     const seed = dateTimestamp + versionOffset;
@@ -202,10 +236,22 @@
                         return x - Math.floor(x);
                     };
                     
-                    const shuffled = [...allQuestions].sort(() => rng(seed) - 0.5);
+                    const shuffled = [...questionsToUse].sort(() => rng(seed) - 0.5);
                     const selectedQuestions = shuffled.slice(0, 10);
                     
-                    console.log(`✅ 10 questions sélectionnées sur ${allQuestions.length} disponibles`);
+                    console.log(`✅ 10 questions sélectionnées sur ${questionsToUse.length} disponibles`);
+                    
+                    // ⭐ ÉTAPE 7 : Marquer ces questions comme utilisées
+                    const newUsedIds = selectedQuestions.map(q => q.id);
+                    const updatedUsedIds = [...usedQuestionIds, ...newUsedIds];
+                    
+                    try {
+                        localStorage.setItem('used-questions-ids', JSON.stringify(updatedUsedIds));
+                        console.log(`💾 ${newUsedIds.length} nouvelles questions marquées comme utilisées`);
+                        console.log(`📊 Total utilisées : ${updatedUsedIds.length}/${questionsWithIds.length}`);
+                    } catch (e) {
+                        console.log('⚠️ Erreur sauvegarde questions utilisées');
+                    }
                     
                     const quizData = { 
                         questions: selectedQuestions, 
@@ -213,7 +259,7 @@
                         version: currentVersion
                     };
                     
-                    // ⭐ ÉTAPE 6 : Sauvegarder dans le cache avec la nouvelle clé
+                    // ⭐ ÉTAPE 8 : Sauvegarder dans le cache avec la nouvelle clé
                     try {
                         localStorage.setItem(dateKey, JSON.stringify(quizData));
                         console.log(`💾 Nouvelles questions sauvegardées en cache (version ${currentVersion})`);
