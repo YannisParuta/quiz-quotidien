@@ -209,21 +209,66 @@ CONSIGNES IMPORTANTES :
     }
 
     // ============================================
-    // ÉTAPE 5 : Fusionner les questions
+    // ÉTAPE 5 : Ajouter des IDs uniques aux nouvelles questions
     // ============================================
     console.log(`📝 Ajout de ${uniqueNewQuestions.length} nouvelles questions...`);
     
-    existingData.questions = [...existingData.questions, ...uniqueNewQuestions];
+    // Générer des IDs uniques pour les nouvelles questions
+    const questionsWithIds = uniqueNewQuestions.map((q, index) => {
+      const timestamp = Date.now();
+      const randomPart = Math.random().toString(36).substring(2, 8);
+      return {
+        ...q,
+        id: q.id || `q_${timestamp}_${index}_${randomPart}`,
+        addedAt: new Date().toISOString()
+      };
+    });
     
-    // Limiter à 1000 questions max (garder les plus récentes)
-    if (existingData.questions.length > 1000) {
-      const removed = existingData.questions.length - 1000;
-      existingData.questions = existingData.questions.slice(-1000);
-      console.log(`⚠️ Limitation à 1000 questions (${removed} anciennes supprimées)`);
+    // Ajouter les IDs aux questions existantes qui n'en ont pas
+    const existingWithIds = existingData.questions.map((q, index) => {
+      if (!q.id) {
+        const fallbackId = `q_legacy_${index}_${q.question.substring(0, 10).replace(/\s+/g, '_')}`;
+        return { ...q, id: fallbackId, addedAt: q.addedAt || '2026-01-01T00:00:00.000Z' };
+      }
+      return q;
+    });
+    
+    // Fusionner toutes les questions
+    const allQuestionsWithIds = [...existingWithIds, ...questionsWithIds];
+    
+    // ============================================
+    // ÉTAPE 6 : Système de Pool Rotatif (100 questions actives)
+    // ============================================
+    
+    // Trier par date d'ajout (plus récentes en premier)
+    allQuestionsWithIds.sort((a, b) => {
+      const dateA = new Date(a.addedAt || '2026-01-01');
+      const dateB = new Date(b.addedAt || '2026-01-01');
+      return dateB - dateA; // Plus récent d'abord
+    });
+    
+    // Définir le pool actif (100 questions les plus récentes)
+    const POOL_SIZE = 100;
+    const activePool = allQuestionsWithIds.slice(0, POOL_SIZE);
+    const archivedQuestions = allQuestionsWithIds.slice(POOL_SIZE);
+    
+    console.log(`📊 Pool actif : ${activePool.length} questions`);
+    console.log(`📦 Archive : ${archivedQuestions.length} questions`);
+    
+    // Sauvegarder séparément le pool actif et l'archive
+    existingData.questions = activePool;
+    existingData.archivedQuestions = archivedQuestions;
+    existingData.poolSize = POOL_SIZE;
+    
+    // Limiter l'archive à 1000 questions max
+    if (existingData.archivedQuestions.length > 1000) {
+      const removed = existingData.archivedQuestions.length - 1000;
+      existingData.archivedQuestions = existingData.archivedQuestions.slice(0, 1000);
+      console.log(`⚠️ Archive limitée à 1000 questions (${removed} supprimées)`);
     }
 
     // ============================================
-    // ÉTAPE 6 : Incrémenter la version
+    // ÉTAPE 7 : Incrémenter la version
     // ============================================
     const currentVersion = existingData.version || 1;
     const newVersion = currentVersion + 1;
@@ -233,7 +278,7 @@ CONSIGNES IMPORTANTES :
     console.log(`🔢 Version: ${currentVersion} → ${newVersion}`);
 
     // ============================================
-    // ÉTAPE 7 : Commit sur GitHub
+    // ÉTAPE 8 : Commit sur GitHub
     // ============================================
     console.log('📤 Mise à jour du fichier sur GitHub...');
     
@@ -267,7 +312,7 @@ CONSIGNES IMPORTANTES :
     console.log('✅ Fichier mis à jour avec succès sur GitHub !');
 
     // ============================================
-    // ⭐ ÉTAPE 8 : PURGER LE CACHE VERCEL (NOUVEAU!)
+    // ⭐ ÉTAPE 9 : PURGER LE CACHE VERCEL (NOUVEAU!)
     // ============================================
     console.log('🔄 Purge du cache Vercel...');
     
@@ -306,7 +351,7 @@ CONSIGNES IMPORTANTES :
     }
 
     // ============================================
-    // ÉTAPE 9 : Réponse détaillée
+    // ÉTAPE 10 : Réponse détaillée
     // ============================================
     return res.status(200).json({
       success: true,
