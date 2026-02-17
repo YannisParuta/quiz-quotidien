@@ -2738,9 +2738,119 @@
       ],
       "correctAnswer": 1,
       "category": "Gastronomie"
+    },
+    {
+      "question": "Quelle planète du système solaire possède le plus grand nombre de lunes connues ?",
+      "options": [
+        "Jupiter",
+        "Saturne",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quelle mer se trouve l'archipel des Baléares ?",
+      "options": [
+        "Mer Adriatique",
+        "Mer Égée",
+        "Mer Méditerranée",
+        "Mer Tyrrhénienne"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit 'La Flûte enchantée' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Franz Schubert",
+        "Wolfgang Amadeus Mozart",
+        "Joseph Haydn"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique"
+    },
+    {
+      "question": "Quelle révolution industrielle est associée à l'invention de la machine à vapeur ?",
+      "options": [
+        "Première révolution industrielle",
+        "Deuxième révolution industrielle",
+        "Troisième révolution industrielle",
+        "Révolution numérique"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire"
+    },
+    {
+      "question": "Quel organe du corps humain produit l'insuline ?",
+      "options": [
+        "Le foie",
+        "Les reins",
+        "Le pancréas",
+        "La thyroïde"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Dans quel pays a été inventé le badminton moderne ?",
+      "options": [
+        "Chine",
+        "Inde",
+        "Angleterre",
+        "Danemark"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport"
+    },
+    {
+      "question": "Quel est le symbole chimique du tungstène ?",
+      "options": [
+        "Tu",
+        "Tn",
+        "W",
+        "Tg"
+      ],
+      "correctAnswer": 2,
+      "category": "Science"
+    },
+    {
+      "question": "Quel fleuve traverse la ville de Prague ?",
+      "options": [
+        "Le Danube",
+        "L'Elbe",
+        "La Vltava",
+        "L'Oder"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année le premier iPhone a-t-il été commercialisé ?",
+      "options": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie"
+    },
+    {
+      "question": "Quel réalisateur a dirigé la trilogie 'Le Seigneur des Anneaux' ?",
+      "options": [
+        "George Lucas",
+        "Steven Spielberg",
+        "Peter Jackson",
+        "James Cameron"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma"
     }
   ],
-  "version": 23,
+  "version": 24,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-16T02:22:27.665Z"
+  "last_updated": "2026-02-17T00:30:12.214Z"
 }
