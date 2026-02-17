@@ -2848,9 +2848,64 @@
       ],
       "correctAnswer": 2,
       "category": "Cinéma"
+    },
+    {
+      "question": "Quel est le nom de la plus haute montagne d'Afrique ?",
+      "options": [
+        "Mont Elgon",
+        "Kilimandjaro",
+        "Mont Kenya",
+        "Drakensberg"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie"
+    },
+    {
+      "question": "En quelle année a été créée la première voiture Ford Model T ?",
+      "options": [
+        "1904",
+        "1908",
+        "1912",
+        "1916"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire"
+    },
+    {
+      "question": "Qui a développé la théorie de la relativité ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Stephen Hawking"
+      ],
+      "correctAnswer": 1,
+      "category": "Science"
+    },
+    {
+      "question": "Combien font 7 × 8 ?",
+      "options": [
+        "54",
+        "56",
+        "58",
+        "64"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques"
+    },
+    {
+      "question": "Dans quel film de 1975 un grand requin blanc terrorise une station balnéaire ?",
+      "options": [
+        "L'Exorciste",
+        "Les Dents de la mer",
+        "Alien",
+        "Psychose"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma"
     }
   ],
-  "version": 24,
+  "version": 25,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-17T00:30:12.214Z"
+  "last_updated": "2026-02-17T02:12:03.288Z"
 }
