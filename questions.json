@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel empereur romain a fait construire le mur d'Hadrien ?",
+      "options": [
+        "Jules César",
+        "Auguste",
+        "Hadrien",
+        "Trajan"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1771376280549_0_3ebuha",
+      "addedAt": "2026-02-18T00:58:00.549Z"
+    },
+    {
+      "question": "Quelle est l'unité de mesure de la résistance électrique ?",
+      "options": [
+        "Volt",
+        "Ampère",
+        "Watt",
+        "Ohm"
+      ],
+      "correctAnswer": 3,
+      "category": "Science",
+      "id": "q_1771376280549_1_r6dkx9",
+      "addedAt": "2026-02-18T00:58:00.549Z"
+    },
+    {
+      "question": "Combien de pattes possède une araignée ?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1771376280549_2_mbzxol",
+      "addedAt": "2026-02-18T00:58:00.549Z"
+    },
+    {
+      "question": "Quel instrument Yo-Yo Ma joue-t-il virtuosement ?",
+      "options": [
+        "Violon",
+        "Piano",
+        "Violoncelle",
+        "Contrebasse"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1771376280549_3_jk3gd2",
+      "addedAt": "2026-02-18T00:58:00.549Z"
+    },
+    {
+      "question": "Qui a réalisé le film 'Vertigo' en 1958 ?",
+      "options": [
+        "Orson Welles",
+        "Alfred Hitchcock",
+        "Billy Wilder",
+        "John Huston"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1771376280549_4_hzgswi",
+      "addedAt": "2026-02-18T00:58:00.549Z"
+    },
+    {
+      "question": "De quel pays est originaire la paella ?",
+      "options": [
+        "Portugal",
+        "Italie",
+        "France",
+        "Espagne"
+      ],
+      "correctAnswer": 3,
+      "category": "Gastronomie",
+      "id": "q_1771376280549_5_93k2c9",
+      "addedAt": "2026-02-18T00:58:00.549Z"
+    },
+    {
+      "question": "Quel désert est le plus grand au monde ?",
+      "options": [
+        "Sahara",
+        "Gobi",
+        "Antarctique",
+        "Kalahari"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1771376280549_6_cdwb9f",
+      "addedAt": "2026-02-18T00:58:00.549Z"
+    },
+    {
+      "question": "En quelle année a eu lieu la révolution française ?",
+      "options": [
+        "1789",
+        "1792",
+        "1799",
+        "1804"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1771376280549_7_ekkh2r",
+      "addedAt": "2026-02-18T00:58:00.549Z"
+    },
+    {
+      "question": "Quelle vitamine est produite par la peau lors de l'exposition au soleil ?",
+      "options": [
+        "Vitamine A",
+        "Vitamine C",
+        "Vitamine D",
+        "Vitamine E"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1771376280549_8_skd36g",
+      "addedAt": "2026-02-18T00:58:00.549Z"
+    },
+    {
       "question": "Combien d'équipes participent à la Coupe du Monde de football ?",
       "options": [
         "28",
@@ -9,7 +126,9 @@
         "36"
       ],
       "correctAnswer": 2,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_0_Combien_d'",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien vaut π (pi) approximativement ?",
@@ -20,7 +139,9 @@
         "4,20"
       ],
       "correctAnswer": 0,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_1_Combien_va",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel réseau social a été lancé en premier ?",
@@ -31,7 +152,9 @@
         "LinkedIn"
       ],
       "correctAnswer": 2,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_2_Quel_résea",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de faces possède un dodécaèdre ?",
@@ -42,7 +165,9 @@
         "20"
       ],
       "correctAnswer": 1,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_3_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel sport utilise-t-on un shuttlecock ?",
@@ -53,7 +178,9 @@
         "Tennis de table"
       ],
       "correctAnswer": 2,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_4_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle entreprise a créé l'iPhone ?",
@@ -64,7 +191,9 @@
         "Apple"
       ],
       "correctAnswer": 3,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_5_Quelle_ent",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle est la capitale du Brésil ?",
@@ -75,7 +204,9 @@
         "Salvador"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_6_Quelle_est",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Que vaut π (pi) arrondi à deux décimales ?",
@@ -86,7 +217,9 @@
         "3,18"
       ],
       "correctAnswer": 1,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_7_Que_vaut_π",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel système d'exploitation a été créé par Linus Torvalds ?",
@@ -97,7 +230,9 @@
         "Android"
       ],
       "correctAnswer": 2,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_8_Quel_systè",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de côtés a un dodécagone ?",
@@ -108,7 +243,9 @@
         "16"
       ],
       "correctAnswer": 1,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_9_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le plus long fleuve d'Europe ?",
@@ -119,7 +256,9 @@
         "La Loire"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_10_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
@@ -130,7 +269,9 @@
         "Argon"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_11_Quel_gaz_r",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien d'os compte le corps humain adulte ?",
@@ -141,7 +282,9 @@
         "246"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_12_Combien_d'",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est l'auteur du roman '1984' ?",
@@ -152,7 +295,9 @@
         "H.G. Wells"
       ],
       "correctAnswer": 2,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_13_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel langage de programmation porte le nom d'un serpent ?",
@@ -163,7 +308,9 @@
         "Swift"
       ],
       "correctAnswer": 1,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_14_Quel_langa",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel sport utilise-t-on un 'birdie' ?",
@@ -174,7 +321,9 @@
         "Cricket"
       ],
       "correctAnswer": 1,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_15_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a écrit 'L'Étranger' ?",
@@ -185,7 +334,9 @@
         "Marcel Proust"
       ],
       "correctAnswer": 1,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_16_Qui_a_écri",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien d'os compte approximativement le corps humain adulte ?",
@@ -196,7 +347,9 @@
         "246"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_17_Combien_d'",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien vaut π (pi) arrondi à deux décimales ?",
@@ -207,7 +360,9 @@
         "3,18"
       ],
       "correctAnswer": 0,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_18_Combien_va",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel gaz compose principalement l'atmosphère de Jupiter ?",
@@ -218,7 +373,9 @@
         "Méthane"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_19_Quel_gaz_c",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de joueurs compose une équipe de volley-ball sur le terrain ?",
@@ -229,7 +386,9 @@
         "8"
       ],
       "correctAnswer": 1,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_20_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de côtés possède un dodécagone ?",
@@ -240,7 +399,9 @@
         "16"
       ],
       "correctAnswer": 1,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_21_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est l'élément chimique représenté par le symbole 'Au' ?",
@@ -251,7 +412,9 @@
         "Arsenic"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_22_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel océan borde la côte ouest de l'Afrique ?",
@@ -262,7 +425,9 @@
         "Océan Arctique"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_23_Quel_océan",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui était le premier empereur romain ?",
@@ -273,7 +438,9 @@
         "Trajan"
       ],
       "correctAnswer": 1,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_24_Qui_était_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle vitamine est produite par la peau grâce aux rayons du soleil ?",
@@ -284,7 +451,9 @@
         "Vitamine K"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_25_Quelle_vit",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle ville se trouve le musée du Louvre ?",
@@ -295,7 +464,9 @@
         "Paris"
       ],
       "correctAnswer": 3,
-      "category": "Culture"
+      "category": "Culture",
+      "id": "q_legacy_26_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de sets faut-il gagner pour remporter un match de tennis en Grand Chelem masculin ?",
@@ -306,7 +477,9 @@
         "5 sets"
       ],
       "correctAnswer": 1,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_27_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel mouvement artistique Pablo Picasso a-t-il cofondé ?",
@@ -317,7 +490,9 @@
         "Fauvisme"
       ],
       "correctAnswer": 2,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_28_Quel_mouve",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a écrit 'Le Petit Prince' ?",
@@ -328,7 +503,9 @@
         "Albert Camus"
       ],
       "correctAnswer": 1,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_29_Qui_a_écri",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel animal peut vivre le plus longtemps ?",
@@ -339,7 +516,9 @@
         "Requin du Groenland"
       ],
       "correctAnswer": 2,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_30_Quel_anima",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle est la racine carrée de 144 ?",
@@ -350,7 +529,9 @@
         "14"
       ],
       "correctAnswer": 1,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_31_Quelle_est",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel instrument Frédéric Chopin jouait-il principalement ?",
@@ -361,7 +542,9 @@
         "Flûte"
       ],
       "correctAnswer": 2,
-      "category": "Musique"
+      "category": "Musique",
+      "id": "q_legacy_32_Quel_instr",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a réalisé le film 'Le Parrain' ?",
@@ -372,7 +555,9 @@
         "Ridley Scott"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_33_Qui_a_réal",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Que signifie l'acronyme 'URL' ?",
@@ -383,7 +568,9 @@
         "Universal Reference Link"
       ],
       "correctAnswer": 1,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_34_Que_signif",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Sur quel continent se trouve le désert du Sahara ?",
@@ -394,7 +581,9 @@
         "Australie"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_35_Sur_quel_c",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
@@ -405,7 +594,9 @@
         "1970"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_36_En_quelle_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le nom du phénomène par lequel la lumière change de direction en passant d'un milieu à un autre ?",
@@ -416,7 +607,9 @@
         "Polarisation"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_37_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle ville italienne peut-on admirer la Chapelle Sixtine ?",
@@ -427,7 +620,9 @@
         "Milan"
       ],
       "correctAnswer": 0,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_38_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le plus petit pays du monde en superficie ?",
@@ -438,7 +633,9 @@
         "Nauru"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_39_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a développé la théorie de l'évolution par sélection naturelle ?",
@@ -449,7 +646,9 @@
         "Alfred Wallace"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_40_Qui_a_déve",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de cordes possède une guitare classique ?",
@@ -460,7 +659,9 @@
         "7"
       ],
       "correctAnswer": 2,
-      "category": "Musique"
+      "category": "Musique",
+      "id": "q_legacy_41_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel fleuve traverse la ville de Paris ?",
@@ -471,7 +672,9 @@
         "La Garonne"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_42_Quel_fleuv",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "En mathématiques, que représente le nombre Pi ?",
@@ -482,7 +685,9 @@
         "Le rayon d'un cercle"
       ],
       "correctAnswer": 1,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_43_En_mathéma",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel empire a construit le Machu Picchu ?",
@@ -493,7 +698,9 @@
         "Empire Olmèque"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_44_Quel_empir",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de chambres possède le cœur humain ?",
@@ -504,7 +711,9 @@
         "5"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_45_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel sport se pratique sur une piste de 400 mètres ?",
@@ -515,7 +724,9 @@
         "Course automobile"
       ],
       "correctAnswer": 1,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_46_Quel_sport",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle planète est surnommée 'la planète rouge' ?",
@@ -526,7 +737,9 @@
         "Saturne"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_47_Quelle_pla",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel pays se trouve la région de la Toscane ?",
@@ -537,7 +750,9 @@
         "Grèce"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_48_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est l'animal emblématique de l'Australie qui ne peut pas marcher à reculons ?",
@@ -548,7 +763,9 @@
         "Le wombat"
       ],
       "correctAnswer": 1,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_49_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de touches noires possède un piano standard ?",
@@ -559,7 +776,9 @@
         "44"
       ],
       "correctAnswer": 1,
-      "category": "Musique"
+      "category": "Musique",
+      "id": "q_legacy_50_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle mer sépare l'Italie de la Croatie ?",
@@ -570,7 +789,9 @@
         "Mer Égée"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_51_Quelle_mer",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a inventé le téléphone ?",
@@ -581,7 +802,9 @@
         "Guglielmo Marconi"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_52_Qui_a_inve",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien d'os compte le squelette d'un adulte ?",
@@ -592,7 +815,9 @@
         "222"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_53_Combien_d'",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle ville se déroule l'action du roman 'Notre-Dame de Paris' ?",
@@ -603,7 +828,9 @@
         "Rouen"
       ],
       "correctAnswer": 2,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_54_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel peintre a créé 'La Nuit étoilée' ?",
@@ -614,7 +841,9 @@
         "Henri Matisse"
       ],
       "correctAnswer": 1,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_55_Quel_peint",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle bataille a marqué la fin de l'Empire de Napoléon Ier ?",
@@ -625,7 +854,9 @@
         "Iéna"
       ],
       "correctAnswer": 1,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_56_Quelle_bat",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel mammifère marin possède le plus gros cerveau du règne animal ?",
@@ -636,7 +867,9 @@
         "Dauphin"
       ],
       "correctAnswer": 2,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_57_Quel_mammi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle épice donne sa couleur jaune au curry ?",
@@ -647,7 +880,9 @@
         "Cumin"
       ],
       "correctAnswer": 1,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_58_Quelle_épi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle est la capitale de l'Islande ?",
@@ -658,7 +893,9 @@
         "Stockholm"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_59_Quelle_est",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel empereur romain a légalisé le christianisme avec l'Édit de Milan ?",
@@ -669,7 +906,9 @@
         "Trajan"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_60_Quel_emper",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle est la formule chimique de l'eau oxygénée ?",
@@ -680,7 +919,9 @@
         "H2SO4"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_61_Quelle_est",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel film trouve-t-on le personnage de Hannibal Lecter ?",
@@ -691,7 +932,9 @@
         "Seven"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_62_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle héroïne de Jane Austen vit à Longbourn ?",
@@ -702,7 +945,9 @@
         "Marianne Dashwood"
       ],
       "correctAnswer": 1,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_63_Quelle_hér",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le plus grand désert chaud du monde ?",
@@ -713,7 +958,9 @@
         "Désert d'Atacama"
       ],
       "correctAnswer": 2,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_64_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien vaut 7 au cube ?",
@@ -724,7 +971,9 @@
         "294"
       ],
       "correctAnswer": 2,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_65_Combien_va",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "De combien de musiciens se compose généralement un quatuor à cordes ?",
@@ -735,7 +984,9 @@
         "6"
       ],
       "correctAnswer": 1,
-      "category": "Musique"
+      "category": "Musique",
+      "id": "q_legacy_66_De_combien",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel système d'exploitation mobile a été développé par Google ?",
@@ -746,7 +997,9 @@
         "BlackBerry"
       ],
       "correctAnswer": 2,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_67_Quel_systè",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle spécialité culinaire est originaire de la région de Provence ?",
@@ -757,7 +1010,9 @@
         "Pot-au-feu"
       ],
       "correctAnswer": 1,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_68_Quelle_spé",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "En quelle année a été créée l'Organisation des Nations Unies ?",
@@ -768,7 +1023,9 @@
         "1947"
       ],
       "correctAnswer": 1,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_69_En_quelle_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle mer se jette le Danube ?",
@@ -779,7 +1036,9 @@
         "Mer Baltique"
       ],
       "correctAnswer": 0,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_70_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le nom du processus par lequel les plantes convertissent la lumière en énergie ?",
@@ -790,7 +1049,9 @@
         "Germination"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_71_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle ville se trouve le célèbre musée du Prado ?",
@@ -801,7 +1062,9 @@
         "Valence"
       ],
       "correctAnswer": 1,
-      "category": "Culture"
+      "category": "Culture",
+      "id": "q_legacy_72_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a écrit le roman '1984' ?",
@@ -812,7 +1075,9 @@
         "H.G. Wells"
       ],
       "correctAnswer": 2,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_73_Qui_a_écri",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel pays a été inventé le jeu d'échecs ?",
@@ -823,7 +1088,9 @@
         "Égypte"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_74_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle est la monnaie officielle du Japon ?",
@@ -834,7 +1101,9 @@
         "Ringgit"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_75_Quelle_est",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel organe produit l'insuline dans le corps humain ?",
@@ -845,7 +1114,9 @@
         "Rate"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_76_Quel_organ",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "En quelle année s'est déroulée la Révolution française ?",
@@ -856,7 +1127,9 @@
         "1804"
       ],
       "correctAnswer": 0,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_77_En_quelle_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
@@ -867,7 +1140,9 @@
         "Comté"
       ],
       "correctAnswer": 1,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_78_Quel_froma",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a découvert la radioactivité naturelle ?",
@@ -878,7 +1153,9 @@
         "Ernest Rutherford"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_79_Qui_a_déco",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle décennie a été inventé le World Wide Web ?",
@@ -889,7 +1166,9 @@
         "2000"
       ],
       "correctAnswer": 2,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_80_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le plus petit pays d'Afrique continentale ?",
@@ -900,7 +1179,9 @@
         "Guinée équatoriale"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_81_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
@@ -911,7 +1192,9 @@
         "Traité de Saint-Germain"
       ],
       "correctAnswer": 0,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_82_Quel_trait",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle vitamine est principalement synthétisée par la peau sous l'action du soleil ?",
@@ -922,7 +1205,9 @@
         "Vitamine E"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_83_Quelle_vit",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
@@ -933,7 +1218,9 @@
         "Zaha Hadid"
       ],
       "correctAnswer": 2,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_84_Quel_archi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle espèce animale peut vivre le plus longtemps ?",
@@ -944,7 +1231,9 @@
         "Éléphant d'Afrique"
       ],
       "correctAnswer": 1,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_85_Quelle_esp",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "De quel pays provient originalement la paella ?",
@@ -955,7 +1244,9 @@
         "France"
       ],
       "correctAnswer": 2,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_86_De_quel_pa",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle civilisation a construit le Machu Picchu ?",
@@ -966,7 +1257,9 @@
         "Les Olmèques"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_87_Quelle_civ",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel océan sépare l'Australie de l'Amérique du Sud ?",
@@ -977,7 +1270,9 @@
         "Océan Arctique"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_88_Quel_océan",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle est la durée d'une olympiade ?",
@@ -988,7 +1283,9 @@
         "8 ans"
       ],
       "correctAnswer": 1,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_89_Quelle_est",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle partie de la cellule trouve-t-on l'ADN ?",
@@ -999,8 +1296,15 @@
         "Ribosome"
       ],
       "correctAnswer": 2,
-      "category": "Science"
-    },
+      "category": "Science",
+      "id": "q_legacy_90_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "version": 26,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-18T00:58:00.550Z",
+  "archivedQuestions": [
     {
       "question": "Quel pharaon a fait construire la Grande Pyramide de Gizeh ?",
       "options": [
@@ -1010,7 +1314,9 @@
         "Cléopâtre"
       ],
       "correctAnswer": 0,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_91_Quel_phara",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "De quelle couleur est le sang des poulpes ?",
@@ -1021,7 +1327,9 @@
         "Violet"
       ],
       "correctAnswer": 2,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_92_De_quelle_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle est la boisson traditionnelle russe à base de betteraves ?",
@@ -1032,7 +1340,9 @@
         "Thé"
       ],
       "correctAnswer": 0,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_93_Quelle_est",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle est la langue officielle du Brésil ?",
@@ -1043,7 +1353,9 @@
         "Anglais"
       ],
       "correctAnswer": 1,
-      "category": "Culture"
+      "category": "Culture",
+      "id": "q_legacy_94_Quelle_est",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel personnage de Shakespeare prononce la phrase 'Être ou ne pas être' ?",
@@ -1054,7 +1366,9 @@
         "Macbeth"
       ],
       "correctAnswer": 2,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_95_Quel_perso",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle entreprise a créé le processeur M1 ?",
@@ -1065,7 +1379,9 @@
         "NVIDIA"
       ],
       "correctAnswer": 2,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_96_Quelle_ent",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel peintre néerlandais est célèbre pour ses tournesols ?",
@@ -1076,7 +1392,9 @@
         "Piet Mondrian"
       ],
       "correctAnswer": 1,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_97_Quel_peint",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel élément chimique a pour symbole Au ?",
@@ -1087,7 +1405,9 @@
         "Arsenic"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_98_Quel_éléme",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel réalisateur a créé les films 'E.T.' et 'Jurassic Park' ?",
@@ -1098,7 +1418,9 @@
         "Francis Ford Coppola"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_99_Quel_réali",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle est la formule chimique de l'eau ?",
@@ -1109,7 +1431,9 @@
         "NaCl"
       ],
       "correctAnswer": 0,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_100_Quelle_est",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel écrivain français a écrit 'Les Misérables' ?",
@@ -1120,7 +1444,9 @@
         "Alexandre Dumas"
       ],
       "correctAnswer": 2,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_101_Quel_écriv",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel mammifère est capable de voler ?",
@@ -1131,7 +1457,9 @@
         "Le colugo"
       ],
       "correctAnswer": 1,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_102_Quel_mammi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel ingrédient principal compose le guacamole ?",
@@ -1142,7 +1470,9 @@
         "Courgette"
       ],
       "correctAnswer": 1,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_103_Quel_ingré",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel réseau social est symbolisé par un oiseau bleu ?",
@@ -1153,7 +1483,9 @@
         "LinkedIn"
       ],
       "correctAnswer": 2,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_104_Quel_résea",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle planète du système solaire possède le plus grand nombre de lunes ?",
@@ -1164,7 +1496,9 @@
         "Neptune"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_105_Quelle_pla",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle ville se trouve le siège de l'UNESCO ?",
@@ -1175,7 +1509,9 @@
         "Vienne"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_106_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel compositeur a écrit 'La Flûte enchantée' ?",
@@ -1186,7 +1522,9 @@
         "Vivaldi"
       ],
       "correctAnswer": 1,
-      "category": "Musique"
+      "category": "Musique",
+      "id": "q_legacy_107_Quel_compo",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel empire a régné sur le Pérou avant l'arrivée des conquistadors ?",
@@ -1197,7 +1535,9 @@
         "Empire olmèque"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_108_Quel_empir",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle technique de peinture utilise des pigments mélangés à de l'eau ?",
@@ -1208,7 +1548,9 @@
         "Pastel"
       ],
       "correctAnswer": 1,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_109_Quelle_tec",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel sport utilise-t-on un épée, un fleuret ou un sabre ?",
@@ -1219,7 +1561,9 @@
         "Arts martiaux"
       ],
       "correctAnswer": 1,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_110_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel désert est le plus grand du monde ?",
@@ -1230,7 +1574,9 @@
         "Kalahari"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_111_Quel_déser",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle langue a été programmé le premier navigateur web ?",
@@ -1241,7 +1587,9 @@
         "Java"
       ],
       "correctAnswer": 2,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_112_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle épice donne sa couleur jaune caractéristique au curry ?",
@@ -1252,7 +1600,9 @@
         "Cumin"
       ],
       "correctAnswer": 1,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_113_Quelle_épi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel animal peut changer de couleur pour se camoufler ?",
@@ -1263,7 +1613,9 @@
         "Lézard"
       ],
       "correctAnswer": 2,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_114_Quel_anima",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle civilisation a inventé l'écriture cunéiforme ?",
@@ -1274,7 +1626,9 @@
         "Babyloniens"
       ],
       "correctAnswer": 1,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_115_Quelle_civ",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle ville italienne est surnommée 'La Sérénissime' ?",
@@ -1285,7 +1639,9 @@
         "Naples"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_116_Quelle_vil",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel scientifique a développé la théorie de l'évolution par sélection naturelle ?",
@@ -1296,7 +1652,9 @@
         "Curie"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_117_Quel_scien",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle décennie a eu lieu la révolution française ?",
@@ -1307,7 +1665,9 @@
         "1800-1810"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_118_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel instrument de musique Frédéric Chopin maîtrisait-il particulièrement ?",
@@ -1318,7 +1678,9 @@
         "Violoncelle"
       ],
       "correctAnswer": 1,
-      "category": "Musique"
+      "category": "Musique",
+      "id": "q_legacy_119_Quel_instr",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de faces possède un icosaèdre ?",
@@ -1329,7 +1691,9 @@
         "24"
       ],
       "correctAnswer": 2,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_120_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle hormone régule principalement le taux de sucre dans le sang ?",
@@ -1340,7 +1704,9 @@
         "Thyroxine"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_121_Quelle_hor",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel pays se trouve la région de Transylvanie ?",
@@ -1351,7 +1717,9 @@
         "Serbie"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_122_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel fromage français est traditionnellement utilisé dans la fondue savoyarde ?",
@@ -1362,7 +1730,9 @@
         "Brie"
       ],
       "correctAnswer": 2,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_123_Quel_froma",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle technologie utilise des ondes radio pour localiser des objets ?",
@@ -1373,7 +1743,9 @@
         "Infrarouge"
       ],
       "correctAnswer": 1,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_124_Quelle_tec",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel mammifère marin possède une défense en spirale ?",
@@ -1384,7 +1756,9 @@
         "Bélouga"
       ],
       "correctAnswer": 2,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_125_Quel_mammi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle civilisation a construit la cité de Petra en Jordanie ?",
@@ -1395,7 +1769,9 @@
         "Assyriens"
       ],
       "correctAnswer": 1,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_126_Quelle_civ",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel volcan italien a enseveli Pompéi en 79 après J.-C. ?",
@@ -1406,7 +1782,9 @@
         "Le Vulcano"
       ],
       "correctAnswer": 1,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_127_Quel_volca",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle est la plus petite unité de matière ?",
@@ -1417,7 +1795,9 @@
         "L'électron"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_128_Quelle_est",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel pays se trouve le Machu Picchu ?",
@@ -1428,7 +1808,9 @@
         "Colombie"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_129_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a peint 'La Joconde' ?",
@@ -1439,7 +1821,9 @@
         "Donatello"
       ],
       "correctAnswer": 1,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_130_Qui_a_pein",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a écrit 'Roméo et Juliette' ?",
@@ -1450,7 +1834,9 @@
         "Jane Austen"
       ],
       "correctAnswer": 1,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_131_Qui_a_écri",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est l'animal terrestre le plus rapide au monde ?",
@@ -1461,7 +1847,9 @@
         "Le lièvre"
       ],
       "correctAnswer": 1,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_132_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de côtés possède un hexagone ?",
@@ -1472,7 +1860,9 @@
         "8"
       ],
       "correctAnswer": 1,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_133_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle épice est la plus chère au monde ?",
@@ -1483,7 +1873,9 @@
         "La cannelle"
       ],
       "correctAnswer": 1,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_134_Quelle_épi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel réalisateur a dirigé le film 'Titanic' ?",
@@ -1494,7 +1886,9 @@
         "Christopher Nolan"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_135_Quel_réali",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle invention a révolutionné la communication au 19ème siècle ?",
@@ -1505,7 +1899,9 @@
         "Le phonographe"
       ],
       "correctAnswer": 1,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_136_Quelle_inv",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle structure cellulaire est responsable de la photosynthèse chez les plantes ?",
@@ -1516,7 +1912,9 @@
         "Noyau"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_137_Quelle_str",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle ville française se trouve le célèbre festival de cinéma annuel ?",
@@ -1527,7 +1925,9 @@
         "Marseille"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_138_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel philosophe grec était le précepteur d'Alexandre le Grand ?",
@@ -1538,7 +1938,9 @@
         "Épicure"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_139_Quel_philo",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel pays a été inventée la pizza margherita ?",
@@ -1549,7 +1951,9 @@
         "Italie"
       ],
       "correctAnswer": 3,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_140_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel peintre est à l'origine du mouvement artistique appelé cubisme ?",
@@ -1560,7 +1964,9 @@
         "Dalí"
       ],
       "correctAnswer": 2,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_141_Quel_peint",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le symbole chimique du fer ?",
@@ -1571,7 +1977,9 @@
         "Fo"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_142_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel mammifère est capable de voler activement ?",
@@ -1582,7 +1990,9 @@
         "Phalanger volant"
       ],
       "correctAnswer": 1,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_143_Quel_mammi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle ville se trouve le siège de l'Union européenne ?",
@@ -1593,7 +2003,9 @@
         "Francfort"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_144_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel empereur romain a légalisé le christianisme dans l'Empire ?",
@@ -1604,7 +2016,9 @@
         "Trajan"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_145_Quel_emper",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien d'arêtes possède un cube ?",
@@ -1615,7 +2029,9 @@
         "14"
       ],
       "correctAnswer": 2,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_146_Combien_d'",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel fleuve traverse la ville de Budapest ?",
@@ -1626,7 +2042,9 @@
         "La Save"
       ],
       "correctAnswer": 0,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_147_Quel_fleuv",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a réalisé le film 'Psychose' en 1960 ?",
@@ -1637,7 +2055,9 @@
         "John Ford"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_148_Qui_a_réal",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel mouvement artistique Pablo Picasso a-t-il cofondé avec Georges Braque ?",
@@ -1648,7 +2068,9 @@
         "Le cubisme"
       ],
       "correctAnswer": 3,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_149_Quel_mouve",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel oiseau est capable de voler à reculons ?",
@@ -1659,7 +2081,9 @@
         "La bécasse"
       ],
       "correctAnswer": 0,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_150_Quel_oisea",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "En informatique, que signifie l'acronyme 'CPU' ?",
@@ -1670,7 +2094,9 @@
         "Central Power Unit"
       ],
       "correctAnswer": 1,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_151_En_informa",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel champagne est traditionnellement utilisé pour célébrer les victoires en Formule 1 ?",
@@ -1681,7 +2107,9 @@
         "Veuve Clicquot"
       ],
       "correctAnswer": 2,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_152_Quel_champ",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle mer borde la côte est de l'Italie ?",
@@ -1692,7 +2120,9 @@
         "Mer Ligure"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_153_Quelle_mer",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de chambres possède le cœur d'un oiseau ?",
@@ -1703,7 +2133,9 @@
         "5"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_154_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel sport utilise-t-on une raquette et un volant ?",
@@ -1714,7 +2146,9 @@
         "Tennis"
       ],
       "correctAnswer": 2,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_155_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel écrivain français a créé le personnage de d'Artagnan ?",
@@ -1725,7 +2159,9 @@
         "Émile Zola"
       ],
       "correctAnswer": 1,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_156_Quel_écriv",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel archipel français se trouve dans l'océan Indien ?",
@@ -1736,7 +2172,9 @@
         "La Nouvelle-Calédonie"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_157_Quel_archi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle forme géométrique possède exactement 5 côtés ?",
@@ -1747,7 +2185,9 @@
         "Octogone"
       ],
       "correctAnswer": 0,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_158_Quelle_for",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel légume est l'ingrédient principal du guacamole ?",
@@ -1758,7 +2198,9 @@
         "Le poivron"
       ],
       "correctAnswer": 2,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_159_Quel_légum",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel mammifère pond des œufs ?",
@@ -1769,7 +2211,9 @@
         "Les deux premières réponses"
       ],
       "correctAnswer": 3,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_160_Quel_mammi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel système d'exploitation a été créé par Linux Torvalds ?",
@@ -1780,7 +2224,9 @@
         "Unix"
       ],
       "correctAnswer": 2,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_161_Quel_systè",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel musée parisien peut-on admirer 'La Vénus de Milo' ?",
@@ -1791,7 +2237,9 @@
         "Centre Pompidou"
       ],
       "correctAnswer": 1,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_162_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel continent abrite le désert du Kalahari ?",
@@ -1802,7 +2250,9 @@
         "Amérique du Sud"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_163_Quel_conti",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle dynastie chinoise a construit la première version de la Grande Muraille ?",
@@ -1813,7 +2263,9 @@
         "Song"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_164_Quelle_dyn",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de dents possède un être humain adulte en bonne santé ?",
@@ -1824,7 +2276,9 @@
         "34"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_165_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel instrument de musique Frédéric Chopin a-t-il principalement composé ?",
@@ -1835,7 +2289,9 @@
         "Flûte"
       ],
       "correctAnswer": 1,
-      "category": "Musique"
+      "category": "Musique",
+      "id": "q_legacy_166_Quel_instr",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel sport français utilise-t-on des boules métalliques ?",
@@ -1846,7 +2302,9 @@
         "Savate"
       ],
       "correctAnswer": 0,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_167_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel romancier russe a écrit 'Crime et Châtiment' ?",
@@ -1857,7 +2315,9 @@
         "Pouchkine"
       ],
       "correctAnswer": 2,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_168_Quel_roman",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel animal est le symbole du parti démocrate américain ?",
@@ -1868,7 +2328,9 @@
         "Ours"
       ],
       "correctAnswer": 2,
-      "category": "Culture"
+      "category": "Culture",
+      "id": "q_legacy_169_Quel_anima",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "En quelle année l'homme a-t-il posé le pied sur la Lune pour la première fois ?",
@@ -1879,7 +2341,9 @@
         "1970"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_170_En_quelle_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le plus grand organe du corps humain ?",
@@ -1890,7 +2354,9 @@
         "La peau"
       ],
       "correctAnswer": 3,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_171_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle langue a été écrit le livre 'Don Quichotte' ?",
@@ -1901,7 +2367,9 @@
         "Catalan"
       ],
       "correctAnswer": 2,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_172_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de joueurs composent une équipe de volley-ball sur le terrain ?",
@@ -1912,7 +2380,9 @@
         "8"
       ],
       "correctAnswer": 1,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_173_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel philosophe grec est considéré comme le père de la logique ?",
@@ -1923,7 +2393,9 @@
         "Épicure"
       ],
       "correctAnswer": 1,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_174_Quel_philo",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel pays se trouve la région de la Patagonie ?",
@@ -1934,7 +2406,9 @@
         "Colombie et Venezuela"
       ],
       "correctAnswer": 0,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_175_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel épice donne sa couleur jaune au curry ?",
@@ -1945,7 +2419,9 @@
         "Gingembre"
       ],
       "correctAnswer": 1,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_176_Quel_épice",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel animal peut régénérer sa queue ?",
@@ -1956,7 +2432,9 @@
         "Tous les précédents"
       ],
       "correctAnswer": 3,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_177_Quel_anima",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "En quelle année fut inventé le World Wide Web ?",
@@ -1967,7 +2445,9 @@
         "1995"
       ],
       "correctAnswer": 0,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_178_En_quelle_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel acteur a joué le rôle principal dans 'Forrest Gump' ?",
@@ -1978,7 +2458,9 @@
         "Matt Damon"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_179_Quel_acteu",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel sport utilise-t-on le terme 'eagle' ?",
@@ -1989,7 +2471,9 @@
         "Cricket"
       ],
       "correctAnswer": 1,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_180_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel peintre néerlandais a coupé son oreille ?",
@@ -2000,7 +2484,9 @@
         "Mondrian"
       ],
       "correctAnswer": 2,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_181_Quel_peint",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle planète est surnommée 'l'étoile du berger' ?",
@@ -2011,7 +2497,9 @@
         "Mercure"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_182_Quelle_pla",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle hormone est sécrétée par le pancréas pour réguler la glycémie ?",
@@ -2022,7 +2510,9 @@
         "Thyroxine"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_183_Quelle_hor",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel compositeur autrichien a créé 'Les Quatre Saisons' ?",
@@ -2033,7 +2523,9 @@
         "Schubert"
       ],
       "correctAnswer": 1,
-      "category": "Musique"
+      "category": "Musique",
+      "id": "q_legacy_184_Quel_compo",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel film de 1994 John Travolta fait-il son retour au cinéma ?",
@@ -2044,7 +2536,9 @@
         "Get Shorty"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_185_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a peint 'Les Demoiselles d'Avignon' ?",
@@ -2055,7 +2549,9 @@
         "Cézanne"
       ],
       "correctAnswer": 1,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_186_Qui_a_pein",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle discipline sportive excelle Simone Biles ?",
@@ -2066,7 +2562,9 @@
         "Tennis"
       ],
       "correctAnswer": 1,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_187_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le plus long os du corps humain ?",
@@ -2077,7 +2575,9 @@
         "Radius"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_188_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel écrivain britannique a créé Sherlock Holmes ?",
@@ -2088,7 +2588,9 @@
         "Charles Dickens"
       ],
       "correctAnswer": 1,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_189_Quel_écriv",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel animal est capable de dormir debout ?",
@@ -2099,7 +2601,9 @@
         "Rhinocéros"
       ],
       "correctAnswer": 2,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_190_Quel_anima",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel réalisateur a dirigé le film 'Citizen Kane' ?",
@@ -2110,7 +2614,9 @@
         "Billy Wilder"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_191_Quel_réali",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel sport pratique-t-on le 'slam dunk' ?",
@@ -2121,7 +2627,9 @@
         "Badminton"
       ],
       "correctAnswer": 2,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_192_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel mammifère marin utilise l'écholocation pour se diriger ?",
@@ -2132,7 +2640,9 @@
         "Lamantin"
       ],
       "correctAnswer": 1,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_193_Quel_mammi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel langage de programmation utilise l'indentation pour structurer le code ?",
@@ -2143,7 +2653,9 @@
         "JavaScript"
       ],
       "correctAnswer": 2,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_194_Quel_langa",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle chaîne de montagnes se trouve le mont Blanc ?",
@@ -2154,7 +2666,9 @@
         "Massif Central"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_195_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a découvert la pénicilline en 1928 ?",
@@ -2165,7 +2679,9 @@
         "Antoine Lavoisier"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_196_Qui_a_déco",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle bataille Napoléon a-t-il été définitivement vaincu ?",
@@ -2176,7 +2692,9 @@
         "Wagram"
       ],
       "correctAnswer": 1,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_197_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel fromage français est originaire de Roquefort ?",
@@ -2187,7 +2705,9 @@
         "Comté"
       ],
       "correctAnswer": 2,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_198_Quel_froma",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel océan se trouve l'archipel des Maldives ?",
@@ -2198,7 +2718,9 @@
         "Mer Méditerranée"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_199_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel mammifère est le plus rapide du monde ?",
@@ -2209,7 +2731,9 @@
         "Tigre"
       ],
       "correctAnswer": 1,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_200_Quel_mammi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel film de 1975 un requin terrorise-t-il une station balnéaire ?",
@@ -2220,7 +2744,9 @@
         "Psychose"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_201_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle révolution industrielle a introduit l'électricité et la chimie ?",
@@ -2231,7 +2757,9 @@
         "Quatrième"
       ],
       "correctAnswer": 1,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_202_Quelle_rév",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel sculpteur a réalisé 'Le Penseur' ?",
@@ -2242,7 +2770,9 @@
         "Henry Moore"
       ],
       "correctAnswer": 1,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_203_Quel_sculp",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle est la capitale de l'Australie ?",
@@ -2253,7 +2783,9 @@
         "Perth"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_204_Quelle_est",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
@@ -2264,7 +2796,9 @@
         "1993"
       ],
       "correctAnswer": 1,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_205_En_quelle_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle ville se déroulent les Jeux Olympiques d'été 2024 ?",
@@ -2275,7 +2809,9 @@
         "Brisbane"
       ],
       "correctAnswer": 2,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_206_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel architecte a conçu la tour Eiffel ?",
@@ -2286,7 +2822,9 @@
         "Victor Horta"
       ],
       "correctAnswer": 1,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_207_Quel_archi",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le plus grand désert du monde ?",
@@ -2297,7 +2835,9 @@
         "Kalahari"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_208_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel réalisateur a créé la saga 'Star Wars' ?",
@@ -2308,7 +2848,9 @@
         "James Cameron"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_209_Quel_réali",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel fleuve traverse Paris ?",
@@ -2319,7 +2861,9 @@
         "La Garonne"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_210_Quel_fleuv",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel inventeur a créé le téléphone ?",
@@ -2330,7 +2874,9 @@
         "Guglielmo Marconi"
       ],
       "correctAnswer": 1,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_211_Quel_inven",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel oiseau ne peut pas voler mais court très vite ?",
@@ -2341,7 +2887,9 @@
         "Émeu"
       ],
       "correctAnswer": 2,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_212_Quel_oisea",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le plus petit pays du monde ?",
@@ -2352,7 +2900,9 @@
         "Nauru"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_213_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien y a-t-il d'os dans le corps humain adulte ?",
@@ -2363,7 +2913,9 @@
         "246"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_214_Combien_y_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a composé 'La Flûte enchantée' ?",
@@ -2374,7 +2926,9 @@
         "Chopin"
       ],
       "correctAnswer": 1,
-      "category": "Musique"
+      "category": "Musique",
+      "id": "q_legacy_215_Qui_a_comp",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle est la devise de la France ?",
@@ -2385,7 +2939,9 @@
         "Un pour tous, tous pour un"
       ],
       "correctAnswer": 0,
-      "category": "Culture"
+      "category": "Culture",
+      "id": "q_legacy_216_Quelle_est",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de faces a un dodécaèdre ?",
@@ -2396,7 +2952,9 @@
         "20"
       ],
       "correctAnswer": 1,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_217_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel sport se joue avec une raquette et un volant ?",
@@ -2407,7 +2965,9 @@
         "Tennis de table"
       ],
       "correctAnswer": 2,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_218_Quel_sport",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel réseau social a été créé par Mark Zuckerberg ?",
@@ -2418,7 +2978,9 @@
         "LinkedIn"
       ],
       "correctAnswer": 2,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_219_Quel_résea",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle ville se trouve le musée du Prado ?",
@@ -2429,7 +2991,9 @@
         "Valence"
       ],
       "correctAnswer": 1,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_220_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le plus grand mammifère terrestre ?",
@@ -2440,7 +3004,9 @@
         "Girafe"
       ],
       "correctAnswer": 2,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_221_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le plus grand lac d'eau douce d'Europe ?",
@@ -2451,7 +3017,9 @@
         "Lac de Genève"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_222_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel peintre espagnol a créé le mouvement cubiste ?",
@@ -2462,7 +3030,9 @@
         "Francisco Goya"
       ],
       "correctAnswer": 2,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_223_Quel_peint",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel sport utilise-t-on un palet ?",
@@ -2473,7 +3043,9 @@
         "Aucun des deux"
       ],
       "correctAnswer": 2,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_224_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a écrit 'Les Misérables' ?",
@@ -2484,7 +3056,9 @@
         "Honoré de Balzac"
       ],
       "correctAnswer": 1,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_225_Qui_a_écri",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
@@ -2495,7 +3069,9 @@
         "Hydrogène"
       ],
       "correctAnswer": 3,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_226_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel mathématicien grec a formulé un célèbre théorème sur les triangles rectangles ?",
@@ -2506,7 +3082,9 @@
         "Thalès"
       ],
       "correctAnswer": 2,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_227_Quel_mathé",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel acteur joue le rôle principal dans 'Gladiator' ?",
@@ -2517,7 +3095,9 @@
         "Tom Cruise"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_228_Quel_acteu",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel animal change de couleur pour se camoufler ?",
@@ -2528,7 +3108,9 @@
         "Lézard"
       ],
       "correctAnswer": 2,
-      "category": "Nature"
+      "category": "Nature",
+      "id": "q_legacy_229_Quel_anima",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel plat italien est préparé avec du riz et du bouillon ?",
@@ -2539,7 +3121,9 @@
         "Polenta"
       ],
       "correctAnswer": 1,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_230_Quel_plat_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel scientifique a découvert la pénicilline ?",
@@ -2550,7 +3134,9 @@
         "Antoine Lavoisier"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_231_Quel_scien",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle région française trouve-t-on les châteaux de la Loire ?",
@@ -2561,7 +3147,9 @@
         "Aquitaine"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_232_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a peint 'La Nuit étoilée' ?",
@@ -2572,7 +3160,9 @@
         "Edgar Degas"
       ],
       "correctAnswer": 2,
-      "category": "Art"
+      "category": "Art",
+      "id": "q_legacy_233_Qui_a_pein",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de joueurs composent une équipe de rugby à XV ?",
@@ -2583,7 +3173,9 @@
         "12 joueurs"
       ],
       "correctAnswer": 1,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_234_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle bataille a eu lieu en 1805 et opposé Napoléon aux Autrichiens et Russes ?",
@@ -2594,7 +3186,9 @@
         "Bataille de Wagram"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_235_Quelle_bat",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel instrument de musique Frédéric Chopin jouait-il principalement ?",
@@ -2605,7 +3199,9 @@
         "Flûte"
       ],
       "correctAnswer": 1,
-      "category": "Musique"
+      "category": "Musique",
+      "id": "q_legacy_236_Quel_instr",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel pays se trouve Machu Picchu ?",
@@ -2616,7 +3212,9 @@
         "Chili"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_237_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel film Tom Hanks joue-t-il un homme coincé sur une île déserte ?",
@@ -2627,7 +3225,9 @@
         "Apollo 13"
       ],
       "correctAnswer": 2,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_238_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a fondé l'entreprise Apple avec Steve Jobs ?",
@@ -2638,7 +3238,9 @@
         "Michael Dell"
       ],
       "correctAnswer": 1,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_239_Qui_a_fond",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle dynastie chinoise a construit la Grande Muraille telle qu'on la connaît aujourd'hui ?",
@@ -2649,7 +3251,9 @@
         "Dynastie Qing"
       ],
       "correctAnswer": 2,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_240_Quelle_dyn",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "En quelle année la chute du mur de Berlin a-t-elle eu lieu ?",
@@ -2660,7 +3264,9 @@
         "1991"
       ],
       "correctAnswer": 1,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_241_En_quelle_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel gaz compose principalement l'atmosphère terrestre ?",
@@ -2671,7 +3277,9 @@
         "Argon"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_242_Quel_gaz_c",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a réalisé le film 'Pulp Fiction' ?",
@@ -2682,7 +3290,9 @@
         "David Fincher"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_243_Qui_a_réal",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel sport Michael Jordan s'est-il illustré ?",
@@ -2693,7 +3303,9 @@
         "Tennis"
       ],
       "correctAnswer": 2,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_244_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de continents y a-t-il sur Terre ?",
@@ -2704,7 +3316,9 @@
         "8"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_245_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle ville se déroule l'action de 'Roméo et Juliette' ?",
@@ -2715,7 +3329,9 @@
         "Vérone"
       ],
       "correctAnswer": 3,
-      "category": "Littérature"
+      "category": "Littérature",
+      "id": "q_legacy_246_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien de minutes y a-t-il dans un match de football ?",
@@ -2726,7 +3342,9 @@
         "120"
       ],
       "correctAnswer": 1,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_247_Combien_de",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel fromage français est originaire de Normandie ?",
@@ -2737,7 +3355,9 @@
         "Cantal"
       ],
       "correctAnswer": 1,
-      "category": "Gastronomie"
+      "category": "Gastronomie",
+      "id": "q_legacy_248_Quel_froma",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle planète du système solaire possède le plus grand nombre de lunes connues ?",
@@ -2748,7 +3368,9 @@
         "Neptune"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_249_Quelle_pla",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quelle mer se trouve l'archipel des Baléares ?",
@@ -2759,7 +3381,9 @@
         "Mer Tyrrhénienne"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_250_Dans_quell",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel compositeur autrichien a écrit 'La Flûte enchantée' ?",
@@ -2770,7 +3394,9 @@
         "Joseph Haydn"
       ],
       "correctAnswer": 2,
-      "category": "Musique"
+      "category": "Musique",
+      "id": "q_legacy_251_Quel_compo",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quelle révolution industrielle est associée à l'invention de la machine à vapeur ?",
@@ -2781,7 +3407,9 @@
         "Révolution numérique"
       ],
       "correctAnswer": 0,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_252_Quelle_rév",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel organe du corps humain produit l'insuline ?",
@@ -2792,7 +3420,9 @@
         "La thyroïde"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_253_Quel_organ",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel pays a été inventé le badminton moderne ?",
@@ -2803,7 +3433,9 @@
         "Danemark"
       ],
       "correctAnswer": 2,
-      "category": "Sport"
+      "category": "Sport",
+      "id": "q_legacy_254_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le symbole chimique du tungstène ?",
@@ -2814,7 +3446,9 @@
         "Tg"
       ],
       "correctAnswer": 2,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_255_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel fleuve traverse la ville de Prague ?",
@@ -2825,7 +3459,9 @@
         "L'Oder"
       ],
       "correctAnswer": 2,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_256_Quel_fleuv",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "En quelle année le premier iPhone a-t-il été commercialisé ?",
@@ -2836,7 +3472,9 @@
         "2008"
       ],
       "correctAnswer": 2,
-      "category": "Technologie"
+      "category": "Technologie",
+      "id": "q_legacy_257_En_quelle_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel réalisateur a dirigé la trilogie 'Le Seigneur des Anneaux' ?",
@@ -2847,7 +3485,9 @@
         "James Cameron"
       ],
       "correctAnswer": 2,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_258_Quel_réali",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Quel est le nom de la plus haute montagne d'Afrique ?",
@@ -2858,7 +3498,9 @@
         "Drakensberg"
       ],
       "correctAnswer": 1,
-      "category": "Géographie"
+      "category": "Géographie",
+      "id": "q_legacy_259_Quel_est_l",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "En quelle année a été créée la première voiture Ford Model T ?",
@@ -2869,7 +3511,9 @@
         "1916"
       ],
       "correctAnswer": 1,
-      "category": "Histoire"
+      "category": "Histoire",
+      "id": "q_legacy_260_En_quelle_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Qui a développé la théorie de la relativité ?",
@@ -2880,7 +3524,9 @@
         "Stephen Hawking"
       ],
       "correctAnswer": 1,
-      "category": "Science"
+      "category": "Science",
+      "id": "q_legacy_261_Qui_a_déve",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Combien font 7 × 8 ?",
@@ -2891,7 +3537,9 @@
         "64"
       ],
       "correctAnswer": 1,
-      "category": "Mathématiques"
+      "category": "Mathématiques",
+      "id": "q_legacy_262_Combien_fo",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     },
     {
       "question": "Dans quel film de 1975 un grand requin blanc terrorise une station balnéaire ?",
@@ -2902,10 +3550,10 @@
         "Psychose"
       ],
       "correctAnswer": 1,
-      "category": "Cinéma"
+      "category": "Cinéma",
+      "id": "q_legacy_263_Dans_quel_",
+      "addedAt": "2026-01-01T00:00:00.000Z"
     }
   ],
-  "version": 25,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-17T02:12:03.288Z"
+  "poolSize": 100
 }
