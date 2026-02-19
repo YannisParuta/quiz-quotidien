@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel architecte a conçu la pyramide du Louvre ?",
+      "options": [
+        "Norman Foster",
+        "Ieoh Ming Pei",
+        "Frank Gehry",
+        "Zaha Hadid"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1771461995198_0_0ez7hq",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
+      "question": "Quelle est la vitesse de la lumière dans le vide ?",
+      "options": [
+        "300 000 km/s",
+        "150 000 km/s",
+        "450 000 km/s",
+        "200 000 km/s"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1771461995198_1_wqkc50",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
+      "question": "Dans quelle région française se trouve le Mont-Blanc ?",
+      "options": [
+        "Provence-Alpes-Côte d'Azur",
+        "Auvergne-Rhône-Alpes",
+        "Nouvelle-Aquitaine",
+        "Occitanie"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1771461995198_2_uui53d",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
+      "question": "Qui a composé 'Les Quatre Saisons' ?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Vivaldi",
+        "Beethoven"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1771461995198_3_i9wvmo",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
+      "question": "Quel sport pratique-t-on à Roland-Garros ?",
+      "options": [
+        "Golf",
+        "Tennis",
+        "Badminton",
+        "Squash"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1771461995198_4_tj1oe6",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
+      "question": "Dans quelle langue a été écrit le 'Petit Prince' de Saint-Exupéry ?",
+      "options": [
+        "Anglais",
+        "Espagnol",
+        "Français",
+        "Italien"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1771461995198_5_j0xvys",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1771461995198_6_gdlxh4",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
+      "question": "Quel animal est le symbole de la WWF ?",
+      "options": [
+        "Tigre",
+        "Éléphant",
+        "Panda géant",
+        "Baleine bleue"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1771461995198_7_9w9ows",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
+      "question": "Combien de faces a un icosaèdre ?",
+      "options": [
+        "12",
+        "16",
+        "20",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1771461995198_8_mkot8u",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
+      "question": "Quelle entreprise a créé le premier iPhone ?",
+      "options": [
+        "Samsung",
+        "Google",
+        "Apple",
+        "Microsoft"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1771461995198_9_rnmbr4",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
+      "question": "Dans quelle région d'Italie se trouve la ville de Florence ?",
+      "options": [
+        "Lazio",
+        "Lombardie",
+        "Toscane",
+        "Vénétie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1771461995198_10_x2ln8w",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
+      "question": "Quelle pâtisserie française est traditionnellement consommée le jour de l'Épiphanie ?",
+      "options": [
+        "Bûche de Noël",
+        "Galette des rois",
+        "Croquembouche",
+        "Saint-Honoré"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1771461995198_11_w7keqa",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
+      "question": "Quel scientifique a développé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Louis Pasteur",
+        "Alexander Fleming"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1771461995198_12_tyouiu",
+      "addedAt": "2026-02-19T00:46:35.198Z"
+    },
+    {
       "question": "Qui a peint 'La Nuit étoilée' ?",
       "options": [
         "Claude Monet",
@@ -1130,7 +1299,12 @@
       "category": "Technologie",
       "id": "q_legacy_67_Quel_systè",
       "addedAt": "2026-01-01T00:00:00.000Z"
-    },
+    }
+  ],
+  "version": 28,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-19T00:46:35.198Z",
+  "archivedQuestions": [
     {
       "question": "Quelle spécialité culinaire est originaire de la région de Provence ?",
       "options": [
@@ -1298,141 +1472,6 @@
       "correctAnswer": 2,
       "category": "Technologie",
       "id": "q_legacy_80_Dans_quell",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    }
-  ],
-  "version": 27,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-18T02:23:22.874Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus petit pays d'Afrique continentale ?",
-      "options": [
-        "Djibouti",
-        "Gambie",
-        "Eswatini",
-        "Guinée équatoriale"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_legacy_81_Quel_est_l",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
-      "options": [
-        "Traité de Versailles",
-        "Traité de Trianon",
-        "Traité de Sèvres",
-        "Traité de Saint-Germain"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_legacy_82_Quel_trait",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quelle vitamine est principalement synthétisée par la peau sous l'action du soleil ?",
-      "options": [
-        "Vitamine A",
-        "Vitamine C",
-        "Vitamine D",
-        "Vitamine E"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_legacy_83_Quelle_vit",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
-      "options": [
-        "Le Corbusier",
-        "Frank Lloyd Wright",
-        "Antoni Gaudí",
-        "Zaha Hadid"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_legacy_84_Quel_archi",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quelle espèce animale peut vivre le plus longtemps ?",
-      "options": [
-        "Tortue géante",
-        "Requin du Groenland",
-        "Baleine bleue",
-        "Éléphant d'Afrique"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_legacy_85_Quelle_esp",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "De quel pays provient originalement la paella ?",
-      "options": [
-        "Portugal",
-        "Italie",
-        "Espagne",
-        "France"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_legacy_86_De_quel_pa",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quelle civilisation a construit le Machu Picchu ?",
-      "options": [
-        "Les Mayas",
-        "Les Aztèques",
-        "Les Incas",
-        "Les Olmèques"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_legacy_87_Quelle_civ",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel océan sépare l'Australie de l'Amérique du Sud ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Indien",
-        "Océan Pacifique",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_legacy_88_Quel_océan",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quelle est la durée d'une olympiade ?",
-      "options": [
-        "2 ans",
-        "4 ans",
-        "6 ans",
-        "8 ans"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_legacy_89_Quelle_est",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Dans quelle partie de la cellule trouve-t-on l'ADN ?",
-      "options": [
-        "Cytoplasme",
-        "Membrane",
-        "Noyau",
-        "Ribosome"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_legacy_90_Dans_quell",
       "addedAt": "2026-01-01T00:00:00.000Z"
     }
   ],
