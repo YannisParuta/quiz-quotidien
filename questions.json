@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Quel philosophe grec a fondé l'École d'Athènes ?",
+      "options": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Épicure"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1771467738879_0_lvclj6",
+      "addedAt": "2026-02-19T02:22:18.879Z"
+    },
+    {
+      "question": "Quelle est la monnaie officielle du Japon ?",
+      "options": [
+        "Won",
+        "Yuan",
+        "Yen",
+        "Dong"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1771467738879_1_gm81i4",
+      "addedAt": "2026-02-19T02:22:18.879Z"
+    },
+    {
+      "question": "Quel écrivain français a créé le personnage de Jean Valjean ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1771467738879_2_yenklg",
+      "addedAt": "2026-02-19T02:22:18.879Z"
+    },
+    {
+      "question": "Combien de minutes dure une mi-temps au football ?",
+      "options": [
+        "40 minutes",
+        "45 minutes",
+        "50 minutes",
+        "60 minutes"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1771467738879_3_u8p2g0",
+      "addedAt": "2026-02-19T02:22:18.879Z"
+    },
+    {
+      "question": "Quel gaz compose majoritairement l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1771467738879_4_rlvyz4",
+      "addedAt": "2026-02-19T02:22:18.879Z"
+    },
+    {
+      "question": "Dans quelle ville européenne se trouve le musée du Prado ?",
+      "options": [
+        "Barcelone",
+        "Madrid",
+        "Lisbonne",
+        "Rome"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1771467738879_5_je5mmw",
+      "addedAt": "2026-02-19T02:22:18.879Z"
+    },
+    {
+      "question": "Quel instrument de musique Frédéric Chopin maîtrisait-il particulièrement ?",
+      "options": [
+        "Violon",
+        "Piano",
+        "Violoncelle",
+        "Harpe"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1771467738879_6_lcx7xd",
+      "addedAt": "2026-02-19T02:22:18.879Z"
+    },
+    {
+      "question": "Quel condiment japonais est fabriqué à partir de graines de soja fermentées ?",
+      "options": [
+        "Wasabi",
+        "Miso",
+        "Sake",
+        "Mirin"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1771467738879_7_5hasn5",
+      "addedAt": "2026-02-19T02:22:18.879Z"
+    },
+    {
       "question": "Quel architecte a conçu la pyramide du Louvre ?",
       "options": [
         "Norman Foster",
@@ -1195,7 +1299,12 @@
       "category": "Géographie",
       "id": "q_legacy_59_Quelle_est",
       "addedAt": "2026-01-01T00:00:00.000Z"
-    },
+    }
+  ],
+  "version": 29,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-19T02:22:18.880Z",
+  "archivedQuestions": [
     {
       "question": "Quel empereur romain a légalisé le christianisme avec l'Édit de Milan ?",
       "options": [
@@ -1298,180 +1407,6 @@
       "correctAnswer": 2,
       "category": "Technologie",
       "id": "q_legacy_67_Quel_systè",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    }
-  ],
-  "version": 28,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-19T00:46:35.198Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle spécialité culinaire est originaire de la région de Provence ?",
-      "options": [
-        "Choucroute",
-        "Bouillabaisse",
-        "Cassoulet",
-        "Pot-au-feu"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_legacy_68_Quelle_spé",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "En quelle année a été créée l'Organisation des Nations Unies ?",
-      "options": [
-        "1944",
-        "1945",
-        "1946",
-        "1947"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_legacy_69_En_quelle_",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Dans quelle mer se jette le Danube ?",
-      "options": [
-        "Mer Noire",
-        "Mer Adriatique",
-        "Mer Égée",
-        "Mer Baltique"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_legacy_70_Dans_quell",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel est le nom du processus par lequel les plantes convertissent la lumière en énergie ?",
-      "options": [
-        "Respiration",
-        "Photosynthèse",
-        "Transpiration",
-        "Germination"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_legacy_71_Quel_est_l",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Dans quelle ville se trouve le célèbre musée du Prado ?",
-      "options": [
-        "Barcelone",
-        "Madrid",
-        "Séville",
-        "Valence"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_legacy_72_Dans_quell",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Qui a écrit le roman '1984' ?",
-      "options": [
-        "Aldous Huxley",
-        "Ray Bradbury",
-        "George Orwell",
-        "H.G. Wells"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_legacy_73_Qui_a_écri",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Dans quel pays a été inventé le jeu d'échecs ?",
-      "options": [
-        "Chine",
-        "Perse",
-        "Inde",
-        "Égypte"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_legacy_74_Dans_quel_",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quelle est la monnaie officielle du Japon ?",
-      "options": [
-        "Won",
-        "Yuan",
-        "Yen",
-        "Ringgit"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_legacy_75_Quelle_est",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel organe produit l'insuline dans le corps humain ?",
-      "options": [
-        "Foie",
-        "Pancréas",
-        "Rein",
-        "Rate"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_legacy_76_Quel_organ",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "En quelle année s'est déroulée la Révolution française ?",
-      "options": [
-        "1789",
-        "1792",
-        "1799",
-        "1804"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_legacy_77_En_quelle_",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
-      "options": [
-        "Camembert",
-        "Roquefort",
-        "Brie",
-        "Comté"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_legacy_78_Quel_froma",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Qui a découvert la radioactivité naturelle ?",
-      "options": [
-        "Marie Curie",
-        "Henri Becquerel",
-        "Pierre Curie",
-        "Ernest Rutherford"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_legacy_79_Qui_a_déco",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Dans quelle décennie a été inventé le World Wide Web ?",
-      "options": [
-        "1970",
-        "1980",
-        "1990",
-        "2000"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_legacy_80_Dans_quell",
       "addedAt": "2026-01-01T00:00:00.000Z"
     }
   ],
