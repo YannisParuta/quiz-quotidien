@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quelle est la devise de l'Union européenne ?",
+      "options": [
+        "Liberté, Égalité, Fraternité",
+        "Unie dans la diversité",
+        "L'union fait la force",
+        "In varietate concordia"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1771545906890_0_bru62b",
+      "addedAt": "2026-02-20T00:05:06.890Z"
+    },
+    {
+      "question": "Quel océan borde la côte ouest de l'Amérique du Sud ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1771545906890_1_3zhuoh",
+      "addedAt": "2026-02-20T00:05:06.890Z"
+    },
+    {
+      "question": "Comment appelle-t-on la peur irrationnelle des espaces clos ?",
+      "options": [
+        "Agoraphobie",
+        "Claustrophobie",
+        "Acrophobie",
+        "Arachnophobie"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1771545906890_2_58wmev",
+      "addedAt": "2026-02-20T00:05:06.890Z"
+    },
+    {
+      "question": "Quel écrivain français a créé le personnage du Petit Prince ?",
+      "options": [
+        "Jules Verne",
+        "Antoine de Saint-Exupéry",
+        "Marcel Proust",
+        "Albert Camus"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1771545906890_3_dbiglj",
+      "addedAt": "2026-02-20T00:05:06.890Z"
+    },
+    {
+      "question": "Quelle vitamine est principalement synthétisée par la peau grâce au soleil ?",
+      "options": [
+        "Vitamine A",
+        "Vitamine C",
+        "Vitamine D",
+        "Vitamine E"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1771545906890_4_gjqfm2",
+      "addedAt": "2026-02-20T00:05:06.890Z"
+    },
+    {
+      "question": "Quel architecte français a conçu la pyramide du Louvre ?",
+      "options": [
+        "Le Corbusier",
+        "Ieoh Ming Pei",
+        "Jean Nouvel",
+        "Norman Foster"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1771545906890_5_f2zpr9",
+      "addedAt": "2026-02-20T00:05:06.890Z"
+    },
+    {
+      "question": "Combien de fuseaux horaires compte la Russie ?",
+      "options": [
+        "9",
+        "11",
+        "13",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1771545906890_6_fqhh4w",
+      "addedAt": "2026-02-20T00:05:06.890Z"
+    },
+    {
+      "question": "Dans quelle série télévisée suit-on les aventures de Walter White ?",
+      "options": [
+        "Lost",
+        "Breaking Bad",
+        "The Wire",
+        "Dexter"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1771545906890_7_qhx84c",
+      "addedAt": "2026-02-20T00:05:06.890Z"
+    },
+    {
+      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
+      "options": [
+        "Camembert",
+        "Roquefort",
+        "Brie",
+        "Comté"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1771545906890_8_s7jlo6",
+      "addedAt": "2026-02-20T00:05:06.890Z"
+    },
+    {
+      "question": "Quel est le symbole chimique du fer ?",
+      "options": [
+        "F",
+        "Fe",
+        "Fr",
+        "Fm"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1771545906890_9_sgcl2i",
+      "addedAt": "2026-02-20T00:05:06.890Z"
+    },
+    {
+      "question": "Dans quelle langue a été écrit le roman 'Cent ans de solitude' ?",
+      "options": [
+        "Portugais",
+        "Espagnol",
+        "Italien",
+        "Français"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1771545906890_10_l5k5pk",
+      "addedAt": "2026-02-20T00:05:06.890Z"
+    },
+    {
+      "question": "Quel animal est le symbole du World Wildlife Fund (WWF) ?",
+      "options": [
+        "Tigre",
+        "Éléphant",
+        "Panda géant",
+        "Baleine bleue"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1771545906890_11_qwgmlt",
+      "addedAt": "2026-02-20T00:05:06.890Z"
+    },
+    {
       "question": "Quel philosophe grec a fondé l'École d'Athènes ?",
       "options": [
         "Socrate",
@@ -1143,7 +1299,12 @@
       "category": "Science",
       "id": "q_legacy_47_Quelle_pla",
       "addedAt": "2026-01-01T00:00:00.000Z"
-    },
+    }
+  ],
+  "version": 30,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-20T00:05:06.890Z",
+  "archivedQuestions": [
     {
       "question": "Dans quel pays se trouve la région de la Toscane ?",
       "options": [
@@ -1298,115 +1459,6 @@
       "correctAnswer": 1,
       "category": "Géographie",
       "id": "q_legacy_59_Quelle_est",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    }
-  ],
-  "version": 29,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-19T02:22:18.880Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel empereur romain a légalisé le christianisme avec l'Édit de Milan ?",
-      "options": [
-        "Auguste",
-        "Néron",
-        "Constantin",
-        "Trajan"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_legacy_60_Quel_emper",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quelle est la formule chimique de l'eau oxygénée ?",
-      "options": [
-        "H2O",
-        "H2O2",
-        "HO2",
-        "H2SO4"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_legacy_61_Quelle_est",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Dans quel film trouve-t-on le personnage de Hannibal Lecter ?",
-      "options": [
-        "Psychose",
-        "Le Silence des agneaux",
-        "Shining",
-        "Seven"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_legacy_62_Dans_quel_",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quelle héroïne de Jane Austen vit à Longbourn ?",
-      "options": [
-        "Emma Woodhouse",
-        "Elizabeth Bennet",
-        "Anne Elliot",
-        "Marianne Dashwood"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_legacy_63_Quelle_hér",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel est le plus grand désert chaud du monde ?",
-      "options": [
-        "Désert du Kalahari",
-        "Désert de Gobi",
-        "Désert du Sahara",
-        "Désert d'Atacama"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_legacy_64_Quel_est_l",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Combien vaut 7 au cube ?",
-      "options": [
-        "49",
-        "147",
-        "343",
-        "294"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_legacy_65_Combien_va",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "De combien de musiciens se compose généralement un quatuor à cordes ?",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_legacy_66_De_combien",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel système d'exploitation mobile a été développé par Google ?",
-      "options": [
-        "iOS",
-        "Windows Phone",
-        "Android",
-        "BlackBerry"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_legacy_67_Quel_systè",
       "addedAt": "2026-01-01T00:00:00.000Z"
     }
   ],
