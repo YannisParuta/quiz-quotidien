@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quelle est la langue officielle du Sénégal ?",
+      "options": [
+        "Wolof",
+        "Français",
+        "Peul",
+        "Sérère"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1771639502705_0_02twdj",
+      "addedAt": "2026-02-21T02:05:02.705Z"
+    },
+    {
+      "question": "En quelle année la Première Guerre mondiale s'est-elle terminée ?",
+      "options": [
+        "1917",
+        "1918",
+        "1919",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1771639502705_1_zua2s4",
+      "addedAt": "2026-02-21T02:05:02.705Z"
+    },
+    {
+      "question": "Qui a peint 'La Joconde' ?",
+      "options": [
+        "Michel-Ange",
+        "Raphaël",
+        "Léonard de Vinci",
+        "Botticelli"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1771639502705_2_laoajw",
+      "addedAt": "2026-02-21T02:05:02.705Z"
+    },
+    {
+      "question": "Dans quelle discipline sportive évolue Rafael Nadal ?",
+      "options": [
+        "Tennis",
+        "Golf",
+        "Cyclisme",
+        "Natation"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1771639502705_3_bzkqoz",
+      "addedAt": "2026-02-21T02:05:02.705Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1771639502705_4_q1oyqz",
+      "addedAt": "2026-02-21T02:05:02.705Z"
+    },
+    {
+      "question": "Combien de chambres possède le cœur humain ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1771639502705_5_ry5mcz",
+      "addedAt": "2026-02-21T02:05:02.705Z"
+    },
+    {
+      "question": "Quelle est la monnaie utilisée au Japon ?",
+      "options": [
+        "Won",
+        "Yuan",
+        "Yen",
+        "Ringgit"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1771639502705_6_hdkpmh",
+      "addedAt": "2026-02-21T02:05:02.705Z"
+    },
+    {
+      "question": "Dans quel pays trouve-t-on les ruines du Machu Picchu ?",
+      "options": [
+        "Bolivie",
+        "Équateur",
+        "Pérou",
+        "Colombie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1771639502705_7_4qi9cv",
+      "addedAt": "2026-02-21T02:05:02.705Z"
+    },
+    {
+      "question": "Combien de minutes y a-t-il dans une journée ?",
+      "options": [
+        "1440",
+        "1420",
+        "1460",
+        "1400"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1771639502705_8_wtlqq2",
+      "addedAt": "2026-02-21T02:05:02.705Z"
+    },
+    {
+      "question": "Quel fromage français est protégé par une AOC et produit en Normandie ?",
+      "options": [
+        "Roquefort",
+        "Camembert",
+        "Comté",
+        "Chabichou"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1771639502705_9_0g7duh",
+      "addedAt": "2026-02-21T02:05:02.705Z"
+    },
+    {
+      "question": "Quel mammifère marin est le plus grand animal de la planète ?",
+      "options": [
+        "L'orque",
+        "Le cachalot",
+        "La baleine bleue",
+        "Le requin-baleine"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1771639502705_10_a02rvc",
+      "addedAt": "2026-02-21T02:05:02.705Z"
+    },
+    {
       "question": "Quel est l'organe qui produit l'insuline dans le corps humain ?",
       "options": [
         "Foie",
@@ -1156,7 +1299,12 @@
       "category": "Technologie",
       "id": "q_legacy_14_Quel_langa",
       "addedAt": "2026-01-01T00:00:00.000Z"
-    },
+    }
+  ],
+  "version": 33,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-21T02:05:02.706Z",
+  "archivedQuestions": [
     {
       "question": "Dans quel sport utilise-t-on un 'birdie' ?",
       "options": [
@@ -1298,141 +1446,6 @@
       "correctAnswer": 2,
       "category": "Science",
       "id": "q_legacy_25_Quelle_vit",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    }
-  ],
-  "version": 32,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-21T00:36:57.636Z",
-  "archivedQuestions": [
-    {
-      "question": "Dans quelle ville se trouve le musée du Louvre ?",
-      "options": [
-        "Londres",
-        "Rome",
-        "Madrid",
-        "Paris"
-      ],
-      "correctAnswer": 3,
-      "category": "Culture",
-      "id": "q_legacy_26_Dans_quell",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Combien de sets faut-il gagner pour remporter un match de tennis en Grand Chelem masculin ?",
-      "options": [
-        "2 sets",
-        "3 sets",
-        "4 sets",
-        "5 sets"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_legacy_27_Combien_de",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel mouvement artistique Pablo Picasso a-t-il cofondé ?",
-      "options": [
-        "Impressionnisme",
-        "Surréalisme",
-        "Cubisme",
-        "Fauvisme"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_legacy_28_Quel_mouve",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Qui a écrit 'Le Petit Prince' ?",
-      "options": [
-        "Marcel Proust",
-        "Antoine de Saint-Exupéry",
-        "Jean-Paul Sartre",
-        "Albert Camus"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_legacy_29_Qui_a_écri",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel animal peut vivre le plus longtemps ?",
-      "options": [
-        "Tortue géante",
-        "Baleine bleue",
-        "Méduse immortelle",
-        "Requin du Groenland"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_legacy_30_Quel_anima",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quelle est la racine carrée de 144 ?",
-      "options": [
-        "11",
-        "12",
-        "13",
-        "14"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_legacy_31_Quelle_est",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel instrument Frédéric Chopin jouait-il principalement ?",
-      "options": [
-        "Violon",
-        "Violoncelle",
-        "Piano",
-        "Flûte"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_legacy_32_Quel_instr",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Qui a réalisé le film 'Le Parrain' ?",
-      "options": [
-        "Martin Scorsese",
-        "Francis Ford Coppola",
-        "Steven Spielberg",
-        "Ridley Scott"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_legacy_33_Qui_a_réal",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Que signifie l'acronyme 'URL' ?",
-      "options": [
-        "Universal Resource Locator",
-        "Uniform Resource Locator",
-        "United Resource Link",
-        "Universal Reference Link"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_legacy_34_Que_signif",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Sur quel continent se trouve le désert du Sahara ?",
-      "options": [
-        "Asie",
-        "Amérique du Sud",
-        "Afrique",
-        "Australie"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_legacy_35_Sur_quel_c",
       "addedAt": "2026-01-01T00:00:00.000Z"
     }
   ],
