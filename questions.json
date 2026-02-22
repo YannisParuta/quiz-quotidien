@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel océan borde la côte ouest du Chili ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1771721090157_0_alne7k",
+      "addedAt": "2026-02-22T00:44:50.157Z"
+    },
+    {
+      "question": "Qui a composé 'La Flûte enchantée' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1771721090157_1_cz61kz",
+      "addedAt": "2026-02-22T00:44:50.157Z"
+    },
+    {
+      "question": "Dans quelle ville se trouve le célèbre musée du Louvre ?",
+      "options": [
+        "Londres",
+        "Rome",
+        "Madrid",
+        "Paris"
+      ],
+      "correctAnswer": 3,
+      "category": "Culture",
+      "id": "q_1771721090157_2_ymbrkf",
+      "addedAt": "2026-02-22T00:44:50.157Z"
+    },
+    {
+      "question": "Quel est le nom du processus par lequel les plantes fabriquent leur nourriture ?",
+      "options": [
+        "Respiration",
+        "Photosynthèse",
+        "Digestion",
+        "Fermentation"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1771721090157_3_1r52f9",
+      "addedAt": "2026-02-22T00:44:50.157Z"
+    },
+    {
+      "question": "En quelle année le mur de Berlin est-il tombé ?",
+      "options": [
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1771721090157_4_0vduo8",
+      "addedAt": "2026-02-22T00:44:50.157Z"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de basket-ball sur le terrain ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1771721090157_5_b1lx1s",
+      "addedAt": "2026-02-22T00:44:50.157Z"
+    },
+    {
+      "question": "Quelle est la racine carrée de 144 ?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1771721090157_6_bddhta",
+      "addedAt": "2026-02-22T00:44:50.157Z"
+    },
+    {
+      "question": "Dans quel pays a été inventé le sushi ?",
+      "options": [
+        "Chine",
+        "Corée du Sud",
+        "Japon",
+        "Thaïlande"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1771721090157_7_o0nimn",
+      "addedAt": "2026-02-22T00:44:50.157Z"
+    },
+    {
+      "question": "Quel élément chimique a pour symbole 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1771721090157_8_0zobqu",
+      "addedAt": "2026-02-22T00:44:50.157Z"
+    },
+    {
+      "question": "Quel écrivain français a créé le personnage de Cyrano de Bergerac ?",
+      "options": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Edmond Rostand",
+        "Molière"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1771721090157_9_qaurnu",
+      "addedAt": "2026-02-22T00:44:50.157Z"
+    },
+    {
       "question": "Quelle est la langue officielle du Sénégal ?",
       "options": [
         "Wolof",
@@ -1169,7 +1299,12 @@
       "category": "Sport",
       "id": "q_legacy_4_Dans_quel_",
       "addedAt": "2026-01-01T00:00:00.000Z"
-    },
+    }
+  ],
+  "version": 34,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-22T00:44:50.157Z",
+  "archivedQuestions": [
     {
       "question": "Quelle entreprise a créé l'iPhone ?",
       "options": [
@@ -1298,154 +1433,6 @@
       "correctAnswer": 1,
       "category": "Technologie",
       "id": "q_legacy_14_Quel_langa",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    }
-  ],
-  "version": 33,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-21T02:05:02.706Z",
-  "archivedQuestions": [
-    {
-      "question": "Dans quel sport utilise-t-on un 'birdie' ?",
-      "options": [
-        "Tennis",
-        "Golf",
-        "Badminton",
-        "Cricket"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_legacy_15_Dans_quel_",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Qui a écrit 'L'Étranger' ?",
-      "options": [
-        "Jean-Paul Sartre",
-        "Albert Camus",
-        "André Malraux",
-        "Marcel Proust"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_legacy_16_Qui_a_écri",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Combien d'os compte approximativement le corps humain adulte ?",
-      "options": [
-        "186",
-        "206",
-        "226",
-        "246"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_legacy_17_Combien_d'",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Combien vaut π (pi) arrondi à deux décimales ?",
-      "options": [
-        "3,14",
-        "3,16",
-        "3,12",
-        "3,18"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_legacy_18_Combien_va",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel gaz compose principalement l'atmosphère de Jupiter ?",
-      "options": [
-        "Oxygène",
-        "Azote",
-        "Hydrogène",
-        "Méthane"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_legacy_19_Quel_gaz_c",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Combien de joueurs compose une équipe de volley-ball sur le terrain ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_legacy_20_Combien_de",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Combien de côtés possède un dodécagone ?",
-      "options": [
-        "10",
-        "12",
-        "14",
-        "16"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_legacy_21_Combien_de",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel est l'élément chimique représenté par le symbole 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Arsenic"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_legacy_22_Quel_est_l",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quel océan borde la côte ouest de l'Afrique ?",
-      "options": [
-        "Océan Indien",
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_legacy_23_Quel_océan",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Qui était le premier empereur romain ?",
-      "options": [
-        "Jules César",
-        "Auguste",
-        "Néron",
-        "Trajan"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_legacy_24_Qui_était_",
-      "addedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-      "question": "Quelle vitamine est produite par la peau grâce aux rayons du soleil ?",
-      "options": [
-        "Vitamine A",
-        "Vitamine C",
-        "Vitamine D",
-        "Vitamine K"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_legacy_25_Quelle_vit",
       "addedAt": "2026-01-01T00:00:00.000Z"
     }
   ],
