@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quelle planète du système solaire possède la plus grande lune appelée Ganymède ?",
+      "options": [
+        "Jupiter",
+        "Saturne",
+        "Neptune",
+        "Uranus"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1771813391413_0_mlhuej",
+      "addedAt": "2026-02-23T02:23:11.413Z"
+    },
+    {
+      "question": "Dans quelle ville se déroule l'action du roman 'Notre-Dame de Paris' de Victor Hugo ?",
+      "options": [
+        "Lyon",
+        "Marseille",
+        "Paris",
+        "Rouen"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1771813391413_1_6bgwu7",
+      "addedAt": "2026-02-23T02:23:11.413Z"
+    },
+    {
+      "question": "Qui a réalisé le film 'Pulp Fiction' sorti en 1994 ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "Francis Ford Coppola"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1771813391413_2_dzjbtk",
+      "addedAt": "2026-02-23T02:23:11.413Z"
+    },
+    {
+      "question": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
+      "options": [
+        "Archimède",
+        "Euclide",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1771813391413_3_77y8h3",
+      "addedAt": "2026-02-23T02:23:11.413Z"
+    },
+    {
+      "question": "Dans quelle décennie a été inventé le World Wide Web ?",
+      "options": [
+        "Années 1970",
+        "Années 1980",
+        "Années 1990",
+        "Années 2000"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1771813391413_4_dnn0hc",
+      "addedAt": "2026-02-23T02:23:11.413Z"
+    },
+    {
+      "question": "Quel fleuve traverse la ville de Budapest ?",
+      "options": [
+        "Le Danube",
+        "La Seine",
+        "Le Rhin",
+        "La Tamise"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1771813391413_5_gu74xd",
+      "addedAt": "2026-02-23T02:23:11.413Z"
+    },
+    {
+      "question": "Qui a peint le célèbre tableau 'Guernica' ?",
+      "options": [
+        "Salvador Dalí",
+        "Joan Miró",
+        "Pablo Picasso",
+        "Francisco Goya"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1771813391413_6_isez92",
+      "addedAt": "2026-02-23T02:23:11.413Z"
+    },
+    {
+      "question": "Quelle révolution industrielle est associée à l'émergence de l'informatique ?",
+      "options": [
+        "Première révolution",
+        "Deuxième révolution",
+        "Troisième révolution",
+        "Quatrième révolution"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1771813391413_7_of3av8",
+      "addedAt": "2026-02-23T02:23:11.413Z"
+    },
+    {
+      "question": "Quel est l'organe principal de la photosynthèse chez les plantes ?",
+      "options": [
+        "La racine",
+        "La tige",
+        "La feuille",
+        "La fleur"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1771813391413_8_bv97ff",
+      "addedAt": "2026-02-23T02:23:11.413Z"
+    },
+    {
+      "question": "Quel épice donne sa couleur jaune au curry ?",
+      "options": [
+        "Le safran",
+        "Le curcuma",
+        "Le paprika",
+        "Le gingembre"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1771813391413_9_x9yzq5",
+      "addedAt": "2026-02-23T02:23:11.413Z"
+    },
+    {
+      "question": "En quelle année les Jeux Olympiques d'été se sont-ils déroulés à Barcelone ?",
+      "options": [
+        "1988",
+        "1992",
+        "1996",
+        "2000"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1771813391413_10_ong9ty",
+      "addedAt": "2026-02-23T02:23:11.413Z"
+    },
+    {
+      "question": "Quel est le plus grand désert chaud du monde ?",
+      "options": [
+        "Le désert de Gobi",
+        "Le désert du Sahara",
+        "Le désert d'Atacama",
+        "Le désert de Mojave"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1771813391413_11_yqbq6e",
+      "addedAt": "2026-02-23T02:23:11.413Z"
+    },
+    {
       "question": "Quelle planète du système solaire possède le plus grand nombre de lunes confirmées ?",
       "options": [
         "Jupiter",
@@ -1143,7 +1299,12 @@
       "category": "Musique",
       "id": "q_1771461995198_3_i9wvmo",
       "addedAt": "2026-02-19T00:46:35.198Z"
-    },
+    }
+  ],
+  "version": 37,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-23T02:23:11.414Z",
+  "archivedQuestions": [
     {
       "question": "Quel sport pratique-t-on à Roland-Garros ?",
       "options": [
@@ -1299,167 +1460,6 @@
       "category": "Sport",
       "id": "q_1771381402873_2_let9vd",
       "addedAt": "2026-02-18T02:23:22.873Z"
-    }
-  ],
-  "version": 36,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-23T00:23:06.472Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
-      "options": [
-        "Steven Spielberg",
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "David Fincher"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1771381402873_3_4ci6xp",
-      "addedAt": "2026-02-18T02:23:22.873Z"
-    },
-    {
-      "question": "Quel animal est le symbole de l'Australie ?",
-      "options": [
-        "Le koala",
-        "Le kangourou",
-        "L'émeu",
-        "Le wombat"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1771381402873_4_rye6iw",
-      "addedAt": "2026-02-18T02:23:22.873Z"
-    },
-    {
-      "question": "De quel pays vient la pizza margherita ?",
-      "options": [
-        "France",
-        "Grèce",
-        "Espagne",
-        "Italie"
-      ],
-      "correctAnswer": 3,
-      "category": "Gastronomie",
-      "id": "q_1771381402873_5_ve94bu",
-      "addedAt": "2026-02-18T02:23:22.873Z"
-    },
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1771381402873_6_cpyn2i",
-      "addedAt": "2026-02-18T02:23:22.873Z"
-    },
-    {
-      "question": "Quel langage de programmation utilise le logo d'un serpent ?",
-      "options": [
-        "Java",
-        "C++",
-        "Python",
-        "JavaScript"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1771381402873_7_seep55",
-      "addedAt": "2026-02-18T02:23:22.873Z"
-    },
-    {
-      "question": "Quelle est la capitale de l'Égypte ?",
-      "options": [
-        "Alexandrie",
-        "Le Caire",
-        "Louxor",
-        "Assouan"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1771381402873_8_a7keur",
-      "addedAt": "2026-02-18T02:23:22.873Z"
-    },
-    {
-      "question": "En quelle année les premiers Jeux olympiques modernes ont-ils eu lieu ?",
-      "options": [
-        "1892",
-        "1896",
-        "1900",
-        "1904"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1771381402873_9_1o1kvj",
-      "addedAt": "2026-02-18T02:23:22.873Z"
-    },
-    {
-      "question": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-      "options": [
-        "Jules César",
-        "Auguste",
-        "Hadrien",
-        "Trajan"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1771376280549_0_3ebuha",
-      "addedAt": "2026-02-18T00:58:00.549Z"
-    },
-    {
-      "question": "Quelle est l'unité de mesure de la résistance électrique ?",
-      "options": [
-        "Volt",
-        "Ampère",
-        "Watt",
-        "Ohm"
-      ],
-      "correctAnswer": 3,
-      "category": "Science",
-      "id": "q_1771376280549_1_r6dkx9",
-      "addedAt": "2026-02-18T00:58:00.549Z"
-    },
-    {
-      "question": "Combien de pattes possède une araignée ?",
-      "options": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1771376280549_2_mbzxol",
-      "addedAt": "2026-02-18T00:58:00.549Z"
-    },
-    {
-      "question": "Quel instrument Yo-Yo Ma joue-t-il virtuosement ?",
-      "options": [
-        "Violon",
-        "Piano",
-        "Violoncelle",
-        "Contrebasse"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1771376280549_3_jk3gd2",
-      "addedAt": "2026-02-18T00:58:00.549Z"
-    },
-    {
-      "question": "Qui a réalisé le film 'Vertigo' en 1958 ?",
-      "options": [
-        "Orson Welles",
-        "Alfred Hitchcock",
-        "Billy Wilder",
-        "John Huston"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1771376280549_4_hzgswi",
-      "addedAt": "2026-02-18T00:58:00.549Z"
     }
   ],
   "poolSize": 100
