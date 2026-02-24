@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Dans quelle ville italienne se déroule l'action de 'Roméo et Juliette' de Shakespeare ?",
+      "options": [
+        "Venise",
+        "Florence",
+        "Vérone",
+        "Rome"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1771899131776_0_ybbmwj",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
+      "question": "Quel est le nom de la ligne imaginaire qui divise la Terre en deux hémisphères nord et sud ?",
+      "options": [
+        "Méridien de Greenwich",
+        "Tropique du Cancer",
+        "Équateur",
+        "Tropique du Capricorne"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1771899131776_1_1s9whe",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
+      "question": "Combien d'os compte le squelette d'un adulte humain ?",
+      "options": [
+        "196",
+        "206",
+        "216",
+        "186"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1771899131776_2_g0f19u",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit 'La Flûte enchantée' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1771899131776_3_ohzddt",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on un volant en plumes ?",
+      "options": [
+        "Tennis de table",
+        "Squash",
+        "Badminton",
+        "Tennis"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1771899131776_4_lmnsg1",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
+      "question": "Quel empereur romain a fait construire le Colisée ?",
+      "options": [
+        "Jules César",
+        "Auguste",
+        "Vespasien",
+        "Néron"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1771899131776_5_4d0ac2",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
+      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Dioxyde de carbone",
+        "Argon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1771899131776_6_hwsg3p",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
+      "question": "Quelle est la monnaie officielle du Japon ?",
+      "options": [
+        "Won",
+        "Yuan",
+        "Yen",
+        "Dong"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1771899131776_7_drl17l",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
+      "question": "Quel réalisateur britannique a dirigé le film 'Psychose' en 1960 ?",
+      "options": [
+        "Stanley Kubrick",
+        "Alfred Hitchcock",
+        "David Lean",
+        "Carol Reed"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1771899131776_8_qtbys1",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
+      "question": "Quel est le résultat de 7 au cube ?",
+      "options": [
+        "343",
+        "294",
+        "321",
+        "147"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1771899131776_9_vti5nw",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
+      "question": "Quel animal marin possède trois cœurs ?",
+      "options": [
+        "Requin",
+        "Baleine",
+        "Pieuvre",
+        "Dauphin"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1771899131776_10_n7arko",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
+      "question": "Dans quelle région française produit-on principalement le champagne ?",
+      "options": [
+        "Bourgogne",
+        "Champagne-Ardenne",
+        "Bordeaux",
+        "Alsace"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1771899131776_11_ypj9ma",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
+      "question": "Quel langage de programmation porte le nom d'un serpent ?",
+      "options": [
+        "Java",
+        "Python",
+        "Ruby",
+        "Swift"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1771899131776_12_k2xtba",
+      "addedAt": "2026-02-24T02:12:11.776Z"
+    },
+    {
       "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
       "options": [
         "1987",
@@ -1130,7 +1299,12 @@
       "category": "Sport",
       "id": "q_1771553427102_8_qbyprl",
       "addedAt": "2026-02-20T02:10:27.102Z"
-    },
+    }
+  ],
+  "version": 39,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-24T02:12:11.777Z",
+  "archivedQuestions": [
     {
       "question": "Quelle est la devise de l'Union européenne ?",
       "options": [
@@ -1299,154 +1473,6 @@
       "category": "Histoire",
       "id": "q_1771467738879_0_lvclj6",
       "addedAt": "2026-02-19T02:22:18.879Z"
-    }
-  ],
-  "version": 38,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-24T00:18:55.476Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle est la monnaie officielle du Japon ?",
-      "options": [
-        "Won",
-        "Yuan",
-        "Yen",
-        "Dong"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1771467738879_1_gm81i4",
-      "addedAt": "2026-02-19T02:22:18.879Z"
-    },
-    {
-      "question": "Quel écrivain français a créé le personnage de Jean Valjean ?",
-      "options": [
-        "Émile Zola",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1771467738879_2_yenklg",
-      "addedAt": "2026-02-19T02:22:18.879Z"
-    },
-    {
-      "question": "Combien de minutes dure une mi-temps au football ?",
-      "options": [
-        "40 minutes",
-        "45 minutes",
-        "50 minutes",
-        "60 minutes"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1771467738879_3_u8p2g0",
-      "addedAt": "2026-02-19T02:22:18.879Z"
-    },
-    {
-      "question": "Quel gaz compose majoritairement l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Azote",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1771467738879_4_rlvyz4",
-      "addedAt": "2026-02-19T02:22:18.879Z"
-    },
-    {
-      "question": "Dans quelle ville européenne se trouve le musée du Prado ?",
-      "options": [
-        "Barcelone",
-        "Madrid",
-        "Lisbonne",
-        "Rome"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1771467738879_5_je5mmw",
-      "addedAt": "2026-02-19T02:22:18.879Z"
-    },
-    {
-      "question": "Quel instrument de musique Frédéric Chopin maîtrisait-il particulièrement ?",
-      "options": [
-        "Violon",
-        "Piano",
-        "Violoncelle",
-        "Harpe"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1771467738879_6_lcx7xd",
-      "addedAt": "2026-02-19T02:22:18.879Z"
-    },
-    {
-      "question": "Quel condiment japonais est fabriqué à partir de graines de soja fermentées ?",
-      "options": [
-        "Wasabi",
-        "Miso",
-        "Sake",
-        "Mirin"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1771467738879_7_5hasn5",
-      "addedAt": "2026-02-19T02:22:18.879Z"
-    },
-    {
-      "question": "Quel architecte a conçu la pyramide du Louvre ?",
-      "options": [
-        "Norman Foster",
-        "Ieoh Ming Pei",
-        "Frank Gehry",
-        "Zaha Hadid"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1771461995198_0_0ez7hq",
-      "addedAt": "2026-02-19T00:46:35.198Z"
-    },
-    {
-      "question": "Quelle est la vitesse de la lumière dans le vide ?",
-      "options": [
-        "300 000 km/s",
-        "150 000 km/s",
-        "450 000 km/s",
-        "200 000 km/s"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1771461995198_1_wqkc50",
-      "addedAt": "2026-02-19T00:46:35.198Z"
-    },
-    {
-      "question": "Dans quelle région française se trouve le Mont-Blanc ?",
-      "options": [
-        "Provence-Alpes-Côte d'Azur",
-        "Auvergne-Rhône-Alpes",
-        "Nouvelle-Aquitaine",
-        "Occitanie"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1771461995198_2_uui53d",
-      "addedAt": "2026-02-19T00:46:35.198Z"
-    },
-    {
-      "question": "Qui a composé 'Les Quatre Saisons' ?",
-      "options": [
-        "Bach",
-        "Mozart",
-        "Vivaldi",
-        "Beethoven"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1771461995198_3_i9wvmo",
-      "addedAt": "2026-02-19T00:46:35.198Z"
     }
   ],
   "poolSize": 100
