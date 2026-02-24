@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1771892335476_2_eg2dpy",
+      "addedAt": "2026-02-24T00:18:55.476Z"
+    },
+    {
+      "question": "Quel sport Michael Jordan a-t-il principalement pratiqué ?",
+      "options": [
+        "Football américain",
+        "Baseball",
+        "Basketball",
+        "Tennis"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1771892335476_3_nihhon",
+      "addedAt": "2026-02-24T00:18:55.476Z"
+    },
+    {
+      "question": "Combien d'arêtes possède un octaèdre régulier ?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1771892335476_4_g47e1i",
+      "addedAt": "2026-02-24T00:18:55.476Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "Francis Ford Coppola"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1771892335476_5_85rplk",
+      "addedAt": "2026-02-24T00:18:55.476Z"
+    },
+    {
+      "question": "Quel compositeur allemand était sourd à la fin de sa vie ?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Beethoven",
+        "Brahms"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1771892335476_6_91orvh",
+      "addedAt": "2026-02-24T00:18:55.476Z"
+    },
+    {
+      "question": "Dans quel organe du corps humain trouve-t-on les alvéoles ?",
+      "options": [
+        "Foie",
+        "Rein",
+        "Poumon",
+        "Cerveau"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1771892335476_7_ldabo9",
+      "addedAt": "2026-02-24T00:18:55.476Z"
+    },
+    {
+      "question": "Quel animal peut vivre le plus longtemps sans eau ?",
+      "options": [
+        "Chameau",
+        "Kangourou",
+        "Tardigrade",
+        "Scorpion"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1771892335476_8_pavo4x",
+      "addedAt": "2026-02-24T00:18:55.476Z"
+    },
+    {
+      "question": "Qui a inventé le World Wide Web ?",
+      "options": [
+        "Bill Gates",
+        "Steve Jobs",
+        "Tim Berners-Lee",
+        "Mark Zuckerberg"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1771892335476_9_def5v5",
+      "addedAt": "2026-02-24T00:18:55.476Z"
+    },
+    {
+      "question": "Quelle civilisation a construit le Machu Picchu ?",
+      "options": [
+        "Aztèque",
+        "Maya",
+        "Inca",
+        "Olmèque"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1771892335476_10_h0kpxp",
+      "addedAt": "2026-02-24T00:18:55.476Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a créé 'La Jeune Fille à la perle' ?",
+      "options": [
+        "Rembrandt",
+        "Van Gogh",
+        "Vermeer",
+        "Mondrian"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1771892335475_0_rl7peg",
+      "addedAt": "2026-02-24T00:18:55.475Z"
+    },
+    {
+      "question": "Dans quelle ville italienne Shakespeare a-t-il situé l'action de Roméo et Juliette ?",
+      "options": [
+        "Venise",
+        "Florence",
+        "Vérone",
+        "Rome"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1771892335475_1_0acr82",
+      "addedAt": "2026-02-24T00:18:55.475Z"
+    },
+    {
       "question": "Quelle planète du système solaire possède la plus grande lune appelée Ganymède ?",
       "options": [
         "Jupiter",
@@ -1156,7 +1299,12 @@
       "category": "Histoire",
       "id": "q_1771467738879_0_lvclj6",
       "addedAt": "2026-02-19T02:22:18.879Z"
-    },
+    }
+  ],
+  "version": 38,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-24T00:18:55.476Z",
+  "archivedQuestions": [
     {
       "question": "Quelle est la monnaie officielle du Japon ?",
       "options": [
@@ -1299,167 +1447,6 @@
       "category": "Musique",
       "id": "q_1771461995198_3_i9wvmo",
       "addedAt": "2026-02-19T00:46:35.198Z"
-    }
-  ],
-  "version": 37,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-23T02:23:11.414Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel sport pratique-t-on à Roland-Garros ?",
-      "options": [
-        "Golf",
-        "Tennis",
-        "Badminton",
-        "Squash"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1771461995198_4_tj1oe6",
-      "addedAt": "2026-02-19T00:46:35.198Z"
-    },
-    {
-      "question": "Dans quelle langue a été écrit le 'Petit Prince' de Saint-Exupéry ?",
-      "options": [
-        "Anglais",
-        "Espagnol",
-        "Français",
-        "Italien"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1771461995198_5_j0xvys",
-      "addedAt": "2026-02-19T00:46:35.198Z"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1988",
-        "1989",
-        "1990"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1771461995198_6_gdlxh4",
-      "addedAt": "2026-02-19T00:46:35.198Z"
-    },
-    {
-      "question": "Quel animal est le symbole de la WWF ?",
-      "options": [
-        "Tigre",
-        "Éléphant",
-        "Panda géant",
-        "Baleine bleue"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1771461995198_7_9w9ows",
-      "addedAt": "2026-02-19T00:46:35.198Z"
-    },
-    {
-      "question": "Combien de faces a un icosaèdre ?",
-      "options": [
-        "12",
-        "16",
-        "20",
-        "24"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1771461995198_8_mkot8u",
-      "addedAt": "2026-02-19T00:46:35.198Z"
-    },
-    {
-      "question": "Quelle entreprise a créé le premier iPhone ?",
-      "options": [
-        "Samsung",
-        "Google",
-        "Apple",
-        "Microsoft"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1771461995198_9_rnmbr4",
-      "addedAt": "2026-02-19T00:46:35.198Z"
-    },
-    {
-      "question": "Dans quelle région d'Italie se trouve la ville de Florence ?",
-      "options": [
-        "Lazio",
-        "Lombardie",
-        "Toscane",
-        "Vénétie"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1771461995198_10_x2ln8w",
-      "addedAt": "2026-02-19T00:46:35.198Z"
-    },
-    {
-      "question": "Quelle pâtisserie française est traditionnellement consommée le jour de l'Épiphanie ?",
-      "options": [
-        "Bûche de Noël",
-        "Galette des rois",
-        "Croquembouche",
-        "Saint-Honoré"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1771461995198_11_w7keqa",
-      "addedAt": "2026-02-19T00:46:35.198Z"
-    },
-    {
-      "question": "Quel scientifique a développé la théorie de l'évolution par sélection naturelle ?",
-      "options": [
-        "Gregor Mendel",
-        "Charles Darwin",
-        "Louis Pasteur",
-        "Alexander Fleming"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1771461995198_12_tyouiu",
-      "addedAt": "2026-02-19T00:46:35.198Z"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Paul Cézanne"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1771381402873_0_1kf4m2",
-      "addedAt": "2026-02-18T02:23:22.873Z"
-    },
-    {
-      "question": "Quel empereur romain a légalisé le christianisme ?",
-      "options": [
-        "Jules César",
-        "Auguste",
-        "Constantin",
-        "Néron"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1771381402873_1_bex1ii",
-      "addedAt": "2026-02-18T02:23:22.873Z"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on un putter ?",
-      "options": [
-        "Tennis",
-        "Baseball",
-        "Golf",
-        "Cricket"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1771381402873_2_let9vd",
-      "addedAt": "2026-02-18T02:23:22.873Z"
     }
   ],
   "poolSize": 100
