@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quelle vitamine est principalement synthétisée par la peau grâce à l'exposition au soleil ?",
+      "options": [
+        "Vitamine A",
+        "Vitamine C",
+        "Vitamine D",
+        "Vitamine E"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1771985612617_0_s15otf",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
+      "question": "Dans quelle région française trouve-t-on les calanques de Cassis ?",
+      "options": [
+        "Bretagne",
+        "Provence-Alpes-Côte d'Azur",
+        "Corse",
+        "Languedoc-Roussillon"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1771985612617_1_2gtd52",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
+      "question": "Quel est le plus petit os du corps humain ?",
+      "options": [
+        "L'étrier",
+        "Le marteau",
+        "L'enclume",
+        "Le radius"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1771985612617_2_sakvb8",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
+      "question": "En quelle année a eu lieu la bataille de Waterloo ?",
+      "options": [
+        "1812",
+        "1815",
+        "1818",
+        "1820"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1771985612617_3_7v6kq1",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
+      "question": "Combien de faces possède un dodécaèdre ?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1771985612617_4_75pq9n",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
+      "question": "Quel architecte a conçu la Sagrada Família à Barcelone ?",
+      "options": [
+        "Le Corbusier",
+        "Frank Lloyd Wright",
+        "Antoni Gaudí",
+        "Zaha Hadid"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1771985612617_5_yn30vz",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
+      "question": "Dans quel océan se trouve l'archipel des Maldives ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1771985612617_6_w374t7",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
+      "question": "Quel instrument de mesure utilise-t-on pour mesurer la pression atmosphérique ?",
+      "options": [
+        "Thermomètre",
+        "Hygromètre",
+        "Baromètre",
+        "Anémomètre"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1771985612617_7_l3jaxt",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
+      "question": "Dans combien de films la saga 'Star Wars' originale se compose-t-elle ?",
+      "options": [
+        "3 films",
+        "6 films",
+        "9 films",
+        "12 films"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1771985612617_8_6r7f5i",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
+      "question": "Quelle est la durée approximative de gestation d'un éléphant ?",
+      "options": [
+        "12 mois",
+        "18 mois",
+        "22 mois",
+        "26 mois"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1771985612617_9_ovp330",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
+      "question": "Dans quelle unité mesure-t-on la fréquence des ondes ?",
+      "options": [
+        "Watt",
+        "Hertz",
+        "Volt",
+        "Ampère"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1771985612617_10_8ywncn",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
+      "question": "Quel plat traditionnel français est composé d'escargots cuisinés au beurre persillé ?",
+      "options": [
+        "Coq au vin",
+        "Escargots de Bourgogne",
+        "Pot-au-feu",
+        "Ratatouille"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1771985612617_11_7bybz3",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
+      "question": "En quelle année fut créé le premier site web au monde ?",
+      "options": [
+        "1989",
+        "1991",
+        "1993",
+        "1995"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1771985612617_12_n9fo8m",
+      "addedAt": "2026-02-25T02:13:32.617Z"
+    },
+    {
       "question": "Quel philosophe grec est considéré comme le père de la logique ?",
       "options": [
         "Platon",
@@ -1130,7 +1299,12 @@
       "category": "Géographie",
       "id": "q_1771639502705_7_4qi9cv",
       "addedAt": "2026-02-21T02:05:02.705Z"
-    },
+    }
+  ],
+  "version": 41,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-25T02:13:32.618Z",
+  "archivedQuestions": [
     {
       "question": "Combien de minutes y a-t-il dans une journée ?",
       "options": [
@@ -1299,167 +1473,6 @@
       "category": "Histoire",
       "id": "q_1771634217635_9_tmv7v5",
       "addedAt": "2026-02-21T00:36:57.635Z"
-    }
-  ],
-  "version": 40,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-25T00:55:01.299Z",
-  "archivedQuestions": [
-    {
-      "question": "Que signifie 'www' dans une adresse internet ?",
-      "options": [
-        "World Wide Web",
-        "World Web Window",
-        "Web World Wide",
-        "Wide World Web"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1771553427102_9_sgjwk3",
-      "addedAt": "2026-02-20T02:10:27.103Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la saga 'Star Wars' ?",
-      "options": [
-        "Steven Spielberg",
-        "George Lucas",
-        "James Cameron",
-        "Ridley Scott"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1771553427103_10_9av4x6",
-      "addedAt": "2026-02-20T02:10:27.103Z"
-    },
-    {
-      "question": "Quelle est la formule chimique de l'eau oxygénée ?",
-      "options": [
-        "H2O",
-        "H2O2",
-        "HO2",
-        "H3O"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1771553427103_11_jbp84j",
-      "addedAt": "2026-02-20T02:10:27.103Z"
-    },
-    {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1771553427102_0_w7xwqt",
-      "addedAt": "2026-02-20T02:10:27.102Z"
-    },
-    {
-      "question": "Combien de secondes y a-t-il dans une heure ?",
-      "options": [
-        "3600",
-        "3000",
-        "1800",
-        "7200"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1771553427102_1_thle9z",
-      "addedAt": "2026-02-20T02:10:27.102Z"
-    },
-    {
-      "question": "Quel organe du corps humain produit l'insuline ?",
-      "options": [
-        "Le foie",
-        "Les reins",
-        "Le pancréas",
-        "L'estomac"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1771553427102_2_c3uyl3",
-      "addedAt": "2026-02-20T02:10:27.102Z"
-    },
-    {
-      "question": "Dans quel pays se trouve la ville de Marrakech ?",
-      "options": [
-        "Algérie",
-        "Tunisie",
-        "Maroc",
-        "Égypte"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1771553427102_3_u3hf81",
-      "addedAt": "2026-02-20T02:10:27.102Z"
-    },
-    {
-      "question": "Combien de faces possède un cube ?",
-      "options": [
-        "4",
-        "6",
-        "8",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1771553427102_4_q11gjk",
-      "addedAt": "2026-02-20T02:10:27.102Z"
-    },
-    {
-      "question": "Quel est l'ingrédient principal du guacamole ?",
-      "options": [
-        "La tomate",
-        "L'avocat",
-        "Le concombre",
-        "Le poivron"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1771553427102_5_hlkt4s",
-      "addedAt": "2026-02-20T02:10:27.102Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Le rhinocéros",
-        "L'hippopotame",
-        "L'éléphant d'Afrique",
-        "Le bison"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1771553427102_6_z1bgyb",
-      "addedAt": "2026-02-20T02:10:27.102Z"
-    },
-    {
-      "question": "Combien de touches noires possède un piano standard ?",
-      "options": [
-        "36",
-        "52",
-        "88",
-        "76"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1771553427102_7_rb55jj",
-      "addedAt": "2026-02-20T02:10:27.102Z"
-    },
-    {
-      "question": "Quel pays a organisé les Jeux Olympiques d'été en 2016 ?",
-      "options": [
-        "Chine",
-        "Royaume-Uni",
-        "Brésil",
-        "Japon"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1771553427102_8_qbyprl",
-      "addedAt": "2026-02-20T02:10:27.102Z"
     }
   ],
   "poolSize": 100
