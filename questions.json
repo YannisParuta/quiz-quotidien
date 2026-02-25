@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel philosophe grec est considéré comme le père de la logique ?",
+      "options": [
+        "Platon",
+        "Aristote",
+        "Socrate",
+        "Épicure"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1771980901299_0_hu5zua",
+      "addedAt": "2026-02-25T00:55:01.299Z"
+    },
+    {
+      "question": "Quelle est l'unité de mesure de la fréquence ?",
+      "options": [
+        "Watt",
+        "Volt",
+        "Hertz",
+        "Ampère"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1771980901299_1_51r8ul",
+      "addedAt": "2026-02-25T00:55:01.299Z"
+    },
+    {
+      "question": "Dans quelle ville italienne peut-on visiter la Chapelle Sixtine ?",
+      "options": [
+        "Rome",
+        "Florence",
+        "Venise",
+        "Milan"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1771980901299_2_tzypbj",
+      "addedAt": "2026-02-25T00:55:01.299Z"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde ?",
+      "options": [
+        "Monaco",
+        "Vatican",
+        "Nauru",
+        "Saint-Marin"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1771980901299_3_lac594",
+      "addedAt": "2026-02-25T00:55:01.299Z"
+    },
+    {
+      "question": "Combien de symphonies Ludwig van Beethoven a-t-il composées ?",
+      "options": [
+        "7",
+        "9",
+        "12",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1771980901299_4_qp1mzj",
+      "addedAt": "2026-02-25T00:55:01.299Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'Le Cinquième Élément' ?",
+      "options": [
+        "Jean-Pierre Jeunet",
+        "Luc Besson",
+        "Leos Carax",
+        "Jean-Luc Godard"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1771980901299_5_vh7vul",
+      "addedAt": "2026-02-25T00:55:01.299Z"
+    },
+    {
+      "question": "Quel est le nom du processus par lequel les plantes transforment la lumière en énergie ?",
+      "options": [
+        "Respiration",
+        "Photosynthèse",
+        "Transpiration",
+        "Germination"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1771980901299_6_033gsw",
+      "addedAt": "2026-02-25T00:55:01.299Z"
+    },
+    {
+      "question": "Dans quelle constellation se trouve l'étoile Polaire ?",
+      "options": [
+        "Grande Ourse",
+        "Petite Ourse",
+        "Cassiopée",
+        "Dragon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1771980901299_7_5qhkf7",
+      "addedAt": "2026-02-25T00:55:01.299Z"
+    },
+    {
+      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Oscar Wilde",
+        "Charles Dickens"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1771980901299_8_4q45o4",
+      "addedAt": "2026-02-25T00:55:01.299Z"
+    },
+    {
+      "question": "Combien de degrés mesure un angle droit ?",
+      "options": [
+        "45",
+        "60",
+        "90",
+        "180"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1771980901299_9_3vogl6",
+      "addedAt": "2026-02-25T00:55:01.299Z"
+    },
+    {
+      "question": "Quel langage de programmation utilise principalement le symbole '#' pour les commentaires ?",
+      "options": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "C++"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1771980901299_10_mc9m5c",
+      "addedAt": "2026-02-25T00:55:01.299Z"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on un volant (shuttlecock) ?",
+      "options": [
+        "Tennis de table",
+        "Squash",
+        "Badminton",
+        "Paddle"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1771980901299_11_j2ks6w",
+      "addedAt": "2026-02-25T00:55:01.299Z"
+    },
+    {
       "question": "Dans quelle ville italienne se déroule l'action de 'Roméo et Juliette' de Shakespeare ?",
       "options": [
         "Venise",
@@ -1143,7 +1299,12 @@
       "category": "Histoire",
       "id": "q_1771634217635_9_tmv7v5",
       "addedAt": "2026-02-21T00:36:57.635Z"
-    },
+    }
+  ],
+  "version": 40,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-25T00:55:01.299Z",
+  "archivedQuestions": [
     {
       "question": "Que signifie 'www' dans une adresse internet ?",
       "options": [
@@ -1299,180 +1460,6 @@
       "category": "Sport",
       "id": "q_1771553427102_8_qbyprl",
       "addedAt": "2026-02-20T02:10:27.102Z"
-    }
-  ],
-  "version": 39,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-24T02:12:11.777Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle est la devise de l'Union européenne ?",
-      "options": [
-        "Liberté, Égalité, Fraternité",
-        "Unie dans la diversité",
-        "L'union fait la force",
-        "In varietate concordia"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1771545906890_0_bru62b",
-      "addedAt": "2026-02-20T00:05:06.890Z"
-    },
-    {
-      "question": "Quel océan borde la côte ouest de l'Amérique du Sud ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1771545906890_1_3zhuoh",
-      "addedAt": "2026-02-20T00:05:06.890Z"
-    },
-    {
-      "question": "Comment appelle-t-on la peur irrationnelle des espaces clos ?",
-      "options": [
-        "Agoraphobie",
-        "Claustrophobie",
-        "Acrophobie",
-        "Arachnophobie"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1771545906890_2_58wmev",
-      "addedAt": "2026-02-20T00:05:06.890Z"
-    },
-    {
-      "question": "Quel écrivain français a créé le personnage du Petit Prince ?",
-      "options": [
-        "Jules Verne",
-        "Antoine de Saint-Exupéry",
-        "Marcel Proust",
-        "Albert Camus"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1771545906890_3_dbiglj",
-      "addedAt": "2026-02-20T00:05:06.890Z"
-    },
-    {
-      "question": "Quelle vitamine est principalement synthétisée par la peau grâce au soleil ?",
-      "options": [
-        "Vitamine A",
-        "Vitamine C",
-        "Vitamine D",
-        "Vitamine E"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1771545906890_4_gjqfm2",
-      "addedAt": "2026-02-20T00:05:06.890Z"
-    },
-    {
-      "question": "Quel architecte français a conçu la pyramide du Louvre ?",
-      "options": [
-        "Le Corbusier",
-        "Ieoh Ming Pei",
-        "Jean Nouvel",
-        "Norman Foster"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1771545906890_5_f2zpr9",
-      "addedAt": "2026-02-20T00:05:06.890Z"
-    },
-    {
-      "question": "Combien de fuseaux horaires compte la Russie ?",
-      "options": [
-        "9",
-        "11",
-        "13",
-        "15"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1771545906890_6_fqhh4w",
-      "addedAt": "2026-02-20T00:05:06.890Z"
-    },
-    {
-      "question": "Dans quelle série télévisée suit-on les aventures de Walter White ?",
-      "options": [
-        "Lost",
-        "Breaking Bad",
-        "The Wire",
-        "Dexter"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1771545906890_7_qhx84c",
-      "addedAt": "2026-02-20T00:05:06.890Z"
-    },
-    {
-      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
-      "options": [
-        "Camembert",
-        "Roquefort",
-        "Brie",
-        "Comté"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1771545906890_8_s7jlo6",
-      "addedAt": "2026-02-20T00:05:06.890Z"
-    },
-    {
-      "question": "Quel est le symbole chimique du fer ?",
-      "options": [
-        "F",
-        "Fe",
-        "Fr",
-        "Fm"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1771545906890_9_sgcl2i",
-      "addedAt": "2026-02-20T00:05:06.890Z"
-    },
-    {
-      "question": "Dans quelle langue a été écrit le roman 'Cent ans de solitude' ?",
-      "options": [
-        "Portugais",
-        "Espagnol",
-        "Italien",
-        "Français"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1771545906890_10_l5k5pk",
-      "addedAt": "2026-02-20T00:05:06.890Z"
-    },
-    {
-      "question": "Quel animal est le symbole du World Wildlife Fund (WWF) ?",
-      "options": [
-        "Tigre",
-        "Éléphant",
-        "Panda géant",
-        "Baleine bleue"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1771545906890_11_qwgmlt",
-      "addedAt": "2026-02-20T00:05:06.890Z"
-    },
-    {
-      "question": "Quel philosophe grec a fondé l'École d'Athènes ?",
-      "options": [
-        "Socrate",
-        "Platon",
-        "Aristote",
-        "Épicure"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1771467738879_0_lvclj6",
-      "addedAt": "2026-02-19T02:22:18.879Z"
     }
   ],
   "poolSize": 100
