@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quelle planète du système solaire possède les anneaux les plus visibles ?",
+      "options": [
+        "Jupiter",
+        "Saturne",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772065236223_0_8tqw6g",
+      "addedAt": "2026-02-26T00:20:36.223Z"
+    },
+    {
+      "question": "Quel est l'ingrédient principal du guacamole ?",
+      "options": [
+        "Tomate",
+        "Avocat",
+        "Concombre",
+        "Poivron"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1772065236223_1_92y115",
+      "addedAt": "2026-02-26T00:20:36.223Z"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Perth",
+        "Canberra"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1772065236223_2_m9t402",
+      "addedAt": "2026-02-26T00:20:36.223Z"
+    },
+    {
+      "question": "En quelle année a eu lieu la révolution française ?",
+      "options": [
+        "1789",
+        "1792",
+        "1799",
+        "1804"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1772065236223_3_tl9sqx",
+      "addedAt": "2026-02-26T00:20:36.223Z"
+    },
+    {
+      "question": "Quel animal est le symbole du parti républicain américain ?",
+      "options": [
+        "Aigle",
+        "Ours",
+        "Éléphant",
+        "Lion"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1772065236223_4_6y9oq1",
+      "addedAt": "2026-02-26T00:20:36.223Z"
+    },
+    {
+      "question": "Quel sport se pratique sur une piste de 400 mètres ?",
+      "options": [
+        "Cyclisme",
+        "Athlétisme",
+        "Patinage",
+        "Course automobile"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1772065236223_5_p0mtjo",
+      "addedAt": "2026-02-26T00:20:36.223Z"
+    },
+    {
+      "question": "Quel mouvement artistique Pablo Picasso a-t-il co-fondé ?",
+      "options": [
+        "Surréalisme",
+        "Impressionnisme",
+        "Cubisme",
+        "Fauvisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1772065236223_6_ql9kid",
+      "addedAt": "2026-02-26T00:20:36.223Z"
+    },
+    {
+      "question": "Quel mammifère est capable de voler ?",
+      "options": [
+        "Écureuil volant",
+        "Chauve-souris",
+        "Polatouche",
+        "Lémurien volant"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1772065236223_7_edd8xn",
+      "addedAt": "2026-02-26T00:20:36.223Z"
+    },
+    {
+      "question": "Quel instrument Frédéric Chopin jouait-il principalement ?",
+      "options": [
+        "Violon",
+        "Piano",
+        "Violoncelle",
+        "Harpe"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1772065236223_8_i5pn7x",
+      "addedAt": "2026-02-26T00:20:36.223Z"
+    },
+    {
+      "question": "Quelle entreprise a créé le navigateur web Chrome ?",
+      "options": [
+        "Microsoft",
+        "Apple",
+        "Mozilla",
+        "Google"
+      ],
+      "correctAnswer": 3,
+      "category": "Technologie",
+      "id": "q_1772065236223_9_8yhnyo",
+      "addedAt": "2026-02-26T00:20:36.223Z"
+    },
+    {
+      "question": "Dans quelle mer se trouve l'île de Crète ?",
+      "options": [
+        "Mer Ionienne",
+        "Mer Égée",
+        "Mer Tyrrhénienne",
+        "Mer Adriatique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1772065236223_10_u5ff30",
+      "addedAt": "2026-02-26T00:20:36.223Z"
+    },
+    {
       "question": "Quelle vitamine est principalement synthétisée par la peau grâce à l'exposition au soleil ?",
       "options": [
         "Vitamine A",
@@ -1156,7 +1299,12 @@
       "category": "Mathématiques",
       "id": "q_1771721090157_6_bddhta",
       "addedAt": "2026-02-22T00:44:50.157Z"
-    },
+    }
+  ],
+  "version": 42,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-26T00:20:36.224Z",
+  "archivedQuestions": [
     {
       "question": "Dans quel pays a été inventé le sushi ?",
       "options": [
@@ -1299,180 +1447,6 @@
       "category": "Géographie",
       "id": "q_1771639502705_7_4qi9cv",
       "addedAt": "2026-02-21T02:05:02.705Z"
-    }
-  ],
-  "version": 41,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-25T02:13:32.618Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de minutes y a-t-il dans une journée ?",
-      "options": [
-        "1440",
-        "1420",
-        "1460",
-        "1400"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1771639502705_8_wtlqq2",
-      "addedAt": "2026-02-21T02:05:02.705Z"
-    },
-    {
-      "question": "Quel fromage français est protégé par une AOC et produit en Normandie ?",
-      "options": [
-        "Roquefort",
-        "Camembert",
-        "Comté",
-        "Chabichou"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1771639502705_9_0g7duh",
-      "addedAt": "2026-02-21T02:05:02.705Z"
-    },
-    {
-      "question": "Quel mammifère marin est le plus grand animal de la planète ?",
-      "options": [
-        "L'orque",
-        "Le cachalot",
-        "La baleine bleue",
-        "Le requin-baleine"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1771639502705_10_a02rvc",
-      "addedAt": "2026-02-21T02:05:02.705Z"
-    },
-    {
-      "question": "Quel est l'organe qui produit l'insuline dans le corps humain ?",
-      "options": [
-        "Foie",
-        "Pancréas",
-        "Rein",
-        "Rate"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1771634217635_0_grxz6x",
-      "addedAt": "2026-02-21T00:36:57.635Z"
-    },
-    {
-      "question": "Dans quel sport évolue Novak Djokovic ?",
-      "options": [
-        "Tennis",
-        "Badminton",
-        "Squash",
-        "Tennis de table"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1771634217635_1_u8h6x6",
-      "addedAt": "2026-02-21T00:36:57.635Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1771634217635_2_8d5sjb",
-      "addedAt": "2026-02-21T00:36:57.635Z"
-    },
-    {
-      "question": "Combien font 15 × 8 ?",
-      "options": [
-        "110",
-        "120",
-        "125",
-        "130"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1771634217635_3_fjen03",
-      "addedAt": "2026-02-21T00:36:57.635Z"
-    },
-    {
-      "question": "Dans quelle ville se déroule l'action du film 'Casablanca' ?",
-      "options": [
-        "Marrakech",
-        "Casablanca",
-        "Rabat",
-        "Fès"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1771634217635_4_uqu0eh",
-      "addedAt": "2026-02-21T00:36:57.635Z"
-    },
-    {
-      "question": "Quel est le protocole utilisé pour sécuriser les communications web ?",
-      "options": [
-        "HTTP",
-        "HTTPS",
-        "FTP",
-        "SMTP"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1771634217635_5_kopssy",
-      "addedAt": "2026-02-21T00:36:57.635Z"
-    },
-    {
-      "question": "De quel pays vient originellement le sushi ?",
-      "options": [
-        "Chine",
-        "Corée du Sud",
-        "Japon",
-        "Thaïlande"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1771634217635_6_fo6caw",
-      "addedAt": "2026-02-21T00:36:57.635Z"
-    },
-    {
-      "question": "Quelle planète est surnommée la 'planète rouge' ?",
-      "options": [
-        "Vénus",
-        "Mars",
-        "Jupiter",
-        "Saturne"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1771634217635_7_ura56b",
-      "addedAt": "2026-02-21T00:36:57.635Z"
-    },
-    {
-      "question": "Dans quelle mer se trouve l'archipel des Baléares ?",
-      "options": [
-        "Mer Adriatique",
-        "Mer Égée",
-        "Mer Méditerranée",
-        "Mer Noire"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1771634217635_8_xzxib2",
-      "addedAt": "2026-02-21T00:36:57.635Z"
-    },
-    {
-      "question": "Qui était le roi de France pendant la Révolution française ?",
-      "options": [
-        "Louis XIV",
-        "Louis XV",
-        "Louis XVI",
-        "Louis XVIII"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1771634217635_9_tmv7v5",
-      "addedAt": "2026-02-21T00:36:57.635Z"
     }
   ],
   "poolSize": 100
