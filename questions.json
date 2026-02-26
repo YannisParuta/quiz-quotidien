@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel est le nom de la couche de l'atmosphère terrestre où se forment la plupart des nuages ?",
+      "options": [
+        "Stratosphère",
+        "Troposphère",
+        "Mésosphère",
+        "Thermosphère"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772071794708_0_bi59d5",
+      "addedAt": "2026-02-26T02:09:54.708Z"
+    },
+    {
+      "question": "Dans quel pays se trouve la ville de Marrakech ?",
+      "options": [
+        "Tunisie",
+        "Algérie",
+        "Maroc",
+        "Égypte"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772071794708_1_n7qyfq",
+      "addedAt": "2026-02-26T02:09:54.708Z"
+    },
+    {
+      "question": "En quelle année a été fondée l'Organisation des Nations Unies (ONU) ?",
+      "options": [
+        "1943",
+        "1944",
+        "1945",
+        "1946"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1772071794708_2_3scaha",
+      "addedAt": "2026-02-26T02:09:54.708Z"
+    },
+    {
+      "question": "Quel animal est le symbole du WWF (Fonds mondial pour la nature) ?",
+      "options": [
+        "Tigre",
+        "Éléphant",
+        "Panda géant",
+        "Rhinocéros"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1772071794708_3_owtsj2",
+      "addedAt": "2026-02-26T02:09:54.708Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Alexandre Dumas"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1772071794708_4_qrzli8",
+      "addedAt": "2026-02-26T02:09:54.708Z"
+    },
+    {
+      "question": "Combien de minutes dure une mi-temps au rugby à XV ?",
+      "options": [
+        "35 minutes",
+        "40 minutes",
+        "45 minutes",
+        "50 minutes"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1772071794708_5_j6dznz",
+      "addedAt": "2026-02-26T02:09:54.708Z"
+    },
+    {
+      "question": "Quel est le résultat de 7 × 8 ?",
+      "options": [
+        "54",
+        "56",
+        "58",
+        "64"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1772071794708_6_uh6p6a",
+      "addedAt": "2026-02-26T02:09:54.708Z"
+    },
+    {
+      "question": "Dans quel style architectural a été construite la cathédrale Notre-Dame de Paris ?",
+      "options": [
+        "Roman",
+        "Gothique",
+        "Renaissance",
+        "Baroque"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1772071794708_7_014iwp",
+      "addedAt": "2026-02-26T02:09:54.708Z"
+    },
+    {
+      "question": "Quel compositeur a écrit 'Les Quatre Saisons' ?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Vivaldi",
+        "Beethoven"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1772071794708_8_spdtcb",
+      "addedAt": "2026-02-26T02:09:54.708Z"
+    },
+    {
+      "question": "Quel réseau social a été créé par Mark Zuckerberg ?",
+      "options": [
+        "Twitter",
+        "Instagram",
+        "Facebook",
+        "LinkedIn"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1772071794708_9_74dvyr",
+      "addedAt": "2026-02-26T02:09:54.708Z"
+    },
+    {
+      "question": "Quel organe du corps humain produit l'insuline ?",
+      "options": [
+        "Le foie",
+        "Le pancréas",
+        "Les reins",
+        "La rate"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772071794708_10_yyibei",
+      "addedAt": "2026-02-26T02:09:54.708Z"
+    },
+    {
       "question": "Quelle planète du système solaire possède les anneaux les plus visibles ?",
       "options": [
         "Jupiter",
@@ -1156,7 +1299,12 @@
       "category": "Nature",
       "id": "q_1771726924615_4_tixhcb",
       "addedAt": "2026-02-22T02:22:04.615Z"
-    },
+    }
+  ],
+  "version": 43,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-26T02:09:54.708Z",
+  "archivedQuestions": [
     {
       "question": "Combien de degrés y a-t-il dans un angle droit ?",
       "options": [
@@ -1299,154 +1447,6 @@
       "category": "Mathématiques",
       "id": "q_1771721090157_6_bddhta",
       "addedAt": "2026-02-22T00:44:50.157Z"
-    }
-  ],
-  "version": 42,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-26T00:20:36.224Z",
-  "archivedQuestions": [
-    {
-      "question": "Dans quel pays a été inventé le sushi ?",
-      "options": [
-        "Chine",
-        "Corée du Sud",
-        "Japon",
-        "Thaïlande"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1771721090157_7_o0nimn",
-      "addedAt": "2026-02-22T00:44:50.157Z"
-    },
-    {
-      "question": "Quel élément chimique a pour symbole 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Arsenic"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1771721090157_8_0zobqu",
-      "addedAt": "2026-02-22T00:44:50.157Z"
-    },
-    {
-      "question": "Quel écrivain français a créé le personnage de Cyrano de Bergerac ?",
-      "options": [
-        "Victor Hugo",
-        "Alexandre Dumas",
-        "Edmond Rostand",
-        "Molière"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1771721090157_9_qaurnu",
-      "addedAt": "2026-02-22T00:44:50.157Z"
-    },
-    {
-      "question": "Quelle est la langue officielle du Sénégal ?",
-      "options": [
-        "Wolof",
-        "Français",
-        "Peul",
-        "Sérère"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1771639502705_0_02twdj",
-      "addedAt": "2026-02-21T02:05:02.705Z"
-    },
-    {
-      "question": "En quelle année la Première Guerre mondiale s'est-elle terminée ?",
-      "options": [
-        "1917",
-        "1918",
-        "1919",
-        "1920"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1771639502705_1_zua2s4",
-      "addedAt": "2026-02-21T02:05:02.705Z"
-    },
-    {
-      "question": "Qui a peint 'La Joconde' ?",
-      "options": [
-        "Michel-Ange",
-        "Raphaël",
-        "Léonard de Vinci",
-        "Botticelli"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1771639502705_2_laoajw",
-      "addedAt": "2026-02-21T02:05:02.705Z"
-    },
-    {
-      "question": "Dans quelle discipline sportive évolue Rafael Nadal ?",
-      "options": [
-        "Tennis",
-        "Golf",
-        "Cyclisme",
-        "Natation"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1771639502705_3_bzkqoz",
-      "addedAt": "2026-02-21T02:05:02.705Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1771639502705_4_q1oyqz",
-      "addedAt": "2026-02-21T02:05:02.705Z"
-    },
-    {
-      "question": "Combien de chambres possède le cœur humain ?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1771639502705_5_ry5mcz",
-      "addedAt": "2026-02-21T02:05:02.705Z"
-    },
-    {
-      "question": "Quelle est la monnaie utilisée au Japon ?",
-      "options": [
-        "Won",
-        "Yuan",
-        "Yen",
-        "Ringgit"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1771639502705_6_hdkpmh",
-      "addedAt": "2026-02-21T02:05:02.705Z"
-    },
-    {
-      "question": "Dans quel pays trouve-t-on les ruines du Machu Picchu ?",
-      "options": [
-        "Bolivie",
-        "Équateur",
-        "Pérou",
-        "Colombie"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1771639502705_7_4qi9cv",
-      "addedAt": "2026-02-21T02:05:02.705Z"
     }
   ],
   "poolSize": 100
