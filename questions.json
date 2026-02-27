@@ -1,6 +1,188 @@
 {
   "questions": [
     {
+      "question": "Quel océan borde la côte ouest de l'Amérique du Sud ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1772150911515_0_13d0cj",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1772150911515_1_685kwk",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Combien d'os contient le corps humain adulte ?",
+      "options": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772150911515_2_8s5h58",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Dans quel pays a été inventé le jeu d'échecs ?",
+      "options": [
+        "Chine",
+        "Perse",
+        "Inde",
+        "Égypte"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1772150911515_3_s6y3qx",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Quel est le symbole chimique de l'or ?",
+      "options": [
+        "Or",
+        "Au",
+        "Ag",
+        "Go"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772150911515_4_838w33",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de basket-ball sur le terrain ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1772150911515_5_izi2zk",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Quel célèbre compositeur a écrit 'La Flûte enchantée' ?",
+      "options": [
+        "Bach",
+        "Beethoven",
+        "Mozart",
+        "Vivaldi"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1772150911515_6_gobov8",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Quel animal est le symbole de la WWF (World Wildlife Fund) ?",
+      "options": [
+        "Tigre",
+        "Éléphant",
+        "Panda géant",
+        "Rhinocéros"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1772150911515_7_195jli",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Combien de faces possède un cube ?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1772150911515_8_q8sq6w",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé le film 'Titanic' ?",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Christopher Nolan",
+        "Martin Scorsese"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1772150911515_9_hv60p2",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Quelle vitamine est produite par la peau exposée au soleil ?",
+      "options": [
+        "Vitamine A",
+        "Vitamine C",
+        "Vitamine D",
+        "Vitamine E"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1772150911515_10_ae9kzg",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Dans quelle ville se trouve le siège social de Google ?",
+      "options": [
+        "San Francisco",
+        "Mountain View",
+        "Palo Alto",
+        "San Jose"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1772150911515_11_j6o8xc",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
+      "options": [
+        "Camembert",
+        "Roquefort",
+        "Brie",
+        "Comté"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1772150911515_12_b5cf63",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Paul Cézanne",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1772150911515_13_n60edi",
+      "addedAt": "2026-02-27T00:08:31.515Z"
+    },
+    {
       "question": "Quel est le nom de la couche de l'atmosphère terrestre où se forment la plupart des nuages ?",
       "options": [
         "Stratosphère",
@@ -1117,7 +1299,12 @@
       "category": "Mathématiques",
       "id": "q_1771806186472_2_7kpss3",
       "addedAt": "2026-02-23T00:23:06.472Z"
-    },
+    }
+  ],
+  "version": 44,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-27T00:08:31.515Z",
+  "archivedQuestions": [
     {
       "question": "Quel pays a inventé le tango ?",
       "options": [
@@ -1299,154 +1486,6 @@
       "category": "Nature",
       "id": "q_1771726924615_4_tixhcb",
       "addedAt": "2026-02-22T02:22:04.615Z"
-    }
-  ],
-  "version": 43,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-26T02:09:54.708Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de degrés y a-t-il dans un angle droit ?",
-      "options": [
-        "45°",
-        "60°",
-        "90°",
-        "180°"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1771726924615_5_vetvco",
-      "addedAt": "2026-02-22T02:22:04.615Z"
-    },
-    {
-      "question": "Quel sculpteur a créé 'Le Penseur' ?",
-      "options": [
-        "Michel-Ange",
-        "Auguste Rodin",
-        "Alberto Giacometti",
-        "Constantin Brancusi"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1771726924615_6_kn15u0",
-      "addedAt": "2026-02-22T02:22:04.615Z"
-    },
-    {
-      "question": "Quel système d'exploitation a été développé par Linus Torvalds ?",
-      "options": [
-        "Windows",
-        "macOS",
-        "Linux",
-        "Android"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1771726924615_7_kb2dld",
-      "addedAt": "2026-02-22T02:22:04.615Z"
-    },
-    {
-      "question": "Quel océan borde la côte ouest de l'Afrique ?",
-      "options": [
-        "Océan Indien",
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1771726924615_8_drx4dl",
-      "addedAt": "2026-02-22T02:22:04.615Z"
-    },
-    {
-      "question": "Quel océan borde la côte ouest du Chili ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1771721090157_0_alne7k",
-      "addedAt": "2026-02-22T00:44:50.157Z"
-    },
-    {
-      "question": "Qui a composé 'La Flûte enchantée' ?",
-      "options": [
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach",
-        "Wolfgang Amadeus Mozart",
-        "Franz Schubert"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1771721090157_1_cz61kz",
-      "addedAt": "2026-02-22T00:44:50.157Z"
-    },
-    {
-      "question": "Dans quelle ville se trouve le célèbre musée du Louvre ?",
-      "options": [
-        "Londres",
-        "Rome",
-        "Madrid",
-        "Paris"
-      ],
-      "correctAnswer": 3,
-      "category": "Culture",
-      "id": "q_1771721090157_2_ymbrkf",
-      "addedAt": "2026-02-22T00:44:50.157Z"
-    },
-    {
-      "question": "Quel est le nom du processus par lequel les plantes fabriquent leur nourriture ?",
-      "options": [
-        "Respiration",
-        "Photosynthèse",
-        "Digestion",
-        "Fermentation"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1771721090157_3_1r52f9",
-      "addedAt": "2026-02-22T00:44:50.157Z"
-    },
-    {
-      "question": "En quelle année le mur de Berlin est-il tombé ?",
-      "options": [
-        "1987",
-        "1988",
-        "1989",
-        "1990"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1771721090157_4_0vduo8",
-      "addedAt": "2026-02-22T00:44:50.157Z"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de basket-ball sur le terrain ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1771721090157_5_b1lx1s",
-      "addedAt": "2026-02-22T00:44:50.157Z"
-    },
-    {
-      "question": "Quelle est la racine carrée de 144 ?",
-      "options": [
-        "11",
-        "12",
-        "13",
-        "14"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1771721090157_6_bddhta",
-      "addedAt": "2026-02-22T00:44:50.157Z"
     }
   ],
   "poolSize": 100
