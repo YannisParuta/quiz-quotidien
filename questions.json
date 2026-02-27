@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Qui a écrit le roman 'L'Étranger' ?",
+      "options": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "André Malraux",
+        "Antoine de Saint-Exupéry"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1772158107011_0_wu6s8j",
+      "addedAt": "2026-02-27T02:08:27.011Z"
+    },
+    {
+      "question": "Combien de dents possède un adulte humain en moyenne ?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1772158107011_1_zbvwjd",
+      "addedAt": "2026-02-27T02:08:27.011Z"
+    },
+    {
+      "question": "Quel empereur romain a fondé Constantinople ?",
+      "options": [
+        "Auguste",
+        "Jules César",
+        "Constantin",
+        "Trajan"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1772158107011_2_fa2trh",
+      "addedAt": "2026-02-27T02:08:27.011Z"
+    },
+    {
+      "question": "Quelle vitamine est principalement synthétisée par la peau sous l'effet du soleil ?",
+      "options": [
+        "Vitamine A",
+        "Vitamine C",
+        "Vitamine D",
+        "Vitamine E"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1772158107011_3_025vhb",
+      "addedAt": "2026-02-27T02:08:27.011Z"
+    },
+    {
+      "question": "Quel archipel appartient à l'Espagne et se situe au large du Maroc ?",
+      "options": [
+        "Baléares",
+        "Canaries",
+        "Açores",
+        "Madère"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1772158107011_4_mdoxhs",
+      "addedAt": "2026-02-27T02:08:27.011Z"
+    },
+    {
+      "question": "Qui a composé 'Les Quatre Saisons' ?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Vivaldi",
+        "Haendel"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1772158107011_5_fp4suy",
+      "addedAt": "2026-02-27T02:08:27.011Z"
+    },
+    {
+      "question": "Dans quelle ville se trouve le célèbre musée du Prado ?",
+      "options": [
+        "Barcelone",
+        "Séville",
+        "Madrid",
+        "Valence"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1772158107011_6_v0cv1n",
+      "addedAt": "2026-02-27T02:08:27.011Z"
+    },
+    {
+      "question": "Quel fruit est traditionnellement utilisé pour faire le guacamole ?",
+      "options": [
+        "Mangue",
+        "Avocat",
+        "Papaye",
+        "Kiwi"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1772158107011_7_kh2ktq",
+      "addedAt": "2026-02-27T02:08:27.011Z"
+    },
+    {
+      "question": "Quel réalisateur français a dirigé 'Les Parapluies de Cherbourg' ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Jacques Demy",
+        "Claude Lelouch"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1772158107011_8_0hpexx",
+      "addedAt": "2026-02-27T02:08:27.011Z"
+    },
+    {
+      "question": "Quel animal est le symbole national de l'Australie ?",
+      "options": [
+        "Koala",
+        "Kangourou",
+        "Émeu",
+        "Dingo"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1772158107011_9_j8embv",
+      "addedAt": "2026-02-27T02:08:27.011Z"
+    },
+    {
+      "question": "Quel protocole informatique permet de naviguer sur le web ?",
+      "options": [
+        "FTP",
+        "SMTP",
+        "HTTP",
+        "TCP"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1772158107011_10_eemp2z",
+      "addedAt": "2026-02-27T02:08:27.011Z"
+    },
+    {
       "question": "Quel océan borde la côte ouest de l'Amérique du Sud ?",
       "options": [
         "Océan Atlantique",
@@ -1156,7 +1299,12 @@
       "category": "Mathématiques",
       "id": "q_1771813391413_3_77y8h3",
       "addedAt": "2026-02-23T02:23:11.413Z"
-    },
+    }
+  ],
+  "version": 45,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-27T02:08:27.012Z",
+  "archivedQuestions": [
     {
       "question": "Dans quelle décennie a été inventé le World Wide Web ?",
       "options": [
@@ -1299,193 +1447,6 @@
       "category": "Mathématiques",
       "id": "q_1771806186472_2_7kpss3",
       "addedAt": "2026-02-23T00:23:06.472Z"
-    }
-  ],
-  "version": 44,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-27T00:08:31.515Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel pays a inventé le tango ?",
-      "options": [
-        "Espagne",
-        "Mexique",
-        "Argentine",
-        "Brésil"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1771806186472_3_8vm960",
-      "addedAt": "2026-02-23T00:23:06.472Z"
-    },
-    {
-      "question": "Qui a découvert la pénicilline en 1928 ?",
-      "options": [
-        "Louis Pasteur",
-        "Marie Curie",
-        "Alexander Fleming",
-        "Robert Koch"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1771806186472_4_y2v8xw",
-      "addedAt": "2026-02-23T00:23:06.472Z"
-    },
-    {
-      "question": "Quel mammifère marin possède le plus gros cerveau ?",
-      "options": [
-        "Baleine bleue",
-        "Cachalot",
-        "Orque",
-        "Dauphin"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1771806186472_5_723406",
-      "addedAt": "2026-02-23T00:23:06.472Z"
-    },
-    {
-      "question": "En quelle année fut créée la première carte de crédit ?",
-      "options": [
-        "1950",
-        "1958",
-        "1962",
-        "1965"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1771806186472_6_bkwfb5",
-      "addedAt": "2026-02-23T00:23:06.472Z"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on une épée, un fleuret et un sabre ?",
-      "options": [
-        "Escrime",
-        "Kendo",
-        "Haltérophilie",
-        "Pentathlon"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1771806186472_7_wkr0jr",
-      "addedAt": "2026-02-23T00:23:06.472Z"
-    },
-    {
-      "question": "Quel peintre a fondé le mouvement artistique du cubisme avec Pablo Picasso ?",
-      "options": [
-        "Henri Matisse",
-        "Georges Braque",
-        "Paul Cézanne",
-        "André Derain"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1771806186472_8_dy4ojn",
-      "addedAt": "2026-02-23T00:23:06.472Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique standard ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1771806186472_9_w0ms47",
-      "addedAt": "2026-02-23T00:23:06.472Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Europe ?",
-      "options": [
-        "Danube",
-        "Volga",
-        "Rhin",
-        "Dniepr"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1771806186472_10_9kl9ng",
-      "addedAt": "2026-02-23T00:23:06.472Z"
-    },
-    {
-      "question": "Dans quel langage de programmation a été développé le système d'exploitation Linux ?",
-      "options": [
-        "Java",
-        "Python",
-        "C",
-        "Assembly"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1771806186472_11_74ywqi",
-      "addedAt": "2026-02-23T00:23:06.472Z"
-    },
-    {
-      "question": "Quel fleuve traverse la ville de Prague ?",
-      "options": [
-        "La Moldau",
-        "Le Danube",
-        "L'Elbe",
-        "La Morava"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1771726924615_0_leyccd",
-      "addedAt": "2026-02-22T02:22:04.615Z"
-    },
-    {
-      "question": "Quel est l'élément chimique le plus léger de l'univers ?",
-      "options": [
-        "L'hélium",
-        "L'hydrogène",
-        "Le lithium",
-        "Le carbone"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1771726924615_1_pr8b9o",
-      "addedAt": "2026-02-22T02:22:04.615Z"
-    },
-    {
-      "question": "Quel pharaon a fait construire la grande pyramide de Gizeh ?",
-      "options": [
-        "Ramsès II",
-        "Toutânkhamon",
-        "Khéops",
-        "Akhenaton"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1771726924615_2_2r5sld",
-      "addedAt": "2026-02-22T02:22:04.615Z"
-    },
-    {
-      "question": "Qui a écrit 'Le Petit Prince' ?",
-      "options": [
-        "Jules Verne",
-        "Antoine de Saint-Exupéry",
-        "Marcel Proust",
-        "Albert Camus"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1771726924615_3_vlz025",
-      "addedAt": "2026-02-22T02:22:04.615Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère marin ?",
-      "options": [
-        "L'orque",
-        "Le cachalot",
-        "La baleine bleue",
-        "La baleine à bosse"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1771726924615_4_tixhcb",
-      "addedAt": "2026-02-22T02:22:04.615Z"
     }
   ],
   "poolSize": 100
