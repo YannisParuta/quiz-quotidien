@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel fleuve traverse la capitale de l'Égypte ?",
+      "options": [
+        "Le Nil",
+        "L'Euphrate",
+        "Le Tigre",
+        "Le Jourdain"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1772238542023_0_bs15w5",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
+      "question": "Qui a peint 'Les Tournesols' ?",
+      "options": [
+        "Claude Monet",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Henri Matisse"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1772238542023_1_jvk4s4",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
+      "question": "Quel est le plus grand océan du monde ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Arctique",
+        "Océan Pacifique"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1772238542023_2_mmaxe0",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
+      "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
+      "options": [
+        "1490",
+        "1492",
+        "1494",
+        "1496"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1772238542023_3_9w63pg",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
+      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1772238542023_4_4sg10s",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
+      "question": "Dans quelle ville se trouve la Sagrada Familia ?",
+      "options": [
+        "Madrid",
+        "Séville",
+        "Barcelone",
+        "Valence"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1772238542023_5_lbpbri",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
+      "question": "Quel mammifère marin est connu pour son sonar naturel ?",
+      "options": [
+        "La baleine bleue",
+        "Le phoque",
+        "Le dauphin",
+        "L'orque"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1772238542023_6_ixah3o",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
+      "question": "Qui a écrit 'Le Petit Prince' ?",
+      "options": [
+        "Jules Verne",
+        "Antoine de Saint-Exupéry",
+        "Marcel Proust",
+        "Albert Camus"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1772238542023_7_leawha",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
+      "question": "Combien de côtés possède un hexagone ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1772238542023_8_35gg90",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+      "options": [
+        "Brésil",
+        "Allemagne",
+        "France",
+        "Argentine"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1772238542023_9_val485",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
+      "question": "Quelle est la langue officielle du Brésil ?",
+      "options": [
+        "Espagnol",
+        "Portugais",
+        "Français",
+        "Italien"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1772238542023_10_w4ci3m",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
+      "question": "Quel phénomène naturel est mesuré sur l'échelle de Richter ?",
+      "options": [
+        "Les tornades",
+        "Les tremblements de terre",
+        "Les ouragans",
+        "Les tsunamis"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772238542023_11_2cnxsg",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
+      "question": "Dans quel film trouve-t-on le personnage de Luke Skywalker ?",
+      "options": [
+        "Star Trek",
+        "Star Wars",
+        "Stargate",
+        "Guardians of the Galaxy"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1772238542023_12_5j7mcw",
+      "addedAt": "2026-02-28T00:29:02.023Z"
+    },
+    {
       "question": "Qui a écrit le roman 'L'Étranger' ?",
       "options": [
         "Jean-Paul Sartre",
@@ -1130,7 +1299,12 @@
       "category": "Sport",
       "id": "q_1771892335476_3_nihhon",
       "addedAt": "2026-02-24T00:18:55.476Z"
-    },
+    }
+  ],
+  "version": 46,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-28T00:29:02.023Z",
+  "archivedQuestions": [
     {
       "question": "Combien d'arêtes possède un octaèdre régulier ?",
       "options": [
@@ -1299,154 +1473,6 @@
       "category": "Mathématiques",
       "id": "q_1771813391413_3_77y8h3",
       "addedAt": "2026-02-23T02:23:11.413Z"
-    }
-  ],
-  "version": 45,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-27T02:08:27.012Z",
-  "archivedQuestions": [
-    {
-      "question": "Dans quelle décennie a été inventé le World Wide Web ?",
-      "options": [
-        "Années 1970",
-        "Années 1980",
-        "Années 1990",
-        "Années 2000"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1771813391413_4_dnn0hc",
-      "addedAt": "2026-02-23T02:23:11.413Z"
-    },
-    {
-      "question": "Quel fleuve traverse la ville de Budapest ?",
-      "options": [
-        "Le Danube",
-        "La Seine",
-        "Le Rhin",
-        "La Tamise"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1771813391413_5_gu74xd",
-      "addedAt": "2026-02-23T02:23:11.413Z"
-    },
-    {
-      "question": "Qui a peint le célèbre tableau 'Guernica' ?",
-      "options": [
-        "Salvador Dalí",
-        "Joan Miró",
-        "Pablo Picasso",
-        "Francisco Goya"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1771813391413_6_isez92",
-      "addedAt": "2026-02-23T02:23:11.413Z"
-    },
-    {
-      "question": "Quelle révolution industrielle est associée à l'émergence de l'informatique ?",
-      "options": [
-        "Première révolution",
-        "Deuxième révolution",
-        "Troisième révolution",
-        "Quatrième révolution"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1771813391413_7_of3av8",
-      "addedAt": "2026-02-23T02:23:11.413Z"
-    },
-    {
-      "question": "Quel est l'organe principal de la photosynthèse chez les plantes ?",
-      "options": [
-        "La racine",
-        "La tige",
-        "La feuille",
-        "La fleur"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1771813391413_8_bv97ff",
-      "addedAt": "2026-02-23T02:23:11.413Z"
-    },
-    {
-      "question": "Quel épice donne sa couleur jaune au curry ?",
-      "options": [
-        "Le safran",
-        "Le curcuma",
-        "Le paprika",
-        "Le gingembre"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1771813391413_9_x9yzq5",
-      "addedAt": "2026-02-23T02:23:11.413Z"
-    },
-    {
-      "question": "En quelle année les Jeux Olympiques d'été se sont-ils déroulés à Barcelone ?",
-      "options": [
-        "1988",
-        "1992",
-        "1996",
-        "2000"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1771813391413_10_ong9ty",
-      "addedAt": "2026-02-23T02:23:11.413Z"
-    },
-    {
-      "question": "Quel est le plus grand désert chaud du monde ?",
-      "options": [
-        "Le désert de Gobi",
-        "Le désert du Sahara",
-        "Le désert d'Atacama",
-        "Le désert de Mojave"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1771813391413_11_yqbq6e",
-      "addedAt": "2026-02-23T02:23:11.413Z"
-    },
-    {
-      "question": "Quelle planète du système solaire possède le plus grand nombre de lunes confirmées ?",
-      "options": [
-        "Jupiter",
-        "Saturne",
-        "Uranus",
-        "Neptune"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1771806186472_0_c2rt38",
-      "addedAt": "2026-02-23T00:23:06.472Z"
-    },
-    {
-      "question": "Dans quelle ville se déroule l'action du roman '1984' de George Orwell ?",
-      "options": [
-        "New York",
-        "Londres",
-        "Paris",
-        "Berlin"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1771806186472_1_u7l6sr",
-      "addedAt": "2026-02-23T00:23:06.472Z"
-    },
-    {
-      "question": "Combien de côtés possède un heptagone ?",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1771806186472_2_7kpss3",
-      "addedAt": "2026-02-23T00:23:06.472Z"
     }
   ],
   "poolSize": 100
