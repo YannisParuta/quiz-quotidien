@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel célèbre peintre néerlandais s'est coupé l'oreille ?",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Van Gogh",
+        "Mondrian"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1772243918364_0_c3f0ph",
+      "addedAt": "2026-02-28T01:58:38.364Z"
+    },
+    {
+      "question": "Dans quelle mer se trouve l'archipel des Baléares ?",
+      "options": [
+        "Mer du Nord",
+        "Mer Méditerranée",
+        "Mer Noire",
+        "Mer Adriatique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1772243918364_1_a7mpo1",
+      "addedAt": "2026-02-28T01:58:38.364Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Europe ?",
+      "options": [
+        "Le Danube",
+        "La Volga",
+        "Le Rhin",
+        "Le Dniepr"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1772243918364_2_osv39d",
+      "addedAt": "2026-02-28T01:58:38.364Z"
+    },
+    {
+      "question": "Qui a écrit le roman '1984' ?",
+      "options": [
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "George Orwell",
+        "Isaac Asimov"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1772243918364_3_o7lnwt",
+      "addedAt": "2026-02-28T01:58:38.364Z"
+    },
+    {
+      "question": "En quelle année les premiers Jeux olympiques modernes ont-ils eu lieu ?",
+      "options": [
+        "1892",
+        "1896",
+        "1900",
+        "1904"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1772243918364_4_lrh4j8",
+      "addedAt": "2026-02-28T01:58:38.364Z"
+    },
+    {
+      "question": "Quel instrument de musique Yo-Yo Ma joue-t-il virtuosement ?",
+      "options": [
+        "Piano",
+        "Violon",
+        "Violoncelle",
+        "Contrebasse"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1772243918364_5_uvbg13",
+      "addedAt": "2026-02-28T01:58:38.364Z"
+    },
+    {
+      "question": "Quelle épice donne sa couleur jaune caractéristique au curry ?",
+      "options": [
+        "Le safran",
+        "Le curcuma",
+        "Le paprika",
+        "Le cumin"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1772243918364_6_xacr05",
+      "addedAt": "2026-02-28T01:58:38.364Z"
+    },
+    {
+      "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1772243918364_7_varkt3",
+      "addedAt": "2026-02-28T01:58:38.364Z"
+    },
+    {
+      "question": "Dans quel pays se trouve la cité antique de Petra ?",
+      "options": [
+        "Égypte",
+        "Jordanie",
+        "Syrie",
+        "Liban"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1772243918364_8_o3vxc1",
+      "addedAt": "2026-02-28T01:58:38.364Z"
+    },
+    {
+      "question": "Quel mammifère marin utilise l'écholocation pour se déplacer ?",
+      "options": [
+        "La baleine bleue",
+        "Le phoque",
+        "Le dauphin",
+        "La loutre de mer"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1772243918364_9_ll6o7v",
+      "addedAt": "2026-02-28T01:58:38.364Z"
+    },
+    {
+      "question": "Quel réalisateur japonais a créé le film d'animation 'Le Voyage de Chihiro' ?",
+      "options": [
+        "Akira Kurosawa",
+        "Hayao Miyazaki",
+        "Mamoru Hosoda",
+        "Makoto Shinkai"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1772243918364_10_g3upu6",
+      "addedAt": "2026-02-28T01:58:38.364Z"
+    },
+    {
+      "question": "Quelle entreprise a développé le système d'exploitation Android ?",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Google",
+        "Samsung"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1772243918364_11_s7vrdd",
+      "addedAt": "2026-02-28T01:58:38.364Z"
+    },
+    {
       "question": "Quel fleuve traverse la capitale de l'Égypte ?",
       "options": [
         "Le Nil",
@@ -1143,7 +1299,12 @@
       "category": "Science",
       "id": "q_1771899131776_2_g0f19u",
       "addedAt": "2026-02-24T02:12:11.776Z"
-    },
+    }
+  ],
+  "version": 47,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-02-28T01:58:38.364Z",
+  "archivedQuestions": [
     {
       "question": "Quel compositeur autrichien a écrit 'La Flûte enchantée' ?",
       "options": [
@@ -1299,180 +1460,6 @@
       "category": "Sport",
       "id": "q_1771892335476_3_nihhon",
       "addedAt": "2026-02-24T00:18:55.476Z"
-    }
-  ],
-  "version": 46,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-02-28T00:29:02.023Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien d'arêtes possède un octaèdre régulier ?",
-      "options": [
-        "8",
-        "10",
-        "12",
-        "14"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1771892335476_4_g47e1i",
-      "addedAt": "2026-02-24T00:18:55.476Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Steven Spielberg",
-        "Francis Ford Coppola"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1771892335476_5_85rplk",
-      "addedAt": "2026-02-24T00:18:55.476Z"
-    },
-    {
-      "question": "Quel compositeur allemand était sourd à la fin de sa vie ?",
-      "options": [
-        "Bach",
-        "Mozart",
-        "Beethoven",
-        "Brahms"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1771892335476_6_91orvh",
-      "addedAt": "2026-02-24T00:18:55.476Z"
-    },
-    {
-      "question": "Dans quel organe du corps humain trouve-t-on les alvéoles ?",
-      "options": [
-        "Foie",
-        "Rein",
-        "Poumon",
-        "Cerveau"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1771892335476_7_ldabo9",
-      "addedAt": "2026-02-24T00:18:55.476Z"
-    },
-    {
-      "question": "Quel animal peut vivre le plus longtemps sans eau ?",
-      "options": [
-        "Chameau",
-        "Kangourou",
-        "Tardigrade",
-        "Scorpion"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1771892335476_8_pavo4x",
-      "addedAt": "2026-02-24T00:18:55.476Z"
-    },
-    {
-      "question": "Qui a inventé le World Wide Web ?",
-      "options": [
-        "Bill Gates",
-        "Steve Jobs",
-        "Tim Berners-Lee",
-        "Mark Zuckerberg"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1771892335476_9_def5v5",
-      "addedAt": "2026-02-24T00:18:55.476Z"
-    },
-    {
-      "question": "Quelle civilisation a construit le Machu Picchu ?",
-      "options": [
-        "Aztèque",
-        "Maya",
-        "Inca",
-        "Olmèque"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1771892335476_10_h0kpxp",
-      "addedAt": "2026-02-24T00:18:55.476Z"
-    },
-    {
-      "question": "Quel peintre néerlandais a créé 'La Jeune Fille à la perle' ?",
-      "options": [
-        "Rembrandt",
-        "Van Gogh",
-        "Vermeer",
-        "Mondrian"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1771892335475_0_rl7peg",
-      "addedAt": "2026-02-24T00:18:55.475Z"
-    },
-    {
-      "question": "Dans quelle ville italienne Shakespeare a-t-il situé l'action de Roméo et Juliette ?",
-      "options": [
-        "Venise",
-        "Florence",
-        "Vérone",
-        "Rome"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1771892335475_1_0acr82",
-      "addedAt": "2026-02-24T00:18:55.475Z"
-    },
-    {
-      "question": "Quelle planète du système solaire possède la plus grande lune appelée Ganymède ?",
-      "options": [
-        "Jupiter",
-        "Saturne",
-        "Neptune",
-        "Uranus"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1771813391413_0_mlhuej",
-      "addedAt": "2026-02-23T02:23:11.413Z"
-    },
-    {
-      "question": "Dans quelle ville se déroule l'action du roman 'Notre-Dame de Paris' de Victor Hugo ?",
-      "options": [
-        "Lyon",
-        "Marseille",
-        "Paris",
-        "Rouen"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1771813391413_1_6bgwu7",
-      "addedAt": "2026-02-23T02:23:11.413Z"
-    },
-    {
-      "question": "Qui a réalisé le film 'Pulp Fiction' sorti en 1994 ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Steven Spielberg",
-        "Francis Ford Coppola"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1771813391413_2_dzjbtk",
-      "addedAt": "2026-02-23T02:23:11.413Z"
-    },
-    {
-      "question": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
-      "options": [
-        "Archimède",
-        "Euclide",
-        "Pythagore",
-        "Thalès"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1771813391413_3_77y8h3",
-      "addedAt": "2026-02-23T02:23:11.413Z"
     }
   ],
   "poolSize": 100
