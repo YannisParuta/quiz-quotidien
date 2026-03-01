@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Dans quel pays se trouve le Machu Picchu ?",
+      "options": [
+        "Bolivie",
+        "Équateur",
+        "Pérou",
+        "Colombie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772332111221_0_5fp5ex",
+      "addedAt": "2026-03-01T02:28:31.221Z"
+    },
+    {
+      "question": "Quelle guerre mondiale s'est déroulée de 1914 à 1918 ?",
+      "options": [
+        "La Guerre de Cent Ans",
+        "La Première Guerre mondiale",
+        "La Seconde Guerre mondiale",
+        "La Guerre de Trente Ans"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1772332111221_1_ucgine",
+      "addedAt": "2026-03-01T02:28:31.221Z"
+    },
+    {
+      "question": "Dans quel film trouve-t-on le personnage de Forrest Gump ?",
+      "options": [
+        "Philadelphia",
+        "Cast Away",
+        "Forrest Gump",
+        "Big"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1772332111221_2_99gfyl",
+      "addedAt": "2026-03-01T02:28:31.221Z"
+    },
+    {
+      "question": "Quelle épice donne sa couleur jaune au curry ?",
+      "options": [
+        "Le safran",
+        "Le curcuma",
+        "Le paprika",
+        "Le cumin"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1772332111221_3_ia73x6",
+      "addedAt": "2026-03-01T02:28:31.221Z"
+    },
+    {
+      "question": "Combien de continents y a-t-il sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772332111221_4_txjehj",
+      "addedAt": "2026-03-01T02:28:31.221Z"
+    },
+    {
+      "question": "Quel animal est le plus rapide du monde ?",
+      "options": [
+        "Le guépard",
+        "L'aigle royal",
+        "Le faucon pèlerin",
+        "Le lièvre"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1772332111221_5_ok6q8g",
+      "addedAt": "2026-03-01T02:28:31.221Z"
+    },
+    {
+      "question": "Quel langage de programmation utilise principalement des balises ?",
+      "options": [
+        "Python",
+        "Java",
+        "HTML",
+        "C++"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1772332111221_6_tma7y6",
+      "addedAt": "2026-03-01T02:28:31.221Z"
+    },
+    {
+      "question": "Quelle est la formule chimique de l'eau ?",
+      "options": [
+        "CO2",
+        "H2O",
+        "O2",
+        "NaCl"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772332111221_7_ajuxhs",
+      "addedAt": "2026-03-01T02:28:31.221Z"
+    },
+    {
       "question": "Quelle planète du système solaire possède la plus grande lune appelée Ganymède ?",
       "options": [
         "Mars",
@@ -1195,7 +1299,12 @@
       "category": "Cinéma",
       "id": "q_1771985612617_8_6r7f5i",
       "addedAt": "2026-02-25T02:13:32.617Z"
-    },
+    }
+  ],
+  "version": 49,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-01T02:28:31.222Z",
+  "archivedQuestions": [
     {
       "question": "Quelle est la durée approximative de gestation d'un éléphant ?",
       "options": [
@@ -1299,154 +1408,6 @@
       "category": "Géographie",
       "id": "q_1771980901299_3_lac594",
       "addedAt": "2026-02-25T00:55:01.299Z"
-    }
-  ],
-  "version": 48,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-01T00:26:23.249Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de symphonies Ludwig van Beethoven a-t-il composées ?",
-      "options": [
-        "7",
-        "9",
-        "12",
-        "15"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1771980901299_4_qp1mzj",
-      "addedAt": "2026-02-25T00:55:01.299Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le film 'Le Cinquième Élément' ?",
-      "options": [
-        "Jean-Pierre Jeunet",
-        "Luc Besson",
-        "Leos Carax",
-        "Jean-Luc Godard"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1771980901299_5_vh7vul",
-      "addedAt": "2026-02-25T00:55:01.299Z"
-    },
-    {
-      "question": "Quel est le nom du processus par lequel les plantes transforment la lumière en énergie ?",
-      "options": [
-        "Respiration",
-        "Photosynthèse",
-        "Transpiration",
-        "Germination"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1771980901299_6_033gsw",
-      "addedAt": "2026-02-25T00:55:01.299Z"
-    },
-    {
-      "question": "Dans quelle constellation se trouve l'étoile Polaire ?",
-      "options": [
-        "Grande Ourse",
-        "Petite Ourse",
-        "Cassiopée",
-        "Dragon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1771980901299_7_5qhkf7",
-      "addedAt": "2026-02-25T00:55:01.299Z"
-    },
-    {
-      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
-        "Oscar Wilde",
-        "Charles Dickens"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1771980901299_8_4q45o4",
-      "addedAt": "2026-02-25T00:55:01.299Z"
-    },
-    {
-      "question": "Combien de degrés mesure un angle droit ?",
-      "options": [
-        "45",
-        "60",
-        "90",
-        "180"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1771980901299_9_3vogl6",
-      "addedAt": "2026-02-25T00:55:01.299Z"
-    },
-    {
-      "question": "Quel langage de programmation utilise principalement le symbole '#' pour les commentaires ?",
-      "options": [
-        "Java",
-        "Python",
-        "JavaScript",
-        "C++"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1771980901299_10_mc9m5c",
-      "addedAt": "2026-02-25T00:55:01.299Z"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on un volant (shuttlecock) ?",
-      "options": [
-        "Tennis de table",
-        "Squash",
-        "Badminton",
-        "Paddle"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1771980901299_11_j2ks6w",
-      "addedAt": "2026-02-25T00:55:01.299Z"
-    },
-    {
-      "question": "Dans quelle ville italienne se déroule l'action de 'Roméo et Juliette' de Shakespeare ?",
-      "options": [
-        "Venise",
-        "Florence",
-        "Vérone",
-        "Rome"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1771899131776_0_ybbmwj",
-      "addedAt": "2026-02-24T02:12:11.776Z"
-    },
-    {
-      "question": "Quel est le nom de la ligne imaginaire qui divise la Terre en deux hémisphères nord et sud ?",
-      "options": [
-        "Méridien de Greenwich",
-        "Tropique du Cancer",
-        "Équateur",
-        "Tropique du Capricorne"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1771899131776_1_1s9whe",
-      "addedAt": "2026-02-24T02:12:11.776Z"
-    },
-    {
-      "question": "Combien d'os compte le squelette d'un adulte humain ?",
-      "options": [
-        "196",
-        "206",
-        "216",
-        "186"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1771899131776_2_g0f19u",
-      "addedAt": "2026-02-24T02:12:11.776Z"
     }
   ],
   "poolSize": 100
