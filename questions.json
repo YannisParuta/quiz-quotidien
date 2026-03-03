@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Qui a inventé la théorie de la relativité ?",
+      "options": [
+        "Isaac Newton",
+        "Galilée",
+        "Albert Einstein",
+        "Stephen Hawking"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1772496154547_0_1b6wei",
+      "addedAt": "2026-03-03T00:02:34.547Z"
+    },
+    {
+      "question": "Dans quelle ville se déroule l'action du roman 'Roméo et Juliette' ?",
+      "options": [
+        "Venise",
+        "Florence",
+        "Rome",
+        "Vérone"
+      ],
+      "correctAnswer": 3,
+      "category": "Littérature",
+      "id": "q_1772496154547_1_yczeh7",
+      "addedAt": "2026-03-03T00:02:34.547Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros",
+        "Hippopotame",
+        "Éléphant d'Afrique",
+        "Girafe"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1772496154547_2_e13n1l",
+      "addedAt": "2026-03-03T00:02:34.547Z"
+    },
+    {
+      "question": "En quelle année a été inventé Internet ?",
+      "options": [
+        "1969",
+        "1975",
+        "1981",
+        "1985"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie",
+      "id": "q_1772496154547_3_a6d9wm",
+      "addedAt": "2026-03-03T00:02:34.547Z"
+    },
+    {
+      "question": "Qui a peint 'La Joconde' ?",
+      "options": [
+        "Michel-Ange",
+        "Léonard de Vinci",
+        "Raphaël",
+        "Picasso"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1772496154547_4_pdulxb",
+      "addedAt": "2026-03-03T00:02:34.547Z"
+    },
+    {
+      "question": "Quelle est la racine carrée de 144 ?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1772496154547_5_5vts00",
+      "addedAt": "2026-03-03T00:02:34.547Z"
+    },
+    {
+      "question": "Quel empereur romain a légalisé le christianisme ?",
+      "options": [
+        "Jules César",
+        "Auguste",
+        "Constantin",
+        "Néron"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1772496154547_6_zcmcwm",
+      "addedAt": "2026-03-03T00:02:34.547Z"
+    },
+    {
+      "question": "Quel acteur joue le rôle principal dans le film 'Forrest Gump' ?",
+      "options": [
+        "Tom Cruise",
+        "Tom Hanks",
+        "Brad Pitt",
+        "Leonardo DiCaprio"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1772496154547_7_0jprdr",
+      "addedAt": "2026-03-03T00:02:34.547Z"
+    },
+    {
+      "question": "Quel plat italien est principalement composé de riz ?",
+      "options": [
+        "Lasagnes",
+        "Risotto",
+        "Carbonara",
+        "Tiramisu"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1772496154547_8_shuicl",
+      "addedAt": "2026-03-03T00:02:34.547Z"
+    },
+    {
+      "question": "Combien de chromosomes possède l'être humain ?",
+      "options": [
+        "44",
+        "46",
+        "48",
+        "50"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772496154547_9_qsin5n",
+      "addedAt": "2026-03-03T00:02:34.547Z"
+    },
+    {
       "question": "Qui a inventé la pénicilline ?",
       "options": [
         "Louis Pasteur",
@@ -1169,7 +1299,12 @@
       "category": "Littérature",
       "id": "q_1772071794708_4_qrzli8",
       "addedAt": "2026-02-26T02:09:54.708Z"
-    },
+    }
+  ],
+  "version": 52,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-03T00:02:34.547Z",
+  "archivedQuestions": [
     {
       "question": "Combien de minutes dure une mi-temps au rugby à XV ?",
       "options": [
@@ -1298,102 +1433,6 @@
       "correctAnswer": 0,
       "category": "Histoire",
       "id": "q_1772065236223_3_tl9sqx",
-      "addedAt": "2026-02-26T00:20:36.223Z"
-    }
-  ],
-  "version": 51,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-02T02:11:50.082Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel animal est le symbole du parti républicain américain ?",
-      "options": [
-        "Aigle",
-        "Ours",
-        "Éléphant",
-        "Lion"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1772065236223_4_6y9oq1",
-      "addedAt": "2026-02-26T00:20:36.223Z"
-    },
-    {
-      "question": "Quel sport se pratique sur une piste de 400 mètres ?",
-      "options": [
-        "Cyclisme",
-        "Athlétisme",
-        "Patinage",
-        "Course automobile"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1772065236223_5_p0mtjo",
-      "addedAt": "2026-02-26T00:20:36.223Z"
-    },
-    {
-      "question": "Quel mouvement artistique Pablo Picasso a-t-il co-fondé ?",
-      "options": [
-        "Surréalisme",
-        "Impressionnisme",
-        "Cubisme",
-        "Fauvisme"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1772065236223_6_ql9kid",
-      "addedAt": "2026-02-26T00:20:36.223Z"
-    },
-    {
-      "question": "Quel mammifère est capable de voler ?",
-      "options": [
-        "Écureuil volant",
-        "Chauve-souris",
-        "Polatouche",
-        "Lémurien volant"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1772065236223_7_edd8xn",
-      "addedAt": "2026-02-26T00:20:36.223Z"
-    },
-    {
-      "question": "Quel instrument Frédéric Chopin jouait-il principalement ?",
-      "options": [
-        "Violon",
-        "Piano",
-        "Violoncelle",
-        "Harpe"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1772065236223_8_i5pn7x",
-      "addedAt": "2026-02-26T00:20:36.223Z"
-    },
-    {
-      "question": "Quelle entreprise a créé le navigateur web Chrome ?",
-      "options": [
-        "Microsoft",
-        "Apple",
-        "Mozilla",
-        "Google"
-      ],
-      "correctAnswer": 3,
-      "category": "Technologie",
-      "id": "q_1772065236223_9_8yhnyo",
-      "addedAt": "2026-02-26T00:20:36.223Z"
-    },
-    {
-      "question": "Dans quelle mer se trouve l'île de Crète ?",
-      "options": [
-        "Mer Ionienne",
-        "Mer Égée",
-        "Mer Tyrrhénienne",
-        "Mer Adriatique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1772065236223_10_u5ff30",
       "addedAt": "2026-02-26T00:20:36.223Z"
     }
   ],
