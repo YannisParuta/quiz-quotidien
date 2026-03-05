@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel élément chimique a pour symbole 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1772676637218_0_2h1vxh",
+      "addedAt": "2026-03-05T02:10:37.218Z"
+    },
+    {
+      "question": "En quelle année la chute du mur de Berlin a-t-elle eu lieu ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1772676637218_1_66i9xy",
+      "addedAt": "2026-03-05T02:10:37.218Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la saga 'Star Wars' ?",
+      "options": [
+        "Steven Spielberg",
+        "George Lucas",
+        "Ridley Scott",
+        "James Cameron"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1772676637218_2_itniw8",
+      "addedAt": "2026-03-05T02:10:37.218Z"
+    },
+    {
+      "question": "Quelle civilisation a construit le Colisée ?",
+      "options": [
+        "Grecque",
+        "Égyptienne",
+        "Romaine",
+        "Byzantine"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1772676637218_3_b2cf8x",
+      "addedAt": "2026-03-05T02:10:37.218Z"
+    },
+    {
+      "question": "Dans quelle discipline Michael Phelps a-t-il excellé ?",
+      "options": [
+        "Athlétisme",
+        "Natation",
+        "Cyclisme",
+        "Gymnastique"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1772676637218_4_0kn7qm",
+      "addedAt": "2026-03-05T02:10:37.218Z"
+    },
+    {
+      "question": "Quel mouvement artistique Pablo Picasso a-t-il cofondé ?",
+      "options": [
+        "Surréalisme",
+        "Impressionnisme",
+        "Cubisme",
+        "Fauvisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1772676637218_5_czs3l3",
+      "addedAt": "2026-03-05T02:10:37.218Z"
+    },
+    {
+      "question": "Quel désert est le plus grand du monde ?",
+      "options": [
+        "Sahara",
+        "Gobi",
+        "Antarctique",
+        "Kalahari"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772676637218_6_hjra34",
+      "addedAt": "2026-03-05T02:10:37.218Z"
+    },
+    {
+      "question": "Qui a écrit 'L'Étranger' ?",
+      "options": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "André Malraux",
+        "Antoine de Saint-Exupéry"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1772676637218_7_bijjmy",
+      "addedAt": "2026-03-05T02:10:37.218Z"
+    },
+    {
+      "question": "Quelle entreprise a créé le processeur Intel ?",
+      "options": [
+        "IBM",
+        "Microsoft",
+        "Intel Corporation",
+        "Apple"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1772676637218_8_skdsso",
+      "addedAt": "2026-03-05T02:10:37.218Z"
+    },
+    {
+      "question": "Quel mammifère peut voler naturellement ?",
+      "options": [
+        "Écureuil volant",
+        "Polatouche",
+        "Chauve-souris",
+        "Lemur volant"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1772676637218_9_cv2ku3",
+      "addedAt": "2026-03-05T02:10:37.218Z"
+    },
+    {
       "question": "Quelle est la capitale de l'Australie ?",
       "options": [
         "Sydney",
@@ -1169,7 +1299,12 @@
       "category": "Cinéma",
       "id": "q_1772324783248_7_gxvd74",
       "addedAt": "2026-03-01T00:26:23.248Z"
-    },
+    }
+  ],
+  "version": 57,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-05T02:10:37.219Z",
+  "archivedQuestions": [
     {
       "question": "Quel système d'exploitation mobile a été développé par Google ?",
       "options": [
@@ -1299,180 +1434,6 @@
       "category": "Gastronomie",
       "id": "q_1772243918364_6_xacr05",
       "addedAt": "2026-02-28T01:58:38.364Z"
-    }
-  ],
-  "version": 56,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-05T00:39:16.133Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Archimède",
-        "Pythagore",
-        "Thalès"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1772243918364_7_varkt3",
-      "addedAt": "2026-02-28T01:58:38.364Z"
-    },
-    {
-      "question": "Dans quel pays se trouve la cité antique de Petra ?",
-      "options": [
-        "Égypte",
-        "Jordanie",
-        "Syrie",
-        "Liban"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1772243918364_8_o3vxc1",
-      "addedAt": "2026-02-28T01:58:38.364Z"
-    },
-    {
-      "question": "Quel mammifère marin utilise l'écholocation pour se déplacer ?",
-      "options": [
-        "La baleine bleue",
-        "Le phoque",
-        "Le dauphin",
-        "La loutre de mer"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1772243918364_9_ll6o7v",
-      "addedAt": "2026-02-28T01:58:38.364Z"
-    },
-    {
-      "question": "Quel réalisateur japonais a créé le film d'animation 'Le Voyage de Chihiro' ?",
-      "options": [
-        "Akira Kurosawa",
-        "Hayao Miyazaki",
-        "Mamoru Hosoda",
-        "Makoto Shinkai"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1772243918364_10_g3upu6",
-      "addedAt": "2026-02-28T01:58:38.364Z"
-    },
-    {
-      "question": "Quelle entreprise a développé le système d'exploitation Android ?",
-      "options": [
-        "Apple",
-        "Microsoft",
-        "Google",
-        "Samsung"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1772243918364_11_s7vrdd",
-      "addedAt": "2026-02-28T01:58:38.364Z"
-    },
-    {
-      "question": "Quel fleuve traverse la capitale de l'Égypte ?",
-      "options": [
-        "Le Nil",
-        "L'Euphrate",
-        "Le Tigre",
-        "Le Jourdain"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1772238542023_0_bs15w5",
-      "addedAt": "2026-02-28T00:29:02.023Z"
-    },
-    {
-      "question": "Qui a peint 'Les Tournesols' ?",
-      "options": [
-        "Claude Monet",
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Henri Matisse"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1772238542023_1_jvk4s4",
-      "addedAt": "2026-02-28T00:29:02.023Z"
-    },
-    {
-      "question": "Quel est le plus grand océan du monde ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Indien",
-        "Océan Arctique",
-        "Océan Pacifique"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1772238542023_2_mmaxe0",
-      "addedAt": "2026-02-28T00:29:02.023Z"
-    },
-    {
-      "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
-      "options": [
-        "1490",
-        "1492",
-        "1494",
-        "1496"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1772238542023_3_9w63pg",
-      "addedAt": "2026-02-28T00:29:02.023Z"
-    },
-    {
-      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Arsenic"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1772238542023_4_4sg10s",
-      "addedAt": "2026-02-28T00:29:02.023Z"
-    },
-    {
-      "question": "Dans quelle ville se trouve la Sagrada Familia ?",
-      "options": [
-        "Madrid",
-        "Séville",
-        "Barcelone",
-        "Valence"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1772238542023_5_lbpbri",
-      "addedAt": "2026-02-28T00:29:02.023Z"
-    },
-    {
-      "question": "Quel mammifère marin est connu pour son sonar naturel ?",
-      "options": [
-        "La baleine bleue",
-        "Le phoque",
-        "Le dauphin",
-        "L'orque"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1772238542023_6_ixah3o",
-      "addedAt": "2026-02-28T00:29:02.023Z"
-    },
-    {
-      "question": "Qui a écrit 'Le Petit Prince' ?",
-      "options": [
-        "Jules Verne",
-        "Antoine de Saint-Exupéry",
-        "Marcel Proust",
-        "Albert Camus"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1772238542023_7_leawha",
-      "addedAt": "2026-02-28T00:29:02.023Z"
     }
   ],
   "poolSize": 100
