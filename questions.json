@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772671156132_0_pt81y4",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
+      "question": "Qui a composé 'Les Quatre Saisons' ?",
+      "options": [
+        "Bach",
+        "Vivaldi",
+        "Mozart",
+        "Beethoven"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1772671156132_1_homacc",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
+      "question": "Quel est l'organe le plus lourd du corps humain ?",
+      "options": [
+        "Le cerveau",
+        "Le foie",
+        "Les poumons",
+        "Le cœur"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772671156132_2_b2u63g",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
+      "question": "En quelle année est tombé le mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1772671156132_3_5brabd",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
+      "question": "Quel pays a inventé les pâtes ?",
+      "options": [
+        "Italie",
+        "Chine",
+        "Grèce",
+        "France"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1772671156132_4_wth4aq",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
+      "question": "Quel acteur incarne James Bond dans 'Casino Royale' (2006) ?",
+      "options": [
+        "Pierce Brosnan",
+        "Sean Connery",
+        "Daniel Craig",
+        "Roger Moore"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1772671156132_5_peisvk",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1772671156132_6_4l20d4",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
+      "question": "Quel animal est le symbole de la WWF ?",
+      "options": [
+        "Le tigre",
+        "L'éléphant",
+        "Le panda géant",
+        "Le rhinocéros"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1772671156132_7_e9mtdq",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
+      "question": "Qui a inventé l'ampoule électrique ?",
+      "options": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Benjamin Franklin"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1772671156132_8_fbwecy",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
+      "question": "Dans quel musée parisien peut-on admirer 'La Joconde' ?",
+      "options": [
+        "Musée Rodin",
+        "Musée du Louvre",
+        "Centre Pompidou",
+        "Musée Picasso"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1772671156132_9_83ubu0",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1772671156132_10_31bau6",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
+      "question": "Quelle est la planète la plus proche du Soleil ?",
+      "options": [
+        "Vénus",
+        "Mars",
+        "Mercure",
+        "Terre"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1772671156132_11_049yhi",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
+      "question": "Dans quel océan se trouve l'île de Madagascar ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772671156132_12_mvpdz6",
+      "addedAt": "2026-03-05T00:39:16.132Z"
+    },
+    {
       "question": "Qui a écrit 'Cent ans de solitude' ?",
       "options": [
         "Mario Vargas Llosa",
@@ -1130,7 +1299,12 @@
       "category": "Gastronomie",
       "id": "q_1772243918364_6_xacr05",
       "addedAt": "2026-02-28T01:58:38.364Z"
-    },
+    }
+  ],
+  "version": 56,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-05T00:39:16.133Z",
+  "archivedQuestions": [
     {
       "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles ?",
       "options": [
@@ -1299,193 +1473,6 @@
       "category": "Littérature",
       "id": "q_1772238542023_7_leawha",
       "addedAt": "2026-02-28T00:29:02.023Z"
-    }
-  ],
-  "version": 55,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-04T02:07:33.558Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de côtés possède un hexagone ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1772238542023_8_35gg90",
-      "addedAt": "2026-02-28T00:29:02.023Z"
-    },
-    {
-      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
-      "options": [
-        "Brésil",
-        "Allemagne",
-        "France",
-        "Argentine"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1772238542023_9_val485",
-      "addedAt": "2026-02-28T00:29:02.023Z"
-    },
-    {
-      "question": "Quelle est la langue officielle du Brésil ?",
-      "options": [
-        "Espagnol",
-        "Portugais",
-        "Français",
-        "Italien"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1772238542023_10_w4ci3m",
-      "addedAt": "2026-02-28T00:29:02.023Z"
-    },
-    {
-      "question": "Quel phénomène naturel est mesuré sur l'échelle de Richter ?",
-      "options": [
-        "Les tornades",
-        "Les tremblements de terre",
-        "Les ouragans",
-        "Les tsunamis"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1772238542023_11_2cnxsg",
-      "addedAt": "2026-02-28T00:29:02.023Z"
-    },
-    {
-      "question": "Dans quel film trouve-t-on le personnage de Luke Skywalker ?",
-      "options": [
-        "Star Trek",
-        "Star Wars",
-        "Stargate",
-        "Guardians of the Galaxy"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1772238542023_12_5j7mcw",
-      "addedAt": "2026-02-28T00:29:02.023Z"
-    },
-    {
-      "question": "Qui a écrit le roman 'L'Étranger' ?",
-      "options": [
-        "Jean-Paul Sartre",
-        "Albert Camus",
-        "André Malraux",
-        "Antoine de Saint-Exupéry"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1772158107011_0_wu6s8j",
-      "addedAt": "2026-02-27T02:08:27.011Z"
-    },
-    {
-      "question": "Combien de dents possède un adulte humain en moyenne ?",
-      "options": [
-        "28",
-        "30",
-        "32",
-        "34"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1772158107011_1_zbvwjd",
-      "addedAt": "2026-02-27T02:08:27.011Z"
-    },
-    {
-      "question": "Quel empereur romain a fondé Constantinople ?",
-      "options": [
-        "Auguste",
-        "Jules César",
-        "Constantin",
-        "Trajan"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1772158107011_2_fa2trh",
-      "addedAt": "2026-02-27T02:08:27.011Z"
-    },
-    {
-      "question": "Quelle vitamine est principalement synthétisée par la peau sous l'effet du soleil ?",
-      "options": [
-        "Vitamine A",
-        "Vitamine C",
-        "Vitamine D",
-        "Vitamine E"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1772158107011_3_025vhb",
-      "addedAt": "2026-02-27T02:08:27.011Z"
-    },
-    {
-      "question": "Quel archipel appartient à l'Espagne et se situe au large du Maroc ?",
-      "options": [
-        "Baléares",
-        "Canaries",
-        "Açores",
-        "Madère"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1772158107011_4_mdoxhs",
-      "addedAt": "2026-02-27T02:08:27.011Z"
-    },
-    {
-      "question": "Qui a composé 'Les Quatre Saisons' ?",
-      "options": [
-        "Bach",
-        "Mozart",
-        "Vivaldi",
-        "Haendel"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1772158107011_5_fp4suy",
-      "addedAt": "2026-02-27T02:08:27.011Z"
-    },
-    {
-      "question": "Dans quelle ville se trouve le célèbre musée du Prado ?",
-      "options": [
-        "Barcelone",
-        "Séville",
-        "Madrid",
-        "Valence"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1772158107011_6_v0cv1n",
-      "addedAt": "2026-02-27T02:08:27.011Z"
-    },
-    {
-      "question": "Quel fruit est traditionnellement utilisé pour faire le guacamole ?",
-      "options": [
-        "Mangue",
-        "Avocat",
-        "Papaye",
-        "Kiwi"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1772158107011_7_kh2ktq",
-      "addedAt": "2026-02-27T02:08:27.011Z"
-    },
-    {
-      "question": "Quel réalisateur français a dirigé 'Les Parapluies de Cherbourg' ?",
-      "options": [
-        "François Truffaut",
-        "Jean-Luc Godard",
-        "Jacques Demy",
-        "Claude Lelouch"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1772158107011_8_0hpexx",
-      "addedAt": "2026-02-27T02:08:27.011Z"
     }
   ],
   "poolSize": 100
