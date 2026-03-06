@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel philosophe grec a enseigné à Alexandre le Grand ?",
+      "options": [
+        "Platon",
+        "Aristote",
+        "Socrate",
+        "Épicure"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1772758108327_0_x598jj",
+      "addedAt": "2026-03-06T00:48:28.327Z"
+    },
+    {
+      "question": "Quelle est la capitale du Bangladesh ?",
+      "options": [
+        "Chittagong",
+        "Sylhet",
+        "Dhaka",
+        "Khulna"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772758108327_1_9m6cjy",
+      "addedAt": "2026-03-06T00:48:28.327Z"
+    },
+    {
+      "question": "Combien d'os contient le corps humain adulte ?",
+      "options": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772758108327_2_ymnkjg",
+      "addedAt": "2026-03-06T00:48:28.327Z"
+    },
+    {
+      "question": "Quel peintre a créé 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Paul Cézanne",
+        "Vincent van Gogh",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1772758108327_3_m5t4m8",
+      "addedAt": "2026-03-06T00:48:28.327Z"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on un palet ?",
+      "options": [
+        "Hockey sur glace",
+        "Curling",
+        "Les deux",
+        "Aucun des deux"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1772758108327_4_k67nwk",
+      "addedAt": "2026-03-06T00:48:28.327Z"
+    },
+    {
+      "question": "Quel est le plus grand lac d'Afrique ?",
+      "options": [
+        "Lac Tanganyika",
+        "Lac Victoria",
+        "Lac Malawi",
+        "Lac Tchad"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1772758108327_5_dc7gsi",
+      "addedAt": "2026-03-06T00:48:28.327Z"
+    },
+    {
+      "question": "Combien de côtés possède un dodécagone ?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1772758108327_6_d4r4y4",
+      "addedAt": "2026-03-06T00:48:28.327Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit 'L'Étranger' ?",
+      "options": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "André Malraux",
+        "Antoine de Saint-Exupéry"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1772758108327_7_pzed8u",
+      "addedAt": "2026-03-06T00:48:28.327Z"
+    },
+    {
+      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Argon",
+        "Dioxyde de carbone"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772758108327_8_m1zcha",
+      "addedAt": "2026-03-06T00:48:28.327Z"
+    },
+    {
+      "question": "Quel est le nom du satellite naturel de la Terre ?",
+      "options": [
+        "Luna",
+        "Séléné",
+        "Lune",
+        "Toutes ces réponses"
+      ],
+      "correctAnswer": 3,
+      "category": "Science",
+      "id": "q_1772758108327_9_ul56rs",
+      "addedAt": "2026-03-06T00:48:28.327Z"
+    },
+    {
+      "question": "Qui a inventé le téléphone ?",
+      "options": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "Guglielmo Marconi"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1772758108327_10_nualdm",
+      "addedAt": "2026-03-06T00:48:28.327Z"
+    },
+    {
+      "question": "Quel mammifère pond des œufs ?",
+      "options": [
+        "Le kangourou",
+        "L'ornithorynque",
+        "L'opossum",
+        "Le koala"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1772758108327_11_trul2w",
+      "addedAt": "2026-03-06T00:48:28.327Z"
+    },
+    {
       "question": "Quel élément chimique a pour symbole 'Au' ?",
       "options": [
         "Argent",
@@ -1143,7 +1299,12 @@
       "category": "Gastronomie",
       "id": "q_1772332111221_3_ia73x6",
       "addedAt": "2026-03-01T02:28:31.221Z"
-    },
+    }
+  ],
+  "version": 58,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-06T00:48:28.328Z",
+  "archivedQuestions": [
     {
       "question": "Combien de continents y a-t-il sur Terre ?",
       "options": [
@@ -1299,141 +1460,6 @@
       "category": "Cinéma",
       "id": "q_1772324783248_7_gxvd74",
       "addedAt": "2026-03-01T00:26:23.248Z"
-    }
-  ],
-  "version": 57,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-05T02:10:37.219Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel système d'exploitation mobile a été développé par Google ?",
-      "options": [
-        "iOS",
-        "Windows Phone",
-        "Android",
-        "BlackBerry"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1772324783248_8_41dcsl",
-      "addedAt": "2026-03-01T00:26:23.248Z"
-    },
-    {
-      "question": "Quel peintre néerlandais a coupé son oreille ?",
-      "options": [
-        "Rembrandt",
-        "Vermeer",
-        "Van Gogh",
-        "Mondrian"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1772324783248_9_r6s9nb",
-      "addedAt": "2026-03-01T00:26:23.248Z"
-    },
-    {
-      "question": "Quel gaz compose environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Azote",
-        "Dioxyde de carbone",
-        "Argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1772324783248_10_lr5878",
-      "addedAt": "2026-03-01T00:26:23.248Z"
-    },
-    {
-      "question": "Quel célèbre peintre néerlandais s'est coupé l'oreille ?",
-      "options": [
-        "Rembrandt",
-        "Vermeer",
-        "Van Gogh",
-        "Mondrian"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1772243918364_0_c3f0ph",
-      "addedAt": "2026-02-28T01:58:38.364Z"
-    },
-    {
-      "question": "Dans quelle mer se trouve l'archipel des Baléares ?",
-      "options": [
-        "Mer du Nord",
-        "Mer Méditerranée",
-        "Mer Noire",
-        "Mer Adriatique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1772243918364_1_a7mpo1",
-      "addedAt": "2026-02-28T01:58:38.364Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Europe ?",
-      "options": [
-        "Le Danube",
-        "La Volga",
-        "Le Rhin",
-        "Le Dniepr"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1772243918364_2_osv39d",
-      "addedAt": "2026-02-28T01:58:38.364Z"
-    },
-    {
-      "question": "Qui a écrit le roman '1984' ?",
-      "options": [
-        "Aldous Huxley",
-        "Ray Bradbury",
-        "George Orwell",
-        "Isaac Asimov"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1772243918364_3_o7lnwt",
-      "addedAt": "2026-02-28T01:58:38.364Z"
-    },
-    {
-      "question": "En quelle année les premiers Jeux olympiques modernes ont-ils eu lieu ?",
-      "options": [
-        "1892",
-        "1896",
-        "1900",
-        "1904"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1772243918364_4_lrh4j8",
-      "addedAt": "2026-02-28T01:58:38.364Z"
-    },
-    {
-      "question": "Quel instrument de musique Yo-Yo Ma joue-t-il virtuosement ?",
-      "options": [
-        "Piano",
-        "Violon",
-        "Violoncelle",
-        "Contrebasse"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1772243918364_5_uvbg13",
-      "addedAt": "2026-02-28T01:58:38.364Z"
-    },
-    {
-      "question": "Quelle épice donne sa couleur jaune caractéristique au curry ?",
-      "options": [
-        "Le safran",
-        "Le curcuma",
-        "Le paprika",
-        "Le cumin"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1772243918364_6_xacr05",
-      "addedAt": "2026-02-28T01:58:38.364Z"
     }
   ],
   "poolSize": 100
