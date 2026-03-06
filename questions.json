@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "Dans quel pays a été inventée la pizza ?",
+      "options": [
+        "France",
+        "Grèce",
+        "Espagne",
+        "Italie"
+      ],
+      "correctAnswer": 3,
+      "category": "Gastronomie",
+      "id": "q_1772762964253_0_lk8gis",
+      "addedAt": "2026-03-06T02:09:24.253Z"
+    },
+    {
+      "question": "Dans quel sport peut-on réaliser un 'slam dunk' ?",
+      "options": [
+        "Tennis",
+        "Volleyball",
+        "Basketball",
+        "Badminton"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1772762964253_1_v9bmv3",
+      "addedAt": "2026-03-06T02:09:24.253Z"
+    },
+    {
+      "question": "Quelle planète est surnommée 'la planète rouge' ?",
+      "options": [
+        "Vénus",
+        "Mars",
+        "Jupiter",
+        "Saturne"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772762964253_2_gkub9d",
+      "addedAt": "2026-03-06T02:09:24.253Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Europe ?",
+      "options": [
+        "Danube",
+        "Volga",
+        "Rhin",
+        "Dniepr"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1772762964253_3_zojzqk",
+      "addedAt": "2026-03-06T02:09:24.253Z"
+    },
+    {
+      "question": "Dans quel musée se trouve la 'Vénus de Milo' ?",
+      "options": [
+        "Musée d'Orsay",
+        "Louvre",
+        "British Museum",
+        "Musée du Prado"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1772762964253_4_ygey8x",
+      "addedAt": "2026-03-06T02:09:24.253Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été développé par Linus Torvalds ?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Unix"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1772762964253_5_xgiv9l",
+      "addedAt": "2026-03-06T02:09:24.253Z"
+    },
+    {
+      "question": "Quelle révolution française a eu lieu en juillet 1830 ?",
+      "options": [
+        "Les Trois Glorieuses",
+        "La Commune",
+        "Le Directoire",
+        "La Fronde"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1772762964253_6_k7w8i4",
+      "addedAt": "2026-03-06T02:09:24.253Z"
+    },
+    {
       "question": "Quel philosophe grec a enseigné à Alexandre le Grand ?",
       "options": [
         "Platon",
@@ -1208,7 +1299,12 @@
       "category": "Nature",
       "id": "q_1772411922394_5_u1scll",
       "addedAt": "2026-03-02T00:38:42.394Z"
-    },
+    }
+  ],
+  "version": 59,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-06T02:09:24.255Z",
+  "archivedQuestions": [
     {
       "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
       "options": [
@@ -1299,167 +1395,6 @@
       "category": "Gastronomie",
       "id": "q_1772332111221_3_ia73x6",
       "addedAt": "2026-03-01T02:28:31.221Z"
-    }
-  ],
-  "version": 58,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-06T00:48:28.328Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de continents y a-t-il sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772332111221_4_txjehj",
-      "addedAt": "2026-03-01T02:28:31.221Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide du monde ?",
-      "options": [
-        "Le guépard",
-        "L'aigle royal",
-        "Le faucon pèlerin",
-        "Le lièvre"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1772332111221_5_ok6q8g",
-      "addedAt": "2026-03-01T02:28:31.221Z"
-    },
-    {
-      "question": "Quel langage de programmation utilise principalement des balises ?",
-      "options": [
-        "Python",
-        "Java",
-        "HTML",
-        "C++"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1772332111221_6_tma7y6",
-      "addedAt": "2026-03-01T02:28:31.221Z"
-    },
-    {
-      "question": "Quelle est la formule chimique de l'eau ?",
-      "options": [
-        "CO2",
-        "H2O",
-        "O2",
-        "NaCl"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1772332111221_7_ajuxhs",
-      "addedAt": "2026-03-01T02:28:31.221Z"
-    },
-    {
-      "question": "Quelle planète du système solaire possède la plus grande lune appelée Ganymède ?",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturne",
-        "Neptune"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1772324783248_0_5khw9m",
-      "addedAt": "2026-03-01T00:26:23.248Z"
-    },
-    {
-      "question": "Dans quelle ville française se trouve le célèbre musée d'Orsay ?",
-      "options": [
-        "Lyon",
-        "Marseille",
-        "Paris",
-        "Toulouse"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1772324783248_1_ifskx3",
-      "addedAt": "2026-03-01T00:26:23.248Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1772324783248_2_9h74x4",
-      "addedAt": "2026-03-01T00:26:23.248Z"
-    },
-    {
-      "question": "Quel est le fleuve le plus long d'Afrique ?",
-      "options": [
-        "Congo",
-        "Niger",
-        "Zambèze",
-        "Nil"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1772324783248_3_o38syj",
-      "addedAt": "2026-03-01T00:26:23.248Z"
-    },
-    {
-      "question": "En quelle année la première guerre mondiale a-t-elle commencé ?",
-      "options": [
-        "1912",
-        "1913",
-        "1914",
-        "1915"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1772324783248_4_uoaj7q",
-      "addedAt": "2026-03-01T00:26:23.248Z"
-    },
-    {
-      "question": "Quel mammifère marin est connu pour son intelligence et ses capacités d'écholocation ?",
-      "options": [
-        "Phoque",
-        "Dauphin",
-        "Otarie",
-        "Morse"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1772324783248_5_7jbuv3",
-      "addedAt": "2026-03-01T00:26:23.248Z"
-    },
-    {
-      "question": "Quel sport se pratique sur un tatami ?",
-      "options": [
-        "Karaté",
-        "Judo",
-        "Taekwondo",
-        "Tous ces sports"
-      ],
-      "correctAnswer": 3,
-      "category": "Sport",
-      "id": "q_1772324783248_6_w8f587",
-      "addedAt": "2026-03-01T00:26:23.248Z"
-    },
-    {
-      "question": "Quel réalisateur américain a dirigé le film 'Jurassic Park' ?",
-      "options": [
-        "George Lucas",
-        "Steven Spielberg",
-        "James Cameron",
-        "Ridley Scott"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1772324783248_7_gxvd74",
-      "addedAt": "2026-03-01T00:26:23.248Z"
     }
   ],
   "poolSize": 100
