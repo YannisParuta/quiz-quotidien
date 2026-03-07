@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1772848949990_0_zrkl6a",
+      "addedAt": "2026-03-07T02:02:29.990Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1772848949990_1_eeeq4w",
+      "addedAt": "2026-03-07T02:02:29.990Z"
+    },
+    {
+      "question": "En quelle année a eu lieu la Révolution française ?",
+      "options": [
+        "1789",
+        "1792",
+        "1799",
+        "1804"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1772848949990_2_9cfi52",
+      "addedAt": "2026-03-07T02:02:29.990Z"
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+      "options": [
+        "Brésil",
+        "Allemagne",
+        "France",
+        "Argentine"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1772848949990_3_98w49z",
+      "addedAt": "2026-03-07T02:02:29.990Z"
+    },
+    {
+      "question": "Quel artiste a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Salvador Dalí"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1772848949990_4_hi4c5x",
+      "addedAt": "2026-03-07T02:02:29.990Z"
+    },
+    {
+      "question": "Quelle est la plus longue chaîne de montagnes du monde ?",
+      "options": [
+        "Les Alpes",
+        "L'Himalaya",
+        "Les Rocheuses",
+        "La Cordillère des Andes"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1772848949990_5_xgsgft",
+      "addedAt": "2026-03-07T02:02:29.990Z"
+    },
+    {
+      "question": "Dans quel pays se trouve la cité antique de Petra ?",
+      "options": [
+        "Égypte",
+        "Turquie",
+        "Jordanie",
+        "Grèce"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1772848949990_6_3jri29",
+      "addedAt": "2026-03-07T02:02:29.990Z"
+    },
+    {
+      "question": "Quel composant principal trouve-t-on dans le guacamole ?",
+      "options": [
+        "Tomate",
+        "Avocat",
+        "Concombre",
+        "Courgette"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1772848949990_7_yya8vo",
+      "addedAt": "2026-03-07T02:02:29.990Z"
+    },
+    {
+      "question": "Quelle est la langue officielle du Brésil ?",
+      "options": [
+        "Espagnol",
+        "Anglais",
+        "Portugais",
+        "Français"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1772848949990_8_twjcg2",
+      "addedAt": "2026-03-07T02:02:29.990Z"
+    },
+    {
+      "question": "Qui a développé le système d'exploitation Windows ?",
+      "options": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "IBM"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1772848949990_9_89dihz",
+      "addedAt": "2026-03-07T02:02:29.990Z"
+    },
+    {
       "question": "En quelle année s'est achevée la Seconde Guerre mondiale ?",
       "options": [
         "1944",
@@ -1169,7 +1299,12 @@
       "category": "Art",
       "id": "q_1772496154547_4_pdulxb",
       "addedAt": "2026-03-03T00:02:34.547Z"
-    },
+    }
+  ],
+  "version": 61,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-07T02:02:29.991Z",
+  "archivedQuestions": [
     {
       "question": "Quelle est la racine carrée de 144 ?",
       "options": [
@@ -1299,115 +1434,6 @@
       "category": "Sport",
       "id": "q_1772417510081_4_xrl1ih",
       "addedAt": "2026-03-02T02:11:50.081Z"
-    }
-  ],
-  "version": 60,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-07T00:53:15.983Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle est la plus petite unité de la matière ?",
-      "options": [
-        "Molécule",
-        "Atome",
-        "Proton",
-        "Électron"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1772417510081_5_4uvy94",
-      "addedAt": "2026-03-02T02:11:50.081Z"
-    },
-    {
-      "question": "Quel fleuve traverse la ville de Londres ?",
-      "options": [
-        "La Seine",
-        "Le Rhin",
-        "La Tamise",
-        "Le Danube"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772417510081_6_yxrhji",
-      "addedAt": "2026-03-02T02:11:50.081Z"
-    },
-    {
-      "question": "Quel est le plus grand désert chaud du monde ?",
-      "options": [
-        "Sahara",
-        "Kalahari",
-        "Gobi",
-        "Atacama"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1772411922394_0_ce8dk3",
-      "addedAt": "2026-03-02T00:38:42.394Z"
-    },
-    {
-      "question": "Dans quelle ville italienne se déroule l'action de 'Roméo et Juliette' ?",
-      "options": [
-        "Venise",
-        "Florence",
-        "Vérone",
-        "Rome"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1772411922394_1_yyld8r",
-      "addedAt": "2026-03-02T00:38:42.394Z"
-    },
-    {
-      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Steven Spielberg",
-        "Quentin Tarantino",
-        "David Fincher"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1772411922394_2_34m6cu",
-      "addedAt": "2026-03-02T00:38:42.394Z"
-    },
-    {
-      "question": "Quel empereur romain a fait construire le Colisée ?",
-      "options": [
-        "Jules César",
-        "Auguste",
-        "Vespasien",
-        "Néron"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1772411922394_3_j0fzjx",
-      "addedAt": "2026-03-02T00:38:42.394Z"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on un birdie ?",
-      "options": [
-        "Tennis",
-        "Badminton",
-        "Squash",
-        "Tennis de table"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1772411922394_4_s93bkz",
-      "addedAt": "2026-03-02T00:38:42.394Z"
-    },
-    {
-      "question": "Combien de pattes possède une araignée ?",
-      "options": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1772411922394_5_u1scll",
-      "addedAt": "2026-03-02T00:38:42.394Z"
     }
   ],
   "poolSize": 100
