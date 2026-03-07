@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "En quelle année s'est achevée la Seconde Guerre mondiale ?",
+      "options": [
+        "1944",
+        "1945",
+        "1946",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1772844795983_0_ppuqsm",
+      "addedAt": "2026-03-07T00:53:15.983Z"
+    },
+    {
+      "question": "Quel est le symbole chimique de l'or ?",
+      "options": [
+        "Go",
+        "Au",
+        "Or",
+        "Ag"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772844795983_1_627e6j",
+      "addedAt": "2026-03-07T00:53:15.983Z"
+    },
+    {
+      "question": "Dans quel pays se trouve le Machu Picchu ?",
+      "options": [
+        "Bolivie",
+        "Équateur",
+        "Pérou",
+        "Colombie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772844795983_2_tusnx1",
+      "addedAt": "2026-03-07T00:53:15.983Z"
+    },
+    {
+      "question": "Combien de faces possède un cube ?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1772844795983_3_as8gu2",
+      "addedAt": "2026-03-07T00:53:15.983Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé le film 'Psychose' ?",
+      "options": [
+        "Stanley Kubrick",
+        "Alfred Hitchcock",
+        "Orson Welles",
+        "Billy Wilder"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1772844795983_4_od5csm",
+      "addedAt": "2026-03-07T00:53:15.983Z"
+    },
+    {
+      "question": "Dans quelle discipline sportive évolue Rafael Nadal ?",
+      "options": [
+        "Football",
+        "Tennis",
+        "Golf",
+        "Cyclisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1772844795983_5_89if93",
+      "addedAt": "2026-03-07T00:53:15.983Z"
+    },
+    {
+      "question": "Quelle épice donne sa couleur jaune au curry ?",
+      "options": [
+        "Le safran",
+        "Le curcuma",
+        "Le paprika",
+        "Le cumin"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1772844795983_6_wpkckv",
+      "addedAt": "2026-03-07T00:53:15.983Z"
+    },
+    {
+      "question": "Qui a fondé Microsoft ?",
+      "options": [
+        "Steve Jobs",
+        "Mark Zuckerberg",
+        "Bill Gates",
+        "Larry Page"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1772844795983_7_024enz",
+      "addedAt": "2026-03-07T00:53:15.983Z"
+    },
+    {
       "question": "Dans quel pays a été inventée la pizza ?",
       "options": [
         "France",
@@ -1195,7 +1299,12 @@
       "category": "Sport",
       "id": "q_1772417510081_4_xrl1ih",
       "addedAt": "2026-03-02T02:11:50.081Z"
-    },
+    }
+  ],
+  "version": 60,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-07T00:53:15.983Z",
+  "archivedQuestions": [
     {
       "question": "Quelle est la plus petite unité de la matière ?",
       "options": [
@@ -1299,102 +1408,6 @@
       "category": "Nature",
       "id": "q_1772411922394_5_u1scll",
       "addedAt": "2026-03-02T00:38:42.394Z"
-    }
-  ],
-  "version": 59,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-06T02:09:24.255Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
-      "options": [
-        "Java",
-        "Python",
-        "JavaScript",
-        "Ruby"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1772411922394_6_nktsau",
-      "addedAt": "2026-03-02T00:38:42.394Z"
-    },
-    {
-      "question": "Dans quelle montagne se trouve le tunnel du Mont-Blanc ?",
-      "options": [
-        "Pyrénées",
-        "Vosges",
-        "Alpes",
-        "Massif central"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772411922394_7_bj62w0",
-      "addedAt": "2026-03-02T00:38:42.394Z"
-    },
-    {
-      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
-        "Edgar Allan Poe",
-        "Raymond Chandler"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1772411922394_8_ku8cb7",
-      "addedAt": "2026-03-02T00:38:42.394Z"
-    },
-    {
-      "question": "Dans quel pays se trouve le Machu Picchu ?",
-      "options": [
-        "Bolivie",
-        "Équateur",
-        "Pérou",
-        "Colombie"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772332111221_0_5fp5ex",
-      "addedAt": "2026-03-01T02:28:31.221Z"
-    },
-    {
-      "question": "Quelle guerre mondiale s'est déroulée de 1914 à 1918 ?",
-      "options": [
-        "La Guerre de Cent Ans",
-        "La Première Guerre mondiale",
-        "La Seconde Guerre mondiale",
-        "La Guerre de Trente Ans"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1772332111221_1_ucgine",
-      "addedAt": "2026-03-01T02:28:31.221Z"
-    },
-    {
-      "question": "Dans quel film trouve-t-on le personnage de Forrest Gump ?",
-      "options": [
-        "Philadelphia",
-        "Cast Away",
-        "Forrest Gump",
-        "Big"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1772332111221_2_99gfyl",
-      "addedAt": "2026-03-01T02:28:31.221Z"
-    },
-    {
-      "question": "Quelle épice donne sa couleur jaune au curry ?",
-      "options": [
-        "Le safran",
-        "Le curcuma",
-        "Le paprika",
-        "Le cumin"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1772332111221_3_ia73x6",
-      "addedAt": "2026-03-01T02:28:31.221Z"
     }
   ],
   "poolSize": 100
