@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quelle est la capitale du Canada ?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montréal"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772935949227_0_0arb6k",
+      "addedAt": "2026-03-08T02:12:29.227Z"
+    },
+    {
+      "question": "Qui a découvert la pénicilline ?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Marie Curie",
+        "Antoine Lavoisier"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772935949227_1_x5eikq",
+      "addedAt": "2026-03-08T02:12:29.227Z"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1772935949227_2_l6u0ye",
+      "addedAt": "2026-03-08T02:12:29.227Z"
+    },
+    {
+      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Edgar Allan Poe",
+        "Arthur Conan Doyle",
+        "Charles Dickens"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1772935949227_3_vlkcc1",
+      "addedAt": "2026-03-08T02:12:29.227Z"
+    },
+    {
+      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1772935949227_4_icl8ld",
+      "addedAt": "2026-03-08T02:12:29.227Z"
+    },
+    {
+      "question": "Dans quel pays se trouve le temple d'Angkor Wat ?",
+      "options": [
+        "Thaïlande",
+        "Vietnam",
+        "Cambodge",
+        "Laos"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772935949227_5_lj508m",
+      "addedAt": "2026-03-08T02:12:29.227Z"
+    },
+    {
+      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "David Lynch",
+        "Tim Burton"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1772935949227_6_4imtkm",
+      "addedAt": "2026-03-08T02:12:29.227Z"
+    },
+    {
+      "question": "Quelle est la formule chimique de l'eau ?",
+      "options": [
+        "CO2",
+        "H2O",
+        "NaCl",
+        "CH4"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1772935949227_7_wrvh49",
+      "addedAt": "2026-03-08T02:12:29.227Z"
+    },
+    {
+      "question": "Combien d'angles droits possède un hexagone régulier ?",
+      "options": [
+        "0",
+        "2",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1772935949227_8_ydyc00",
+      "addedAt": "2026-03-08T02:12:29.227Z"
+    },
+    {
+      "question": "Aux Jeux Olympiques, combien d'anneaux composent le logo officiel ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1772935949227_9_w7e4pl",
+      "addedAt": "2026-03-08T02:12:29.227Z"
+    },
+    {
+      "question": "Quelle technologie permet de créer des objets tridimensionnels couche par couche ?",
+      "options": [
+        "La réalité virtuelle",
+        "L'impression 3D",
+        "La robotique",
+        "L'intelligence artificielle"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1772935949227_10_byak85",
+      "addedAt": "2026-03-08T02:12:29.227Z"
+    },
+    {
       "question": "Dans quelle mer se trouve l'archipel des Baléares ?",
       "options": [
         "Mer Adriatique",
@@ -1156,7 +1299,12 @@
       "category": "Science",
       "id": "q_1772583020758_5_3tyc3u",
       "addedAt": "2026-03-04T00:10:20.758Z"
-    },
+    }
+  ],
+  "version": 63,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-08T02:12:29.228Z",
+  "archivedQuestions": [
     {
       "question": "Dans quel sport utilise-t-on une raquette et un volant ?",
       "options": [
@@ -1299,128 +1447,6 @@
       "category": "Culture",
       "id": "q_1772504000423_5_qju8aa",
       "addedAt": "2026-03-03T02:13:20.423Z"
-    }
-  ],
-  "version": 62,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-08T00:25:42.038Z",
-  "archivedQuestions": [
-    {
-      "question": "Dans quelle région française produit-on principalement le champagne ?",
-      "options": [
-        "Bourgogne",
-        "Champagne-Ardenne",
-        "Alsace",
-        "Loire"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1772504000423_6_0dww0o",
-      "addedAt": "2026-03-03T02:13:20.423Z"
-    },
-    {
-      "question": "Quel célèbre architecte espagnol a conçu la Sagrada Familia ?",
-      "options": [
-        "Pablo Picasso",
-        "Antoni Gaudí",
-        "Salvador Dalí",
-        "Joan Miró"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1772504000423_7_qwxfpm",
-      "addedAt": "2026-03-03T02:13:20.423Z"
-    },
-    {
-      "question": "Combien de secondes y a-t-il dans une heure ?",
-      "options": [
-        "3200",
-        "3400",
-        "3600",
-        "3800"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1772504000423_8_qytq32",
-      "addedAt": "2026-03-03T02:13:20.423Z"
-    },
-    {
-      "question": "Dans quel film de 1994 retrouve-t-on le personnage de Forrest Gump ?",
-      "options": [
-        "Philadelphia",
-        "Big",
-        "Forrest Gump",
-        "Apollo 13"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1772504000423_9_lasfcu",
-      "addedAt": "2026-03-03T02:13:20.423Z"
-    },
-    {
-      "question": "Qui a inventé la théorie de la relativité ?",
-      "options": [
-        "Isaac Newton",
-        "Galilée",
-        "Albert Einstein",
-        "Stephen Hawking"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1772496154547_0_1b6wei",
-      "addedAt": "2026-03-03T00:02:34.547Z"
-    },
-    {
-      "question": "Dans quelle ville se déroule l'action du roman 'Roméo et Juliette' ?",
-      "options": [
-        "Venise",
-        "Florence",
-        "Rome",
-        "Vérone"
-      ],
-      "correctAnswer": 3,
-      "category": "Littérature",
-      "id": "q_1772496154547_1_yczeh7",
-      "addedAt": "2026-03-03T00:02:34.547Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros",
-        "Hippopotame",
-        "Éléphant d'Afrique",
-        "Girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1772496154547_2_e13n1l",
-      "addedAt": "2026-03-03T00:02:34.547Z"
-    },
-    {
-      "question": "En quelle année a été inventé Internet ?",
-      "options": [
-        "1969",
-        "1975",
-        "1981",
-        "1985"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1772496154547_3_a6d9wm",
-      "addedAt": "2026-03-03T00:02:34.547Z"
-    },
-    {
-      "question": "Qui a peint 'La Joconde' ?",
-      "options": [
-        "Michel-Ange",
-        "Léonard de Vinci",
-        "Raphaël",
-        "Picasso"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1772496154547_4_pdulxb",
-      "addedAt": "2026-03-03T00:02:34.547Z"
     }
   ],
   "poolSize": 100
