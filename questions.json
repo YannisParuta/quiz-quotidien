@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Dans quelle mer se trouve l'archipel des Baléares ?",
+      "options": [
+        "Mer Adriatique",
+        "Mer Égée",
+        "Mer Méditerranée",
+        "Mer Noire"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772929542037_0_x0uz15",
+      "addedAt": "2026-03-08T00:25:42.037Z"
+    },
+    {
+      "question": "Qui a composé 'La Symphonie du Nouveau Monde' ?",
+      "options": [
+        "Beethoven",
+        "Mozart",
+        "Dvorak",
+        "Brahms"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1772929542037_1_4ku66c",
+      "addedAt": "2026-03-08T00:25:42.037Z"
+    },
+    {
+      "question": "Quel empereur romain a légalisé le christianisme ?",
+      "options": [
+        "Jules César",
+        "Auguste",
+        "Constantin",
+        "Néron"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1772929542037_2_vceh8e",
+      "addedAt": "2026-03-08T00:25:42.037Z"
+    },
+    {
+      "question": "Dans quel pays se trouve la ville de Marrakech ?",
+      "options": [
+        "Algérie",
+        "Tunisie",
+        "Maroc",
+        "Égypte"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772929542037_3_nlhczd",
+      "addedAt": "2026-03-08T00:25:42.037Z"
+    },
+    {
+      "question": "Qui a écrit le roman '1984' ?",
+      "options": [
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "George Orwell",
+        "H.G. Wells"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1772929542037_4_dwipn8",
+      "addedAt": "2026-03-08T00:25:42.037Z"
+    },
+    {
+      "question": "Dans quelle ville se trouve le musée du Prado ?",
+      "options": [
+        "Barcelone",
+        "Madrid",
+        "Séville",
+        "Valence"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1772929542037_5_9g7wev",
+      "addedAt": "2026-03-08T00:25:42.037Z"
+    },
+    {
+      "question": "Quel est le plat national du Pérou à base de poisson cru ?",
+      "options": [
+        "Sushi",
+        "Ceviche",
+        "Carpaccio",
+        "Tartare"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1772929542037_6_grkzqq",
+      "addedAt": "2026-03-08T00:25:42.037Z"
+    },
+    {
+      "question": "Quelle est la plus petite unité de données en informatique ?",
+      "options": [
+        "Byte",
+        "Bit",
+        "Kilobyte",
+        "Pixel"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1772929542037_7_fqz6u7",
+      "addedAt": "2026-03-08T00:25:42.037Z"
+    },
+    {
+      "question": "Sur quel continent se trouve le désert du Kalahari ?",
+      "options": [
+        "Asie",
+        "Australie",
+        "Afrique",
+        "Amérique du Sud"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1772929542037_8_lnc29z",
+      "addedAt": "2026-03-08T00:25:42.037Z"
+    },
+    {
       "question": "Quel écrivain français a écrit 'Les Misérables' ?",
       "options": [
         "Émile Zola",
@@ -1182,7 +1299,12 @@
       "category": "Culture",
       "id": "q_1772504000423_5_qju8aa",
       "addedAt": "2026-03-03T02:13:20.423Z"
-    },
+    }
+  ],
+  "version": 62,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-08T00:25:42.038Z",
+  "archivedQuestions": [
     {
       "question": "Dans quelle région française produit-on principalement le champagne ?",
       "options": [
@@ -1299,141 +1421,6 @@
       "category": "Art",
       "id": "q_1772496154547_4_pdulxb",
       "addedAt": "2026-03-03T00:02:34.547Z"
-    }
-  ],
-  "version": 61,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-07T02:02:29.991Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle est la racine carrée de 144 ?",
-      "options": [
-        "11",
-        "12",
-        "13",
-        "14"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1772496154547_5_5vts00",
-      "addedAt": "2026-03-03T00:02:34.547Z"
-    },
-    {
-      "question": "Quel empereur romain a légalisé le christianisme ?",
-      "options": [
-        "Jules César",
-        "Auguste",
-        "Constantin",
-        "Néron"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1772496154547_6_zcmcwm",
-      "addedAt": "2026-03-03T00:02:34.547Z"
-    },
-    {
-      "question": "Quel acteur joue le rôle principal dans le film 'Forrest Gump' ?",
-      "options": [
-        "Tom Cruise",
-        "Tom Hanks",
-        "Brad Pitt",
-        "Leonardo DiCaprio"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1772496154547_7_0jprdr",
-      "addedAt": "2026-03-03T00:02:34.547Z"
-    },
-    {
-      "question": "Quel plat italien est principalement composé de riz ?",
-      "options": [
-        "Lasagnes",
-        "Risotto",
-        "Carbonara",
-        "Tiramisu"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1772496154547_8_shuicl",
-      "addedAt": "2026-03-03T00:02:34.547Z"
-    },
-    {
-      "question": "Combien de chromosomes possède l'être humain ?",
-      "options": [
-        "44",
-        "46",
-        "48",
-        "50"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1772496154547_9_qsin5n",
-      "addedAt": "2026-03-03T00:02:34.547Z"
-    },
-    {
-      "question": "Qui a inventé la pénicilline ?",
-      "options": [
-        "Louis Pasteur",
-        "Marie Curie",
-        "Alexander Fleming",
-        "Albert Einstein"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1772417510081_0_cjnz26",
-      "addedAt": "2026-03-02T02:11:50.081Z"
-    },
-    {
-      "question": "Dans quel océan se trouve l'archipel des Maldives ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772417510081_1_2o7kbz",
-      "addedAt": "2026-03-02T02:11:50.081Z"
-    },
-    {
-      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
-      "options": [
-        "1967",
-        "1968",
-        "1969",
-        "1970"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1772417510081_2_h87ufe",
-      "addedAt": "2026-03-02T02:11:50.081Z"
-    },
-    {
-      "question": "Dans quelle ville italienne se trouve la fontaine de Trevi ?",
-      "options": [
-        "Milan",
-        "Venise",
-        "Florence",
-        "Rome"
-      ],
-      "correctAnswer": 3,
-      "category": "Culture",
-      "id": "q_1772417510081_3_r9bw64",
-      "addedAt": "2026-03-02T02:11:50.081Z"
-    },
-    {
-      "question": "Quel sport Michael Jordan a-t-il principalement pratiqué ?",
-      "options": [
-        "Football américain",
-        "Baseball",
-        "Basketball",
-        "Tennis"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1772417510081_4_xrl1ih",
-      "addedAt": "2026-03-02T02:11:50.081Z"
     }
   ],
   "poolSize": 100
