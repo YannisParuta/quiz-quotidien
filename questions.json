@@ -1,6 +1,188 @@
 {
   "questions": [
     {
+      "question": "Quelle est la monnaie officielle du Japon ?",
+      "options": [
+        "Won",
+        "Yen",
+        "Yuan",
+        "Baht"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1773108359463_0_8lrtt3",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "Quel empereur romain a légalisé le christianisme avec l'Édit de Milan ?",
+      "options": [
+        "Néron",
+        "Auguste",
+        "Constantin",
+        "Trajan"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1773108359463_1_r0s2xd",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "Quelle est l'unité de mesure de la résistance électrique ?",
+      "options": [
+        "Volt",
+        "Ampère",
+        "Watt",
+        "Ohm"
+      ],
+      "correctAnswer": 3,
+      "category": "Science",
+      "id": "q_1773108359463_2_kheokp",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "Qui a écrit 'Cent ans de solitude' ?",
+      "options": [
+        "Mario Vargas Llosa",
+        "Gabriel García Márquez",
+        "Jorge Luis Borges",
+        "Pablo Neruda"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1773108359463_3_yd4tvt",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "Dans quel sport pratique-t-on le 'slam dunk' ?",
+      "options": [
+        "Tennis",
+        "Volleyball",
+        "Basketball",
+        "Badminton"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1773108359463_4_o399gf",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "Quelle technique picturale utilise des pigments mélangés à de l'eau et de la gomme arabique ?",
+      "options": [
+        "Huile",
+        "Acrylique",
+        "Aquarelle",
+        "Tempera"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1773108359463_5_b6v93h",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "Quel est le nom du processus par lequel les plantes fabriquent leur nourriture ?",
+      "options": [
+        "Respiration",
+        "Photosynthèse",
+        "Osmose",
+        "Transpiration"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1773108359463_6_nozeaf",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "Combien de faces possède un icosaèdre ?",
+      "options": [
+        "12",
+        "16",
+        "20",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1773108359463_7_o96it9",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "Quel compositeur a créé l'opéra 'Carmen' ?",
+      "options": [
+        "Georges Bizet",
+        "Giuseppe Verdi",
+        "Wolfgang Amadeus Mozart",
+        "Richard Wagner"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1773108359463_8_ks95nv",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "Qui a réalisé le film 'Psychose' (1960) ?",
+      "options": [
+        "Stanley Kubrick",
+        "Alfred Hitchcock",
+        "Orson Welles",
+        "Billy Wilder"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1773108359463_9_xifl8o",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "Quel langage de programmation porte le nom d'un serpent ?",
+      "options": [
+        "Java",
+        "Ruby",
+        "Python",
+        "Swift"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1773108359463_10_dpxvtv",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "Quelle chaîne de montagnes sépare l'Europe de l'Asie ?",
+      "options": [
+        "Caucase",
+        "Carpates",
+        "Oural",
+        "Altaï"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1773108359463_11_s97l53",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "En quelle année a été signé le traité de Versailles ?",
+      "options": [
+        "1918",
+        "1919",
+        "1920",
+        "1921"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1773108359463_12_z9frn0",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
+      "question": "Quel type de cellules sanguines transporte l'oxygène ?",
+      "options": [
+        "Globules blancs",
+        "Plaquettes",
+        "Globules rouges",
+        "Plasma"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1773108359463_13_m39ee4",
+      "addedAt": "2026-03-10T02:05:59.463Z"
+    },
+    {
       "question": "Quel fleuve traverse la ville de Prague ?",
       "options": [
         "Danube",
@@ -1117,7 +1299,12 @@
       "category": "Technologie",
       "id": "q_1772758108327_10_nualdm",
       "addedAt": "2026-03-06T00:48:28.327Z"
-    },
+    }
+  ],
+  "version": 67,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-10T02:05:59.463Z",
+  "archivedQuestions": [
     {
       "question": "Quel mammifère pond des œufs ?",
       "options": [
@@ -1299,167 +1486,6 @@
       "category": "Science",
       "id": "q_1772671156132_2_b2u63g",
       "addedAt": "2026-03-05T00:39:16.132Z"
-    }
-  ],
-  "version": 66,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-10T00:44:14.836Z",
-  "archivedQuestions": [
-    {
-      "question": "En quelle année est tombé le mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1985"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1772671156132_3_5brabd",
-      "addedAt": "2026-03-05T00:39:16.132Z"
-    },
-    {
-      "question": "Quel pays a inventé les pâtes ?",
-      "options": [
-        "Italie",
-        "Chine",
-        "Grèce",
-        "France"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1772671156132_4_wth4aq",
-      "addedAt": "2026-03-05T00:39:16.132Z"
-    },
-    {
-      "question": "Quel acteur incarne James Bond dans 'Casino Royale' (2006) ?",
-      "options": [
-        "Pierce Brosnan",
-        "Sean Connery",
-        "Daniel Craig",
-        "Roger Moore"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1772671156132_5_peisvk",
-      "addedAt": "2026-03-05T00:39:16.132Z"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1772671156132_6_4l20d4",
-      "addedAt": "2026-03-05T00:39:16.132Z"
-    },
-    {
-      "question": "Quel animal est le symbole de la WWF ?",
-      "options": [
-        "Le tigre",
-        "L'éléphant",
-        "Le panda géant",
-        "Le rhinocéros"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1772671156132_7_e9mtdq",
-      "addedAt": "2026-03-05T00:39:16.132Z"
-    },
-    {
-      "question": "Qui a inventé l'ampoule électrique ?",
-      "options": [
-        "Nikola Tesla",
-        "Thomas Edison",
-        "Alexander Graham Bell",
-        "Benjamin Franklin"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1772671156132_8_fbwecy",
-      "addedAt": "2026-03-05T00:39:16.132Z"
-    },
-    {
-      "question": "Dans quel musée parisien peut-on admirer 'La Joconde' ?",
-      "options": [
-        "Musée Rodin",
-        "Musée du Louvre",
-        "Centre Pompidou",
-        "Musée Picasso"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1772671156132_9_83ubu0",
-      "addedAt": "2026-03-05T00:39:16.132Z"
-    },
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1772671156132_10_31bau6",
-      "addedAt": "2026-03-05T00:39:16.132Z"
-    },
-    {
-      "question": "Quelle est la planète la plus proche du Soleil ?",
-      "options": [
-        "Vénus",
-        "Mars",
-        "Mercure",
-        "Terre"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1772671156132_11_049yhi",
-      "addedAt": "2026-03-05T00:39:16.132Z"
-    },
-    {
-      "question": "Dans quel océan se trouve l'île de Madagascar ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772671156132_12_mvpdz6",
-      "addedAt": "2026-03-05T00:39:16.132Z"
-    },
-    {
-      "question": "Qui a écrit 'Cent ans de solitude' ?",
-      "options": [
-        "Mario Vargas Llosa",
-        "Isabel Allende",
-        "Gabriel García Márquez",
-        "Pablo Neruda"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1772590053557_1_jzy6rx",
-      "addedAt": "2026-03-04T02:07:33.558Z"
-    },
-    {
-      "question": "Quelle mer sépare l'Italie de la Croatie ?",
-      "options": [
-        "Mer Tyrrhénienne",
-        "Mer Ionienne",
-        "Mer Adriatique",
-        "Mer Égée"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772590053558_2_1u5c3m",
-      "addedAt": "2026-03-04T02:07:33.558Z"
     }
   ],
   "poolSize": 100
