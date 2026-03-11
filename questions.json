@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel océan borde la côte ouest de l'Amérique du Sud ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1773194740356_0_430077",
+      "addedAt": "2026-03-11T02:05:40.357Z"
+    },
+    {
+      "question": "Qui a composé 'Les Quatre Saisons' ?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Vivaldi",
+        "Beethoven"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1773194740357_1_urw6y7",
+      "addedAt": "2026-03-11T02:05:40.357Z"
+    },
+    {
+      "question": "Quel mammifère marin possède une défense en forme de spirale ?",
+      "options": [
+        "Morse",
+        "Narval",
+        "Orque",
+        "Béluga"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1773194740357_2_r4st0s",
+      "addedAt": "2026-03-11T02:05:40.357Z"
+    },
+    {
+      "question": "Quel réalisateur japonais a créé le film 'Mon voisin Totoro' ?",
+      "options": [
+        "Akira Kurosawa",
+        "Hayao Miyazaki",
+        "Takeshi Kitano",
+        "Mamoru Hosoda"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1773194740357_3_l9w91i",
+      "addedAt": "2026-03-11T02:05:40.357Z"
+    },
+    {
+      "question": "Quelle est la racine carrée de 144 ?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1773194740357_4_3iz1nu",
+      "addedAt": "2026-03-11T02:05:40.357Z"
+    },
+    {
+      "question": "Dans quel pays a été inventé le fromage Roquefort ?",
+      "options": [
+        "Suisse",
+        "Italie",
+        "France",
+        "Pays-Bas"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1773194740357_5_2vdxfz",
+      "addedAt": "2026-03-11T02:05:40.357Z"
+    },
+    {
+      "question": "Quel protocole permet d'envoyer des emails ?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "TCP"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1773194740357_6_jmg4xv",
+      "addedAt": "2026-03-11T02:05:40.357Z"
+    },
+    {
+      "question": "Qui a sculpté la statue de David conservée à Florence ?",
+      "options": [
+        "Donatello",
+        "Michel-Ange",
+        "Léonard de Vinci",
+        "Raphaël"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1773194740357_7_1b25i8",
+      "addedAt": "2026-03-11T02:05:40.357Z"
+    },
+    {
+      "question": "Dans quelle période géologique ont vécu les dinosaures ?",
+      "options": [
+        "Paléozoïque",
+        "Mésozoïque",
+        "Cénozoïque",
+        "Précambrien"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1773194740357_8_ech8bv",
+      "addedAt": "2026-03-11T02:05:40.357Z"
+    },
+    {
+      "question": "Quelle civilisation a construit les pyramides de Gizeh ?",
+      "options": [
+        "Babylonienne",
+        "Égyptienne",
+        "Grecque",
+        "Romaine"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1773194740357_9_gw6im3",
+      "addedAt": "2026-03-11T02:05:40.357Z"
+    },
+    {
       "question": "Combien de touches noires possède un piano classique ?",
       "options": [
         "32",
@@ -1169,7 +1299,12 @@
       "category": "Sport",
       "id": "q_1772844795983_5_89if93",
       "addedAt": "2026-03-07T00:53:15.983Z"
-    },
+    }
+  ],
+  "version": 69,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-11T02:05:40.357Z",
+  "archivedQuestions": [
     {
       "question": "Quelle épice donne sa couleur jaune au curry ?",
       "options": [
@@ -1298,141 +1433,6 @@
       "correctAnswer": 1,
       "category": "Histoire",
       "id": "q_1772758108327_0_x598jj",
-      "addedAt": "2026-03-06T00:48:28.327Z"
-    }
-  ],
-  "version": 68,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-11T00:46:44.876Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle est la capitale du Bangladesh ?",
-      "options": [
-        "Chittagong",
-        "Sylhet",
-        "Dhaka",
-        "Khulna"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772758108327_1_9m6cjy",
-      "addedAt": "2026-03-06T00:48:28.327Z"
-    },
-    {
-      "question": "Combien d'os contient le corps humain adulte ?",
-      "options": [
-        "186",
-        "206",
-        "226",
-        "246"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1772758108327_2_ymnkjg",
-      "addedAt": "2026-03-06T00:48:28.327Z"
-    },
-    {
-      "question": "Quel peintre a créé 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Paul Cézanne",
-        "Vincent van Gogh",
-        "Edgar Degas"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1772758108327_3_m5t4m8",
-      "addedAt": "2026-03-06T00:48:28.327Z"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on un palet ?",
-      "options": [
-        "Hockey sur glace",
-        "Curling",
-        "Les deux",
-        "Aucun des deux"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1772758108327_4_k67nwk",
-      "addedAt": "2026-03-06T00:48:28.327Z"
-    },
-    {
-      "question": "Quel est le plus grand lac d'Afrique ?",
-      "options": [
-        "Lac Tanganyika",
-        "Lac Victoria",
-        "Lac Malawi",
-        "Lac Tchad"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1772758108327_5_dc7gsi",
-      "addedAt": "2026-03-06T00:48:28.327Z"
-    },
-    {
-      "question": "Combien de côtés possède un dodécagone ?",
-      "options": [
-        "10",
-        "12",
-        "14",
-        "16"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1772758108327_6_d4r4y4",
-      "addedAt": "2026-03-06T00:48:28.327Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'L'Étranger' ?",
-      "options": [
-        "Jean-Paul Sartre",
-        "Albert Camus",
-        "André Malraux",
-        "Antoine de Saint-Exupéry"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1772758108327_7_pzed8u",
-      "addedAt": "2026-03-06T00:48:28.327Z"
-    },
-    {
-      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Azote",
-        "Argon",
-        "Dioxyde de carbone"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1772758108327_8_m1zcha",
-      "addedAt": "2026-03-06T00:48:28.327Z"
-    },
-    {
-      "question": "Quel est le nom du satellite naturel de la Terre ?",
-      "options": [
-        "Luna",
-        "Séléné",
-        "Lune",
-        "Toutes ces réponses"
-      ],
-      "correctAnswer": 3,
-      "category": "Science",
-      "id": "q_1772758108327_9_ul56rs",
-      "addedAt": "2026-03-06T00:48:28.327Z"
-    },
-    {
-      "question": "Qui a inventé le téléphone ?",
-      "options": [
-        "Thomas Edison",
-        "Alexander Graham Bell",
-        "Nikola Tesla",
-        "Guglielmo Marconi"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1772758108327_10_nualdm",
       "addedAt": "2026-03-06T00:48:28.327Z"
     }
   ],
