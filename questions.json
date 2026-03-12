@@ -1,6 +1,188 @@
 {
   "questions": [
     {
+      "question": "Quelle civilisation a construit le Machu Picchu ?",
+      "options": [
+        "Les Aztèques",
+        "Les Mayas",
+        "Les Incas",
+        "Les Olmèques"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1773281524537_0_atiwnb",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Combien de chambres possède le cœur humain ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1773281524537_1_r4disu",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Quel pays a inventé le tango ?",
+      "options": [
+        "Espagne",
+        "Brésil",
+        "Argentine",
+        "Mexique"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1773281524537_2_8at0il",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Combien d'années durent les Jeux Olympiques d'été entre chaque édition ?",
+      "options": [
+        "2 ans",
+        "3 ans",
+        "4 ans",
+        "5 ans"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1773281524537_3_r30x9o",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Quel mouvement artistique Pablo Picasso a-t-il cofondé ?",
+      "options": [
+        "L'impressionnisme",
+        "Le cubisme",
+        "Le surréalisme",
+        "Le fauvisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1773281524537_4_uad8gf",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Dans quelle langue a été écrit originellement 'Don Quichotte' ?",
+      "options": [
+        "Français",
+        "Italien",
+        "Portugais",
+        "Espagnol"
+      ],
+      "correctAnswer": 3,
+      "category": "Littérature",
+      "id": "q_1773281524537_5_q0cfma",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Quel mammifère est capable de voler naturellement ?",
+      "options": [
+        "L'écureuil volant",
+        "Le polatouche",
+        "La chauve-souris",
+        "Le lémurien volant"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1773281524537_6_82p4sf",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Combien de côtés possède un octogone ?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1773281524537_7_tz80zw",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Quel instrument Johann Sebastian Bach maîtrisait-il particulièrement ?",
+      "options": [
+        "Le violon",
+        "L'orgue",
+        "La flûte",
+        "Le violoncelle"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1773281524537_8_rzno5l",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Qui a réalisé le film 'Le Parrain' ?",
+      "options": [
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Steven Spielberg",
+        "Ridley Scott"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1773281524537_9_ik812o",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Quel réseau social a été créé par Mark Zuckerberg ?",
+      "options": [
+        "Twitter",
+        "Instagram",
+        "Facebook",
+        "LinkedIn"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1773281524537_10_d14td5",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Quelle épice donne sa couleur jaune au curry ?",
+      "options": [
+        "Le safran",
+        "Le curcuma",
+        "Le paprika",
+        "La cannelle"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1773281524537_11_duhblb",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Dans quelle chaîne de montagnes se trouve l'Everest ?",
+      "options": [
+        "Les Andes",
+        "Les Alpes",
+        "L'Himalaya",
+        "Les Rocheuses"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1773281524537_12_ly347w",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
+      "question": "Quelle planète du système solaire possède le plus de lunes ?",
+      "options": [
+        "Jupiter",
+        "Saturne",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1773281524537_13_3de07x",
+      "addedAt": "2026-03-12T02:12:04.537Z"
+    },
+    {
       "question": "Quelle planète du système solaire possède le plus grand nombre de lunes confirmées ?",
       "options": [
         "Jupiter",
@@ -1117,7 +1299,12 @@
       "category": "Technologie",
       "id": "q_1772935949227_10_byak85",
       "addedAt": "2026-03-08T02:12:29.227Z"
-    },
+    }
+  ],
+  "version": 71,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-12T02:12:04.538Z",
+  "archivedQuestions": [
     {
       "question": "Dans quelle mer se trouve l'archipel des Baléares ?",
       "options": [
@@ -1299,154 +1486,6 @@
       "category": "Art",
       "id": "q_1772848949990_4_hi4c5x",
       "addedAt": "2026-03-07T02:02:29.990Z"
-    }
-  ],
-  "version": 70,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-12T00:57:29.954Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle est la plus longue chaîne de montagnes du monde ?",
-      "options": [
-        "Les Alpes",
-        "L'Himalaya",
-        "Les Rocheuses",
-        "La Cordillère des Andes"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1772848949990_5_xgsgft",
-      "addedAt": "2026-03-07T02:02:29.990Z"
-    },
-    {
-      "question": "Dans quel pays se trouve la cité antique de Petra ?",
-      "options": [
-        "Égypte",
-        "Turquie",
-        "Jordanie",
-        "Grèce"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1772848949990_6_3jri29",
-      "addedAt": "2026-03-07T02:02:29.990Z"
-    },
-    {
-      "question": "Quel composant principal trouve-t-on dans le guacamole ?",
-      "options": [
-        "Tomate",
-        "Avocat",
-        "Concombre",
-        "Courgette"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1772848949990_7_yya8vo",
-      "addedAt": "2026-03-07T02:02:29.990Z"
-    },
-    {
-      "question": "Quelle est la langue officielle du Brésil ?",
-      "options": [
-        "Espagnol",
-        "Anglais",
-        "Portugais",
-        "Français"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1772848949990_8_twjcg2",
-      "addedAt": "2026-03-07T02:02:29.990Z"
-    },
-    {
-      "question": "Qui a développé le système d'exploitation Windows ?",
-      "options": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "IBM"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1772848949990_9_89dihz",
-      "addedAt": "2026-03-07T02:02:29.990Z"
-    },
-    {
-      "question": "En quelle année s'est achevée la Seconde Guerre mondiale ?",
-      "options": [
-        "1944",
-        "1945",
-        "1946",
-        "1947"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1772844795983_0_ppuqsm",
-      "addedAt": "2026-03-07T00:53:15.983Z"
-    },
-    {
-      "question": "Quel est le symbole chimique de l'or ?",
-      "options": [
-        "Go",
-        "Au",
-        "Or",
-        "Ag"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1772844795983_1_627e6j",
-      "addedAt": "2026-03-07T00:53:15.983Z"
-    },
-    {
-      "question": "Dans quel pays se trouve le Machu Picchu ?",
-      "options": [
-        "Bolivie",
-        "Équateur",
-        "Pérou",
-        "Colombie"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772844795983_2_tusnx1",
-      "addedAt": "2026-03-07T00:53:15.983Z"
-    },
-    {
-      "question": "Combien de faces possède un cube ?",
-      "options": [
-        "4",
-        "6",
-        "8",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1772844795983_3_as8gu2",
-      "addedAt": "2026-03-07T00:53:15.983Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé le film 'Psychose' ?",
-      "options": [
-        "Stanley Kubrick",
-        "Alfred Hitchcock",
-        "Orson Welles",
-        "Billy Wilder"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1772844795983_4_od5csm",
-      "addedAt": "2026-03-07T00:53:15.983Z"
-    },
-    {
-      "question": "Dans quelle discipline sportive évolue Rafael Nadal ?",
-      "options": [
-        "Football",
-        "Tennis",
-        "Golf",
-        "Cyclisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1772844795983_5_89if93",
-      "addedAt": "2026-03-07T00:53:15.983Z"
     }
   ],
   "poolSize": 100
