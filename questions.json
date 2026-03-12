@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quelle planète du système solaire possède le plus grand nombre de lunes confirmées ?",
+      "options": [
+        "Jupiter",
+        "Saturne",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1773277049954_0_dc2wzu",
+      "addedAt": "2026-03-12T00:57:29.954Z"
+    },
+    {
+      "question": "Dans quelle ville italienne se déroule l'action de 'Roméo et Juliette' de Shakespeare ?",
+      "options": [
+        "Venise",
+        "Florence",
+        "Vérone",
+        "Rome"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1773277049954_1_p7youg",
+      "addedAt": "2026-03-12T00:57:29.954Z"
+    },
+    {
+      "question": "Quel fleuve traverse la capitale de l'Autriche ?",
+      "options": [
+        "Le Rhin",
+        "Le Danube",
+        "L'Elbe",
+        "La Moldau"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1773277049954_2_ycxyw8",
+      "addedAt": "2026-03-12T00:57:29.954Z"
+    },
+    {
+      "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
+      "options": [
+        "Le Corbusier",
+        "Antoni Gaudí",
+        "Frank Gehry",
+        "Zaha Hadid"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1773277049954_3_baxoui",
+      "addedAt": "2026-03-12T00:57:29.954Z"
+    },
+    {
+      "question": "Dans quel océan se trouvent les îles Maldives ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1773277049954_4_0gmu8u",
+      "addedAt": "2026-03-12T00:57:29.954Z"
+    },
+    {
+      "question": "Quel empire a construit le célèbre site de Angkor Vat au Cambodge ?",
+      "options": [
+        "Empire khmer",
+        "Empire siamois",
+        "Empire birman",
+        "Empire vietnamien"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1773277049954_5_b7wt8b",
+      "addedAt": "2026-03-12T00:57:29.954Z"
+    },
+    {
+      "question": "Combien de minutes dure une mi-temps au rugby à XV ?",
+      "options": [
+        "35 minutes",
+        "40 minutes",
+        "45 minutes",
+        "50 minutes"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1773277049954_6_tt3bhs",
+      "addedAt": "2026-03-12T00:57:29.954Z"
+    },
+    {
+      "question": "Dans quelle unité mesure-t-on la résistance électrique ?",
+      "options": [
+        "Volt",
+        "Ampère",
+        "Ohm",
+        "Watt"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1773277049954_7_9i9vvx",
+      "addedAt": "2026-03-12T00:57:29.954Z"
+    },
+    {
+      "question": "Quel pays d'Amérique du Sud est célèbre pour ses steaks et son tango ?",
+      "options": [
+        "Chili",
+        "Uruguay",
+        "Argentine",
+        "Colombie"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1773277049954_8_biz34q",
+      "addedAt": "2026-03-12T00:57:29.954Z"
+    },
+    {
+      "question": "Quel mammifère marin utilise l'écholocation pour se déplacer et chasser ?",
+      "options": [
+        "Baleine bleue",
+        "Phoque",
+        "Dauphin",
+        "Dugong"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1773277049954_9_clkkuv",
+      "addedAt": "2026-03-12T00:57:29.954Z"
+    },
+    {
+      "question": "Dans quelle décennie a été inventé le World Wide Web ?",
+      "options": [
+        "Années 1970",
+        "Années 1980",
+        "Années 1990",
+        "Années 2000"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1773277049954_10_8urado",
+      "addedAt": "2026-03-12T00:57:29.954Z"
+    },
+    {
       "question": "Quel océan borde la côte ouest de l'Amérique du Sud ?",
       "options": [
         "Océan Atlantique",
@@ -1156,7 +1299,12 @@
       "category": "Art",
       "id": "q_1772848949990_4_hi4c5x",
       "addedAt": "2026-03-07T02:02:29.990Z"
-    },
+    }
+  ],
+  "version": 70,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-12T00:57:29.954Z",
+  "archivedQuestions": [
     {
       "question": "Quelle est la plus longue chaîne de montagnes du monde ?",
       "options": [
@@ -1299,141 +1447,6 @@
       "category": "Sport",
       "id": "q_1772844795983_5_89if93",
       "addedAt": "2026-03-07T00:53:15.983Z"
-    }
-  ],
-  "version": 69,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-11T02:05:40.357Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle épice donne sa couleur jaune au curry ?",
-      "options": [
-        "Le safran",
-        "Le curcuma",
-        "Le paprika",
-        "Le cumin"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1772844795983_6_wpkckv",
-      "addedAt": "2026-03-07T00:53:15.983Z"
-    },
-    {
-      "question": "Qui a fondé Microsoft ?",
-      "options": [
-        "Steve Jobs",
-        "Mark Zuckerberg",
-        "Bill Gates",
-        "Larry Page"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1772844795983_7_024enz",
-      "addedAt": "2026-03-07T00:53:15.983Z"
-    },
-    {
-      "question": "Dans quel pays a été inventée la pizza ?",
-      "options": [
-        "France",
-        "Grèce",
-        "Espagne",
-        "Italie"
-      ],
-      "correctAnswer": 3,
-      "category": "Gastronomie",
-      "id": "q_1772762964253_0_lk8gis",
-      "addedAt": "2026-03-06T02:09:24.253Z"
-    },
-    {
-      "question": "Dans quel sport peut-on réaliser un 'slam dunk' ?",
-      "options": [
-        "Tennis",
-        "Volleyball",
-        "Basketball",
-        "Badminton"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1772762964253_1_v9bmv3",
-      "addedAt": "2026-03-06T02:09:24.253Z"
-    },
-    {
-      "question": "Quelle planète est surnommée 'la planète rouge' ?",
-      "options": [
-        "Vénus",
-        "Mars",
-        "Jupiter",
-        "Saturne"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1772762964253_2_gkub9d",
-      "addedAt": "2026-03-06T02:09:24.253Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Europe ?",
-      "options": [
-        "Danube",
-        "Volga",
-        "Rhin",
-        "Dniepr"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1772762964253_3_zojzqk",
-      "addedAt": "2026-03-06T02:09:24.253Z"
-    },
-    {
-      "question": "Dans quel musée se trouve la 'Vénus de Milo' ?",
-      "options": [
-        "Musée d'Orsay",
-        "Louvre",
-        "British Museum",
-        "Musée du Prado"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1772762964253_4_ygey8x",
-      "addedAt": "2026-03-06T02:09:24.253Z"
-    },
-    {
-      "question": "Quel système d'exploitation a été développé par Linus Torvalds ?",
-      "options": [
-        "Windows",
-        "macOS",
-        "Linux",
-        "Unix"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1772762964253_5_xgiv9l",
-      "addedAt": "2026-03-06T02:09:24.253Z"
-    },
-    {
-      "question": "Quelle révolution française a eu lieu en juillet 1830 ?",
-      "options": [
-        "Les Trois Glorieuses",
-        "La Commune",
-        "Le Directoire",
-        "La Fronde"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1772762964253_6_k7w8i4",
-      "addedAt": "2026-03-06T02:09:24.253Z"
-    },
-    {
-      "question": "Quel philosophe grec a enseigné à Alexandre le Grand ?",
-      "options": [
-        "Platon",
-        "Aristote",
-        "Socrate",
-        "Épicure"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1772758108327_0_x598jj",
-      "addedAt": "2026-03-06T00:48:28.327Z"
     }
   ],
   "poolSize": 100
