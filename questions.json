@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1773367765034_0_9micee",
+      "addedAt": "2026-03-13T02:09:25.034Z"
+    },
+    {
+      "question": "Quel empereur romain a fait construire le mur d'Hadrien ?",
+      "options": [
+        "Jules César",
+        "Auguste",
+        "Hadrien",
+        "Trajan"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1773367765034_1_2atx9p",
+      "addedAt": "2026-03-13T02:09:25.034Z"
+    },
+    {
+      "question": "Dans quelle discipline sportive utilise-t-on un palet ?",
+      "options": [
+        "Hockey sur glace",
+        "Curling",
+        "Patinage artistique",
+        "Bobsleigh"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1773367765034_2_6hio8i",
+      "addedAt": "2026-03-13T02:09:25.034Z"
+    },
+    {
+      "question": "Quel mathématicien grec a donné son nom à un célèbre théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1773367765034_3_8ab08u",
+      "addedAt": "2026-03-13T02:09:25.034Z"
+    },
+    {
+      "question": "Quel est le plus petit os du corps humain ?",
+      "options": [
+        "L'étrier",
+        "Le marteau",
+        "L'enclume",
+        "La rotule"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1773367765034_4_5dltn0",
+      "addedAt": "2026-03-13T02:09:25.034Z"
+    },
+    {
+      "question": "Qui a écrit 'L'Étranger' ?",
+      "options": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "André Malraux",
+        "Simone de Beauvoir"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1773367765034_5_tggk2c",
+      "addedAt": "2026-03-13T02:09:25.034Z"
+    },
+    {
+      "question": "Combien de fuseaux horaires traversent la Russie ?",
+      "options": [
+        "9",
+        "11",
+        "13",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1773367765034_6_w3q2ki",
+      "addedAt": "2026-03-13T02:09:25.034Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la saga 'Star Wars' ?",
+      "options": [
+        "Steven Spielberg",
+        "George Lucas",
+        "Ridley Scott",
+        "James Cameron"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1773367765034_7_550mgi",
+      "addedAt": "2026-03-13T02:09:25.034Z"
+    },
+    {
+      "question": "Quel mammifère marin possède la plus grande cervelle ?",
+      "options": [
+        "La baleine bleue",
+        "Le cachalot",
+        "L'orque",
+        "Le dauphin"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1773367765034_8_tx1g5m",
+      "addedAt": "2026-03-13T02:09:25.034Z"
+    },
+    {
+      "question": "En quelle année la Révolution française a-t-elle commencé ?",
+      "options": [
+        "1789",
+        "1792",
+        "1791",
+        "1788"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1773367765034_9_f68zsg",
+      "addedAt": "2026-03-13T02:09:25.034Z"
+    },
+    {
+      "question": "Quel langage de balisage est utilisé pour créer des pages web ?",
+      "options": [
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "PHP"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1773367765034_10_768lzg",
+      "addedAt": "2026-03-13T02:09:25.034Z"
+    },
+    {
+      "question": "Quelle pâtisserie française est traditionnellement consommée à l'Épiphanie ?",
+      "options": [
+        "La bûche de Noël",
+        "La galette des rois",
+        "Le croquembouche",
+        "La tarte Tatin"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1773367765034_11_sitg8r",
+      "addedAt": "2026-03-13T02:09:25.034Z"
+    },
+    {
       "question": "Quel océan sépare l'Australie de l'Amérique du Sud ?",
       "options": [
         "Océan Atlantique",
@@ -1143,7 +1299,12 @@
       "category": "Cinéma",
       "id": "q_1773022410106_5_cpg31w",
       "addedAt": "2026-03-09T02:13:30.106Z"
-    },
+    }
+  ],
+  "version": 73,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-13T02:09:25.034Z",
+  "archivedQuestions": [
     {
       "question": "Combien de pattes possède une araignée ?",
       "options": [
@@ -1299,154 +1460,6 @@
       "category": "Musique",
       "id": "q_1773016275459_10_h9sv7s",
       "addedAt": "2026-03-09T00:31:15.459Z"
-    }
-  ],
-  "version": 72,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-13T00:08:15.637Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle est la capitale du Canada ?",
-      "options": [
-        "Toronto",
-        "Vancouver",
-        "Ottawa",
-        "Montréal"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772935949227_0_0arb6k",
-      "addedAt": "2026-03-08T02:12:29.227Z"
-    },
-    {
-      "question": "Qui a découvert la pénicilline ?",
-      "options": [
-        "Louis Pasteur",
-        "Alexander Fleming",
-        "Marie Curie",
-        "Antoine Lavoisier"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1772935949227_1_x5eikq",
-      "addedAt": "2026-03-08T02:12:29.227Z"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1985"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1772935949227_2_l6u0ye",
-      "addedAt": "2026-03-08T02:12:29.227Z"
-    },
-    {
-      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Edgar Allan Poe",
-        "Arthur Conan Doyle",
-        "Charles Dickens"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1772935949227_3_vlkcc1",
-      "addedAt": "2026-03-08T02:12:29.227Z"
-    },
-    {
-      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Arsenic"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1772935949227_4_icl8ld",
-      "addedAt": "2026-03-08T02:12:29.227Z"
-    },
-    {
-      "question": "Dans quel pays se trouve le temple d'Angkor Wat ?",
-      "options": [
-        "Thaïlande",
-        "Vietnam",
-        "Cambodge",
-        "Laos"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772935949227_5_lj508m",
-      "addedAt": "2026-03-08T02:12:29.227Z"
-    },
-    {
-      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "David Lynch",
-        "Tim Burton"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1772935949227_6_4imtkm",
-      "addedAt": "2026-03-08T02:12:29.227Z"
-    },
-    {
-      "question": "Quelle est la formule chimique de l'eau ?",
-      "options": [
-        "CO2",
-        "H2O",
-        "NaCl",
-        "CH4"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1772935949227_7_wrvh49",
-      "addedAt": "2026-03-08T02:12:29.227Z"
-    },
-    {
-      "question": "Combien d'angles droits possède un hexagone régulier ?",
-      "options": [
-        "0",
-        "2",
-        "4",
-        "6"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1772935949227_8_ydyc00",
-      "addedAt": "2026-03-08T02:12:29.227Z"
-    },
-    {
-      "question": "Aux Jeux Olympiques, combien d'anneaux composent le logo officiel ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1772935949227_9_w7e4pl",
-      "addedAt": "2026-03-08T02:12:29.227Z"
-    },
-    {
-      "question": "Quelle technologie permet de créer des objets tridimensionnels couche par couche ?",
-      "options": [
-        "La réalité virtuelle",
-        "L'impression 3D",
-        "La robotique",
-        "L'intelligence artificielle"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1772935949227_10_byak85",
-      "addedAt": "2026-03-08T02:12:29.227Z"
     }
   ],
   "poolSize": 100
