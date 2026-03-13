@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel océan sépare l'Australie de l'Amérique du Sud ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Arctique",
+        "Océan Pacifique"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1773360495637_0_3m8xrf",
+      "addedAt": "2026-03-13T00:08:15.637Z"
+    },
+    {
+      "question": "Qui était le pharaon qui a fait construire la Grande Pyramide de Gizeh ?",
+      "options": [
+        "Khéops",
+        "Ramsès II",
+        "Toutânkhamon",
+        "Cléopâtre"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1773360495637_1_uk1s5k",
+      "addedAt": "2026-03-13T00:08:15.637Z"
+    },
+    {
+      "question": "Quel gaz compose environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1773360495637_2_cfr1ly",
+      "addedAt": "2026-03-13T00:08:15.637Z"
+    },
+    {
+      "question": "Dans quelle mythologie trouve-t-on le dieu Thor ?",
+      "options": [
+        "Mythologie grecque",
+        "Mythologie romaine",
+        "Mythologie nordique",
+        "Mythologie égyptienne"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1773360495637_3_6e0zkl",
+      "addedAt": "2026-03-13T00:08:15.637Z"
+    },
+    {
+      "question": "Quel mouvement artistique était dirigé par Andy Warhol ?",
+      "options": [
+        "Impressionnisme",
+        "Surréalisme",
+        "Pop Art",
+        "Cubisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1773360495637_4_a3hxdh",
+      "addedAt": "2026-03-13T00:08:15.637Z"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Alexandre Dumas"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1773360495637_5_je3u7x",
+      "addedAt": "2026-03-13T00:08:15.637Z"
+    },
+    {
+      "question": "Quel animal peut changer de couleur pour se camoufler ?",
+      "options": [
+        "Iguane",
+        "Gecko",
+        "Caméléon",
+        "Lézard"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1773360495637_6_577b81",
+      "addedAt": "2026-03-13T00:08:15.637Z"
+    },
+    {
+      "question": "Quel compositeur a écrit 'Les Quatre Saisons' ?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Vivaldi",
+        "Beethoven"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1773360495637_7_cu07bh",
+      "addedAt": "2026-03-13T00:08:15.637Z"
+    },
+    {
+      "question": "Quel acteur principal joue dans la saga 'Matrix' ?",
+      "options": [
+        "Brad Pitt",
+        "Keanu Reeves",
+        "Tom Cruise",
+        "Will Smith"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1773360495637_8_kpigq0",
+      "addedAt": "2026-03-13T00:08:15.637Z"
+    },
+    {
+      "question": "Dans quel pays se trouve la ville de Petra ?",
+      "options": [
+        "Égypte",
+        "Syrie",
+        "Jordanie",
+        "Liban"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1773360495637_9_3unynn",
+      "addedAt": "2026-03-13T00:08:15.637Z"
+    },
+    {
+      "question": "Quelle révolution a commencé en France en 1789 ?",
+      "options": [
+        "Révolution industrielle",
+        "Révolution française",
+        "Révolution de 1848",
+        "Révolution russe"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1773360495637_10_96u4cm",
+      "addedAt": "2026-03-13T00:08:15.637Z"
+    },
+    {
       "question": "Quelle civilisation a construit le Machu Picchu ?",
       "options": [
         "Les Aztèques",
@@ -1156,7 +1299,12 @@
       "category": "Musique",
       "id": "q_1773016275459_10_h9sv7s",
       "addedAt": "2026-03-09T00:31:15.459Z"
-    },
+    }
+  ],
+  "version": 72,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-13T00:08:15.637Z",
+  "archivedQuestions": [
     {
       "question": "Quelle est la capitale du Canada ?",
       "options": [
@@ -1299,193 +1447,6 @@
       "category": "Technologie",
       "id": "q_1772935949227_10_byak85",
       "addedAt": "2026-03-08T02:12:29.227Z"
-    }
-  ],
-  "version": 71,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-12T02:12:04.538Z",
-  "archivedQuestions": [
-    {
-      "question": "Dans quelle mer se trouve l'archipel des Baléares ?",
-      "options": [
-        "Mer Adriatique",
-        "Mer Égée",
-        "Mer Méditerranée",
-        "Mer Noire"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772929542037_0_x0uz15",
-      "addedAt": "2026-03-08T00:25:42.037Z"
-    },
-    {
-      "question": "Qui a composé 'La Symphonie du Nouveau Monde' ?",
-      "options": [
-        "Beethoven",
-        "Mozart",
-        "Dvorak",
-        "Brahms"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1772929542037_1_4ku66c",
-      "addedAt": "2026-03-08T00:25:42.037Z"
-    },
-    {
-      "question": "Quel empereur romain a légalisé le christianisme ?",
-      "options": [
-        "Jules César",
-        "Auguste",
-        "Constantin",
-        "Néron"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1772929542037_2_vceh8e",
-      "addedAt": "2026-03-08T00:25:42.037Z"
-    },
-    {
-      "question": "Dans quel pays se trouve la ville de Marrakech ?",
-      "options": [
-        "Algérie",
-        "Tunisie",
-        "Maroc",
-        "Égypte"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772929542037_3_nlhczd",
-      "addedAt": "2026-03-08T00:25:42.037Z"
-    },
-    {
-      "question": "Qui a écrit le roman '1984' ?",
-      "options": [
-        "Aldous Huxley",
-        "Ray Bradbury",
-        "George Orwell",
-        "H.G. Wells"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1772929542037_4_dwipn8",
-      "addedAt": "2026-03-08T00:25:42.037Z"
-    },
-    {
-      "question": "Dans quelle ville se trouve le musée du Prado ?",
-      "options": [
-        "Barcelone",
-        "Madrid",
-        "Séville",
-        "Valence"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1772929542037_5_9g7wev",
-      "addedAt": "2026-03-08T00:25:42.037Z"
-    },
-    {
-      "question": "Quel est le plat national du Pérou à base de poisson cru ?",
-      "options": [
-        "Sushi",
-        "Ceviche",
-        "Carpaccio",
-        "Tartare"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1772929542037_6_grkzqq",
-      "addedAt": "2026-03-08T00:25:42.037Z"
-    },
-    {
-      "question": "Quelle est la plus petite unité de données en informatique ?",
-      "options": [
-        "Byte",
-        "Bit",
-        "Kilobyte",
-        "Pixel"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1772929542037_7_fqz6u7",
-      "addedAt": "2026-03-08T00:25:42.037Z"
-    },
-    {
-      "question": "Sur quel continent se trouve le désert du Kalahari ?",
-      "options": [
-        "Asie",
-        "Australie",
-        "Afrique",
-        "Amérique du Sud"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1772929542037_8_lnc29z",
-      "addedAt": "2026-03-08T00:25:42.037Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1772848949990_0_zrkl6a",
-      "addedAt": "2026-03-07T02:02:29.990Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1772848949990_1_eeeq4w",
-      "addedAt": "2026-03-07T02:02:29.990Z"
-    },
-    {
-      "question": "En quelle année a eu lieu la Révolution française ?",
-      "options": [
-        "1789",
-        "1792",
-        "1799",
-        "1804"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1772848949990_2_9cfi52",
-      "addedAt": "2026-03-07T02:02:29.990Z"
-    },
-    {
-      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
-      "options": [
-        "Brésil",
-        "Allemagne",
-        "France",
-        "Argentine"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1772848949990_3_98w49z",
-      "addedAt": "2026-03-07T02:02:29.990Z"
-    },
-    {
-      "question": "Quel artiste a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Salvador Dalí"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1772848949990_4_hi4c5x",
-      "addedAt": "2026-03-07T02:02:29.990Z"
     }
   ],
   "poolSize": 100
