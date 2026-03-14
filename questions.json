@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a créé le personnage d'Arsène Lupin ?",
+      "options": [
+        "Émile Zola",
+        "Maurice Leblanc",
+        "Alexandre Dumas",
+        "Gaston Leroux"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1773446677032_0_ic36tk",
+      "addedAt": "2026-03-14T00:04:37.032Z"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on une épée, un fleuret ou un sabre ?",
+      "options": [
+        "Escrime",
+        "Kendo",
+        "Boxe",
+        "Judo"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1773446677032_1_uq383m",
+      "addedAt": "2026-03-14T00:04:37.032Z"
+    },
+    {
+      "question": "Quel gaz compose principalement l'atmosphère de Jupiter ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Hydrogène",
+        "Méthane"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1773446677032_2_qtobqh",
+      "addedAt": "2026-03-14T00:04:37.032Z"
+    },
+    {
+      "question": "Dans quelle région française produit-on le Roquefort ?",
+      "options": [
+        "Provence",
+        "Aveyron",
+        "Normandie",
+        "Bourgogne"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1773446677032_3_o3btre",
+      "addedAt": "2026-03-14T00:04:37.032Z"
+    },
+    {
+      "question": "Quel courant artistique a été fondé par André Breton ?",
+      "options": [
+        "Cubisme",
+        "Impressionnisme",
+        "Surréalisme",
+        "Fauvisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1773446677032_4_w73i2n",
+      "addedAt": "2026-03-14T00:04:37.032Z"
+    },
+    {
+      "question": "Quel animal est le symbole national de la Nouvelle-Zélande ?",
+      "options": [
+        "Kangourou",
+        "Kiwi",
+        "Koala",
+        "Wombat"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1773446677032_5_egh1tn",
+      "addedAt": "2026-03-14T00:04:37.032Z"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1773446677032_6_4s6neu",
+      "addedAt": "2026-03-14T00:04:37.032Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé la trilogie 'Le Seigneur des Anneaux' ?",
+      "options": [
+        "Steven Spielberg",
+        "Peter Jackson",
+        "Christopher Nolan",
+        "Ridley Scott"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1773446677032_7_7bisoo",
+      "addedAt": "2026-03-14T00:04:37.032Z"
+    },
+    {
+      "question": "Quelle est la devise de l'Union Européenne ?",
+      "options": [
+        "Liberté, Égalité, Fraternité",
+        "Unis dans la diversité",
+        "Un pour tous, tous pour un",
+        "Force et honneur"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1773446677032_8_66k5kj",
+      "addedAt": "2026-03-14T00:04:37.032Z"
+    },
+    {
+      "question": "Quel protocole internet utilise le port 443 par défaut ?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1773446677032_9_iflhbj",
+      "addedAt": "2026-03-14T00:04:37.032Z"
+    },
+    {
+      "question": "Combien de joueurs compose une équipe de rugby à XV sur le terrain ?",
+      "options": [
+        "13",
+        "15",
+        "17",
+        "11"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1773446677032_10_0tslop",
+      "addedAt": "2026-03-14T00:04:37.032Z"
+    },
+    {
       "question": "Quelle est la capitale de l'Australie ?",
       "options": [
         "Sydney",
@@ -1156,7 +1299,12 @@
       "category": "Sport",
       "id": "q_1773103454835_6_r7v55q",
       "addedAt": "2026-03-10T00:44:14.835Z"
-    },
+    }
+  ],
+  "version": 74,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-14T00:04:37.033Z",
+  "archivedQuestions": [
     {
       "question": "Quelle épice donne sa couleur jaune au curry et au safran ?",
       "options": [
@@ -1299,167 +1447,6 @@
       "category": "Cinéma",
       "id": "q_1773022410106_5_cpg31w",
       "addedAt": "2026-03-09T02:13:30.106Z"
-    }
-  ],
-  "version": 73,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-13T02:09:25.034Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de pattes possède une araignée ?",
-      "options": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1773022410106_6_t351ci",
-      "addedAt": "2026-03-09T02:13:30.106Z"
-    },
-    {
-      "question": "Quel est le plus grand désert chaud du monde ?",
-      "options": [
-        "Désert de Gobi",
-        "Désert du Sahara",
-        "Désert de Kalahari",
-        "Désert d'Atacama"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1773016275459_0_uppi1e",
-      "addedAt": "2026-03-09T00:31:15.459Z"
-    },
-    {
-      "question": "Dans quelle ville se déroule l'action du film 'Casablanca' ?",
-      "options": [
-        "Marrakech",
-        "Casablanca",
-        "Alger",
-        "Tunis"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1773016275459_1_87147p",
-      "addedAt": "2026-03-09T00:31:15.459Z"
-    },
-    {
-      "question": "Quel sport pratique-t-on à Wimbledon ?",
-      "options": [
-        "Golf",
-        "Cricket",
-        "Tennis",
-        "Rugby"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1773016275459_2_0zqvmr",
-      "addedAt": "2026-03-09T00:31:15.459Z"
-    },
-    {
-      "question": "Qui a peint 'Guernica' ?",
-      "options": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Joan Miró",
-        "Francisco Goya"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1773016275459_3_t8tfx8",
-      "addedAt": "2026-03-09T00:31:15.459Z"
-    },
-    {
-      "question": "Quel mammifère est capable de voler ?",
-      "options": [
-        "L'écureuil volant",
-        "La chauve-souris",
-        "Le polatouche",
-        "Le phalanger"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1773016275459_4_pyumsa",
-      "addedAt": "2026-03-09T00:31:15.459Z"
-    },
-    {
-      "question": "En quelle année a été créé le World Wide Web ?",
-      "options": [
-        "1989",
-        "1991",
-        "1993",
-        "1995"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1773016275459_5_brhwgt",
-      "addedAt": "2026-03-09T00:31:15.459Z"
-    },
-    {
-      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
-      "options": [
-        "Le camembert",
-        "Le roquefort",
-        "Le brie",
-        "Le comté"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1773016275459_6_w69yaq",
-      "addedAt": "2026-03-09T00:31:15.459Z"
-    },
-    {
-      "question": "Qui a écrit 'Le Petit Prince' ?",
-      "options": [
-        "Jules Verne",
-        "Antoine de Saint-Exupéry",
-        "Marcel Proust",
-        "Albert Camus"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1773016275459_7_b3vzq1",
-      "addedAt": "2026-03-09T00:31:15.459Z"
-    },
-    {
-      "question": "Quelle guerre a opposé la France et la Prusse de 1870 à 1871 ?",
-      "options": [
-        "Guerre de Crimée",
-        "Guerre de Sept Ans",
-        "Guerre franco-prussienne",
-        "Guerre de Trente Ans"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1773016275459_8_nfy98k",
-      "addedAt": "2026-03-09T00:31:15.459Z"
-    },
-    {
-      "question": "Combien de dents possède un adulte humain normalement ?",
-      "options": [
-        "28",
-        "30",
-        "32",
-        "34"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773016275459_9_bl4l2l",
-      "addedAt": "2026-03-09T00:31:15.459Z"
-    },
-    {
-      "question": "Quel instrument de musique Frédéric Chopin a-t-il principalement composé ?",
-      "options": [
-        "Violon",
-        "Piano",
-        "Violoncelle",
-        "Flûte"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1773016275459_10_h9sv7s",
-      "addedAt": "2026-03-09T00:31:15.459Z"
     }
   ],
   "poolSize": 100
