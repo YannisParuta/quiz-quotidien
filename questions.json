@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel est le nom de la ligne imaginaire qui divise la Terre en hémisphères nord et sud ?",
+      "options": [
+        "Le méridien de Greenwich",
+        "L'équateur",
+        "Le tropique du Cancer",
+        "Le cercle polaire arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1773454049639_0_zuqa73",
+      "addedAt": "2026-03-14T02:07:29.639Z"
+    },
+    {
+      "question": "Qui a inventé le téléphone en 1876 ?",
+      "options": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "Guglielmo Marconi"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1773454049639_1_3yfd1l",
+      "addedAt": "2026-03-14T02:07:29.639Z"
+    },
+    {
+      "question": "Combien d'os compte le squelette d'un adulte humain ?",
+      "options": [
+        "196",
+        "206",
+        "216",
+        "226"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1773454049639_2_kfcfd5",
+      "addedAt": "2026-03-14T02:07:29.639Z"
+    },
+    {
+      "question": "Dans quel pays se trouve le Machu Picchu ?",
+      "options": [
+        "Bolivie",
+        "Équateur",
+        "Colombie",
+        "Pérou"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1773454049639_3_18c7wz",
+      "addedAt": "2026-03-14T02:07:29.639Z"
+    },
+    {
+      "question": "Qui a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Paul Cézanne",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1773454049639_4_ej8ati",
+      "addedAt": "2026-03-14T02:07:29.639Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "L'hippopotame",
+        "Le rhinocéros blanc",
+        "L'éléphant d'Afrique",
+        "Le bison d'Amérique"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1773454049639_5_qm17js",
+      "addedAt": "2026-03-14T02:07:29.639Z"
+    },
+    {
+      "question": "Dans quelle ville se déroule l'action du roman '1984' de George Orwell ?",
+      "options": [
+        "New York",
+        "Berlin",
+        "Londres",
+        "Paris"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1773454049639_6_5t1b57",
+      "addedAt": "2026-03-14T02:07:29.639Z"
+    },
+    {
+      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
+      "options": [
+        "L'argent",
+        "L'aluminium",
+        "L'or",
+        "L'arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1773454049639_7_m897rj",
+      "addedAt": "2026-03-14T02:07:29.639Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1773454049639_8_krhquz",
+      "addedAt": "2026-03-14T02:07:29.639Z"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on une raquette et un volant ?",
+      "options": [
+        "Le tennis de table",
+        "Le squash",
+        "Le badminton",
+        "Le tennis"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1773454049639_9_fh13wl",
+      "addedAt": "2026-03-14T02:07:29.639Z"
+    },
+    {
+      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
+      "options": [
+        "Le camembert",
+        "Le roquefort",
+        "Le brie",
+        "Le comté"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1773454049639_10_bibfyd",
+      "addedAt": "2026-03-14T02:07:29.639Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été créé par Linus Torvalds ?",
+      "options": [
+        "Windows",
+        "MacOS",
+        "Linux",
+        "Unix"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1773454049639_11_7k3xk3",
+      "addedAt": "2026-03-14T02:07:29.639Z"
+    },
+    {
       "question": "Quel écrivain français a créé le personnage d'Arsène Lupin ?",
       "options": [
         "Émile Zola",
@@ -1143,7 +1299,12 @@
       "category": "Musique",
       "id": "q_1773108359463_8_ks95nv",
       "addedAt": "2026-03-10T02:05:59.463Z"
-    },
+    }
+  ],
+  "version": 75,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-14T02:07:29.640Z",
+  "archivedQuestions": [
     {
       "question": "Qui a réalisé le film 'Psychose' (1960) ?",
       "options": [
@@ -1299,154 +1460,6 @@
       "category": "Sport",
       "id": "q_1773103454835_6_r7v55q",
       "addedAt": "2026-03-10T00:44:14.835Z"
-    }
-  ],
-  "version": 74,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-14T00:04:37.033Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle épice donne sa couleur jaune au curry et au safran ?",
-      "options": [
-        "Curcuma",
-        "Paprika",
-        "Safran",
-        "Gingembre"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1773103454835_7_nkb6rg",
-      "addedAt": "2026-03-10T00:44:14.835Z"
-    },
-    {
-      "question": "Quel est le nom scientifique de l'être humain ?",
-      "options": [
-        "Homo erectus",
-        "Homo habilis",
-        "Homo sapiens",
-        "Homo neanderthalensis"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773103454835_8_m3vnyf",
-      "addedAt": "2026-03-10T00:44:14.835Z"
-    },
-    {
-      "question": "Dans quelle mer se jette le Rhône ?",
-      "options": [
-        "Mer du Nord",
-        "Mer Baltique",
-        "Mer Méditerranée",
-        "Mer Noire"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1773103454835_9_az88t4",
-      "addedAt": "2026-03-10T00:44:14.835Z"
-    },
-    {
-      "question": "Quelle est l'unité de mesure de la fréquence ?",
-      "options": [
-        "Watt",
-        "Ampère",
-        "Hertz",
-        "Volt"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773103454835_10_6n1b7b",
-      "addedAt": "2026-03-10T00:44:14.835Z"
-    },
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
-      "options": [
-        "Java",
-        "Python",
-        "JavaScript",
-        "Ruby"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1773103454835_11_udtq7y",
-      "addedAt": "2026-03-10T00:44:14.835Z"
-    },
-    {
-      "question": "Quelle hormone régule le taux de sucre dans le sang ?",
-      "options": [
-        "L'adrénaline",
-        "L'insuline",
-        "La mélatonine",
-        "Le cortisol"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1773022410106_0_u6x0y3",
-      "addedAt": "2026-03-09T02:13:30.106Z"
-    },
-    {
-      "question": "Dans quelle ville se trouve la Sagrada Familia ?",
-      "options": [
-        "Madrid",
-        "Séville",
-        "Barcelone",
-        "Valence"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1773022410106_1_kzu26a",
-      "addedAt": "2026-03-09T02:13:30.106Z"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Paul Cézanne",
-        "Henri Matisse"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1773022410106_2_kdjot7",
-      "addedAt": "2026-03-09T02:13:30.106Z"
-    },
-    {
-      "question": "Dans quel sport excelle Serena Williams ?",
-      "options": [
-        "Le golf",
-        "Le tennis",
-        "L'athlétisme",
-        "La natation"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1773022410106_3_odk6vy",
-      "addedAt": "2026-03-09T02:13:30.106Z"
-    },
-    {
-      "question": "De quel pays provient la cuisine sushi ?",
-      "options": [
-        "La Chine",
-        "La Corée",
-        "La Thaïlande",
-        "Le Japon"
-      ],
-      "correctAnswer": 3,
-      "category": "Gastronomie",
-      "id": "q_1773022410106_4_0syrl0",
-      "addedAt": "2026-03-09T02:13:30.106Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "David Lynch",
-        "Steven Spielberg"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1773022410106_5_cpg31w",
-      "addedAt": "2026-03-09T02:13:30.106Z"
     }
   ],
   "poolSize": 100
