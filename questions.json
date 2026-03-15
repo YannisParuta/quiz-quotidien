@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel élément chimique a pour symbole 'Au' ?",
+      "options": [
+        "Argent",
+        "Or",
+        "Aluminium",
+        "Arsenic"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1773535722687_0_104enh",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
+      "question": "Dans quelle ville se trouve le célèbre musée du Prado ?",
+      "options": [
+        "Barcelone",
+        "Madrid",
+        "Séville",
+        "Valence"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1773535722687_1_2om0cz",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
+      "question": "Quel écrivain français a créé le personnage de Jean Valjean ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1773535722687_2_idlbdv",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
+      "question": "Quelle mer sépare l'Europe de l'Afrique ?",
+      "options": [
+        "Mer Rouge",
+        "Mer Noire",
+        "Mer Méditerranée",
+        "Mer Baltique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1773535722687_3_ux7sh7",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "Francis Ford Coppola"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1773535722687_4_poh8q2",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
+      "question": "Quelle planète est surnommée la 'planète rouge' ?",
+      "options": [
+        "Vénus",
+        "Jupiter",
+        "Mars",
+        "Saturne"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1773535722687_5_zf4g02",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
+      "question": "Dans quel sport évolue-t-on avec une raquette et un volant ?",
+      "options": [
+        "Tennis",
+        "Squash",
+        "Badminton",
+        "Tennis de table"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1773535722687_6_4xshyw",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
+      "question": "Quel est le résultat de 15 × 8 ?",
+      "options": [
+        "110",
+        "115",
+        "120",
+        "125"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1773535722687_7_7ujd6i",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
+      "question": "De quel pays provient la danse traditionnelle du flamenco ?",
+      "options": [
+        "Portugal",
+        "Italie",
+        "Espagne",
+        "Grèce"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1773535722687_8_pq10bt",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
+      "question": "Quel mammifère volant utilise l'écholocation pour se déplacer ?",
+      "options": [
+        "L'écureuil volant",
+        "Le polatouche",
+        "La chauve-souris",
+        "Le colibri"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1773535722687_9_o14utr",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
+      "question": "Quel fromage italien est traditionnellement utilisé sur les pizzas ?",
+      "options": [
+        "Parmesan",
+        "Gorgonzola",
+        "Mozzarella",
+        "Ricotta"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1773535722687_10_ks4zor",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
+      "question": "Quel système d'exploitation mobile a été développé par Google ?",
+      "options": [
+        "iOS",
+        "Windows Phone",
+        "Android",
+        "BlackBerry"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1773535722687_11_m8aa4p",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a créé 'La Nuit étoilée' ?",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Van Gogh",
+        "Mondrian"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1773535722687_12_r0azen",
+      "addedAt": "2026-03-15T00:48:42.687Z"
+    },
+    {
       "question": "Quel est le nom de la ligne imaginaire qui divise la Terre en hémisphères nord et sud ?",
       "options": [
         "Le méridien de Greenwich",
@@ -1130,7 +1299,12 @@
       "category": "Sport",
       "id": "q_1773190004875_5_zujl08",
       "addedAt": "2026-03-11T00:46:44.875Z"
-    },
+    }
+  ],
+  "version": 76,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-15T00:48:42.688Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le nom scientifique de l'ours polaire ?",
       "options": [
@@ -1299,167 +1473,6 @@
       "category": "Musique",
       "id": "q_1773108359463_8_ks95nv",
       "addedAt": "2026-03-10T02:05:59.463Z"
-    }
-  ],
-  "version": 75,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-14T02:07:29.640Z",
-  "archivedQuestions": [
-    {
-      "question": "Qui a réalisé le film 'Psychose' (1960) ?",
-      "options": [
-        "Stanley Kubrick",
-        "Alfred Hitchcock",
-        "Orson Welles",
-        "Billy Wilder"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1773108359463_9_xifl8o",
-      "addedAt": "2026-03-10T02:05:59.463Z"
-    },
-    {
-      "question": "Quel langage de programmation porte le nom d'un serpent ?",
-      "options": [
-        "Java",
-        "Ruby",
-        "Python",
-        "Swift"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1773108359463_10_dpxvtv",
-      "addedAt": "2026-03-10T02:05:59.463Z"
-    },
-    {
-      "question": "Quelle chaîne de montagnes sépare l'Europe de l'Asie ?",
-      "options": [
-        "Caucase",
-        "Carpates",
-        "Oural",
-        "Altaï"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1773108359463_11_s97l53",
-      "addedAt": "2026-03-10T02:05:59.463Z"
-    },
-    {
-      "question": "En quelle année a été signé le traité de Versailles ?",
-      "options": [
-        "1918",
-        "1919",
-        "1920",
-        "1921"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1773108359463_12_z9frn0",
-      "addedAt": "2026-03-10T02:05:59.463Z"
-    },
-    {
-      "question": "Quel type de cellules sanguines transporte l'oxygène ?",
-      "options": [
-        "Globules blancs",
-        "Plaquettes",
-        "Globules rouges",
-        "Plasma"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773108359463_13_m39ee4",
-      "addedAt": "2026-03-10T02:05:59.463Z"
-    },
-    {
-      "question": "Quel fleuve traverse la ville de Prague ?",
-      "options": [
-        "Danube",
-        "Vltava",
-        "Elbe",
-        "Oder"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1773103454835_0_60ji5v",
-      "addedAt": "2026-03-10T00:44:14.835Z"
-    },
-    {
-      "question": "Qui a découvert la pénicilline en 1928 ?",
-      "options": [
-        "Louis Pasteur",
-        "Marie Curie",
-        "Alexander Fleming",
-        "Robert Koch"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773103454835_1_elyd1n",
-      "addedAt": "2026-03-10T00:44:14.835Z"
-    },
-    {
-      "question": "Quelle dynastie a régné en France de 987 à 1328 ?",
-      "options": [
-        "Les Mérovingiens",
-        "Les Carolingiens",
-        "Les Capétiens",
-        "Les Valois"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1773103454835_2_1hnbvh",
-      "addedAt": "2026-03-10T00:44:14.835Z"
-    },
-    {
-      "question": "Dans quelle ville italienne se déroule l'action de 'Roméo et Juliette' ?",
-      "options": [
-        "Venise",
-        "Florence",
-        "Vérone",
-        "Milan"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1773103454835_3_u83nut",
-      "addedAt": "2026-03-10T00:44:14.835Z"
-    },
-    {
-      "question": "Quel instrument Yo-Yo Ma joue-t-il virtuosement ?",
-      "options": [
-        "Violon",
-        "Alto",
-        "Violoncelle",
-        "Contrebasse"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1773103454835_4_5lshyl",
-      "addedAt": "2026-03-10T00:44:14.835Z"
-    },
-    {
-      "question": "Quelle vitamine est principalement synthétisée par la peau lors d'exposition au soleil ?",
-      "options": [
-        "Vitamine A",
-        "Vitamine C",
-        "Vitamine D",
-        "Vitamine E"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773103454835_5_pn3tzi",
-      "addedAt": "2026-03-10T00:44:14.835Z"
-    },
-    {
-      "question": "Dans quel sport excelle Novak Djokovic ?",
-      "options": [
-        "Badminton",
-        "Tennis de table",
-        "Tennis",
-        "Squash"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1773103454835_6_r7v55q",
-      "addedAt": "2026-03-10T00:44:14.835Z"
     }
   ],
   "poolSize": 100
