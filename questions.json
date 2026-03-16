@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "En quelle année l'homme a-t-il posé le pied sur la Lune pour la première fois ?",
+      "options": [
+        "1967",
+        "1969",
+        "1971",
+        "1973"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1773628407600_0_btgv22",
+      "addedAt": "2026-03-16T02:33:27.600Z"
+    },
+    {
+      "question": "Quel romancier français a écrit 'Le Comte de Monte-Cristo' ?",
+      "options": [
+        "Alexandre Dumas",
+        "Gustave Flaubert",
+        "Émile Zola",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 0,
+      "category": "Littérature",
+      "id": "q_1773628407600_1_c6ruaa",
+      "addedAt": "2026-03-16T02:33:27.600Z"
+    },
+    {
+      "question": "Quelle entreprise a créé l'iPhone ?",
+      "options": [
+        "Samsung",
+        "Google",
+        "Microsoft",
+        "Apple"
+      ],
+      "correctAnswer": 3,
+      "category": "Technologie",
+      "id": "q_1773628407600_2_uqrmyn",
+      "addedAt": "2026-03-16T02:33:27.600Z"
+    },
+    {
+      "question": "Dans quel film trouve-t-on le personnage de Jack Sparrow ?",
+      "options": [
+        "Titanic",
+        "Pirates des Caraïbes",
+        "Gladiator",
+        "Avatar"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1773628407600_3_8gn2ft",
+      "addedAt": "2026-03-16T02:33:27.600Z"
+    },
+    {
+      "question": "Quel instrument Frédéric Chopin jouait-il principalement ?",
+      "options": [
+        "Violon",
+        "Piano",
+        "Guitare",
+        "Flûte"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1773628407600_4_ytkn73",
+      "addedAt": "2026-03-16T02:33:27.600Z"
+    },
+    {
+      "question": "De quel pays provient la pizza margherita ?",
+      "options": [
+        "France",
+        "Espagne",
+        "Grèce",
+        "Italie"
+      ],
+      "correctAnswer": 3,
+      "category": "Gastronomie",
+      "id": "q_1773628407600_5_6mr3kj",
+      "addedAt": "2026-03-16T02:33:27.600Z"
+    },
+    {
+      "question": "Quel empire a construit le Colisée ?",
+      "options": [
+        "Empire grec",
+        "Empire byzantin",
+        "Empire romain",
+        "Empire ottoman"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1773628407600_6_kxy44j",
+      "addedAt": "2026-03-16T02:33:27.600Z"
+    },
+    {
+      "question": "Quelle est la vitesse de la lumière dans le vide ?",
+      "options": [
+        "200 000 km/s",
+        "300 000 km/s",
+        "400 000 km/s",
+        "250 000 km/s"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1773628407600_7_rxxsb1",
+      "addedAt": "2026-03-16T02:33:27.600Z"
+    },
+    {
       "question": "Quelle mer se trouve entre l'Italie et la Croatie ?",
       "options": [
         "Mer Tyrrhénienne",
@@ -1195,7 +1299,12 @@
       "category": "Technologie",
       "id": "q_1773281524537_10_d14td5",
       "addedAt": "2026-03-12T02:12:04.537Z"
-    },
+    }
+  ],
+  "version": 79,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-16T02:33:27.600Z",
+  "archivedQuestions": [
     {
       "question": "Quelle épice donne sa couleur jaune au curry ?",
       "options": [
@@ -1299,154 +1408,6 @@
       "category": "Géographie",
       "id": "q_1773277049954_4_0gmu8u",
       "addedAt": "2026-03-12T00:57:29.954Z"
-    }
-  ],
-  "version": 78,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-16T00:33:58.259Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel empire a construit le célèbre site de Angkor Vat au Cambodge ?",
-      "options": [
-        "Empire khmer",
-        "Empire siamois",
-        "Empire birman",
-        "Empire vietnamien"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1773277049954_5_b7wt8b",
-      "addedAt": "2026-03-12T00:57:29.954Z"
-    },
-    {
-      "question": "Combien de minutes dure une mi-temps au rugby à XV ?",
-      "options": [
-        "35 minutes",
-        "40 minutes",
-        "45 minutes",
-        "50 minutes"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1773277049954_6_tt3bhs",
-      "addedAt": "2026-03-12T00:57:29.954Z"
-    },
-    {
-      "question": "Dans quelle unité mesure-t-on la résistance électrique ?",
-      "options": [
-        "Volt",
-        "Ampère",
-        "Ohm",
-        "Watt"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773277049954_7_9i9vvx",
-      "addedAt": "2026-03-12T00:57:29.954Z"
-    },
-    {
-      "question": "Quel pays d'Amérique du Sud est célèbre pour ses steaks et son tango ?",
-      "options": [
-        "Chili",
-        "Uruguay",
-        "Argentine",
-        "Colombie"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1773277049954_8_biz34q",
-      "addedAt": "2026-03-12T00:57:29.954Z"
-    },
-    {
-      "question": "Quel mammifère marin utilise l'écholocation pour se déplacer et chasser ?",
-      "options": [
-        "Baleine bleue",
-        "Phoque",
-        "Dauphin",
-        "Dugong"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1773277049954_9_clkkuv",
-      "addedAt": "2026-03-12T00:57:29.954Z"
-    },
-    {
-      "question": "Dans quelle décennie a été inventé le World Wide Web ?",
-      "options": [
-        "Années 1970",
-        "Années 1980",
-        "Années 1990",
-        "Années 2000"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1773277049954_10_8urado",
-      "addedAt": "2026-03-12T00:57:29.954Z"
-    },
-    {
-      "question": "Quel océan borde la côte ouest de l'Amérique du Sud ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1773194740356_0_430077",
-      "addedAt": "2026-03-11T02:05:40.357Z"
-    },
-    {
-      "question": "Qui a composé 'Les Quatre Saisons' ?",
-      "options": [
-        "Bach",
-        "Mozart",
-        "Vivaldi",
-        "Beethoven"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1773194740357_1_urw6y7",
-      "addedAt": "2026-03-11T02:05:40.357Z"
-    },
-    {
-      "question": "Quel mammifère marin possède une défense en forme de spirale ?",
-      "options": [
-        "Morse",
-        "Narval",
-        "Orque",
-        "Béluga"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1773194740357_2_r4st0s",
-      "addedAt": "2026-03-11T02:05:40.357Z"
-    },
-    {
-      "question": "Quel réalisateur japonais a créé le film 'Mon voisin Totoro' ?",
-      "options": [
-        "Akira Kurosawa",
-        "Hayao Miyazaki",
-        "Takeshi Kitano",
-        "Mamoru Hosoda"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1773194740357_3_l9w91i",
-      "addedAt": "2026-03-11T02:05:40.357Z"
-    },
-    {
-      "question": "Quelle est la racine carrée de 144 ?",
-      "options": [
-        "11",
-        "12",
-        "13",
-        "14"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1773194740357_4_3iz1nu",
-      "addedAt": "2026-03-11T02:05:40.357Z"
     }
   ],
   "poolSize": 100
