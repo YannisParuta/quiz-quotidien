@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+      "options": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1773706384680_0_f39i8c",
+      "addedAt": "2026-03-17T00:13:04.680Z"
+    },
+    {
+      "question": "Quel est le sport national du Japon ?",
+      "options": [
+        "Karaté",
+        "Judo",
+        "Sumo",
+        "Kendo"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1773706384680_1_konnze",
+      "addedAt": "2026-03-17T00:13:04.680Z"
+    },
+    {
+      "question": "Quel architecte a conçu la Tour Eiffel ?",
+      "options": [
+        "Gustave Eiffel",
+        "Le Corbusier",
+        "Auguste Rodin",
+        "Haussmann"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1773706384680_2_1vud5r",
+      "addedAt": "2026-03-17T00:13:04.680Z"
+    },
+    {
+      "question": "Dans quelle ville se déroule l'action de 'Roméo et Juliette' de Shakespeare ?",
+      "options": [
+        "Venise",
+        "Rome",
+        "Florence",
+        "Vérone"
+      ],
+      "correctAnswer": 3,
+      "category": "Littérature",
+      "id": "q_1773706384680_3_1vskt7",
+      "addedAt": "2026-03-17T00:13:04.680Z"
+    },
+    {
+      "question": "Quel est l'ingrédient principal du guacamole ?",
+      "options": [
+        "Tomate",
+        "Avocat",
+        "Concombre",
+        "Courgette"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1773706384680_4_2y7jnz",
+      "addedAt": "2026-03-17T00:13:04.680Z"
+    },
+    {
+      "question": "Combien de dents possède un adulte humain en bonne santé ?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1773706384680_5_h2ckhj",
+      "addedAt": "2026-03-17T00:13:04.680Z"
+    },
+    {
+      "question": "Quel fleuve traverse la ville de Paris ?",
+      "options": [
+        "La Loire",
+        "Le Rhône",
+        "La Garonne",
+        "La Seine"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1773706384680_6_srtjm4",
+      "addedAt": "2026-03-17T00:13:04.680Z"
+    },
+    {
+      "question": "Quel animal est le symbole de la marque Peugeot ?",
+      "options": [
+        "Lion",
+        "Tigre",
+        "Léopard",
+        "Jaguar"
+      ],
+      "correctAnswer": 0,
+      "category": "Culture",
+      "id": "q_1773706384680_7_c63cy8",
+      "addedAt": "2026-03-17T00:13:04.680Z"
+    },
+    {
+      "question": "Dans quel pays a été inventé le volleyball ?",
+      "options": [
+        "Brésil",
+        "États-Unis",
+        "Russie",
+        "Italie"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1773706384680_8_zhz6qh",
+      "addedAt": "2026-03-17T00:13:04.680Z"
+    },
+    {
       "question": "En quelle année l'homme a-t-il posé le pied sur la Lune pour la première fois ?",
       "options": [
         "1967",
@@ -1182,7 +1299,12 @@
       "category": "Science",
       "id": "q_1773281524537_1_r4disu",
       "addedAt": "2026-03-12T02:12:04.537Z"
-    },
+    }
+  ],
+  "version": 80,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-17T00:13:04.680Z",
+  "archivedQuestions": [
     {
       "question": "Quel pays a inventé le tango ?",
       "options": [
@@ -1299,115 +1421,6 @@
       "category": "Technologie",
       "id": "q_1773281524537_10_d14td5",
       "addedAt": "2026-03-12T02:12:04.537Z"
-    }
-  ],
-  "version": 79,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-16T02:33:27.600Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle épice donne sa couleur jaune au curry ?",
-      "options": [
-        "Le safran",
-        "Le curcuma",
-        "Le paprika",
-        "La cannelle"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1773281524537_11_duhblb",
-      "addedAt": "2026-03-12T02:12:04.537Z"
-    },
-    {
-      "question": "Dans quelle chaîne de montagnes se trouve l'Everest ?",
-      "options": [
-        "Les Andes",
-        "Les Alpes",
-        "L'Himalaya",
-        "Les Rocheuses"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1773281524537_12_ly347w",
-      "addedAt": "2026-03-12T02:12:04.537Z"
-    },
-    {
-      "question": "Quelle planète du système solaire possède le plus de lunes ?",
-      "options": [
-        "Jupiter",
-        "Saturne",
-        "Uranus",
-        "Neptune"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1773281524537_13_3de07x",
-      "addedAt": "2026-03-12T02:12:04.537Z"
-    },
-    {
-      "question": "Quelle planète du système solaire possède le plus grand nombre de lunes confirmées ?",
-      "options": [
-        "Jupiter",
-        "Saturne",
-        "Uranus",
-        "Neptune"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1773277049954_0_dc2wzu",
-      "addedAt": "2026-03-12T00:57:29.954Z"
-    },
-    {
-      "question": "Dans quelle ville italienne se déroule l'action de 'Roméo et Juliette' de Shakespeare ?",
-      "options": [
-        "Venise",
-        "Florence",
-        "Vérone",
-        "Rome"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1773277049954_1_p7youg",
-      "addedAt": "2026-03-12T00:57:29.954Z"
-    },
-    {
-      "question": "Quel fleuve traverse la capitale de l'Autriche ?",
-      "options": [
-        "Le Rhin",
-        "Le Danube",
-        "L'Elbe",
-        "La Moldau"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1773277049954_2_ycxyw8",
-      "addedAt": "2026-03-12T00:57:29.954Z"
-    },
-    {
-      "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
-      "options": [
-        "Le Corbusier",
-        "Antoni Gaudí",
-        "Frank Gehry",
-        "Zaha Hadid"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1773277049954_3_baxoui",
-      "addedAt": "2026-03-12T00:57:29.954Z"
-    },
-    {
-      "question": "Dans quel océan se trouvent les îles Maldives ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1773277049954_4_0gmu8u",
-      "addedAt": "2026-03-12T00:57:29.954Z"
     }
   ],
   "poolSize": 100
