@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Dans quelle unité mesure-t-on la puissance d'un moteur ?",
+      "options": [
+        "Watt",
+        "Ampère",
+        "Volt",
+        "Joule"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie",
+      "id": "q_1773800654353_9_3e3kb7",
+      "addedAt": "2026-03-18T02:24:14.354Z"
+    },
+    {
+      "question": "Quel écrivain a rédigé 'L'Étranger' ?",
+      "options": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "André Malraux",
+        "Antoine de Saint-Exupéry"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1773800654354_10_k8esse",
+      "addedAt": "2026-03-18T02:24:14.354Z"
+    },
+    {
+      "question": "Quel mammifère marin utilise l'écholocation pour naviguer ?",
+      "options": [
+        "Baleine bleue",
+        "Dauphin",
+        "Phoque",
+        "Dugong"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1773800654354_11_445z34",
+      "addedAt": "2026-03-18T02:24:14.354Z"
+    },
+    {
+      "question": "Dans quel pays a été inventé le badminton moderne ?",
+      "options": [
+        "Chine",
+        "Inde",
+        "Angleterre",
+        "Danemark"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1773800654354_12_ae4lue",
+      "addedAt": "2026-03-18T02:24:14.354Z"
+    },
+    {
+      "question": "Quelle mer sépare l'Italie de la Grèce ?",
+      "options": [
+        "Mer Adriatique",
+        "Mer Ionienne",
+        "Mer Égée",
+        "Mer Tyrrhénienne"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1773800654353_0_ssugvd",
+      "addedAt": "2026-03-18T02:24:14.353Z"
+    },
+    {
+      "question": "Qui a découvert la pénicilline en 1928 ?",
+      "options": [
+        "Louis Pasteur",
+        "Marie Curie",
+        "Alexander Fleming",
+        "Robert Koch"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1773800654353_1_vcmi8o",
+      "addedAt": "2026-03-18T02:24:14.353Z"
+    },
+    {
+      "question": "Dans quelle ville africaine Nelson Mandela a-t-il été emprisonné ?",
+      "options": [
+        "Johannesburg",
+        "Le Cap",
+        "Robben Island",
+        "Durban"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1773800654353_2_qc3ost",
+      "addedAt": "2026-03-18T02:24:14.353Z"
+    },
+    {
+      "question": "Quel instrument de musique Frédéric Chopin maîtrisait-il particulièrement ?",
+      "options": [
+        "Violon",
+        "Piano",
+        "Violoncelle",
+        "Harpe"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1773800654353_3_feza1b",
+      "addedAt": "2026-03-18T02:24:14.353Z"
+    },
+    {
+      "question": "Quelle vitamine est principalement synthétisée par l'exposition au soleil ?",
+      "options": [
+        "Vitamine A",
+        "Vitamine C",
+        "Vitamine D",
+        "Vitamine E"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1773800654353_4_rqu1fu",
+      "addedAt": "2026-03-18T02:24:14.353Z"
+    },
+    {
+      "question": "Dans quel océan se trouve l'archipel des Maldives ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1773800654353_5_datzx0",
+      "addedAt": "2026-03-18T02:24:14.353Z"
+    },
+    {
+      "question": "Quel réalisateur a créé le film 'Psychose' en 1960 ?",
+      "options": [
+        "Stanley Kubrick",
+        "Alfred Hitchcock",
+        "Orson Welles",
+        "Billy Wilder"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1773800654353_6_5js366",
+      "addedAt": "2026-03-18T02:24:14.353Z"
+    },
+    {
+      "question": "Combien de chambres possède le cœur humain ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1773800654353_7_vry4gk",
+      "addedAt": "2026-03-18T02:24:14.353Z"
+    },
+    {
+      "question": "Quelle civilisation a construit les pyramides de Teotihuacan au Mexique ?",
+      "options": [
+        "Aztèques",
+        "Mayas",
+        "Olmèques",
+        "Teotihuacains"
+      ],
+      "correctAnswer": 3,
+      "category": "Histoire",
+      "id": "q_1773800654353_8_ucot10",
+      "addedAt": "2026-03-18T02:24:14.353Z"
+    },
+    {
       "question": "Combien de pattes possède une araignée ?",
       "options": [
         "6",
@@ -1130,7 +1299,12 @@
       "category": "Sport",
       "id": "q_1773446677032_1_uq383m",
       "addedAt": "2026-03-14T00:04:37.032Z"
-    },
+    }
+  ],
+  "version": 83,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-18T02:24:14.354Z",
+  "archivedQuestions": [
     {
       "question": "Quel gaz compose principalement l'atmosphère de Jupiter ?",
       "options": [
@@ -1299,141 +1473,6 @@
       "category": "Mathématiques",
       "id": "q_1773367765034_3_8ab08u",
       "addedAt": "2026-03-13T02:09:25.034Z"
-    }
-  ],
-  "version": 82,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-18T00:06:28.472Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus petit os du corps humain ?",
-      "options": [
-        "L'étrier",
-        "Le marteau",
-        "L'enclume",
-        "La rotule"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1773367765034_4_5dltn0",
-      "addedAt": "2026-03-13T02:09:25.034Z"
-    },
-    {
-      "question": "Qui a écrit 'L'Étranger' ?",
-      "options": [
-        "Jean-Paul Sartre",
-        "Albert Camus",
-        "André Malraux",
-        "Simone de Beauvoir"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1773367765034_5_tggk2c",
-      "addedAt": "2026-03-13T02:09:25.034Z"
-    },
-    {
-      "question": "Combien de fuseaux horaires traversent la Russie ?",
-      "options": [
-        "9",
-        "11",
-        "13",
-        "15"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1773367765034_6_w3q2ki",
-      "addedAt": "2026-03-13T02:09:25.034Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la saga 'Star Wars' ?",
-      "options": [
-        "Steven Spielberg",
-        "George Lucas",
-        "Ridley Scott",
-        "James Cameron"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1773367765034_7_550mgi",
-      "addedAt": "2026-03-13T02:09:25.034Z"
-    },
-    {
-      "question": "Quel mammifère marin possède la plus grande cervelle ?",
-      "options": [
-        "La baleine bleue",
-        "Le cachalot",
-        "L'orque",
-        "Le dauphin"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1773367765034_8_tx1g5m",
-      "addedAt": "2026-03-13T02:09:25.034Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle commencé ?",
-      "options": [
-        "1789",
-        "1792",
-        "1791",
-        "1788"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1773367765034_9_f68zsg",
-      "addedAt": "2026-03-13T02:09:25.034Z"
-    },
-    {
-      "question": "Quel langage de balisage est utilisé pour créer des pages web ?",
-      "options": [
-        "CSS",
-        "JavaScript",
-        "HTML",
-        "PHP"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1773367765034_10_768lzg",
-      "addedAt": "2026-03-13T02:09:25.034Z"
-    },
-    {
-      "question": "Quelle pâtisserie française est traditionnellement consommée à l'Épiphanie ?",
-      "options": [
-        "La bûche de Noël",
-        "La galette des rois",
-        "Le croquembouche",
-        "La tarte Tatin"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1773367765034_11_sitg8r",
-      "addedAt": "2026-03-13T02:09:25.034Z"
-    },
-    {
-      "question": "Quel océan sépare l'Australie de l'Amérique du Sud ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Indien",
-        "Océan Arctique",
-        "Océan Pacifique"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1773360495637_0_3m8xrf",
-      "addedAt": "2026-03-13T00:08:15.637Z"
-    },
-    {
-      "question": "Qui était le pharaon qui a fait construire la Grande Pyramide de Gizeh ?",
-      "options": [
-        "Khéops",
-        "Ramsès II",
-        "Toutânkhamon",
-        "Cléopâtre"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1773360495637_1_uk1s5k",
-      "addedAt": "2026-03-13T00:08:15.637Z"
     }
   ],
   "poolSize": 100
