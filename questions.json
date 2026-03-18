@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Combien de pattes possède une araignée ?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1773792388472_0_pxsefr",
+      "addedAt": "2026-03-18T00:06:28.472Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a peint 'La Jeune Fille à la perle' ?",
+      "options": [
+        "Rembrandt",
+        "Van Gogh",
+        "Vermeer",
+        "Mondrian"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1773792388472_1_nejzsf",
+      "addedAt": "2026-03-18T00:06:28.472Z"
+    },
+    {
+      "question": "Dans quel pays a été inventé le tango ?",
+      "options": [
+        "Espagne",
+        "Mexique",
+        "Argentine",
+        "Brésil"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1773792388472_2_8zerd3",
+      "addedAt": "2026-03-18T00:06:28.472Z"
+    },
+    {
+      "question": "Quelle guerre a opposé les États-Unis au Vietnam ?",
+      "options": [
+        "1945-1954",
+        "1955-1975",
+        "1960-1973",
+        "1965-1973"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1773792388472_3_017cha",
+      "addedAt": "2026-03-18T00:06:28.472Z"
+    },
+    {
+      "question": "Quel est le résultat de 7 au carré ?",
+      "options": [
+        "14",
+        "42",
+        "49",
+        "56"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1773792388472_4_n5evce",
+      "addedAt": "2026-03-18T00:06:28.472Z"
+    },
+    {
+      "question": "Dans quel film Marilyn Monroe chante-t-elle 'Happy Birthday' au président Kennedy ?",
+      "options": [
+        "Ce n'était pas dans un film",
+        "Some Like It Hot",
+        "The Seven Year Itch",
+        "Gentlemen Prefer Blondes"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1773792388472_5_20xwcr",
+      "addedAt": "2026-03-18T00:06:28.472Z"
+    },
+    {
+      "question": "Quelle épice donne sa couleur jaune au curry ?",
+      "options": [
+        "Le safran",
+        "Le curcuma",
+        "Le gingembre",
+        "La cardamome"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1773792388472_6_2g52du",
+      "addedAt": "2026-03-18T00:06:28.472Z"
+    },
+    {
+      "question": "Combien de temps dure une mi-temps au football ?",
+      "options": [
+        "40 minutes",
+        "45 minutes",
+        "50 minutes",
+        "60 minutes"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1773792388472_7_vb9opn",
+      "addedAt": "2026-03-18T00:06:28.472Z"
+    },
+    {
+      "question": "Quel inventeur a créé la première ampoule électrique commercialisable ?",
+      "options": [
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Benjamin Franklin"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1773792388472_8_7rx8ys",
+      "addedAt": "2026-03-18T00:06:28.472Z"
+    },
+    {
+      "question": "Quel continent abrite le plus grand nombre d'espèces d'oiseaux ?",
+      "options": [
+        "Afrique",
+        "Asie",
+        "Amérique du Sud",
+        "Amérique du Nord"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1773792388472_9_guie2s",
+      "addedAt": "2026-03-18T00:06:28.472Z"
+    },
+    {
       "question": "Quel philosophe grec a fondé l'Académie d'Athènes ?",
       "options": [
         "Aristote",
@@ -1169,7 +1299,12 @@
       "category": "Mathématiques",
       "id": "q_1773367765034_3_8ab08u",
       "addedAt": "2026-03-13T02:09:25.034Z"
-    },
+    }
+  ],
+  "version": 82,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-18T00:06:28.472Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le plus petit os du corps humain ?",
       "options": [
@@ -1299,154 +1434,6 @@
       "category": "Histoire",
       "id": "q_1773360495637_1_uk1s5k",
       "addedAt": "2026-03-13T00:08:15.637Z"
-    }
-  ],
-  "version": 81,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-17T02:12:11.449Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel gaz compose environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Azote",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773360495637_2_cfr1ly",
-      "addedAt": "2026-03-13T00:08:15.637Z"
-    },
-    {
-      "question": "Dans quelle mythologie trouve-t-on le dieu Thor ?",
-      "options": [
-        "Mythologie grecque",
-        "Mythologie romaine",
-        "Mythologie nordique",
-        "Mythologie égyptienne"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1773360495637_3_6e0zkl",
-      "addedAt": "2026-03-13T00:08:15.637Z"
-    },
-    {
-      "question": "Quel mouvement artistique était dirigé par Andy Warhol ?",
-      "options": [
-        "Impressionnisme",
-        "Surréalisme",
-        "Pop Art",
-        "Cubisme"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1773360495637_4_a3hxdh",
-      "addedAt": "2026-03-13T00:08:15.637Z"
-    },
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Alexandre Dumas"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1773360495637_5_je3u7x",
-      "addedAt": "2026-03-13T00:08:15.637Z"
-    },
-    {
-      "question": "Quel animal peut changer de couleur pour se camoufler ?",
-      "options": [
-        "Iguane",
-        "Gecko",
-        "Caméléon",
-        "Lézard"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1773360495637_6_577b81",
-      "addedAt": "2026-03-13T00:08:15.637Z"
-    },
-    {
-      "question": "Quel compositeur a écrit 'Les Quatre Saisons' ?",
-      "options": [
-        "Bach",
-        "Mozart",
-        "Vivaldi",
-        "Beethoven"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1773360495637_7_cu07bh",
-      "addedAt": "2026-03-13T00:08:15.637Z"
-    },
-    {
-      "question": "Quel acteur principal joue dans la saga 'Matrix' ?",
-      "options": [
-        "Brad Pitt",
-        "Keanu Reeves",
-        "Tom Cruise",
-        "Will Smith"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1773360495637_8_kpigq0",
-      "addedAt": "2026-03-13T00:08:15.637Z"
-    },
-    {
-      "question": "Dans quel pays se trouve la ville de Petra ?",
-      "options": [
-        "Égypte",
-        "Syrie",
-        "Jordanie",
-        "Liban"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1773360495637_9_3unynn",
-      "addedAt": "2026-03-13T00:08:15.637Z"
-    },
-    {
-      "question": "Quelle révolution a commencé en France en 1789 ?",
-      "options": [
-        "Révolution industrielle",
-        "Révolution française",
-        "Révolution de 1848",
-        "Révolution russe"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1773360495637_10_96u4cm",
-      "addedAt": "2026-03-13T00:08:15.637Z"
-    },
-    {
-      "question": "Quelle civilisation a construit le Machu Picchu ?",
-      "options": [
-        "Les Aztèques",
-        "Les Mayas",
-        "Les Incas",
-        "Les Olmèques"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1773281524537_0_atiwnb",
-      "addedAt": "2026-03-12T02:12:04.537Z"
-    },
-    {
-      "question": "Combien de chambres possède le cœur humain ?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773281524537_1_r4disu",
-      "addedAt": "2026-03-12T02:12:04.537Z"
     }
   ],
   "poolSize": 100
