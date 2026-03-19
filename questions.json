@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
+      "options": [
+        "Traité de Versailles",
+        "Traité de Trianon",
+        "Traité de Sèvres",
+        "Traité de Saint-Germain"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1773887109354_0_wooxys",
+      "addedAt": "2026-03-19T02:25:09.354Z"
+    },
+    {
+      "question": "Combien de chromosomes possède l'être humain ?",
+      "options": [
+        "44",
+        "46",
+        "48",
+        "42"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1773887109354_1_fau9vx",
+      "addedAt": "2026-03-19T02:25:09.354Z"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on un palet ?",
+      "options": [
+        "Curling",
+        "Hockey sur glace",
+        "Pétanque",
+        "Bowling"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1773887109354_2_h1mkyd",
+      "addedAt": "2026-03-19T02:25:09.354Z"
+    },
+    {
+      "question": "Quel fleuve traverse Londres ?",
+      "options": [
+        "La Seine",
+        "La Tamise",
+        "Le Danube",
+        "Le Rhin"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1773887109354_3_j1fi10",
+      "addedAt": "2026-03-19T02:25:09.354Z"
+    },
+    {
+      "question": "Quel mathématicien a formulé le théorème célèbre a² + b² = c² ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1773887109354_4_dmsexa",
+      "addedAt": "2026-03-19T02:25:09.354Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la saga 'Star Wars' ?",
+      "options": [
+        "Steven Spielberg",
+        "George Lucas",
+        "Martin Scorsese",
+        "Francis Ford Coppola"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1773887109354_5_g2vshj",
+      "addedAt": "2026-03-19T02:25:09.354Z"
+    },
+    {
+      "question": "Quelle est la durée de gestation d'un éléphant ?",
+      "options": [
+        "12 mois",
+        "18 mois",
+        "22 mois",
+        "15 mois"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1773887109354_6_6ngd2d",
+      "addedAt": "2026-03-19T02:25:09.354Z"
+    },
+    {
+      "question": "Dans quelle langue a été écrit le 'Don Quichotte' ?",
+      "options": [
+        "Italien",
+        "Portugais",
+        "Espagnol",
+        "Français"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1773887109354_7_13opa4",
+      "addedAt": "2026-03-19T02:25:09.354Z"
+    },
+    {
+      "question": "Quel gaz compose principalement l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Dioxyde de carbone",
+        "Argon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1773887109354_8_kn0fts",
+      "addedAt": "2026-03-19T02:25:09.354Z"
+    },
+    {
+      "question": "Qui a peint 'La Persistance de la mémoire' avec les montres molles ?",
+      "options": [
+        "Picasso",
+        "Dalí",
+        "Magritte",
+        "Miró"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1773887109354_9_x7cdk9",
+      "addedAt": "2026-03-19T02:25:09.354Z"
+    },
+    {
+      "question": "Quel langage de programmation utilise le symbole '#' pour les commentaires ?",
+      "options": [
+        "Java",
+        "C++",
+        "Python",
+        "JavaScript"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1773887109354_10_boitbq",
+      "addedAt": "2026-03-19T02:25:09.354Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1773887109354_11_t3dqoc",
+      "addedAt": "2026-03-19T02:25:09.354Z"
+    },
+    {
       "question": "Quelle est la capitale de l'Australie ?",
       "options": [
         "Sydney",
@@ -1143,7 +1299,12 @@
       "category": "Géographie",
       "id": "q_1773535722687_3_ux7sh7",
       "addedAt": "2026-03-15T00:48:42.687Z"
-    },
+    }
+  ],
+  "version": 85,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-19T02:25:09.355Z",
+  "archivedQuestions": [
     {
       "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
       "options": [
@@ -1299,154 +1460,6 @@
       "category": "Science",
       "id": "q_1773454049639_2_kfcfd5",
       "addedAt": "2026-03-14T02:07:29.639Z"
-    }
-  ],
-  "version": 84,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-19T00:34:04.489Z",
-  "archivedQuestions": [
-    {
-      "question": "Dans quel pays se trouve le Machu Picchu ?",
-      "options": [
-        "Bolivie",
-        "Équateur",
-        "Colombie",
-        "Pérou"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1773454049639_3_18c7wz",
-      "addedAt": "2026-03-14T02:07:29.639Z"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Paul Cézanne",
-        "Edgar Degas"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1773454049639_4_ej8ati",
-      "addedAt": "2026-03-14T02:07:29.639Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "L'hippopotame",
-        "Le rhinocéros blanc",
-        "L'éléphant d'Afrique",
-        "Le bison d'Amérique"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1773454049639_5_qm17js",
-      "addedAt": "2026-03-14T02:07:29.639Z"
-    },
-    {
-      "question": "Dans quelle ville se déroule l'action du roman '1984' de George Orwell ?",
-      "options": [
-        "New York",
-        "Berlin",
-        "Londres",
-        "Paris"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1773454049639_6_5t1b57",
-      "addedAt": "2026-03-14T02:07:29.639Z"
-    },
-    {
-      "question": "Quel est l'élément chimique dont le symbole est 'Au' ?",
-      "options": [
-        "L'argent",
-        "L'aluminium",
-        "L'or",
-        "L'arsenic"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773454049639_7_m897rj",
-      "addedAt": "2026-03-14T02:07:29.639Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1773454049639_8_krhquz",
-      "addedAt": "2026-03-14T02:07:29.639Z"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on une raquette et un volant ?",
-      "options": [
-        "Le tennis de table",
-        "Le squash",
-        "Le badminton",
-        "Le tennis"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1773454049639_9_fh13wl",
-      "addedAt": "2026-03-14T02:07:29.639Z"
-    },
-    {
-      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
-      "options": [
-        "Le camembert",
-        "Le roquefort",
-        "Le brie",
-        "Le comté"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1773454049639_10_bibfyd",
-      "addedAt": "2026-03-14T02:07:29.639Z"
-    },
-    {
-      "question": "Quel système d'exploitation a été créé par Linus Torvalds ?",
-      "options": [
-        "Windows",
-        "MacOS",
-        "Linux",
-        "Unix"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1773454049639_11_7k3xk3",
-      "addedAt": "2026-03-14T02:07:29.639Z"
-    },
-    {
-      "question": "Quel écrivain français a créé le personnage d'Arsène Lupin ?",
-      "options": [
-        "Émile Zola",
-        "Maurice Leblanc",
-        "Alexandre Dumas",
-        "Gaston Leroux"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1773446677032_0_ic36tk",
-      "addedAt": "2026-03-14T00:04:37.032Z"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on une épée, un fleuret ou un sabre ?",
-      "options": [
-        "Escrime",
-        "Kendo",
-        "Boxe",
-        "Judo"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1773446677032_1_uq383m",
-      "addedAt": "2026-03-14T00:04:37.032Z"
     }
   ],
   "poolSize": 100
