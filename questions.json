@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel océan borde la côte ouest de l'Amérique du Sud ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1774058711488_0_v22d39",
+      "addedAt": "2026-03-21T02:05:11.488Z"
+    },
+    {
+      "question": "Dans quelle ville italienne se trouve la Chapelle Sixtine ?",
+      "options": [
+        "Rome",
+        "Florence",
+        "Venise",
+        "Milan"
+      ],
+      "correctAnswer": 0,
+      "category": "Culture",
+      "id": "q_1774058711488_1_yv1iq5",
+      "addedAt": "2026-03-21T02:05:11.488Z"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1774058711488_2_t49zh3",
+      "addedAt": "2026-03-21T02:05:11.488Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Van Gogh",
+        "Mondrian"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1774058711488_3_7dd6i3",
+      "addedAt": "2026-03-21T02:05:11.488Z"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1774058711488_4_ta073q",
+      "addedAt": "2026-03-21T02:05:11.488Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros",
+        "Hippopotame",
+        "Éléphant d'Afrique",
+        "Girafe"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1774058711488_5_jelt22",
+      "addedAt": "2026-03-21T02:05:11.488Z"
+    },
+    {
+      "question": "Combien vaut π (pi) approximativement ?",
+      "options": [
+        "3,14",
+        "2,71",
+        "1,41",
+        "1,73"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1774058711488_6_eem1x5",
+      "addedAt": "2026-03-21T02:05:11.488Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit 'La Flûte enchantée' ?",
+      "options": [
+        "Beethoven",
+        "Bach",
+        "Mozart",
+        "Haydn"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1774058711488_7_7x9lr1",
+      "addedAt": "2026-03-21T02:05:11.488Z"
+    },
+    {
+      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
+      "options": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "C++"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1774058711488_8_fglemp",
+      "addedAt": "2026-03-21T02:05:11.488Z"
+    },
+    {
+      "question": "Quelle pâte est traditionnellement utilisée pour faire les raviolis ?",
+      "options": [
+        "Pâte feuilletée",
+        "Pâte brisée",
+        "Pâte à nouilles fraîches",
+        "Pâte sablée"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1774058711488_9_601wpk",
+      "addedAt": "2026-03-21T02:05:11.488Z"
+    },
+    {
+      "question": "Quel empire a construit le Machu Picchu ?",
+      "options": [
+        "Empire Aztèque",
+        "Empire Maya",
+        "Empire Inca",
+        "Empire Olmèque"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1774058711488_10_bx7j7a",
+      "addedAt": "2026-03-21T02:05:11.488Z"
+    },
+    {
+      "question": "Quelle est l'unité de mesure de la résistance électrique ?",
+      "options": [
+        "Volt",
+        "Ampère",
+        "Watt",
+        "Ohm"
+      ],
+      "correctAnswer": 3,
+      "category": "Science",
+      "id": "q_1774058711488_11_9tuzp0",
+      "addedAt": "2026-03-21T02:05:11.488Z"
+    },
+    {
       "question": "Dans quelle ville se trouve le célèbre musée du Louvre ?",
       "options": [
         "Londres",
@@ -1143,7 +1299,12 @@
       "category": "Art",
       "id": "q_1773706384680_2_1vud5r",
       "addedAt": "2026-03-17T00:13:04.680Z"
-    },
+    }
+  ],
+  "version": 89,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-21T02:05:11.488Z",
+  "archivedQuestions": [
     {
       "question": "Dans quelle ville se déroule l'action de 'Roméo et Juliette' de Shakespeare ?",
       "options": [
@@ -1299,115 +1460,6 @@
       "category": "Gastronomie",
       "id": "q_1773628407600_5_6mr3kj",
       "addedAt": "2026-03-16T02:33:27.600Z"
-    }
-  ],
-  "version": 88,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-21T00:58:10.590Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel empire a construit le Colisée ?",
-      "options": [
-        "Empire grec",
-        "Empire byzantin",
-        "Empire romain",
-        "Empire ottoman"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1773628407600_6_kxy44j",
-      "addedAt": "2026-03-16T02:33:27.600Z"
-    },
-    {
-      "question": "Quelle est la vitesse de la lumière dans le vide ?",
-      "options": [
-        "200 000 km/s",
-        "300 000 km/s",
-        "400 000 km/s",
-        "250 000 km/s"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1773628407600_7_rxxsb1",
-      "addedAt": "2026-03-16T02:33:27.600Z"
-    },
-    {
-      "question": "Quelle mer se trouve entre l'Italie et la Croatie ?",
-      "options": [
-        "Mer Tyrrhénienne",
-        "Mer Adriatique",
-        "Mer Ionienne",
-        "Mer Égée"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1773621238258_0_a0o8eh",
-      "addedAt": "2026-03-16T00:33:58.258Z"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de volley-ball sur le terrain ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1773621238258_1_8tehje",
-      "addedAt": "2026-03-16T00:33:58.258Z"
-    },
-    {
-      "question": "Quel courant artistique André Breton a-t-il fondé ?",
-      "options": [
-        "Le Dadaïsme",
-        "Le Surréalisme",
-        "L'Expressionnisme",
-        "Le Fauvisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1773621238258_2_otqvkl",
-      "addedAt": "2026-03-16T00:33:58.258Z"
-    },
-    {
-      "question": "Quel est le plus grand désert chaud du monde ?",
-      "options": [
-        "Désert de Gobi",
-        "Désert du Sahara",
-        "Désert d'Atacama",
-        "Désert de Mojave"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1773621238258_3_6yr9ot",
-      "addedAt": "2026-03-16T00:33:58.258Z"
-    },
-    {
-      "question": "Combien font 7 × 8 ?",
-      "options": [
-        "54",
-        "56",
-        "58",
-        "64"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1773621238258_4_fxywz4",
-      "addedAt": "2026-03-16T00:33:58.258Z"
-    },
-    {
-      "question": "Quel compositeur a créé 'La Flûte enchantée' ?",
-      "options": [
-        "Beethoven",
-        "Mozart",
-        "Bach",
-        "Chopin"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1773621238258_5_8j8ie5",
-      "addedAt": "2026-03-16T00:33:58.258Z"
     }
   ],
   "poolSize": 100
