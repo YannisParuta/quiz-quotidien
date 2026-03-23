@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1967",
+        "1968",
+        "1969",
+        "1970"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1774232770920_0_kbqmnw",
+      "addedAt": "2026-03-23T02:26:10.920Z"
+    },
+    {
+      "question": "Qui a écrit le roman '1984' ?",
+      "options": [
+        "Aldous Huxley",
+        "George Orwell",
+        "Ray Bradbury",
+        "Isaac Asimov"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1774232770920_1_zaqqnd",
+      "addedAt": "2026-03-23T02:26:10.920Z"
+    },
+    {
+      "question": "Combien de faces possède un dodécaèdre ?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "20"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1774232770920_2_ufzq6m",
+      "addedAt": "2026-03-23T02:26:10.920Z"
+    },
+    {
+      "question": "Quel animal peut tourner sa tête à 270 degrés ?",
+      "options": [
+        "Le hibou",
+        "L'aigle",
+        "Le flamant rose",
+        "Le caméléon"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1774232770920_3_jxerzu",
+      "addedAt": "2026-03-23T02:26:10.920Z"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on une crosse ?",
+      "options": [
+        "Polo",
+        "Cricket",
+        "Hockey",
+        "Lacrosse"
+      ],
+      "correctAnswer": 3,
+      "category": "Sport",
+      "id": "q_1774232770920_4_hpid3i",
+      "addedAt": "2026-03-23T02:26:10.920Z"
+    },
+    {
+      "question": "Quel compositeur était sourd à la fin de sa vie ?",
+      "options": [
+        "Mozart",
+        "Bach",
+        "Beethoven",
+        "Chopin"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1774232770920_5_5dwc6z",
+      "addedAt": "2026-03-23T02:26:10.920Z"
+    },
+    {
+      "question": "Quel acteur a incarné Indiana Jones au cinéma ?",
+      "options": [
+        "Tom Hanks",
+        "Harrison Ford",
+        "Kevin Costner",
+        "Sean Connery"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1774232770920_6_lfquu3",
+      "addedAt": "2026-03-23T02:26:10.920Z"
+    },
+    {
+      "question": "Quelle mer borde la côte est de l'Italie ?",
+      "options": [
+        "Mer Tyrrhénienne",
+        "Mer Adriatique",
+        "Mer Ligure",
+        "Mer Ionienne"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1774232770920_7_wvkfx8",
+      "addedAt": "2026-03-23T02:26:10.920Z"
+    },
+    {
+      "question": "Quel peintre néerlandais s'est coupé l'oreille ?",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Van Gogh",
+        "Mondrian"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1774232770920_8_rulb26",
+      "addedAt": "2026-03-23T02:26:10.920Z"
+    },
+    {
       "question": "Quelle planète du système solaire possède les anneaux les plus visibles ?",
       "options": [
         "Jupiter",
@@ -1182,7 +1299,12 @@
       "category": "Science",
       "id": "q_1773880444489_7_79x632",
       "addedAt": "2026-03-19T00:34:04.489Z"
-    },
+    }
+  ],
+  "version": 93,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-23T02:26:10.922Z",
+  "archivedQuestions": [
     {
       "question": "Quel animal est le symbole du parti démocrate américain ?",
       "options": [
@@ -1299,141 +1421,6 @@
       "category": "Science",
       "id": "q_1773800654353_1_vcmi8o",
       "addedAt": "2026-03-18T02:24:14.353Z"
-    }
-  ],
-  "version": 92,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-23T00:05:04.347Z",
-  "archivedQuestions": [
-    {
-      "question": "Dans quelle ville africaine Nelson Mandela a-t-il été emprisonné ?",
-      "options": [
-        "Johannesburg",
-        "Le Cap",
-        "Robben Island",
-        "Durban"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1773800654353_2_qc3ost",
-      "addedAt": "2026-03-18T02:24:14.353Z"
-    },
-    {
-      "question": "Quel instrument de musique Frédéric Chopin maîtrisait-il particulièrement ?",
-      "options": [
-        "Violon",
-        "Piano",
-        "Violoncelle",
-        "Harpe"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1773800654353_3_feza1b",
-      "addedAt": "2026-03-18T02:24:14.353Z"
-    },
-    {
-      "question": "Quelle vitamine est principalement synthétisée par l'exposition au soleil ?",
-      "options": [
-        "Vitamine A",
-        "Vitamine C",
-        "Vitamine D",
-        "Vitamine E"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773800654353_4_rqu1fu",
-      "addedAt": "2026-03-18T02:24:14.353Z"
-    },
-    {
-      "question": "Dans quel océan se trouve l'archipel des Maldives ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1773800654353_5_datzx0",
-      "addedAt": "2026-03-18T02:24:14.353Z"
-    },
-    {
-      "question": "Quel réalisateur a créé le film 'Psychose' en 1960 ?",
-      "options": [
-        "Stanley Kubrick",
-        "Alfred Hitchcock",
-        "Orson Welles",
-        "Billy Wilder"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1773800654353_6_5js366",
-      "addedAt": "2026-03-18T02:24:14.353Z"
-    },
-    {
-      "question": "Combien de chambres possède le cœur humain ?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773800654353_7_vry4gk",
-      "addedAt": "2026-03-18T02:24:14.353Z"
-    },
-    {
-      "question": "Quelle civilisation a construit les pyramides de Teotihuacan au Mexique ?",
-      "options": [
-        "Aztèques",
-        "Mayas",
-        "Olmèques",
-        "Teotihuacains"
-      ],
-      "correctAnswer": 3,
-      "category": "Histoire",
-      "id": "q_1773800654353_8_ucot10",
-      "addedAt": "2026-03-18T02:24:14.353Z"
-    },
-    {
-      "question": "Combien de pattes possède une araignée ?",
-      "options": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1773792388472_0_pxsefr",
-      "addedAt": "2026-03-18T00:06:28.472Z"
-    },
-    {
-      "question": "Quel peintre néerlandais a peint 'La Jeune Fille à la perle' ?",
-      "options": [
-        "Rembrandt",
-        "Van Gogh",
-        "Vermeer",
-        "Mondrian"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1773792388472_1_nejzsf",
-      "addedAt": "2026-03-18T00:06:28.472Z"
-    },
-    {
-      "question": "Dans quel pays a été inventé le tango ?",
-      "options": [
-        "Espagne",
-        "Mexique",
-        "Argentine",
-        "Brésil"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1773792388472_2_8zerd3",
-      "addedAt": "2026-03-18T00:06:28.472Z"
     }
   ],
   "poolSize": 100
