@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1774318266661_0_yeucgp",
+      "addedAt": "2026-03-24T02:11:06.661Z"
+    },
+    {
+      "question": "Quel empereur romain a légalisé le christianisme avec l'Édit de Milan ?",
+      "options": [
+        "Néron",
+        "Constantin Ier",
+        "Auguste",
+        "Trajan"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1774318266661_1_x1o3oz",
+      "addedAt": "2026-03-24T02:11:06.661Z"
+    },
+    {
+      "question": "Quel organe du corps humain produit l'insuline ?",
+      "options": [
+        "Le foie",
+        "Le pancréas",
+        "Les reins",
+        "La rate"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1774318266661_2_epnyip",
+      "addedAt": "2026-03-24T02:11:06.661Z"
+    },
+    {
+      "question": "Dans la mythologie grecque, qui est le messager des dieux ?",
+      "options": [
+        "Apollon",
+        "Hermès",
+        "Arès",
+        "Poséidon"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1774318266661_3_23audo",
+      "addedAt": "2026-03-24T02:11:06.661Z"
+    },
+    {
+      "question": "Quel mammifère marin peut retenir sa respiration le plus longtemps ?",
+      "options": [
+        "Le dauphin",
+        "L'orque",
+        "Le cachalot",
+        "La baleine bleue"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1774318266661_4_pnvstu",
+      "addedAt": "2026-03-24T02:11:06.661Z"
+    },
+    {
+      "question": "Quel compositeur a écrit 'La Flûte enchantée' ?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1774318266661_5_f4lem4",
+      "addedAt": "2026-03-24T02:11:06.661Z"
+    },
+    {
+      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+      "options": [
+        "Joker",
+        "1917",
+        "Parasite",
+        "Once Upon a Time in Hollywood"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1774318266661_6_zfywy4",
+      "addedAt": "2026-03-24T02:11:06.661Z"
+    },
+    {
+      "question": "Qu'est-ce que l'intelligence artificielle GPT signifie ?",
+      "options": [
+        "General Purpose Technology",
+        "Generative Pre-trained Transformer",
+        "Global Processing Tool",
+        "Graphic Programming Terminal"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1774318266661_7_auhbcj",
+      "addedAt": "2026-03-24T02:11:06.661Z"
+    },
+    {
+      "question": "D'où vient originellement le couscous ?",
+      "options": [
+        "Du Moyen-Orient",
+        "D'Afrique du Nord",
+        "De Turquie",
+        "D'Espagne"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1774318266661_8_9708tv",
+      "addedAt": "2026-03-24T02:11:06.661Z"
+    },
+    {
+      "question": "Quelle mer sépare l'Europe de l'Afrique ?",
+      "options": [
+        "La mer Noire",
+        "La mer Rouge",
+        "La mer Méditerranée",
+        "La mer Caspienne"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1774318266661_9_7swrns",
+      "addedAt": "2026-03-24T02:11:06.661Z"
+    },
+    {
+      "question": "En quelle année a été inventée la World Wide Web ?",
+      "options": [
+        "1989",
+        "1991",
+        "1985",
+        "1993"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie",
+      "id": "q_1774318266661_10_agi2zo",
+      "addedAt": "2026-03-24T02:11:06.661Z"
+    },
+    {
       "question": "Quelle est la devise officielle de l'Union européenne ?",
       "options": [
         "Liberté, Égalité, Fraternité",
@@ -1156,7 +1299,12 @@
       "category": "Science",
       "id": "q_1773967357085_10_fm74dr",
       "addedAt": "2026-03-20T00:42:37.085Z"
-    },
+    }
+  ],
+  "version": 95,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-24T02:11:06.662Z",
+  "archivedQuestions": [
     {
       "question": "Quel groupe de rock britannique a composé 'Bohemian Rhapsody' ?",
       "options": [
@@ -1299,141 +1447,6 @@
       "category": "Art",
       "id": "q_1773887109354_9_x7cdk9",
       "addedAt": "2026-03-19T02:25:09.354Z"
-    }
-  ],
-  "version": 94,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-24T00:04:01.088Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel langage de programmation utilise le symbole '#' pour les commentaires ?",
-      "options": [
-        "Java",
-        "C++",
-        "Python",
-        "JavaScript"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1773887109354_10_boitbq",
-      "addedAt": "2026-03-19T02:25:09.354Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1773887109354_11_t3dqoc",
-      "addedAt": "2026-03-19T02:25:09.354Z"
-    },
-    {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1773880444489_0_zdgryc",
-      "addedAt": "2026-03-19T00:34:04.489Z"
-    },
-    {
-      "question": "Qui a composé 'Les Quatre Saisons' ?",
-      "options": [
-        "Bach",
-        "Vivaldi",
-        "Mozart",
-        "Beethoven"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1773880444489_1_7xum89",
-      "addedAt": "2026-03-19T00:34:04.489Z"
-    },
-    {
-      "question": "Quel empereur romain a fait construire le Colisée ?",
-      "options": [
-        "César",
-        "Auguste",
-        "Vespasien",
-        "Néron"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1773880444489_2_8z5br2",
-      "addedAt": "2026-03-19T00:34:04.489Z"
-    },
-    {
-      "question": "Dans quel film trouve-t-on la réplique 'Que la Force soit avec toi' ?",
-      "options": [
-        "Star Trek",
-        "Star Wars",
-        "Blade Runner",
-        "Matrix"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1773880444489_3_52j7n4",
-      "addedAt": "2026-03-19T00:34:04.489Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Europe ?",
-      "options": [
-        "Danube",
-        "Rhin",
-        "Volga",
-        "Dniepr"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1773880444489_4_lqokdb",
-      "addedAt": "2026-03-19T00:34:04.489Z"
-    },
-    {
-      "question": "Qui a écrit 'L'Étranger' ?",
-      "options": [
-        "Sartre",
-        "Camus",
-        "Kafka",
-        "Proust"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1773880444489_5_ceip2i",
-      "addedAt": "2026-03-19T00:34:04.489Z"
-    },
-    {
-      "question": "Quel sport se joue avec un palet sur la glace ?",
-      "options": [
-        "Curling",
-        "Hockey",
-        "Patinage",
-        "Bobsleigh"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1773880444489_6_abd9jr",
-      "addedAt": "2026-03-19T00:34:04.489Z"
-    },
-    {
-      "question": "Quelle est la formule chimique de l'eau ?",
-      "options": [
-        "CO2",
-        "H2O",
-        "NaCl",
-        "O2"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1773880444489_7_79x632",
-      "addedAt": "2026-03-19T00:34:04.489Z"
     }
   ],
   "poolSize": 100
