@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quelle est la devise officielle de l'Union européenne ?",
+      "options": [
+        "Liberté, Égalité, Fraternité",
+        "Unie dans la diversité",
+        "E pluribus unum",
+        "In varietate concordia"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1774310641087_0_p94kcs",
+      "addedAt": "2026-03-24T00:04:01.087Z"
+    },
+    {
+      "question": "Qui était le pharaon d'Égypte lors de la construction de la Grande Pyramide de Gizeh ?",
+      "options": [
+        "Ramsès II",
+        "Toutânkhamon",
+        "Khéops",
+        "Cléopâtre"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1774310641087_1_1lnwul",
+      "addedAt": "2026-03-24T00:04:01.087Z"
+    },
+    {
+      "question": "Dans la mythologie grecque, qui est le dieu des océans ?",
+      "options": [
+        "Zeus",
+        "Hadès",
+        "Poséidon",
+        "Apollon"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1774310641087_2_2viamv",
+      "addedAt": "2026-03-24T00:04:01.087Z"
+    },
+    {
+      "question": "Quel mouvement artistique Pablo Picasso a-t-il cofondé au début du XXe siècle ?",
+      "options": [
+        "Le surréalisme",
+        "L'impressionnisme",
+        "Le cubisme",
+        "Le fauvisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1774310641087_3_tuplp0",
+      "addedAt": "2026-03-24T00:04:01.087Z"
+    },
+    {
+      "question": "Quel nombre est représenté par la lettre grecque pi (π) approximativement ?",
+      "options": [
+        "2,718",
+        "3,14159",
+        "1,618",
+        "2,236"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1774310641087_4_4974i9",
+      "addedAt": "2026-03-24T00:04:01.087Z"
+    },
+    {
+      "question": "Quel instrument Frédéric Chopin maîtrisait-il particulièrement ?",
+      "options": [
+        "Le violon",
+        "La flûte",
+        "Le piano",
+        "Le violoncelle"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1774310641087_5_s7pcvw",
+      "addedAt": "2026-03-24T00:04:01.087Z"
+    },
+    {
+      "question": "Dans quel film Alfred Hitchcock apparaît-il dans une scène d'autobus ?",
+      "options": [
+        "Psychose",
+        "Les Oiseaux",
+        "Sueurs froides",
+        "La Mort aux trousses"
+      ],
+      "correctAnswer": 3,
+      "category": "Cinéma",
+      "id": "q_1774310641087_6_abc5pw",
+      "addedAt": "2026-03-24T00:04:01.087Z"
+    },
+    {
+      "question": "Quelle entreprise a développé le premier iPhone ?",
+      "options": [
+        "Samsung",
+        "Nokia",
+        "Apple",
+        "Motorola"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1774310641087_7_z6g5wf",
+      "addedAt": "2026-03-24T00:04:01.087Z"
+    },
+    {
+      "question": "De quel pays provient originellement le sushi ?",
+      "options": [
+        "Chine",
+        "Corée",
+        "Thaïlande",
+        "Japon"
+      ],
+      "correctAnswer": 3,
+      "category": "Gastronomie",
+      "id": "q_1774310641087_8_i2uheg",
+      "addedAt": "2026-03-24T00:04:01.087Z"
+    },
+    {
+      "question": "Quelle mer sépare l'Italie de la Croatie ?",
+      "options": [
+        "Mer Tyrrhénienne",
+        "Mer Ionienne",
+        "Mer Adriatique",
+        "Mer Égée"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1774310641087_9_4pzfxx",
+      "addedAt": "2026-03-24T00:04:01.087Z"
+    },
+    {
       "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
       "options": [
         "1967",
@@ -1169,7 +1299,12 @@
       "category": "Art",
       "id": "q_1773887109354_9_x7cdk9",
       "addedAt": "2026-03-19T02:25:09.354Z"
-    },
+    }
+  ],
+  "version": 94,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-24T00:04:01.088Z",
+  "archivedQuestions": [
     {
       "question": "Quel langage de programmation utilise le symbole '#' pour les commentaires ?",
       "options": [
@@ -1299,128 +1434,6 @@
       "category": "Science",
       "id": "q_1773880444489_7_79x632",
       "addedAt": "2026-03-19T00:34:04.489Z"
-    }
-  ],
-  "version": 93,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-23T02:26:10.922Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel animal est le symbole du parti démocrate américain ?",
-      "options": [
-        "Éléphant",
-        "Aigle",
-        "Âne",
-        "Lion"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1773880444489_8_l58tbg",
-      "addedAt": "2026-03-19T00:34:04.489Z"
-    },
-    {
-      "question": "Combien font 12 au carré ?",
-      "options": [
-        "124",
-        "144",
-        "132",
-        "148"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1773880444489_9_78tsdj",
-      "addedAt": "2026-03-19T00:34:04.489Z"
-    },
-    {
-      "question": "Qui a sculpté 'Le Penseur' ?",
-      "options": [
-        "Michel-Ange",
-        "Rodin",
-        "Donatello",
-        "Bernin"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1773880444489_10_0np966",
-      "addedAt": "2026-03-19T00:34:04.489Z"
-    },
-    {
-      "question": "Dans quelle unité mesure-t-on la puissance d'un moteur ?",
-      "options": [
-        "Watt",
-        "Ampère",
-        "Volt",
-        "Joule"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1773800654353_9_3e3kb7",
-      "addedAt": "2026-03-18T02:24:14.354Z"
-    },
-    {
-      "question": "Quel écrivain a rédigé 'L'Étranger' ?",
-      "options": [
-        "Jean-Paul Sartre",
-        "Albert Camus",
-        "André Malraux",
-        "Antoine de Saint-Exupéry"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1773800654354_10_k8esse",
-      "addedAt": "2026-03-18T02:24:14.354Z"
-    },
-    {
-      "question": "Quel mammifère marin utilise l'écholocation pour naviguer ?",
-      "options": [
-        "Baleine bleue",
-        "Dauphin",
-        "Phoque",
-        "Dugong"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1773800654354_11_445z34",
-      "addedAt": "2026-03-18T02:24:14.354Z"
-    },
-    {
-      "question": "Dans quel pays a été inventé le badminton moderne ?",
-      "options": [
-        "Chine",
-        "Inde",
-        "Angleterre",
-        "Danemark"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1773800654354_12_ae4lue",
-      "addedAt": "2026-03-18T02:24:14.354Z"
-    },
-    {
-      "question": "Quelle mer sépare l'Italie de la Grèce ?",
-      "options": [
-        "Mer Adriatique",
-        "Mer Ionienne",
-        "Mer Égée",
-        "Mer Tyrrhénienne"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1773800654353_0_ssugvd",
-      "addedAt": "2026-03-18T02:24:14.353Z"
-    },
-    {
-      "question": "Qui a découvert la pénicilline en 1928 ?",
-      "options": [
-        "Louis Pasteur",
-        "Marie Curie",
-        "Alexander Fleming",
-        "Robert Koch"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1773800654353_1_vcmi8o",
-      "addedAt": "2026-03-18T02:24:14.353Z"
     }
   ],
   "poolSize": 100
