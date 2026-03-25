@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel fleuve traverse la capitale de l'Égypte ?",
+      "options": [
+        "Le Nil",
+        "L'Euphrate",
+        "Le Tigre",
+        "Le Jourdain"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1774399977967_0_p31qmn",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
+      "question": "Qui était le premier empereur romain ?",
+      "options": [
+        "Jules César",
+        "Auguste",
+        "Néron",
+        "Trajan"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1774399977967_1_kbp0yv",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
+      "question": "Quelle vitamine est principalement synthétisée par la peau grâce au soleil ?",
+      "options": [
+        "Vitamine A",
+        "Vitamine C",
+        "Vitamine D",
+        "Vitamine K"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1774399977967_2_xab0rc",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
+      "question": "Dans quelle langue a été écrit le 'Don Quichotte' ?",
+      "options": [
+        "Italien",
+        "Portugais",
+        "Français",
+        "Espagnol"
+      ],
+      "correctAnswer": 3,
+      "category": "Littérature",
+      "id": "q_1774399977967_3_jzha9u",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1774399977967_4_m3a8w1",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la saga 'Star Wars' ?",
+      "options": [
+        "Steven Spielberg",
+        "George Lucas",
+        "Ridley Scott",
+        "Francis Ford Coppola"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1774399977967_5_chg10x",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
+      "question": "Quel animal est l'emblème de l'Australie ?",
+      "options": [
+        "Le koala",
+        "Le kangourou",
+        "L'émeu",
+        "Le wombat"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1774399977967_6_704k4q",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
+      "question": "Dans quel sport pratique-t-on le 'slam dunk' ?",
+      "options": [
+        "Volleyball",
+        "Tennis",
+        "Basketball",
+        "Handball"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1774399977967_7_v7v6bt",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
+      "question": "Qui a composé 'La Flûte enchantée' ?",
+      "options": [
+        "Bach",
+        "Beethoven",
+        "Mozart",
+        "Vivaldi"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1774399977967_8_k72inn",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
+      "question": "Dans quelle mer se trouve l'île de Corse ?",
+      "options": [
+        "Mer du Nord",
+        "Mer Méditerranée",
+        "Mer Baltique",
+        "Mer Noire"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1774399977967_9_ogefb1",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
+      "question": "Quelle société a créé le processeur iPhone ?",
+      "options": [
+        "Intel",
+        "AMD",
+        "Apple",
+        "Qualcomm"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1774399977967_10_m6mqqd",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
+      "question": "Combien de faces possède un cube ?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1774399977967_11_0z5c7x",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
+      "question": "Qui a sculpté 'Le Penseur' ?",
+      "options": [
+        "Michel-Ange",
+        "Rodin",
+        "Donatello",
+        "Phidias"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1774399977967_12_ftfyjz",
+      "addedAt": "2026-03-25T00:52:57.967Z"
+    },
+    {
       "question": "Quelle est la capitale de l'Australie ?",
       "options": [
         "Sydney",
@@ -1130,7 +1299,12 @@
       "category": "Littérature",
       "id": "q_1773972644061_5_1lj643",
       "addedAt": "2026-03-20T02:10:44.061Z"
-    },
+    }
+  ],
+  "version": 96,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-25T00:52:57.967Z",
+  "archivedQuestions": [
     {
       "question": "Quel système d'exploitation Google a-t-il développé pour les smartphones ?",
       "options": [
@@ -1299,154 +1473,6 @@
       "category": "Science",
       "id": "q_1773967357085_10_fm74dr",
       "addedAt": "2026-03-20T00:42:37.085Z"
-    }
-  ],
-  "version": 95,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-24T02:11:06.662Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel groupe de rock britannique a composé 'Bohemian Rhapsody' ?",
-      "options": [
-        "The Beatles",
-        "Led Zeppelin",
-        "Queen",
-        "The Rolling Stones"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1773967357085_11_uonhfe",
-      "addedAt": "2026-03-20T00:42:37.085Z"
-    },
-    {
-      "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
-      "options": [
-        "Traité de Versailles",
-        "Traité de Trianon",
-        "Traité de Sèvres",
-        "Traité de Saint-Germain"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1773887109354_0_wooxys",
-      "addedAt": "2026-03-19T02:25:09.354Z"
-    },
-    {
-      "question": "Combien de chromosomes possède l'être humain ?",
-      "options": [
-        "44",
-        "46",
-        "48",
-        "42"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1773887109354_1_fau9vx",
-      "addedAt": "2026-03-19T02:25:09.354Z"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on un palet ?",
-      "options": [
-        "Curling",
-        "Hockey sur glace",
-        "Pétanque",
-        "Bowling"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1773887109354_2_h1mkyd",
-      "addedAt": "2026-03-19T02:25:09.354Z"
-    },
-    {
-      "question": "Quel fleuve traverse Londres ?",
-      "options": [
-        "La Seine",
-        "La Tamise",
-        "Le Danube",
-        "Le Rhin"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1773887109354_3_j1fi10",
-      "addedAt": "2026-03-19T02:25:09.354Z"
-    },
-    {
-      "question": "Quel mathématicien a formulé le théorème célèbre a² + b² = c² ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Archimède",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1773887109354_4_dmsexa",
-      "addedAt": "2026-03-19T02:25:09.354Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la saga 'Star Wars' ?",
-      "options": [
-        "Steven Spielberg",
-        "George Lucas",
-        "Martin Scorsese",
-        "Francis Ford Coppola"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1773887109354_5_g2vshj",
-      "addedAt": "2026-03-19T02:25:09.354Z"
-    },
-    {
-      "question": "Quelle est la durée de gestation d'un éléphant ?",
-      "options": [
-        "12 mois",
-        "18 mois",
-        "22 mois",
-        "15 mois"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1773887109354_6_6ngd2d",
-      "addedAt": "2026-03-19T02:25:09.354Z"
-    },
-    {
-      "question": "Dans quelle langue a été écrit le 'Don Quichotte' ?",
-      "options": [
-        "Italien",
-        "Portugais",
-        "Espagnol",
-        "Français"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1773887109354_7_13opa4",
-      "addedAt": "2026-03-19T02:25:09.354Z"
-    },
-    {
-      "question": "Quel gaz compose principalement l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Azote",
-        "Dioxyde de carbone",
-        "Argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1773887109354_8_kn0fts",
-      "addedAt": "2026-03-19T02:25:09.354Z"
-    },
-    {
-      "question": "Qui a peint 'La Persistance de la mémoire' avec les montres molles ?",
-      "options": [
-        "Picasso",
-        "Dalí",
-        "Magritte",
-        "Miró"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1773887109354_9_x7cdk9",
-      "addedAt": "2026-03-19T02:25:09.354Z"
     }
   ],
   "poolSize": 100
