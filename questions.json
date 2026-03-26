@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quelle est la monnaie officielle du Japon ?",
+      "options": [
+        "Won",
+        "Yen",
+        "Yuan",
+        "Ringgit"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1774492197602_0_3sfufq",
+      "addedAt": "2026-03-26T02:29:57.602Z"
+    },
+    {
+      "question": "Qui a composé 'Les Quatre Saisons' ?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Vivaldi",
+        "Beethoven"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1774492197602_1_yyzkb8",
+      "addedAt": "2026-03-26T02:29:57.602Z"
+    },
+    {
+      "question": "Quel est le symbole chimique de l'or ?",
+      "options": [
+        "Go",
+        "Au",
+        "Or",
+        "Ag"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1774492197602_2_84sajm",
+      "addedAt": "2026-03-26T02:29:57.602Z"
+    },
+    {
+      "question": "Dans quelle guerre s'est illustré Jeanne d'Arc ?",
+      "options": [
+        "Guerre de Cent Ans",
+        "Guerre de Trente Ans",
+        "Guerre de Succession",
+        "Première Croisade"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1774492197602_3_n1y91g",
+      "addedAt": "2026-03-26T02:29:57.602Z"
+    },
+    {
+      "question": "Dans quelle ville se trouve le musée du Prado ?",
+      "options": [
+        "Barcelone",
+        "Madrid",
+        "Séville",
+        "Valencia"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1774492197602_4_kaz6p5",
+      "addedAt": "2026-03-26T02:29:57.602Z"
+    },
+    {
+      "question": "Sur quel continent se trouve le lac Baïkal ?",
+      "options": [
+        "Europe",
+        "Asie",
+        "Amérique du Nord",
+        "Afrique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1774492197602_5_2s8cc4",
+      "addedAt": "2026-03-26T02:29:57.602Z"
+    },
+    {
+      "question": "Combien de joueurs y a-t-il dans une équipe de rugby à XV ?",
+      "options": [
+        "13",
+        "15",
+        "16",
+        "18"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1774492197602_6_4h3ztm",
+      "addedAt": "2026-03-26T02:29:57.602Z"
+    },
+    {
+      "question": "Quel peintre espagnol a peint 'Guernica' ?",
+      "options": [
+        "Dalí",
+        "Miró",
+        "Picasso",
+        "Goya"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1774492197602_7_wq7i76",
+      "addedAt": "2026-03-26T02:29:57.602Z"
+    },
+    {
+      "question": "Dans quel pays a été inventé le jeu d'échecs ?",
+      "options": [
+        "Chine",
+        "Perse",
+        "Inde",
+        "Égypte"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1774492197602_8_so9b4n",
+      "addedAt": "2026-03-26T02:29:57.602Z"
+    },
+    {
       "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
       "options": [
         "Oxygène",
@@ -1182,7 +1299,12 @@
       "category": "Mathématiques",
       "id": "q_1774140164991_6_xe42x4",
       "addedAt": "2026-03-22T00:42:44.991Z"
-    },
+    }
+  ],
+  "version": 99,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-26T02:29:57.603Z",
+  "archivedQuestions": [
     {
       "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
       "options": [
@@ -1299,154 +1421,6 @@
       "category": "Art",
       "id": "q_1774058711488_3_7dd6i3",
       "addedAt": "2026-03-21T02:05:11.488Z"
-    }
-  ],
-  "version": 98,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-26T00:46:57.502Z",
-  "archivedQuestions": [
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1774058711488_4_ta073q",
-      "addedAt": "2026-03-21T02:05:11.488Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Rhinocéros",
-        "Hippopotame",
-        "Éléphant d'Afrique",
-        "Girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1774058711488_5_jelt22",
-      "addedAt": "2026-03-21T02:05:11.488Z"
-    },
-    {
-      "question": "Combien vaut π (pi) approximativement ?",
-      "options": [
-        "3,14",
-        "2,71",
-        "1,41",
-        "1,73"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1774058711488_6_eem1x5",
-      "addedAt": "2026-03-21T02:05:11.488Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit 'La Flûte enchantée' ?",
-      "options": [
-        "Beethoven",
-        "Bach",
-        "Mozart",
-        "Haydn"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1774058711488_7_7x9lr1",
-      "addedAt": "2026-03-21T02:05:11.488Z"
-    },
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
-      "options": [
-        "Java",
-        "Python",
-        "JavaScript",
-        "C++"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1774058711488_8_fglemp",
-      "addedAt": "2026-03-21T02:05:11.488Z"
-    },
-    {
-      "question": "Quelle pâte est traditionnellement utilisée pour faire les raviolis ?",
-      "options": [
-        "Pâte feuilletée",
-        "Pâte brisée",
-        "Pâte à nouilles fraîches",
-        "Pâte sablée"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1774058711488_9_601wpk",
-      "addedAt": "2026-03-21T02:05:11.488Z"
-    },
-    {
-      "question": "Quel empire a construit le Machu Picchu ?",
-      "options": [
-        "Empire Aztèque",
-        "Empire Maya",
-        "Empire Inca",
-        "Empire Olmèque"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1774058711488_10_bx7j7a",
-      "addedAt": "2026-03-21T02:05:11.488Z"
-    },
-    {
-      "question": "Quelle est l'unité de mesure de la résistance électrique ?",
-      "options": [
-        "Volt",
-        "Ampère",
-        "Watt",
-        "Ohm"
-      ],
-      "correctAnswer": 3,
-      "category": "Science",
-      "id": "q_1774058711488_11_9tuzp0",
-      "addedAt": "2026-03-21T02:05:11.488Z"
-    },
-    {
-      "question": "Dans quelle ville se trouve le célèbre musée du Louvre ?",
-      "options": [
-        "Londres",
-        "Rome",
-        "Paris",
-        "Madrid"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1774054690590_0_uoopsv",
-      "addedAt": "2026-03-21T00:58:10.590Z"
-    },
-    {
-      "question": "Quel est l'élément chimique dont le symbole est 'Fe' ?",
-      "options": [
-        "Fluor",
-        "Fer",
-        "Francium",
-        "Fermium"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1774054690590_1_bkzfy7",
-      "addedAt": "2026-03-21T00:58:10.590Z"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on une raquette et un volant ?",
-      "options": [
-        "Tennis",
-        "Squash",
-        "Badminton",
-        "Tennis de table"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1774054690590_2_u50egq",
-      "addedAt": "2026-03-21T00:58:10.590Z"
     }
   ],
   "poolSize": 100
