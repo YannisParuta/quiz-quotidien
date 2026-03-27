@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel océan sépare l'Amérique de l'Asie ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1774569969452_0_mh5zlr",
+      "addedAt": "2026-03-27T00:06:09.452Z"
+    },
+    {
+      "question": "Qui a découvert la pénicilline en 1928 ?",
+      "options": [
+        "Louis Pasteur",
+        "Marie Curie",
+        "Alexander Fleming",
+        "Albert Einstein"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1774569969452_1_in3rzc",
+      "addedAt": "2026-03-27T00:06:09.452Z"
+    },
+    {
+      "question": "Dans quelle ville française se trouve le Palais des Papes ?",
+      "options": [
+        "Avignon",
+        "Lyon",
+        "Toulouse",
+        "Marseille"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1774569969452_2_xmk4hz",
+      "addedAt": "2026-03-27T00:06:09.452Z"
+    },
+    {
+      "question": "Quel peintre espagnol a créé le mouvement cubiste ?",
+      "options": [
+        "Salvador Dalí",
+        "Francisco Goya",
+        "Pablo Picasso",
+        "Joan Miró"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1774569969452_3_4hk51o",
+      "addedAt": "2026-03-27T00:06:09.452Z"
+    },
+    {
+      "question": "Combien de chambres possède le cœur humain ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1774569969452_4_1q1poz",
+      "addedAt": "2026-03-27T00:06:09.452Z"
+    },
+    {
+      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Edgar Allan Poe",
+        "Raymond Chandler"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1774569969452_5_arq8ff",
+      "addedAt": "2026-03-27T00:06:09.452Z"
+    },
+    {
+      "question": "Combien d'années dure une olympiade ?",
+      "options": [
+        "2 ans",
+        "3 ans",
+        "4 ans",
+        "5 ans"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1774569969452_6_d4h7no",
+      "addedAt": "2026-03-27T00:06:09.452Z"
+    },
+    {
+      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
+      "options": [
+        "Camembert",
+        "Roquefort",
+        "Brie",
+        "Comté"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1774569969452_7_cj5vqg",
+      "addedAt": "2026-03-27T00:06:09.452Z"
+    },
+    {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1774569969452_8_nn7wzj",
+      "addedAt": "2026-03-27T00:06:09.452Z"
+    },
+    {
+      "question": "Quel est le plus petit os du corps humain ?",
+      "options": [
+        "L'étrier",
+        "Le marteau",
+        "L'enclume",
+        "La rotule"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1774569969452_9_dj086m",
+      "addedAt": "2026-03-27T00:06:09.452Z"
+    },
+    {
+      "question": "Combien vaut π (pi) approximativement ?",
+      "options": [
+        "3,14",
+        "2,71",
+        "1,41",
+        "1,73"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1774569969452_10_7nnkbw",
+      "addedAt": "2026-03-27T00:06:09.452Z"
+    },
+    {
       "question": "Quelle est la monnaie officielle du Japon ?",
       "options": [
         "Won",
@@ -1156,7 +1299,12 @@
       "category": "Culture",
       "id": "q_1774146313718_4_bx218p",
       "addedAt": "2026-03-22T02:25:13.718Z"
-    },
+    }
+  ],
+  "version": 100,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-27T00:06:09.453Z",
+  "archivedQuestions": [
     {
       "question": "Combien de minutes y a-t-il dans une journée complète ?",
       "options": [
@@ -1299,128 +1447,6 @@
       "category": "Mathématiques",
       "id": "q_1774140164991_6_xe42x4",
       "addedAt": "2026-03-22T00:42:44.991Z"
-    }
-  ],
-  "version": 99,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-26T02:29:57.603Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
-      "options": [
-        "Le camembert",
-        "Le roquefort",
-        "Le brie",
-        "Le comté"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1774140164991_7_7rpk0e",
-      "addedAt": "2026-03-22T00:42:44.991Z"
-    },
-    {
-      "question": "Quel courant artistique Pablo Picasso a-t-il cofondé ?",
-      "options": [
-        "Le surréalisme",
-        "L'impressionnisme",
-        "Le cubisme",
-        "Le fauvisme"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1774140164991_8_2p3goo",
-      "addedAt": "2026-03-22T00:42:44.991Z"
-    },
-    {
-      "question": "Quelle est la plus petite unité de stockage en informatique ?",
-      "options": [
-        "Le bit",
-        "L'octet",
-        "Le kilooctet",
-        "Le mégaoctet"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1774140164991_9_5pazpl",
-      "addedAt": "2026-03-22T00:42:44.991Z"
-    },
-    {
-      "question": "Dans quel film de 1975 un requin terrorise-t-il une station balnéaire ?",
-      "options": [
-        "Alien",
-        "Les Dents de la mer",
-        "L'Exorciste",
-        "Psychose"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1774140164991_10_qj0r34",
-      "addedAt": "2026-03-22T00:42:44.991Z"
-    },
-    {
-      "question": "Quel continent ne possède aucun désert ?",
-      "options": [
-        "L'Europe",
-        "L'Amérique du Sud",
-        "L'Asie",
-        "L'Océanie"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1774140164991_11_bp4bpv",
-      "addedAt": "2026-03-22T00:42:44.991Z"
-    },
-    {
-      "question": "Quel océan borde la côte ouest de l'Amérique du Sud ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1774058711488_0_v22d39",
-      "addedAt": "2026-03-21T02:05:11.488Z"
-    },
-    {
-      "question": "Dans quelle ville italienne se trouve la Chapelle Sixtine ?",
-      "options": [
-        "Rome",
-        "Florence",
-        "Venise",
-        "Milan"
-      ],
-      "correctAnswer": 0,
-      "category": "Culture",
-      "id": "q_1774058711488_1_yv1iq5",
-      "addedAt": "2026-03-21T02:05:11.488Z"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1774058711488_2_t49zh3",
-      "addedAt": "2026-03-21T02:05:11.488Z"
-    },
-    {
-      "question": "Quel peintre néerlandais a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Rembrandt",
-        "Vermeer",
-        "Van Gogh",
-        "Mondrian"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1774058711488_3_7dd6i3",
-      "addedAt": "2026-03-21T02:05:11.488Z"
     }
   ],
   "poolSize": 100
