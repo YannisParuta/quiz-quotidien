@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "Quelle est la capitale du Brésil ?",
+      "options": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Brasília",
+        "Salvador"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1774838216870_0_aojw1a",
+      "addedAt": "2026-03-30T02:36:56.870Z"
+    },
+    {
+      "question": "Quel empereur français a été vaincu à la bataille de Waterloo ?",
+      "options": [
+        "Napoléon Ier",
+        "Louis XIV",
+        "Charlemagne",
+        "Napoléon III"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1774838216870_1_9elt3a",
+      "addedAt": "2026-03-30T02:36:56.870Z"
+    },
+    {
+      "question": "Combien font 12 × 15 ?",
+      "options": [
+        "160",
+        "180",
+        "200",
+        "220"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1774838216870_2_4kcgv1",
+      "addedAt": "2026-03-30T02:36:56.870Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit 'La Flûte enchantée' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1774838216870_3_xymgnq",
+      "addedAt": "2026-03-30T02:36:56.870Z"
+    },
+    {
+      "question": "Dans quel film trouve-t-on la réplique 'May the Force be with you' ?",
+      "options": [
+        "Star Trek",
+        "Star Wars",
+        "Blade Runner",
+        "Alien"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1774838216870_4_zyfbqg",
+      "addedAt": "2026-03-30T02:36:56.870Z"
+    },
+    {
+      "question": "Quelle entreprise a créé l'iPhone ?",
+      "options": [
+        "Samsung",
+        "Google",
+        "Apple",
+        "Microsoft"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1774838216870_5_jllihv",
+      "addedAt": "2026-03-30T02:36:56.870Z"
+    },
+    {
+      "question": "Sur quel continent se trouve le désert du Sahara ?",
+      "options": [
+        "Asie",
+        "Amérique du Sud",
+        "Afrique",
+        "Australie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1774838216870_6_9mfbf1",
+      "addedAt": "2026-03-30T02:36:56.870Z"
+    },
+    {
       "question": "Dans quelle ville italienne se trouve la chapelle Sixtine ?",
       "options": [
         "Rome",
@@ -1208,7 +1299,12 @@
       "category": "Art",
       "id": "q_1774405394574_10_gmwzt9",
       "addedAt": "2026-03-25T02:23:14.574Z"
-    },
+    }
+  ],
+  "version": 107,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-30T02:36:56.870Z",
+  "archivedQuestions": [
     {
       "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
       "options": [
@@ -1299,115 +1395,6 @@
       "category": "Cinéma",
       "id": "q_1774399977967_5_chg10x",
       "addedAt": "2026-03-25T00:52:57.967Z"
-    }
-  ],
-  "version": 106,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-30T00:31:20.669Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel animal est l'emblème de l'Australie ?",
-      "options": [
-        "Le koala",
-        "Le kangourou",
-        "L'émeu",
-        "Le wombat"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1774399977967_6_704k4q",
-      "addedAt": "2026-03-25T00:52:57.967Z"
-    },
-    {
-      "question": "Dans quel sport pratique-t-on le 'slam dunk' ?",
-      "options": [
-        "Volleyball",
-        "Tennis",
-        "Basketball",
-        "Handball"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1774399977967_7_v7v6bt",
-      "addedAt": "2026-03-25T00:52:57.967Z"
-    },
-    {
-      "question": "Qui a composé 'La Flûte enchantée' ?",
-      "options": [
-        "Bach",
-        "Beethoven",
-        "Mozart",
-        "Vivaldi"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1774399977967_8_k72inn",
-      "addedAt": "2026-03-25T00:52:57.967Z"
-    },
-    {
-      "question": "Dans quelle mer se trouve l'île de Corse ?",
-      "options": [
-        "Mer du Nord",
-        "Mer Méditerranée",
-        "Mer Baltique",
-        "Mer Noire"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1774399977967_9_ogefb1",
-      "addedAt": "2026-03-25T00:52:57.967Z"
-    },
-    {
-      "question": "Quelle société a créé le processeur iPhone ?",
-      "options": [
-        "Intel",
-        "AMD",
-        "Apple",
-        "Qualcomm"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1774399977967_10_m6mqqd",
-      "addedAt": "2026-03-25T00:52:57.967Z"
-    },
-    {
-      "question": "Combien de faces possède un cube ?",
-      "options": [
-        "4",
-        "6",
-        "8",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1774399977967_11_0z5c7x",
-      "addedAt": "2026-03-25T00:52:57.967Z"
-    },
-    {
-      "question": "Qui a sculpté 'Le Penseur' ?",
-      "options": [
-        "Michel-Ange",
-        "Rodin",
-        "Donatello",
-        "Phidias"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1774399977967_12_ftfyjz",
-      "addedAt": "2026-03-25T00:52:57.967Z"
-    },
-    {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1774318266661_0_yeucgp",
-      "addedAt": "2026-03-24T02:11:06.661Z"
     }
   ],
   "poolSize": 100
