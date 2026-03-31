@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1774915359287_0_eox1mb",
+      "addedAt": "2026-03-31T00:02:39.287Z"
+    },
+    {
+      "question": "Quel empereur romain a légalisé le christianisme avec l'Édit de Milan ?",
+      "options": [
+        "Auguste",
+        "Constantin",
+        "Néron",
+        "Trajan"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1774915359287_1_k80xw2",
+      "addedAt": "2026-03-31T00:02:39.287Z"
+    },
+    {
+      "question": "Dans quelle mythologie trouve-t-on le dieu Thor ?",
+      "options": [
+        "Grecque",
+        "Romaine",
+        "Nordique",
+        "Égyptienne"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1774915359287_2_7n1kei",
+      "addedAt": "2026-03-31T00:02:39.287Z"
+    },
+    {
+      "question": "Combien de temps dure un match de basketball NBA ?",
+      "options": [
+        "40 minutes",
+        "45 minutes",
+        "48 minutes",
+        "50 minutes"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1774915359287_3_zqiosp",
+      "addedAt": "2026-03-31T00:02:39.287Z"
+    },
+    {
+      "question": "Quel mouvement artistique Van Gogh a-t-il principalement représenté ?",
+      "options": [
+        "Impressionnisme",
+        "Post-impressionnisme",
+        "Cubisme",
+        "Surréalisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1774915359287_4_xpqa6a",
+      "addedAt": "2026-03-31T00:02:39.287Z"
+    },
+    {
+      "question": "Qui a écrit 'Le Petit Prince' ?",
+      "options": [
+        "Jules Verne",
+        "Antoine de Saint-Exupéry",
+        "Marcel Proust",
+        "Victor Hugo"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1774915359287_5_srkihs",
+      "addedAt": "2026-03-31T00:02:39.287Z"
+    },
+    {
+      "question": "Combien de faces possède un dodécaèdre ?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1774915359287_6_rs5jj7",
+      "addedAt": "2026-03-31T00:02:39.287Z"
+    },
+    {
+      "question": "Quel compositeur a écrit 'La Flûte enchantée' ?",
+      "options": [
+        "Bach",
+        "Beethoven",
+        "Mozart",
+        "Handel"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1774915359287_7_ap9y0u",
+      "addedAt": "2026-03-31T00:02:39.287Z"
+    },
+    {
+      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+      "options": [
+        "1917",
+        "Joker",
+        "Parasite",
+        "Once Upon a Time in Hollywood"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1774915359287_8_qwrsbo",
+      "addedAt": "2026-03-31T00:02:39.287Z"
+    },
+    {
+      "question": "Quelle entreprise a développé le système d'exploitation Android ?",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Samsung",
+        "Google"
+      ],
+      "correctAnswer": 3,
+      "category": "Technologie",
+      "id": "q_1774915359287_9_ts1cni",
+      "addedAt": "2026-03-31T00:02:39.287Z"
+    },
+    {
+      "question": "De quel pays est originaire le plat appelé 'paella' ?",
+      "options": [
+        "Italie",
+        "Portugal",
+        "Espagne",
+        "Grèce"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1774915359287_10_rxxxci",
+      "addedAt": "2026-03-31T00:02:39.287Z"
+    },
+    {
+      "question": "Dans quelle ville italienne se déroule l'action de 'Roméo et Juliette' de Shakespeare ?",
+      "options": [
+        "Rome",
+        "Florence",
+        "Venise",
+        "Vérone"
+      ],
+      "correctAnswer": 3,
+      "category": "Littérature",
+      "id": "q_1774915359287_11_eq0dfg",
+      "addedAt": "2026-03-31T00:02:39.287Z"
+    },
+    {
       "question": "Quelle est la capitale du Brésil ?",
       "options": [
         "São Paulo",
@@ -1143,7 +1299,12 @@
       "category": "Technologie",
       "id": "q_1774486017502_8_u1g2cb",
       "addedAt": "2026-03-26T00:46:57.502Z"
-    },
+    }
+  ],
+  "version": 108,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-31T00:02:39.287Z",
+  "archivedQuestions": [
     {
       "question": "Dans quel pays est née la danse du tango ?",
       "options": [
@@ -1299,102 +1460,6 @@
       "category": "Art",
       "id": "q_1774405394574_10_gmwzt9",
       "addedAt": "2026-03-25T02:23:14.574Z"
-    }
-  ],
-  "version": 107,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-30T02:36:56.870Z",
-  "archivedQuestions": [
-    {
-      "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
-      "options": [
-        "1490",
-        "1492",
-        "1494",
-        "1496"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1774405394573_0_p3xfla",
-      "addedAt": "2026-03-25T02:23:14.573Z"
-    },
-    {
-      "question": "Quel fleuve traverse la capitale de l'Égypte ?",
-      "options": [
-        "Le Nil",
-        "L'Euphrate",
-        "Le Tigre",
-        "Le Jourdain"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1774399977967_0_p31qmn",
-      "addedAt": "2026-03-25T00:52:57.967Z"
-    },
-    {
-      "question": "Qui était le premier empereur romain ?",
-      "options": [
-        "Jules César",
-        "Auguste",
-        "Néron",
-        "Trajan"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1774399977967_1_kbp0yv",
-      "addedAt": "2026-03-25T00:52:57.967Z"
-    },
-    {
-      "question": "Quelle vitamine est principalement synthétisée par la peau grâce au soleil ?",
-      "options": [
-        "Vitamine A",
-        "Vitamine C",
-        "Vitamine D",
-        "Vitamine K"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1774399977967_2_xab0rc",
-      "addedAt": "2026-03-25T00:52:57.967Z"
-    },
-    {
-      "question": "Dans quelle langue a été écrit le 'Don Quichotte' ?",
-      "options": [
-        "Italien",
-        "Portugais",
-        "Français",
-        "Espagnol"
-      ],
-      "correctAnswer": 3,
-      "category": "Littérature",
-      "id": "q_1774399977967_3_jzha9u",
-      "addedAt": "2026-03-25T00:52:57.967Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1774399977967_4_m3a8w1",
-      "addedAt": "2026-03-25T00:52:57.967Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la saga 'Star Wars' ?",
-      "options": [
-        "Steven Spielberg",
-        "George Lucas",
-        "Ridley Scott",
-        "Francis Ford Coppola"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1774399977967_5_chg10x",
-      "addedAt": "2026-03-25T00:52:57.967Z"
     }
   ],
   "poolSize": 100
