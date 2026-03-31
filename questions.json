@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quelle planète du système solaire possède les anneaux les plus visibles ?",
+      "options": [
+        "Jupiter",
+        "Saturne",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1774924297201_0_27oubf",
+      "addedAt": "2026-03-31T02:31:37.201Z"
+    },
+    {
+      "question": "Combien de cordes possède un violon traditionnel ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1774924297201_1_y6n7pj",
+      "addedAt": "2026-03-31T02:31:37.201Z"
+    },
+    {
+      "question": "Quel empereur romain aurait fait incendier Rome en 64 après J.-C. ?",
+      "options": [
+        "Auguste",
+        "Caligula",
+        "Néron",
+        "Trajan"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1774924297201_2_vwg0jd",
+      "addedAt": "2026-03-31T02:31:37.201Z"
+    },
+    {
+      "question": "Quelle vitamine est principalement synthétisée par la peau sous l'effet du soleil ?",
+      "options": [
+        "Vitamine C",
+        "Vitamine D",
+        "Vitamine A",
+        "Vitamine E"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1774924297201_3_4ghnsz",
+      "addedAt": "2026-03-31T02:31:37.201Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'Le Fabuleux Destin d'Amélie Poulain' ?",
+      "options": [
+        "Luc Besson",
+        "Jean-Luc Godard",
+        "Jean-Pierre Jeunet",
+        "François Truffaut"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1774924297201_4_fdlm4j",
+      "addedAt": "2026-03-31T02:31:37.201Z"
+    },
+    {
+      "question": "Dans quel pays se trouve la région viticole de la Rioja ?",
+      "options": [
+        "Portugal",
+        "Italie",
+        "France",
+        "Espagne"
+      ],
+      "correctAnswer": 3,
+      "category": "Gastronomie",
+      "id": "q_1774924297201_5_8muaml",
+      "addedAt": "2026-03-31T02:31:37.201Z"
+    },
+    {
+      "question": "Quel animal est le symbole de la WWF ?",
+      "options": [
+        "Tigre",
+        "Éléphant",
+        "Panda géant",
+        "Baleine"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1774924297201_6_cih9a9",
+      "addedAt": "2026-03-31T02:31:37.201Z"
+    },
+    {
+      "question": "Dans quel sport pratique-t-on le 'slam dunk' ?",
+      "options": [
+        "Volleyball",
+        "Basketball",
+        "Handball",
+        "Tennis"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1774924297201_7_yla9zc",
+      "addedAt": "2026-03-31T02:31:37.201Z"
+    },
+    {
+      "question": "Quel architecte a conçu la pyramide du Louvre ?",
+      "options": [
+        "Norman Foster",
+        "Frank Gehry",
+        "Ieoh Ming Pei",
+        "Zaha Hadid"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1774924297201_8_2tavtk",
+      "addedAt": "2026-03-31T02:31:37.201Z"
+    },
+    {
+      "question": "Quel détroit sépare l'Europe de l'Afrique ?",
+      "options": [
+        "Détroit de Gibraltar",
+        "Détroit des Dardanelles",
+        "Détroit du Bosphore",
+        "Détroit d'Ormuz"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1774924297201_9_9off1b",
+      "addedAt": "2026-03-31T02:31:37.201Z"
+    },
+    {
       "question": "Quelle est la capitale de l'Australie ?",
       "options": [
         "Sydney",
@@ -1169,7 +1299,12 @@
       "category": "Art",
       "id": "q_1774492197602_7_wq7i76",
       "addedAt": "2026-03-26T02:29:57.602Z"
-    },
+    }
+  ],
+  "version": 109,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-03-31T02:31:37.202Z",
+  "archivedQuestions": [
     {
       "question": "Dans quel pays a été inventé le jeu d'échecs ?",
       "options": [
@@ -1299,167 +1434,6 @@
       "category": "Technologie",
       "id": "q_1774486017502_8_u1g2cb",
       "addedAt": "2026-03-26T00:46:57.502Z"
-    }
-  ],
-  "version": 108,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-03-31T00:02:39.287Z",
-  "archivedQuestions": [
-    {
-      "question": "Dans quel pays est née la danse du tango ?",
-      "options": [
-        "Espagne",
-        "Brésil",
-        "Argentine",
-        "Mexique"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1774486017502_9_mwf15k",
-      "addedAt": "2026-03-26T00:46:57.502Z"
-    },
-    {
-      "question": "Quelle épice donne sa couleur jaune au curry ?",
-      "options": [
-        "Safran",
-        "Curcuma",
-        "Paprika",
-        "Cumin"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1774486017502_10_r6cdm5",
-      "addedAt": "2026-03-26T00:46:57.502Z"
-    },
-    {
-      "question": "Quel gaz compose principalement l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Azote",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1774405394574_1_qe8ydd",
-      "addedAt": "2026-03-25T02:23:14.574Z"
-    },
-    {
-      "question": "Qui a réalisé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Steven Spielberg",
-        "Francis Ford Coppola"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1774405394574_2_glo1xe",
-      "addedAt": "2026-03-25T02:23:14.574Z"
-    },
-    {
-      "question": "Quel fleuve traverse Paris ?",
-      "options": [
-        "La Loire",
-        "Le Rhône",
-        "La Seine",
-        "La Garonne"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1774405394574_3_gnjvxg",
-      "addedAt": "2026-03-25T02:23:14.574Z"
-    },
-    {
-      "question": "Dans quel sport évolue Rafael Nadal ?",
-      "options": [
-        "Football",
-        "Tennis",
-        "Golf",
-        "Natation"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1774405394574_4_35cew9",
-      "addedAt": "2026-03-25T02:23:14.574Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'L'Étranger' ?",
-      "options": [
-        "Jean-Paul Sartre",
-        "Albert Camus",
-        "André Malraux",
-        "Marcel Proust"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1774405394574_5_nm2v53",
-      "addedAt": "2026-03-25T02:23:14.574Z"
-    },
-    {
-      "question": "Quel animal est le symbole de la WWF ?",
-      "options": [
-        "Le tigre",
-        "L'éléphant",
-        "Le panda",
-        "Le lion"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1774405394574_6_ot3k2h",
-      "addedAt": "2026-03-25T02:23:14.574Z"
-    },
-    {
-      "question": "Dans quelle région française produit-on le champagne ?",
-      "options": [
-        "Bourgogne",
-        "Champagne-Ardenne",
-        "Alsace",
-        "Bordeaux"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1774405394574_7_r8d16u",
-      "addedAt": "2026-03-25T02:23:14.574Z"
-    },
-    {
-      "question": "Qui a inventé l'ampoule électrique ?",
-      "options": [
-        "Nikola Tesla",
-        "Alexander Graham Bell",
-        "Thomas Edison",
-        "Benjamin Franklin"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1774405394574_8_5i52hu",
-      "addedAt": "2026-03-25T02:23:14.574Z"
-    },
-    {
-      "question": "En quelle année a été construit le mur de Berlin ?",
-      "options": [
-        "1959",
-        "1961",
-        "1963",
-        "1965"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1774405394574_9_m7936p",
-      "addedAt": "2026-03-25T02:23:14.574Z"
-    },
-    {
-      "question": "Quel sculpteur a réalisé 'Le Penseur' ?",
-      "options": [
-        "Michel-Ange",
-        "Auguste Rodin",
-        "Alberto Giacometti",
-        "Constantin Brâncuși"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1774405394574_10_gmwzt9",
-      "addedAt": "2026-03-25T02:23:14.574Z"
     }
   ],
   "poolSize": 100
