@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1775011380027_0_rdphsv",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
+      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1775011380027_1_zad15r",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
+      "question": "Qui a composé 'La Flûte enchantée' ?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Beethoven",
+        "Chopin"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1775011380027_2_wwrf5w",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
+      "question": "Dans quel pays se pratique traditionnellement le sumo ?",
+      "options": [
+        "Chine",
+        "Corée du Sud",
+        "Japon",
+        "Thaïlande"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1775011380027_3_ph2e14",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
+      "question": "Combien de pattes possède une araignée ?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1775011380027_4_3vtdmk",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
+      "question": "Quel est le symbole chimique de l'or ?",
+      "options": [
+        "Go",
+        "Au",
+        "Or",
+        "Ag"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775011380027_5_8pnbs7",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
+      "question": "Dans quelle langue a été écrit le 'Don Quichotte' ?",
+      "options": [
+        "Portugais",
+        "Italien",
+        "Espagnol",
+        "Français"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1775011380027_6_pgcbrb",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
+      "question": "Quelle est la monnaie officielle du Japon ?",
+      "options": [
+        "Won",
+        "Yuan",
+        "Yen",
+        "Ringgit"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775011380027_7_dtok9c",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
+      "question": "Combien de minutes y a-t-il dans une journée ?",
+      "options": [
+        "1440",
+        "1480",
+        "1400",
+        "1460"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1775011380027_8_11zt3m",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
+      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
+      "options": [
+        "Camembert",
+        "Roquefort",
+        "Brie",
+        "Comté"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1775011380027_9_8g7hqm",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
+      "question": "Qui a inventé le World Wide Web ?",
+      "options": [
+        "Steve Jobs",
+        "Bill Gates",
+        "Tim Berners-Lee",
+        "Mark Zuckerberg"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1775011380027_10_dcxthb",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
+      "question": "Quel sculpteur a créé 'Le Penseur' ?",
+      "options": [
+        "Michel-Ange",
+        "Rodin",
+        "Donatello",
+        "Brancusi"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1775011380027_11_uewi73",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
+      "question": "Quel empire a construit le Machu Picchu ?",
+      "options": [
+        "Aztèque",
+        "Maya",
+        "Inca",
+        "Olmèque"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1775011380027_12_lvr7wo",
+      "addedAt": "2026-04-01T02:43:00.027Z"
+    },
+    {
       "question": "Quelle planète du système solaire possède le plus grand nombre de lunes ?",
       "options": [
         "Jupiter",
@@ -1130,7 +1299,12 @@
       "category": "Sport",
       "id": "q_1774578677905_2_kxn66h",
       "addedAt": "2026-03-27T02:31:17.905Z"
-    },
+    }
+  ],
+  "version": 111,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-01T02:43:00.027Z",
+  "archivedQuestions": [
     {
       "question": "Qui a écrit 'Les Misérables' ?",
       "options": [
@@ -1299,167 +1473,6 @@
       "category": "Sport",
       "id": "q_1774569969452_6_d4h7no",
       "addedAt": "2026-03-27T00:06:09.452Z"
-    }
-  ],
-  "version": 110,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-01T00:34:38.459Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
-      "options": [
-        "Camembert",
-        "Roquefort",
-        "Brie",
-        "Comté"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1774569969452_7_cj5vqg",
-      "addedAt": "2026-03-27T00:06:09.452Z"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1988",
-        "1989",
-        "1990"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1774569969452_8_nn7wzj",
-      "addedAt": "2026-03-27T00:06:09.452Z"
-    },
-    {
-      "question": "Quel est le plus petit os du corps humain ?",
-      "options": [
-        "L'étrier",
-        "Le marteau",
-        "L'enclume",
-        "La rotule"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1774569969452_9_dj086m",
-      "addedAt": "2026-03-27T00:06:09.452Z"
-    },
-    {
-      "question": "Combien vaut π (pi) approximativement ?",
-      "options": [
-        "3,14",
-        "2,71",
-        "1,41",
-        "1,73"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1774569969452_10_7nnkbw",
-      "addedAt": "2026-03-27T00:06:09.452Z"
-    },
-    {
-      "question": "Quelle est la monnaie officielle du Japon ?",
-      "options": [
-        "Won",
-        "Yen",
-        "Yuan",
-        "Ringgit"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1774492197602_0_3sfufq",
-      "addedAt": "2026-03-26T02:29:57.602Z"
-    },
-    {
-      "question": "Qui a composé 'Les Quatre Saisons' ?",
-      "options": [
-        "Bach",
-        "Mozart",
-        "Vivaldi",
-        "Beethoven"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1774492197602_1_yyzkb8",
-      "addedAt": "2026-03-26T02:29:57.602Z"
-    },
-    {
-      "question": "Quel est le symbole chimique de l'or ?",
-      "options": [
-        "Go",
-        "Au",
-        "Or",
-        "Ag"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1774492197602_2_84sajm",
-      "addedAt": "2026-03-26T02:29:57.602Z"
-    },
-    {
-      "question": "Dans quelle guerre s'est illustré Jeanne d'Arc ?",
-      "options": [
-        "Guerre de Cent Ans",
-        "Guerre de Trente Ans",
-        "Guerre de Succession",
-        "Première Croisade"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1774492197602_3_n1y91g",
-      "addedAt": "2026-03-26T02:29:57.602Z"
-    },
-    {
-      "question": "Dans quelle ville se trouve le musée du Prado ?",
-      "options": [
-        "Barcelone",
-        "Madrid",
-        "Séville",
-        "Valencia"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_1774492197602_4_kaz6p5",
-      "addedAt": "2026-03-26T02:29:57.602Z"
-    },
-    {
-      "question": "Sur quel continent se trouve le lac Baïkal ?",
-      "options": [
-        "Europe",
-        "Asie",
-        "Amérique du Nord",
-        "Afrique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1774492197602_5_2s8cc4",
-      "addedAt": "2026-03-26T02:29:57.602Z"
-    },
-    {
-      "question": "Combien de joueurs y a-t-il dans une équipe de rugby à XV ?",
-      "options": [
-        "13",
-        "15",
-        "16",
-        "18"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1774492197602_6_4h3ztm",
-      "addedAt": "2026-03-26T02:29:57.602Z"
-    },
-    {
-      "question": "Quel peintre espagnol a peint 'Guernica' ?",
-      "options": [
-        "Dalí",
-        "Miró",
-        "Picasso",
-        "Goya"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1774492197602_7_wq7i76",
-      "addedAt": "2026-03-26T02:29:57.602Z"
     }
   ],
   "poolSize": 100
