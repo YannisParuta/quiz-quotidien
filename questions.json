@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel est le nom de la couche externe de l'atmosphère terrestre ?",
+      "options": [
+        "Thermosphère",
+        "Exosphère",
+        "Stratosphère",
+        "Mésosphère"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775096872958_0_3relpn",
+      "addedAt": "2026-04-02T02:27:52.958Z"
+    },
+    {
+      "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
+      "options": [
+        "Traité de Versailles",
+        "Traité de Trianon",
+        "Traité de Sèvres",
+        "Traité de Tordesillas"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1775096872958_1_shjj9p",
+      "addedAt": "2026-04-02T02:27:52.958Z"
+    },
+    {
+      "question": "Combien de cordes possède un violon standard ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1775096872958_2_u50l05",
+      "addedAt": "2026-04-02T02:27:52.958Z"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on un palet ?",
+      "options": [
+        "Curling",
+        "Hockey sur glace",
+        "Patinage artistique",
+        "Luge"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1775096872958_3_r2942d",
+      "addedAt": "2026-04-02T02:27:52.958Z"
+    },
+    {
+      "question": "Quel mouvement artistique Pablo Picasso a-t-il co-fondé ?",
+      "options": [
+        "Surréalisme",
+        "Impressionnisme",
+        "Cubisme",
+        "Fauvisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1775096872958_4_6ahnpo",
+      "addedAt": "2026-04-02T02:27:52.958Z"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde ?",
+      "options": [
+        "Monaco",
+        "Vatican",
+        "Nauru",
+        "Saint-Marin"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1775096872958_5_yw0xs9",
+      "addedAt": "2026-04-02T02:27:52.958Z"
+    },
+    {
+      "question": "Combien de minutes y a-t-il dans 3 heures et 45 minutes ?",
+      "options": [
+        "225",
+        "245",
+        "235",
+        "215"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1775096872958_6_yky8lt",
+      "addedAt": "2026-04-02T02:27:52.958Z"
+    },
+    {
+      "question": "Quelle actrice a joué Hermione Granger dans les films Harry Potter ?",
+      "options": [
+        "Emma Stone",
+        "Emma Watson",
+        "Emma Roberts",
+        "Emily Blunt"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1775096872958_7_ewt5cn",
+      "addedAt": "2026-04-02T02:27:52.958Z"
+    },
+    {
+      "question": "En quelle année a été créé Facebook ?",
+      "options": [
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1775096872958_8_jtt6et",
+      "addedAt": "2026-04-02T02:27:52.958Z"
+    },
+    {
+      "question": "Quelle civilisation a construit les pyramides de Gizeh ?",
+      "options": [
+        "Mésopotamienne",
+        "Grecque",
+        "Romaine",
+        "Égyptienne"
+      ],
+      "correctAnswer": 3,
+      "category": "Histoire",
+      "id": "q_1775096872958_9_zpwhuy",
+      "addedAt": "2026-04-02T02:27:52.958Z"
+    },
+    {
       "question": "Dans quel film de 1994 Tom Hanks prononce-t-il la phrase 'La vie est comme une boîte de chocolats' ?",
       "options": [
         "Philadelphia",
@@ -1169,7 +1299,12 @@
       "category": "Histoire",
       "id": "q_1774664552668_1_i6ap8k",
       "addedAt": "2026-03-28T02:22:32.668Z"
-    },
+    }
+  ],
+  "version": 113,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-02T02:27:52.958Z",
+  "archivedQuestions": [
     {
       "question": "Combien de chromosomes possède un être humain normal ?",
       "options": [
@@ -1299,115 +1434,6 @@
       "category": "Sport",
       "id": "q_1774658104753_1_we69cl",
       "addedAt": "2026-03-28T00:35:04.753Z"
-    }
-  ],
-  "version": 112,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-02T00:47:27.442Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel auteur a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Gustave Flaubert",
-        "Victor Hugo",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1774658104753_2_58ewqa",
-      "addedAt": "2026-03-28T00:35:04.753Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "options": [
-        "Le rhinocéros",
-        "L'hippopotame",
-        "L'éléphant d'Afrique",
-        "Le bison"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1774658104753_3_db890x",
-      "addedAt": "2026-03-28T00:35:04.753Z"
-    },
-    {
-      "question": "Combien de côtés possède un hexagone ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1774658104753_4_6cfxzl",
-      "addedAt": "2026-03-28T00:35:04.753Z"
-    },
-    {
-      "question": "Quel instrument de musique Yo-Yo Ma joue-t-il virtuellement ?",
-      "options": [
-        "Le violon",
-        "Le piano",
-        "Le violoncelle",
-        "La contrebasse"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1774658104753_5_gz1pe6",
-      "addedAt": "2026-03-28T00:35:04.753Z"
-    },
-    {
-      "question": "À quelle température l'eau bout-elle au niveau de la mer ?",
-      "options": [
-        "90°C",
-        "95°C",
-        "100°C",
-        "105°C"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1774658104753_6_phnij9",
-      "addedAt": "2026-03-28T00:35:04.753Z"
-    },
-    {
-      "question": "Quel empereur romain a fait construire le mur d'Hadrien ?",
-      "options": [
-        "Jules César",
-        "Hadrien",
-        "Auguste",
-        "Néron"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1774578677905_0_0397lh",
-      "addedAt": "2026-03-27T02:31:17.905Z"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Pablo Picasso",
-        "Paul Cézanne"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1774578677905_1_d8gu8l",
-      "addedAt": "2026-03-27T02:31:17.905Z"
-    },
-    {
-      "question": "Dans quel sport évolue Cristiano Ronaldo ?",
-      "options": [
-        "Basketball",
-        "Tennis",
-        "Football",
-        "Rugby"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1774578677905_2_kxn66h",
-      "addedAt": "2026-03-27T02:31:17.905Z"
     }
   ],
   "poolSize": 100
