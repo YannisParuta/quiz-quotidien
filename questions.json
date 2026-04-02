@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Dans quel film de 1994 Tom Hanks prononce-t-il la phrase 'La vie est comme une boîte de chocolats' ?",
+      "options": [
+        "Philadelphia",
+        "Forrest Gump",
+        "Big",
+        "Apollo 13"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1775090847442_0_4sdl4p",
+      "addedAt": "2026-04-02T00:47:27.442Z"
+    },
+    {
+      "question": "Combien de tours une abeille ouvrière fait-elle pour indiquer une source de nectar éloignée ?",
+      "options": [
+        "Elle vibre",
+        "Elle fait des cercles",
+        "Elle fait des huit",
+        "Elle tape du pied"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1775090847442_1_nks2rw",
+      "addedAt": "2026-04-02T00:47:27.442Z"
+    },
+    {
+      "question": "Combien font 7 × 8 ?",
+      "options": [
+        "54",
+        "56",
+        "58",
+        "52"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1775090847442_2_sjfc2v",
+      "addedAt": "2026-04-02T00:47:27.442Z"
+    },
+    {
+      "question": "Quel sport se pratique sur un terrain appelé 'court' avec un filet au centre ?",
+      "options": [
+        "Badminton",
+        "Tennis",
+        "Volleyball",
+        "Tous ces sports"
+      ],
+      "correctAnswer": 3,
+      "category": "Sport",
+      "id": "q_1775090847442_3_vot8gs",
+      "addedAt": "2026-04-02T00:47:27.442Z"
+    },
+    {
+      "question": "Quelle technique de peinture utilise des pigments mélangés à l'eau ?",
+      "options": [
+        "Huile sur toile",
+        "Aquarelle",
+        "Acrylique",
+        "Pastel"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1775090847442_4_jg16l1",
+      "addedAt": "2026-04-02T00:47:27.442Z"
+    },
+    {
+      "question": "Quelle entreprise a créé le premier iPhone ?",
+      "options": [
+        "Samsung",
+        "Apple",
+        "Google",
+        "Microsoft"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1775090847442_5_6vfyke",
+      "addedAt": "2026-04-02T00:47:27.442Z"
+    },
+    {
+      "question": "Sur quel continent se trouve le Groenland ?",
+      "options": [
+        "Europe",
+        "Asie",
+        "Amérique du Nord",
+        "Amérique du Sud"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775090847442_6_oks2q2",
+      "addedAt": "2026-04-02T00:47:27.442Z"
+    },
+    {
+      "question": "Combien d'os contient le corps humain adulte environ ?",
+      "options": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775090847442_7_11vyp9",
+      "addedAt": "2026-04-02T00:47:27.442Z"
+    },
+    {
       "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
       "options": [
         "1987",
@@ -1195,7 +1299,12 @@
       "category": "Sport",
       "id": "q_1774658104753_1_we69cl",
       "addedAt": "2026-03-28T00:35:04.753Z"
-    },
+    }
+  ],
+  "version": 112,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-02T00:47:27.442Z",
+  "archivedQuestions": [
     {
       "question": "Quel auteur a écrit 'Les Misérables' ?",
       "options": [
@@ -1299,180 +1408,6 @@
       "category": "Sport",
       "id": "q_1774578677905_2_kxn66h",
       "addedAt": "2026-03-27T02:31:17.905Z"
-    }
-  ],
-  "version": 111,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-01T02:43:00.027Z",
-  "archivedQuestions": [
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Victor Hugo",
-        "Émile Zola",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1774578677905_3_w3zndo",
-      "addedAt": "2026-03-27T02:31:17.905Z"
-    },
-    {
-      "question": "Quel est l'élément chimique le plus léger ?",
-      "options": [
-        "Hélium",
-        "Hydrogène",
-        "Lithium",
-        "Carbone"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1774578677905_4_sa7gac",
-      "addedAt": "2026-03-27T02:31:17.905Z"
-    },
-    {
-      "question": "Dans quelle ville se déroule l'action de 'Roméo et Juliette' ?",
-      "options": [
-        "Venise",
-        "Florence",
-        "Vérone",
-        "Rome"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1774578677905_5_hq3cs8",
-      "addedAt": "2026-03-27T02:31:17.905Z"
-    },
-    {
-      "question": "Quel mammifère marin utilise l'écholocation pour chasser ?",
-      "options": [
-        "La baleine bleue",
-        "Le dauphin",
-        "La loutre",
-        "Le phoque"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1774578677905_6_18yio1",
-      "addedAt": "2026-03-27T02:31:17.905Z"
-    },
-    {
-      "question": "En quelle année a été créé le premier site web ?",
-      "options": [
-        "1989",
-        "1991",
-        "1993",
-        "1995"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1774578677905_7_epxog1",
-      "addedAt": "2026-03-27T02:31:17.905Z"
-    },
-    {
-      "question": "Quel pays a inventé les pâtes ?",
-      "options": [
-        "Italie",
-        "Chine",
-        "Grèce",
-        "France"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1774578677905_8_ar3lo3",
-      "addedAt": "2026-03-27T02:31:17.905Z"
-    },
-    {
-      "question": "Quel océan sépare l'Amérique de l'Asie ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1774569969452_0_mh5zlr",
-      "addedAt": "2026-03-27T00:06:09.452Z"
-    },
-    {
-      "question": "Qui a découvert la pénicilline en 1928 ?",
-      "options": [
-        "Louis Pasteur",
-        "Marie Curie",
-        "Alexander Fleming",
-        "Albert Einstein"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1774569969452_1_in3rzc",
-      "addedAt": "2026-03-27T00:06:09.452Z"
-    },
-    {
-      "question": "Dans quelle ville française se trouve le Palais des Papes ?",
-      "options": [
-        "Avignon",
-        "Lyon",
-        "Toulouse",
-        "Marseille"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1774569969452_2_xmk4hz",
-      "addedAt": "2026-03-27T00:06:09.452Z"
-    },
-    {
-      "question": "Quel peintre espagnol a créé le mouvement cubiste ?",
-      "options": [
-        "Salvador Dalí",
-        "Francisco Goya",
-        "Pablo Picasso",
-        "Joan Miró"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1774569969452_3_4hk51o",
-      "addedAt": "2026-03-27T00:06:09.452Z"
-    },
-    {
-      "question": "Combien de chambres possède le cœur humain ?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1774569969452_4_1q1poz",
-      "addedAt": "2026-03-27T00:06:09.452Z"
-    },
-    {
-      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
-        "Edgar Allan Poe",
-        "Raymond Chandler"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1774569969452_5_arq8ff",
-      "addedAt": "2026-03-27T00:06:09.452Z"
-    },
-    {
-      "question": "Combien d'années dure une olympiade ?",
-      "options": [
-        "2 ans",
-        "3 ans",
-        "4 ans",
-        "5 ans"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1774569969452_6_d4h7no",
-      "addedAt": "2026-03-27T00:06:09.452Z"
     }
   ],
   "poolSize": 100
