@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel océan borde la côte ouest de l'Afrique ?",
+      "options": [
+        "Océan Indien",
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1775261206758_0_2i36je",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
+      "question": "Qui a découvert la pénicilline en 1928 ?",
+      "options": [
+        "Louis Pasteur",
+        "Marie Curie",
+        "Alexander Fleming",
+        "Albert Einstein"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1775261206758_1_dqqdkg",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
+      "question": "Dans quelle décennie a été inventé le World Wide Web ?",
+      "options": [
+        "1970",
+        "1980",
+        "1990",
+        "2000"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1775261206758_2_ims0hi",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
+      "question": "Quel est le plus grand lac d'Afrique ?",
+      "options": [
+        "Lac Tchad",
+        "Lac Tanganyika",
+        "Lac Victoria",
+        "Lac Malawi"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775261206758_3_uz5np9",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
+      "question": "En quelle année a été construite la tour Eiffel ?",
+      "options": [
+        "1885",
+        "1887",
+        "1889",
+        "1891"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1775261206758_4_0w43ey",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
+      "question": "Quel sport se joue avec un palet et des crosses ?",
+      "options": [
+        "Hockey sur glace",
+        "Lacrosse",
+        "Polo",
+        "Hurling"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1775261206758_5_4gm14i",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
+      "question": "Quelle vitamine est produite par la peau lors d'une exposition au soleil ?",
+      "options": [
+        "Vitamine A",
+        "Vitamine B12",
+        "Vitamine C",
+        "Vitamine D"
+      ],
+      "correctAnswer": 3,
+      "category": "Science",
+      "id": "q_1775261206758_6_asi9cw",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
+      "question": "Dans quel pays se trouve le Machu Picchu ?",
+      "options": [
+        "Bolivie",
+        "Équateur",
+        "Pérou",
+        "Colombie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775261206758_7_f30fs3",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
+      "question": "Combien de côtés possède un octogone ?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1775261206758_8_a3apx1",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
+      "question": "Quel peintre a créé l'œuvre 'La Nuit étoilée' ?",
+      "options": [
+        "Pablo Picasso",
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Paul Cézanne"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1775261206758_9_p47qn1",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
+      "question": "Quelle épice donne sa couleur jaune au curry ?",
+      "options": [
+        "Safran",
+        "Curcuma",
+        "Paprika",
+        "Gingembre"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1775261206758_10_n3fgdy",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
+      "question": "Quel animal est le symbole national de l'Australie ?",
+      "options": [
+        "Koala",
+        "Kangourou",
+        "Émeu",
+        "Wombat"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1775261206758_11_t7cz68",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Gustave Flaubert",
+        "Victor Hugo",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1775261206758_12_6p7f8b",
+      "addedAt": "2026-04-04T00:06:46.758Z"
+    },
+    {
       "question": "Quel fleuve traverse la capitale de l'Autriche ?",
       "options": [
         "Le Rhin",
@@ -1130,7 +1299,12 @@
       "category": "Science",
       "id": "q_1774830680668_4_bajw4x",
       "addedAt": "2026-03-30T00:31:20.668Z"
-    },
+    }
+  ],
+  "version": 115,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-04T00:06:46.758Z",
+  "archivedQuestions": [
     {
       "question": "Dans quel sport utilise-t-on une raquette et un volant ?",
       "options": [
@@ -1299,141 +1473,6 @@
       "category": "Littérature",
       "id": "q_1774745979232_2_vl5xav",
       "addedAt": "2026-03-29T00:59:39.232Z"
-    }
-  ],
-  "version": 114,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-03T02:29:14.653Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel scientifique a développé la théorie de l'évolution par sélection naturelle ?",
-      "options": [
-        "Isaac Newton",
-        "Charles Darwin",
-        "Albert Einstein",
-        "Gregor Mendel"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1774745979232_3_133qmr",
-      "addedAt": "2026-03-29T00:59:39.232Z"
-    },
-    {
-      "question": "Dans quel pays se trouve le Machu Picchu ?",
-      "options": [
-        "Bolivie",
-        "Équateur",
-        "Pérou",
-        "Colombie"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1774745979232_4_70efpj",
-      "addedAt": "2026-03-29T00:59:39.232Z"
-    },
-    {
-      "question": "Quel peintre néerlandais a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Rembrandt",
-        "Johannes Vermeer",
-        "Vincent van Gogh",
-        "Piet Mondrian"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1774745979232_5_ld2qpf",
-      "addedAt": "2026-03-29T00:59:39.232Z"
-    },
-    {
-      "question": "Quelle est la formule chimique de l'eau ?",
-      "options": [
-        "CO2",
-        "H2O",
-        "O2",
-        "NaCl"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1774745979232_6_pdnapu",
-      "addedAt": "2026-03-29T00:59:39.232Z"
-    },
-    {
-      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
-      "options": [
-        "1967",
-        "1969",
-        "1971",
-        "1973"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1774745979232_7_s1xx8n",
-      "addedAt": "2026-03-29T00:59:39.232Z"
-    },
-    {
-      "question": "Quel est le plus grand désert du monde ?",
-      "options": [
-        "Sahara",
-        "Gobi",
-        "Antarctique",
-        "Kalahari"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1774745979232_8_gq6y1p",
-      "addedAt": "2026-03-29T00:59:39.232Z"
-    },
-    {
-      "question": "Quel système d'exploitation mobile a été développé par Google ?",
-      "options": [
-        "iOS",
-        "Windows Phone",
-        "Android",
-        "BlackBerry OS"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1774745979232_9_pn07sg",
-      "addedAt": "2026-03-29T00:59:39.232Z"
-    },
-    {
-      "question": "Quel animal peut changer de couleur pour se camoufler ?",
-      "options": [
-        "Iguane",
-        "Gecko",
-        "Caméléon",
-        "Salamandre"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1774745979232_10_v87t4g",
-      "addedAt": "2026-03-29T00:59:39.232Z"
-    },
-    {
-      "question": "Dans quelle région de France est produit le champagne ?",
-      "options": [
-        "Bourgogne",
-        "Bordeaux",
-        "Champagne-Ardenne",
-        "Alsace"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1774745979232_11_x592ih",
-      "addedAt": "2026-03-29T00:59:39.232Z"
-    },
-    {
-      "question": "Quelle révolution industrielle est associée à l'invention de la machine à vapeur ?",
-      "options": [
-        "La troisième",
-        "La première",
-        "La deuxième",
-        "La quatrième"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1774664552668_1_i6ap8k",
-      "addedAt": "2026-03-28T02:22:32.668Z"
     }
   ],
   "poolSize": 100
