@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel océan borde la côte ouest du Chili ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1775356586180_0_rdmjqj",
+      "addedAt": "2026-04-05T02:36:26.180Z"
+    },
+    {
+      "question": "Qui a inventé la pénicilline ?",
+      "options": [
+        "Louis Pasteur",
+        "Marie Curie",
+        "Alexander Fleming",
+        "Edward Jenner"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1775356586180_1_15ppga",
+      "addedAt": "2026-04-05T02:36:26.180Z"
+    },
+    {
+      "question": "Dans quel pays a été inventé le tango ?",
+      "options": [
+        "Espagne",
+        "Argentine",
+        "Brésil",
+        "Mexique"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1775356586180_2_64vjfq",
+      "addedAt": "2026-04-05T02:36:26.180Z"
+    },
+    {
+      "question": "Quel peintre espagnol a co-fondé le mouvement cubiste ?",
+      "options": [
+        "Salvador Dalí",
+        "Joan Miró",
+        "Pablo Picasso",
+        "Francisco Goya"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1775356586180_3_2rux05",
+      "addedAt": "2026-04-05T02:36:26.180Z"
+    },
+    {
+      "question": "Quel mammifère marin possède le plus gros cerveau ?",
+      "options": [
+        "La baleine bleue",
+        "Le cachalot",
+        "L'orque",
+        "Le dauphin"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1775356586180_4_pfwo49",
+      "addedAt": "2026-04-05T02:36:26.180Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit 'La Flûte enchantée' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1775356586180_5_7bdbov",
+      "addedAt": "2026-04-05T02:36:26.180Z"
+    },
+    {
+      "question": "Quel acteur a incarné le personnage de Jack Sparrow ?",
+      "options": [
+        "Orlando Bloom",
+        "Johnny Depp",
+        "Brad Pitt",
+        "Leonardo DiCaprio"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1775356586180_6_otcthc",
+      "addedAt": "2026-04-05T02:36:26.180Z"
+    },
+    {
+      "question": "En quelle année a été lancé le premier iPhone ?",
+      "options": [
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1775356586180_7_yb6dzj",
+      "addedAt": "2026-04-05T02:36:26.180Z"
+    },
+    {
+      "question": "Quelle bataille a marqué la fin de l'Empire napoléonien ?",
+      "options": [
+        "Austerlitz",
+        "Waterloo",
+        "Wagram",
+        "Iéna"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1775356586180_8_kyxdnz",
+      "addedAt": "2026-04-05T02:36:26.180Z"
+    },
+    {
+      "question": "Dans quelle ville italienne se déroule l'action de 'Roméo et Juliette' ?",
+      "options": [
+        "Rome",
+        "Florence",
+        "Venise",
+        "Vérone"
+      ],
+      "correctAnswer": 3,
+      "category": "Littérature",
+      "id": "q_1775356586180_9_d7jj5r",
+      "addedAt": "2026-04-05T02:36:26.180Z"
+    },
+    {
       "question": "Quelle est la plus grande île de la Méditerranée ?",
       "options": [
         "Corse",
@@ -1169,7 +1299,12 @@
       "category": "Gastronomie",
       "id": "q_1774924297201_5_8muaml",
       "addedAt": "2026-03-31T02:31:37.201Z"
-    },
+    }
+  ],
+  "version": 118,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-05T02:36:26.180Z",
+  "archivedQuestions": [
     {
       "question": "Quel animal est le symbole de la WWF ?",
       "options": [
@@ -1299,102 +1434,6 @@
       "category": "Littérature",
       "id": "q_1774915359287_5_srkihs",
       "addedAt": "2026-03-31T00:02:39.287Z"
-    }
-  ],
-  "version": 117,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-05T00:54:21.672Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de faces possède un dodécaèdre ?",
-      "options": [
-        "10",
-        "12",
-        "14",
-        "16"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1774915359287_6_rs5jj7",
-      "addedAt": "2026-03-31T00:02:39.287Z"
-    },
-    {
-      "question": "Quel compositeur a écrit 'La Flûte enchantée' ?",
-      "options": [
-        "Bach",
-        "Beethoven",
-        "Mozart",
-        "Handel"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1774915359287_7_ap9y0u",
-      "addedAt": "2026-03-31T00:02:39.287Z"
-    },
-    {
-      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
-      "options": [
-        "1917",
-        "Joker",
-        "Parasite",
-        "Once Upon a Time in Hollywood"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1774915359287_8_qwrsbo",
-      "addedAt": "2026-03-31T00:02:39.287Z"
-    },
-    {
-      "question": "Quelle entreprise a développé le système d'exploitation Android ?",
-      "options": [
-        "Apple",
-        "Microsoft",
-        "Samsung",
-        "Google"
-      ],
-      "correctAnswer": 3,
-      "category": "Technologie",
-      "id": "q_1774915359287_9_ts1cni",
-      "addedAt": "2026-03-31T00:02:39.287Z"
-    },
-    {
-      "question": "De quel pays est originaire le plat appelé 'paella' ?",
-      "options": [
-        "Italie",
-        "Portugal",
-        "Espagne",
-        "Grèce"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1774915359287_10_rxxxci",
-      "addedAt": "2026-03-31T00:02:39.287Z"
-    },
-    {
-      "question": "Dans quelle ville italienne se déroule l'action de 'Roméo et Juliette' de Shakespeare ?",
-      "options": [
-        "Rome",
-        "Florence",
-        "Venise",
-        "Vérone"
-      ],
-      "correctAnswer": 3,
-      "category": "Littérature",
-      "id": "q_1774915359287_11_eq0dfg",
-      "addedAt": "2026-03-31T00:02:39.287Z"
-    },
-    {
-      "question": "Quelle est la capitale du Brésil ?",
-      "options": [
-        "São Paulo",
-        "Rio de Janeiro",
-        "Brasília",
-        "Salvador"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1774838216870_0_aojw1a",
-      "addedAt": "2026-03-30T02:36:56.870Z"
     }
   ],
   "poolSize": 100
