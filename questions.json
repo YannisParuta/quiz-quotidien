@@ -1,6 +1,188 @@
 {
   "questions": [
     {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775435146396_0_m4x080",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "Quel scientifique a développé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Alexander Fleming"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1775435146396_1_wbzcab",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "Dans quel film trouve-t-on la célèbre réplique 'Frankly, my dear, I don't give a damn' ?",
+      "options": [
+        "Casablanca",
+        "Autant en emporte le vent",
+        "Citizen Kane",
+        "Le Parrain"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1775435146396_2_w2mroj",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "Combien de faces possède un icosaèdre ?",
+      "options": [
+        "12",
+        "16",
+        "20",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1775435146396_3_rjsk30",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "En quelle année s'est terminée la Seconde Guerre mondiale ?",
+      "options": [
+        "1944",
+        "1945",
+        "1946",
+        "1947"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1775435146396_4_rrj17s",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "Quel est l'organe le plus lourd du corps humain ?",
+      "options": [
+        "Le cerveau",
+        "Le foie",
+        "Les poumons",
+        "Le cœur"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775435146396_5_6ji42m",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on un birdie ?",
+      "options": [
+        "Golf",
+        "Badminton",
+        "Tennis",
+        "Squash"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1775435146396_6_sefhji",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Edgar Allan Poe",
+        "Arthur Conan Doyle",
+        "Raymond Chandler"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1775435146396_7_1e931i",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "Quelle épice est la plus chère au monde au poids ?",
+      "options": [
+        "La vanille",
+        "Le safran",
+        "La cardamome",
+        "La cannelle"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1775435146396_8_lni9wc",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "Combien de touches noires possède un piano standard ?",
+      "options": [
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1775435146396_9_xk316u",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "Quel mammifère marin utilise l'écholocation pour se déplacer ?",
+      "options": [
+        "La baleine bleue",
+        "Le phoque",
+        "Le dauphin",
+        "La loutre de mer"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1775435146396_10_hxzt9x",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "Dans quelle ville se trouve le siège social de Google ?",
+      "options": [
+        "San Francisco",
+        "Mountain View",
+        "Palo Alto",
+        "San José"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1775435146396_11_tvi8jw",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "Quel fleuve traverse la ville de Vienne ?",
+      "options": [
+        "Le Rhin",
+        "L'Elbe",
+        "Le Danube",
+        "L'Inn"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775435146396_12_2vowio",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
+      "question": "Combien d'os possède un bébé humain à la naissance ?",
+      "options": [
+        "206",
+        "270",
+        "300",
+        "350"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775435146396_13_a6lmks",
+      "addedAt": "2026-04-06T00:25:46.396Z"
+    },
+    {
       "question": "Quel océan borde la côte ouest du Chili ?",
       "options": [
         "Océan Atlantique",
@@ -1117,7 +1299,12 @@
       "category": "Nature",
       "id": "q_1775003678458_3_qfniw7",
       "addedAt": "2026-04-01T00:34:38.458Z"
-    },
+    }
+  ],
+  "version": 119,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-06T00:25:46.396Z",
+  "archivedQuestions": [
     {
       "question": "Dans quelle ville se trouve la célèbre université de la Sorbonne ?",
       "options": [
@@ -1299,141 +1486,6 @@
       "category": "Gastronomie",
       "id": "q_1774924297201_5_8muaml",
       "addedAt": "2026-03-31T02:31:37.201Z"
-    }
-  ],
-  "version": 118,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-05T02:36:26.180Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel animal est le symbole de la WWF ?",
-      "options": [
-        "Tigre",
-        "Éléphant",
-        "Panda géant",
-        "Baleine"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1774924297201_6_cih9a9",
-      "addedAt": "2026-03-31T02:31:37.201Z"
-    },
-    {
-      "question": "Dans quel sport pratique-t-on le 'slam dunk' ?",
-      "options": [
-        "Volleyball",
-        "Basketball",
-        "Handball",
-        "Tennis"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1774924297201_7_yla9zc",
-      "addedAt": "2026-03-31T02:31:37.201Z"
-    },
-    {
-      "question": "Quel architecte a conçu la pyramide du Louvre ?",
-      "options": [
-        "Norman Foster",
-        "Frank Gehry",
-        "Ieoh Ming Pei",
-        "Zaha Hadid"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1774924297201_8_2tavtk",
-      "addedAt": "2026-03-31T02:31:37.201Z"
-    },
-    {
-      "question": "Quel détroit sépare l'Europe de l'Afrique ?",
-      "options": [
-        "Détroit de Gibraltar",
-        "Détroit des Dardanelles",
-        "Détroit du Bosphore",
-        "Détroit d'Ormuz"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1774924297201_9_9off1b",
-      "addedAt": "2026-03-31T02:31:37.201Z"
-    },
-    {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1774915359287_0_eox1mb",
-      "addedAt": "2026-03-31T00:02:39.287Z"
-    },
-    {
-      "question": "Quel empereur romain a légalisé le christianisme avec l'Édit de Milan ?",
-      "options": [
-        "Auguste",
-        "Constantin",
-        "Néron",
-        "Trajan"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1774915359287_1_k80xw2",
-      "addedAt": "2026-03-31T00:02:39.287Z"
-    },
-    {
-      "question": "Dans quelle mythologie trouve-t-on le dieu Thor ?",
-      "options": [
-        "Grecque",
-        "Romaine",
-        "Nordique",
-        "Égyptienne"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1774915359287_2_7n1kei",
-      "addedAt": "2026-03-31T00:02:39.287Z"
-    },
-    {
-      "question": "Combien de temps dure un match de basketball NBA ?",
-      "options": [
-        "40 minutes",
-        "45 minutes",
-        "48 minutes",
-        "50 minutes"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1774915359287_3_zqiosp",
-      "addedAt": "2026-03-31T00:02:39.287Z"
-    },
-    {
-      "question": "Quel mouvement artistique Van Gogh a-t-il principalement représenté ?",
-      "options": [
-        "Impressionnisme",
-        "Post-impressionnisme",
-        "Cubisme",
-        "Surréalisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1774915359287_4_xpqa6a",
-      "addedAt": "2026-03-31T00:02:39.287Z"
-    },
-    {
-      "question": "Qui a écrit 'Le Petit Prince' ?",
-      "options": [
-        "Jules Verne",
-        "Antoine de Saint-Exupéry",
-        "Marcel Proust",
-        "Victor Hugo"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1774915359287_5_srkihs",
-      "addedAt": "2026-03-31T00:02:39.287Z"
     }
   ],
   "poolSize": 100
