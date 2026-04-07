@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel philosophe grec a été le précepteur d'Alexandre le Grand ?",
+      "options": [
+        "Platon",
+        "Socrate",
+        "Aristote",
+        "Épicure"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1775529158470_0_9zjaa7",
+      "addedAt": "2026-04-07T02:32:38.470Z"
+    },
+    {
+      "question": "Quel organe humain produit l'insuline ?",
+      "options": [
+        "Le foie",
+        "Le pancréas",
+        "La rate",
+        "Les reins"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775529158470_1_kpsvz3",
+      "addedAt": "2026-04-07T02:32:38.470Z"
+    },
+    {
+      "question": "Dans la mythologie nordique, comment s'appelle le marteau de Thor ?",
+      "options": [
+        "Gungnir",
+        "Mjöllnir",
+        "Gramr",
+        "Balmung"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1775529158470_2_1hsdzx",
+      "addedAt": "2026-04-07T02:32:38.470Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a créé 'La Nuit étoilée' ?",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Van Gogh",
+        "Mondrian"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1775529158470_3_gtctnh",
+      "addedAt": "2026-04-07T02:32:38.470Z"
+    },
+    {
+      "question": "Quel est le plus grand prédateur terrestre actuel ?",
+      "options": [
+        "Le lion",
+        "L'ours polaire",
+        "Le tigre de Sibérie",
+        "L'ours kodiak"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1775529158470_4_1be6d8",
+      "addedAt": "2026-04-07T02:32:38.470Z"
+    },
+    {
+      "question": "Quelle est la valeur de π (pi) arrondie à deux décimales ?",
+      "options": [
+        "3,14",
+        "3,16",
+        "3,12",
+        "3,18"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1775529158470_5_lswk3h",
+      "addedAt": "2026-04-07T02:32:38.470Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit 'La Flûte enchantée' ?",
+      "options": [
+        "Bach",
+        "Beethoven",
+        "Mozart",
+        "Wagner"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1775529158470_6_vw56yo",
+      "addedAt": "2026-04-07T02:32:38.470Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la saga 'Star Wars' ?",
+      "options": [
+        "Steven Spielberg",
+        "George Lucas",
+        "Ridley Scott",
+        "James Cameron"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1775529158470_7_lua0pa",
+      "addedAt": "2026-04-07T02:32:38.470Z"
+    },
+    {
+      "question": "En quelle année a été lancé le premier satellite artificiel Spoutnik ?",
+      "options": [
+        "1955",
+        "1957",
+        "1959",
+        "1961"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1775529158470_8_2dkbjy",
+      "addedAt": "2026-04-07T02:32:38.470Z"
+    },
+    {
+      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
+      "options": [
+        "Le camembert",
+        "Le roquefort",
+        "Le brie",
+        "Le comté"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1775529158470_9_ea1frt",
+      "addedAt": "2026-04-07T02:32:38.470Z"
+    },
+    {
+      "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+      "options": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1775529158470_10_2d79f5",
+      "addedAt": "2026-04-07T02:32:38.470Z"
+    },
+    {
       "question": "Quelle planète du système solaire possède les anneaux les plus visibles ?",
       "options": [
         "Jupiter",
@@ -1156,7 +1299,12 @@
       "category": "Géographie",
       "id": "q_1775096872958_5_yw0xs9",
       "addedAt": "2026-04-02T02:27:52.958Z"
-    },
+    }
+  ],
+  "version": 122,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-07T02:32:38.470Z",
+  "archivedQuestions": [
     {
       "question": "Combien de minutes y a-t-il dans 3 heures et 45 minutes ?",
       "options": [
@@ -1299,128 +1447,6 @@
       "category": "Géographie",
       "id": "q_1775090847442_6_oks2q2",
       "addedAt": "2026-04-02T00:47:27.442Z"
-    }
-  ],
-  "version": 121,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-07T00:15:44.801Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien d'os contient le corps humain adulte environ ?",
-      "options": [
-        "186",
-        "206",
-        "226",
-        "246"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1775090847442_7_11vyp9",
-      "addedAt": "2026-04-02T00:47:27.442Z"
-    },
-    {
-      "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1775011380027_0_rdphsv",
-      "addedAt": "2026-04-01T02:43:00.027Z"
-    },
-    {
-      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Azote",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1775011380027_1_zad15r",
-      "addedAt": "2026-04-01T02:43:00.027Z"
-    },
-    {
-      "question": "Qui a composé 'La Flûte enchantée' ?",
-      "options": [
-        "Bach",
-        "Mozart",
-        "Beethoven",
-        "Chopin"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1775011380027_2_wwrf5w",
-      "addedAt": "2026-04-01T02:43:00.027Z"
-    },
-    {
-      "question": "Dans quel pays se pratique traditionnellement le sumo ?",
-      "options": [
-        "Chine",
-        "Corée du Sud",
-        "Japon",
-        "Thaïlande"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1775011380027_3_ph2e14",
-      "addedAt": "2026-04-01T02:43:00.027Z"
-    },
-    {
-      "question": "Combien de pattes possède une araignée ?",
-      "options": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1775011380027_4_3vtdmk",
-      "addedAt": "2026-04-01T02:43:00.027Z"
-    },
-    {
-      "question": "Quel est le symbole chimique de l'or ?",
-      "options": [
-        "Go",
-        "Au",
-        "Or",
-        "Ag"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1775011380027_5_8pnbs7",
-      "addedAt": "2026-04-01T02:43:00.027Z"
-    },
-    {
-      "question": "Dans quelle langue a été écrit le 'Don Quichotte' ?",
-      "options": [
-        "Portugais",
-        "Italien",
-        "Espagnol",
-        "Français"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1775011380027_6_pgcbrb",
-      "addedAt": "2026-04-01T02:43:00.027Z"
-    },
-    {
-      "question": "Quelle est la monnaie officielle du Japon ?",
-      "options": [
-        "Won",
-        "Yuan",
-        "Yen",
-        "Ringgit"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775011380027_7_dtok9c",
-      "addedAt": "2026-04-01T02:43:00.027Z"
     }
   ],
   "poolSize": 100
