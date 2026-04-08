@@ -247,8 +247,8 @@ CONSIGNES IMPORTANTES :
       return dateB - dateA; // Plus récent d'abord
     });
     
-    // Définir le pool actif (100 questions les plus récentes)
-    const POOL_SIZE = 100;
+    // Définir le pool actif (310 questions = 31 jours × 10 → aucune répétition sur un mois complet)
+    const POOL_SIZE = 310;
     const activePool = allQuestionsWithIds.slice(0, POOL_SIZE);
     const archivedQuestions = allQuestionsWithIds.slice(POOL_SIZE);
     

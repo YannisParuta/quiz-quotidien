@@ -191,8 +191,13 @@
                     }
 
                     const today = new Date();
+                    const year  = today.getFullYear();
+                    const month = today.getMonth();      // 0-indexed
+                    const day   = today.getDate();       // 1-31
                     const currentVersion = data.version || 1;
-                    const dateKey = `quiz-${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}-v${currentVersion}`;
+
+                    // Clé de cache stable par jour (sans version → stable toute la journée)
+                    const dateKey = `quiz-monthly-${year}-${month + 1}-${day}`;
 
                     // Try cache
                     try {
@@ -219,11 +224,24 @@
                         toRemove.forEach(k => localStorage.removeItem(k));
                     } catch (e) {}
 
-                    // Deterministic selection for today
-                    const seed = new Date().setHours(0, 0, 0, 0) + currentVersion * 1000000;
+                    // ── Sélection mensuelle anti-répétition ──────────────────────
+                    // Seed basé sur année+mois → même ordre pour tous les utilisateurs ce mois
+                    // Chaque jour du mois reçoit sa propre tranche de 10 questions exclusives
                     const rng = s => { let x = Math.sin(s++) * 10000; return x - Math.floor(x); };
-                    const shuffled = [...data.questions].sort(() => rng(seed) - 0.5);
-                    const selected = shuffled.slice(0, 10);
+                    const monthSeed = year * 100 + month; // ex: 202603 pour mars 2026
+                    const shuffled  = [...data.questions].sort(() => rng(monthSeed) - 0.5);
+                    const dayIndex  = (day - 1) % 31;    // 0 pour le 1er, 30 pour le 31
+
+                    let selected;
+                    if (shuffled.length >= 310) {
+                        // Pool complet : tranche exclusive par jour → 0 répétition dans le mois
+                        selected = shuffled.slice(dayIndex * 10, dayIndex * 10 + 10);
+                    } else {
+                        // Pool pas encore à 310 : sélection aléatoire déterministe (comportement de transition)
+                        const fallbackSeed = new Date().setHours(0, 0, 0, 0) + currentVersion * 1000000;
+                        const fallbackShuffled = [...data.questions].sort(() => rng(fallbackSeed) - 0.5);
+                        selected = fallbackShuffled.slice(0, 10);
+                    }
 
                     try {
                         localStorage.setItem(dateKey, JSON.stringify({ questions: selected, date: today.toISOString(), version: currentVersion }));
