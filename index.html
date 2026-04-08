@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz Quotidien</title>
     <link rel="icon" type="image/png" href="favicon.png">
-    
+
     <!-- Meta tags pour SEO et partage -->
     <meta name="description" content="Quiz Quotidien - 10 nouvelles questions chaque jour pour tester vos connaissances !">
     <meta property="og:title" content="Quiz Quotidien">
@@ -13,7 +13,7 @@
     <meta property="og:image" content="https://quiz-quotidien.fr/favicon.png">
     <meta property="og:url" content="https://quiz-quotidien.fr">
     <meta name="twitter:card" content="summary">
-    
+
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XHE708K9TT"></script>
     <script>
@@ -22,10 +22,10 @@
         gtag('js', new Date());
         gtag('config', 'G-XHE708K9TT');
     </script>
-    
+
     <!-- Google AdSense - NE PAS ACTIVER AVANT APPROBATION -->
     <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
-    
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
@@ -35,11 +35,25 @@
     <div id="root"></div>
 
     <script type="text/babel">
-        const { useState, useEffect } = React;
-        let dailyCache = {};
+        const { useState, useEffect, useRef } = React;
 
+        const TIMER_DURATION = 30;
+
+        // ─── Helpers ───────────────────────────────────────────────────────────
+        const getTodayKey = () => {
+            const d = new Date();
+            return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
+        };
+
+        const getYesterdayKey = () => {
+            const d = new Date();
+            d.setDate(d.getDate() - 1);
+            return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
+        };
+
+        // ─── SVG Icons ─────────────────────────────────────────────────────────
         const Calendar = () => (
-            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
                 <line x1="16" y1="2" x2="16" y2="6"></line>
                 <line x1="8" y1="2" x2="8" y2="6"></line>
@@ -73,16 +87,6 @@
             </svg>
         );
 
-        const Share2 = () => (
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <circle cx="18" cy="5" r="3"></circle>
-                <circle cx="6" cy="12" r="3"></circle>
-                <circle cx="18" cy="19" r="3"></circle>
-                <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line>
-                <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
-            </svg>
-        );
-
         const AlertCircle = () => (
             <svg className="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <circle cx="12" cy="12" r="10"></circle>
@@ -91,6 +95,7 @@
             </svg>
         );
 
+        // ─── Main Component ────────────────────────────────────────────────────
         function DailyQuiz() {
             const [currentQuestion, setCurrentQuestion] = useState(0);
             const [selectedAnswer, setSelectedAnswer] = useState(null);
@@ -102,18 +107,67 @@
             const [error, setError] = useState(null);
             const [answers, setAnswers] = useState([]);
             const [quizAlreadyCompleted, setQuizAlreadyCompleted] = useState(false);
+            const [timeLeft, setTimeLeft] = useState(TIMER_DURATION);
+            const [streak, setStreak] = useState(0);
 
+            const timerRef = useRef(null);
+            const answeredRef = useRef(false);
+
+            // ── Load streak on mount ──────────────────────────────────────────
+            useEffect(() => {
+                try {
+                    const stored = JSON.parse(localStorage.getItem('quiz-streak') || '{"streak":0,"lastDate":""}');
+                    const today = getTodayKey();
+                    const yesterday = getYesterdayKey();
+                    if (stored.lastDate === today || stored.lastDate === yesterday) {
+                        setStreak(stored.streak);
+                    }
+                } catch (e) {}
+            }, []);
+
+            // ── Timer ─────────────────────────────────────────────────────────
+            useEffect(() => {
+                // Stop timer when not needed
+                if (loading || quizCompleted || showResult || !dailyQuiz.length) {
+                    if (timerRef.current) clearInterval(timerRef.current);
+                    return;
+                }
+
+                // New question: reset
+                answeredRef.current = false;
+                setTimeLeft(TIMER_DURATION);
+                if (timerRef.current) clearInterval(timerRef.current);
+
+                timerRef.current = setInterval(() => {
+                    setTimeLeft(prev => {
+                        if (prev <= 1) {
+                            clearInterval(timerRef.current);
+                            if (!answeredRef.current) {
+                                answeredRef.current = true;
+                                // Use setTimeout to avoid setState-inside-setState
+                                setTimeout(() => {
+                                    setSelectedAnswer(null);   // null = aucune réponse
+                                    setShowResult(true);
+                                    setAnswers(a => [...a, null]);
+                                }, 0);
+                            }
+                            return 0;
+                        }
+                        return prev - 1;
+                    });
+                }, 1000);
+
+                return () => { if (timerRef.current) clearInterval(timerRef.current); };
+            }, [currentQuestion, showResult, quizCompleted, loading, dailyQuiz.length]);
+
+            // ── Check if today's quiz is already done ─────────────────────────
             const checkIfQuizCompleted = () => {
-                const today = new Date();
-                const dateKey = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
-                const completedKey = `quiz-completed-${dateKey}`;
-                
-                const completed = localStorage.getItem(completedKey);
-                if (completed === 'true') {
+                const dateKey = getTodayKey();
+                if (localStorage.getItem(`quiz-completed-${dateKey}`) === 'true') {
                     setQuizAlreadyCompleted(true);
-                    const savedScore = localStorage.getItem(`quiz-score-${dateKey}`);
+                    const savedScore   = localStorage.getItem(`quiz-score-${dateKey}`);
                     const savedAnswers = localStorage.getItem(`quiz-answers-${dateKey}`);
-                    if (savedScore) setScore(parseInt(savedScore));
+                    if (savedScore)   setScore(parseInt(savedScore));
                     if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
                     setQuizCompleted(true);
                     return true;
@@ -121,113 +175,61 @@
                 return false;
             };
 
+            // ── Fetch questions ───────────────────────────────────────────────
             const fetchQuestionsFromJSON = async () => {
                 try {
                     setLoading(true);
                     setError(null);
-                    
-                    const today = new Date();
-                    
                     checkIfQuizCompleted();
-                    
-                    // ⭐ ÉTAPE 1 : Charger le fichier questions.json (TOUJOURS)
-                    const timestamp = new Date().getTime();
-                    const response = await fetch(`/questions.json?v=${timestamp}`);
+
+                    const response = await fetch(`/questions.json?v=${Date.now()}`);
                     if (!response.ok) throw new Error('Erreur de chargement des questions');
-                    
                     const data = await response.json();
-                    
-                    // ⭐ VÉRIFICATION : S'assurer que data.questions existe et n'est pas vide
+
                     if (!data.questions || !Array.isArray(data.questions) || data.questions.length === 0) {
                         throw new Error('Aucune question disponible');
                     }
-                    
-                    // ⭐ ÉTAPE 2 : Créer une clé de cache avec DATE + VERSION
+
+                    const today = new Date();
                     const currentVersion = data.version || 1;
                     const dateKey = `quiz-${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}-v${currentVersion}`;
-                    
-                    console.log(`📅 Clé du cache : ${dateKey}`);
-                    
-                    // ⭐ ÉTAPE 3 : Vérifier si on a déjà les questions pour cette date ET cette version
+
+                    // Try cache
                     try {
                         const cached = localStorage.getItem(dateKey);
                         if (cached) {
                             const cachedData = JSON.parse(cached);
-                            
-                            // ⭐ Vérification : S'assurer que le cache a la bonne structure
-                            if (cachedData.questions && 
-                                Array.isArray(cachedData.questions) && 
-                                cachedData.questions.length === 10 &&
-                                cachedData.questions.every(q => q && q.question && q.options && typeof q.correctAnswer !== 'undefined')) {
-                                console.log('✅ Questions chargées depuis le cache');
+                            if (cachedData.questions?.length === 10 &&
+                                cachedData.questions.every(q => q?.question && q?.options && typeof q.correctAnswer !== 'undefined')) {
                                 setDailyQuiz(cachedData.questions);
                                 setLoading(false);
                                 return;
-                            } else {
-                                console.log('⚠️ Cache invalide ou corrompu, rechargement...');
-                                localStorage.removeItem(dateKey);
                             }
+                            localStorage.removeItem(dateKey);
                         }
-                    } catch (e) {
-                        console.log('⚠️ Pas de cache valide, chargement des nouvelles questions');
-                    }
-                    
-                    // ⭐ ÉTAPE 4 : Nettoyer les anciens caches (versions précédentes)
+                    } catch (e) {}
+
+                    // Clean old caches
                     try {
-                        const keysToRemove = [];
+                        const toRemove = [];
                         for (let i = 0; i < localStorage.length; i++) {
-                            const key = localStorage.key(i);
-                            if (key && key.startsWith('quiz-') && key !== dateKey) {
-                                keysToRemove.push(key);
-                            }
+                            const k = localStorage.key(i);
+                            if (k?.startsWith('quiz-') && k !== dateKey) toRemove.push(k);
                         }
-                        keysToRemove.forEach(key => {
-                            console.log(`🗑️ Suppression ancien cache : ${key}`);
-                            localStorage.removeItem(key);
-                        });
-                    } catch (e) {
-                        console.log('⚠️ Erreur nettoyage cache');
-                    }
-                    
-                    // ⭐ ÉTAPE 4 : Utiliser le pool actif (pas de tracking individuel)
-                    const allQuestions = data.questions;
-                    
-                    console.log(`📊 Questions dans le pool actif : ${allQuestions.length}`);
-                    
-                    // ⭐ ÉTAPE 5 : Sélectionner 10 questions aléatoires pour aujourd'hui
-                    const dateTimestamp = new Date().setHours(0, 0, 0, 0);
-                    const versionOffset = currentVersion * 1000000; // Décale la seed avec la version
-                    const seed = dateTimestamp + versionOffset;
-                    
-                    console.log(`🎲 Seed aléatoire : ${seed} (date: ${dateTimestamp}, version: ${currentVersion})`);
-                    
-                    const rng = (s) => {
-                        let x = Math.sin(s++) * 10000;
-                        return x - Math.floor(x);
-                    };
-                    
-                    const shuffled = [...allQuestions].sort(() => rng(seed) - 0.5);
-                    const selectedQuestions = shuffled.slice(0, 10);
-                    
-                    console.log(`✅ 10 questions sélectionnées sur ${allQuestions.length} disponibles`);
-                    console.log(`🔄 Pool rotatif : Les questions tournent automatiquement avec le cron`);
-                    
-                    const quizData = { 
-                        questions: selectedQuestions, 
-                        date: today.toISOString(),
-                        version: currentVersion
-                    };
-                    
-                    // ⭐ ÉTAPE 6 : Sauvegarder dans le cache avec la nouvelle clé
+                        toRemove.forEach(k => localStorage.removeItem(k));
+                    } catch (e) {}
+
+                    // Deterministic selection for today
+                    const seed = new Date().setHours(0, 0, 0, 0) + currentVersion * 1000000;
+                    const rng = s => { let x = Math.sin(s++) * 10000; return x - Math.floor(x); };
+                    const shuffled = [...data.questions].sort(() => rng(seed) - 0.5);
+                    const selected = shuffled.slice(0, 10);
+
                     try {
-                        localStorage.setItem(dateKey, JSON.stringify(quizData));
-                        console.log(`💾 Nouvelles questions sauvegardées en cache (version ${currentVersion})`);
-                    } catch (e) {
-                        console.log('⚠️ Erreur de sauvegarde cache');
-                    }
-                    
-                    dailyCache[dateKey] = quizData;
-                    setDailyQuiz(selectedQuestions);
+                        localStorage.setItem(dateKey, JSON.stringify({ questions: selected, date: today.toISOString(), version: currentVersion }));
+                    } catch (e) {}
+
+                    setDailyQuiz(selected);
                     setLoading(false);
                 } catch (err) {
                     setError(err.message);
@@ -235,237 +237,290 @@
                 }
             };
 
-            useEffect(() => {
-                fetchQuestionsFromJSON();
-            }, []);
+            useEffect(() => { fetchQuestionsFromJSON(); }, []);
 
+            // ── Answer handler ────────────────────────────────────────────────
             const handleAnswerClick = (answerIndex) => {
-                if (showResult) return;
+                if (showResult || answeredRef.current) return;
+                answeredRef.current = true;
+                if (timerRef.current) clearInterval(timerRef.current);
+
                 setSelectedAnswer(answerIndex);
                 setShowResult(true);
+                setAnswers(prev => [...prev, answerIndex]);
                 if (answerIndex === dailyQuiz[currentQuestion].correctAnswer) {
-                    setScore(score + 1);
+                    setScore(s => s + 1);
                 }
-                setAnswers([...answers, answerIndex]);
             };
 
+            // ── Next question / finish ────────────────────────────────────────
             const handleNext = () => {
                 if (currentQuestion < dailyQuiz.length - 1) {
                     setCurrentQuestion(currentQuestion + 1);
                     setSelectedAnswer(null);
                     setShowResult(false);
                 } else {
-                    // ⭐ FIX : Calculer le score total à partir de toutes les réponses
-                    const finalAnswers = [...answers, selectedAnswer];
-                    
-                    // Vérification de sécurité : s'assurer que dailyQuiz a bien toutes les questions
-                    const finalScore = finalAnswers.reduce((total, answer, index) => {
-                        // Vérifier que la question existe avant d'accéder à correctAnswer
-                        if (dailyQuiz[index] && typeof dailyQuiz[index].correctAnswer !== 'undefined') {
-                            return total + (answer === dailyQuiz[index].correctAnswer ? 1 : 0);
-                        }
+                    // answers already contains all responses (incl. current)
+                    const finalScore = answers.reduce((total, answer, index) => {
+                        if (dailyQuiz[index] && answer === dailyQuiz[index].correctAnswer) return total + 1;
                         return total;
                     }, 0);
-                    
+
+                    setScore(finalScore);
                     setQuizCompleted(true);
-                    setScore(finalScore); // Mettre à jour le score pour l'affichage
-                    
-                    const today = new Date();
-                    const dateKey = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
+
+                    const dateKey = getTodayKey();
                     localStorage.setItem(`quiz-completed-${dateKey}`, 'true');
                     localStorage.setItem(`quiz-score-${dateKey}`, finalScore.toString());
-                    localStorage.setItem(`quiz-answers-${dateKey}`, JSON.stringify(finalAnswers));
-                }
-            };
+                    localStorage.setItem(`quiz-answers-${dateKey}`, JSON.stringify(answers));
 
-            const resetQuiz = () => {
-                setCurrentQuestion(0);
-                setSelectedAnswer(null);
-                setShowResult(false);
-                setScore(0);
-                setQuizCompleted(false);
-                setAnswers([]);
-            };
-
-            const shareResults = () => {
-                // Créer la date au format français
-                const today = new Date();
-                const dateString = today.toLocaleDateString('fr-FR', { 
-                    day: '2-digit', 
-                    month: '2-digit', 
-                    year: 'numeric' 
-                });
-                
-                // Créer les carrés de couleur (🟢 = correct, 🔴 = incorrect)
-                const colorSquares = answers.map((answer, index) => {
-                    // Vérification de sécurité
-                    if (dailyQuiz[index] && typeof dailyQuiz[index].correctAnswer !== 'undefined') {
-                        const isCorrect = answer === dailyQuiz[index].correctAnswer;
-                        return isCorrect ? '🟢' : '🔴';
-                    }
-                    return '⚪'; // Fallback si question manquante
-                }).join('');
-                
-                // Déterminer l'emoji et le commentaire selon le score
-                let emoji = '';
-                let comment = '';
-                const percentage = (score / dailyQuiz.length) * 100;
-                
-                if (score === dailyQuiz.length) {
-                    emoji = '🏆';
-                    comment = 'Score parfait !';
-                } else if (percentage >= 70) {
-                    emoji = '👏';
-                    comment = 'Excellent !';
-                } else if (percentage >= 50) {
-                    emoji = '💪';
-                    comment = 'Pas mal !';
-                } else {
-                    emoji = '📚';
-                    comment = 'Continue de t\'entraîner !';
-                }
-                
-                const shareText = `🎯 Quiz Quotidien - ${dateString} 🎯\nScore : ${score}/${dailyQuiz.length}\n${colorSquares}\n${emoji} ${comment}\n\nhttps://quiz-quotidien.fr`;
-                
-                if (navigator.share) {
-                    navigator.share({ 
-                        title: 'Mon score au Quiz Quotidien', 
-                        text: shareText 
-                    }).catch(() => {});
-                } else {
-                    const textArea = document.createElement('textarea');
-                    textArea.value = shareText;
-                    textArea.style.position = 'fixed';
-                    textArea.style.left = '-999999px';
-                    document.body.appendChild(textArea);
-                    textArea.select();
+                    // Update streak
                     try {
-                        document.execCommand('copy');
-                        alert('✅ Score copié dans le presse-papier !');
-                    } catch {}
-                    textArea.remove();
+                        const stored = JSON.parse(localStorage.getItem('quiz-streak') || '{"streak":0,"lastDate":""}');
+                        const yesterday = getYesterdayKey();
+                        const newStreak = stored.lastDate === dateKey ? stored.streak
+                            : stored.lastDate === yesterday ? stored.streak + 1
+                            : 1;
+                        localStorage.setItem('quiz-streak', JSON.stringify({ streak: newStreak, lastDate: dateKey }));
+                        setStreak(newStreak);
+                    } catch (e) {}
                 }
             };
 
-            const getDateString = () => {
-                const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-                return new Date().toLocaleDateString('fr-FR', options);
+            // ── Share ─────────────────────────────────────────────────────────
+            const buildShareText = () => {
+                const dateString = new Date().toLocaleDateString('fr-FR', { day: '2-digit', month: '2-digit', year: 'numeric' });
+                const squares = answers.map((a, i) =>
+                    dailyQuiz[i] ? (a === dailyQuiz[i].correctAnswer ? '🟢' : '🔴') : '⚪'
+                ).join('');
+                const pct = dailyQuiz.length > 0 ? (score / dailyQuiz.length) * 100 : 0;
+                const [emoji, comment] = score === dailyQuiz.length ? ['🏆', 'Score parfait !']
+                    : pct >= 70 ? ['👏', 'Excellent !']
+                    : pct >= 50 ? ['💪', 'Pas mal !']
+                    : ['📚', "Continue de t'entraîner !"];
+                const streakLine = streak > 1 ? `\n🔥 ${streak} jours de suite !` : '';
+                return `🎯 Quiz Quotidien - ${dateString} 🎯\nScore : ${score}/${dailyQuiz.length}\n${squares}\n${emoji} ${comment}${streakLine}\n\nhttps://quiz-quotidien.fr`;
             };
 
-            if (loading) {
-                return (
-                    <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
-                        <div className="bg-white rounded-2xl shadow-2xl p-8 text-center">
-                            <div className="animate-spin rounded-full h-16 w-16 border-b-4 border-purple-600 mx-auto mb-4"></div>
-                            <p className="text-xl text-gray-700 font-medium">Chargement du quiz...</p>
-                        </div>
-                    </div>
-                );
-            }
+            const shareOnWhatsApp = () => window.open(`https://wa.me/?text=${encodeURIComponent(buildShareText())}`, '_blank');
+            const shareOnTwitter  = () => window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(buildShareText())}`, '_blank');
 
-            if (error) {
-                return (
-                    <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
-                        <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full p-8 text-center">
-                            <div className="text-red-500 mx-auto mb-4 flex justify-center"><AlertCircle /></div>
-                            <h2 className="text-2xl font-bold text-gray-800 mb-4">Erreur</h2>
-                            <p className="text-gray-600 mb-6">{error}</p>
-                            <button onClick={fetchQuestionsFromJSON} className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg">Réessayer</button>
-                        </div>
-                    </div>
-                );
-            }
+            const shareGeneric = () => {
+                const text = buildShareText();
+                if (navigator.share) {
+                    navigator.share({ title: 'Mon score au Quiz Quotidien', text }).catch(() => {});
+                } else {
+                    try { navigator.clipboard.writeText(text); alert('✅ Score copié dans le presse-papier !'); }
+                    catch {
+                        const ta = document.createElement('textarea');
+                        ta.value = text; ta.style.position = 'fixed'; ta.style.left = '-999999px';
+                        document.body.appendChild(ta); ta.select();
+                        try { document.execCommand('copy'); alert('✅ Score copié !'); } catch {}
+                        ta.remove();
+                    }
+                }
+            };
 
-            if (!dailyQuiz || dailyQuiz.length === 0) {
-                return (
-                    <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
-                        <div className="bg-white rounded-2xl shadow-2xl p-8 text-center">
-                            <div className="animate-spin rounded-full h-16 w-16 border-b-4 border-purple-600 mx-auto mb-4"></div>
-                            <p className="text-xl text-gray-700 font-medium">Préparation des questions...</p>
-                        </div>
-                    </div>
-                );
-            }
+            // ── Timer styling ─────────────────────────────────────────────────
+            const timerBarColor  = timeLeft > 15 ? 'bg-green-500' : timeLeft > 8 ? 'bg-orange-400' : 'bg-red-500';
+            const timerTextColor = timeLeft > 15 ? 'text-green-600' : timeLeft > 8 ? 'text-orange-500' : 'text-red-600 font-bold';
 
+            // ── Loading / Error states ─────────────────────────────────────────
+            if (loading) return (
+                <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
+                    <div className="bg-white rounded-2xl shadow-2xl p-8 text-center">
+                        <div className="animate-spin rounded-full h-16 w-16 border-b-4 border-purple-600 mx-auto mb-4"></div>
+                        <p className="text-xl text-gray-700 font-medium">Chargement du quiz...</p>
+                    </div>
+                </div>
+            );
+
+            if (error) return (
+                <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
+                    <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full p-8 text-center">
+                        <div className="text-red-500 mx-auto mb-4 flex justify-center"><AlertCircle /></div>
+                        <h2 className="text-2xl font-bold text-gray-800 mb-4">Erreur</h2>
+                        <p className="text-gray-600 mb-6">{error}</p>
+                        <button onClick={fetchQuestionsFromJSON} className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg">Réessayer</button>
+                    </div>
+                </div>
+            );
+
+            if (!dailyQuiz || dailyQuiz.length === 0) return (
+                <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
+                    <div className="bg-white rounded-2xl shadow-2xl p-8 text-center">
+                        <div className="animate-spin rounded-full h-16 w-16 border-b-4 border-purple-600 mx-auto mb-4"></div>
+                        <p className="text-xl text-gray-700 font-medium">Préparation des questions...</p>
+                    </div>
+                </div>
+            );
+
+            // ── Main render ───────────────────────────────────────────────────
             return (
                 <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
                     <div className="bg-white rounded-2xl shadow-2xl max-w-2xl w-full p-8">
-                        <div className="text-center mb-8">
-                            <div className="flex items-center justify-center gap-2 text-purple-600 mb-2">
-                                <Calendar />
-                                <span className="text-sm font-medium">{getDateString()}</span>
+
+                        {/* ── Header ── */}
+                        <div className="text-center mb-6">
+                            <div className="flex items-center justify-center gap-3 flex-wrap mb-2">
+                                <div className="flex items-center gap-1 text-purple-600">
+                                    <Calendar />
+                                    <span className="text-sm font-medium">
+                                        {new Date().toLocaleDateString('fr-FR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
+                                    </span>
+                                </div>
+                                {streak > 0 && (
+                                    <div className="flex items-center gap-1 bg-orange-100 text-orange-600 px-3 py-1 rounded-full text-sm font-semibold">
+                                        🔥 {streak} jour{streak > 1 ? 's' : ''}
+                                    </div>
+                                )}
                             </div>
-                            <h1 className="text-4xl font-bold text-gray-800 mb-2">Quiz Quotidien</h1>
-                            <p className="text-gray-600">10 nouvelles questions chaque jour !</p>
+                            <h1 className="text-4xl font-bold text-gray-800 mb-1">Quiz Quotidien</h1>
+                            <p className="text-gray-500 text-sm">10 nouvelles questions chaque jour !</p>
                         </div>
 
+                        {/* ── Quiz in progress ── */}
                         {!quizCompleted ? (
                             <>
-                                <div className="mb-6">
-                                    <div className="flex justify-between text-sm text-gray-600 mb-2">
+                                {/* Progress bar */}
+                                <div className="mb-4">
+                                    <div className="flex justify-between text-sm text-gray-600 mb-1">
                                         <span>Question {currentQuestion + 1} sur {dailyQuiz.length}</span>
-                                        <span>Score: {score}/{dailyQuiz.length}</span>
+                                        <span>Score : {score}/{dailyQuiz.length}</span>
                                     </div>
                                     {dailyQuiz[currentQuestion].category && (
                                         <div className="text-xs text-purple-600 mb-2">📚 {dailyQuiz[currentQuestion].category}</div>
                                     )}
                                     <div className="w-full bg-gray-200 rounded-full h-2">
-                                        <div className="bg-purple-600 h-2 rounded-full transition-all duration-300" style={{ width: `${((currentQuestion + 1) / dailyQuiz.length) * 100}%` }} />
+                                        <div className="bg-purple-600 h-2 rounded-full transition-all duration-300"
+                                             style={{ width: `${((currentQuestion + 1) / dailyQuiz.length) * 100}%` }} />
                                     </div>
                                 </div>
 
-                                <div className="mb-8">
-                                    <h2 className="text-2xl font-semibold text-gray-800 mb-6">{dailyQuiz[currentQuestion].question}</h2>
+                                {/* Timer */}
+                                {!showResult && (
+                                    <div className="mb-5">
+                                        <div className="flex justify-between items-center mb-1">
+                                            <span className="text-xs text-gray-400">Temps restant</span>
+                                            <span className={`text-sm ${timerTextColor}`}>{timeLeft}s</span>
+                                        </div>
+                                        <div className="w-full bg-gray-100 rounded-full h-2">
+                                            <div className={`h-2 rounded-full transition-all duration-1000 ${timerBarColor}`}
+                                                 style={{ width: `${(timeLeft / TIMER_DURATION) * 100}%` }} />
+                                        </div>
+                                    </div>
+                                )}
+
+                                {/* Question + Options */}
+                                <div className="mb-6">
+                                    <h2 className="text-2xl font-semibold text-gray-800 mb-5">
+                                        {dailyQuiz[currentQuestion].question}
+                                    </h2>
                                     <div className="space-y-3">
                                         {dailyQuiz[currentQuestion].options.map((option, index) => {
-                                            const isCorrect = index === dailyQuiz[currentQuestion].correctAnswer;
+                                            const isCorrect  = index === dailyQuiz[currentQuestion].correctAnswer;
                                             const isSelected = index === selectedAnswer;
-                                            let buttonClass = "w-full p-4 text-left rounded-lg border-2 transition-all duration-200 ";
+                                            let cls = "w-full p-4 text-left rounded-lg border-2 transition-all duration-200 ";
                                             if (!showResult) {
-                                                buttonClass += "border-gray-200 hover:border-purple-400 hover:bg-purple-50 cursor-pointer";
+                                                cls += "border-gray-200 hover:border-purple-400 hover:bg-purple-50 cursor-pointer";
                                             } else {
-                                                if (isCorrect) buttonClass += "border-green-500 bg-green-50";
-                                                else if (isSelected) buttonClass += "border-red-500 bg-red-50";
-                                                else buttonClass += "border-gray-200 bg-gray-50 cursor-not-allowed";
+                                                cls += isCorrect  ? "border-green-500 bg-green-50"
+                                                     : isSelected ? "border-red-500 bg-red-50"
+                                                     :              "border-gray-200 bg-gray-50 cursor-not-allowed";
                                             }
                                             return (
-                                                <button key={index} onClick={() => handleAnswerClick(index)} className={buttonClass} disabled={showResult}>
+                                                <button key={index} onClick={() => handleAnswerClick(index)}
+                                                        className={cls} disabled={showResult}>
                                                     <div className="flex items-center justify-between">
                                                         <span className="font-medium">{option}</span>
-                                                        {showResult && isCorrect && <CheckCircle />}
+                                                        {showResult && isCorrect  && <CheckCircle />}
                                                         {showResult && isSelected && !isCorrect && <XCircle />}
                                                     </div>
                                                 </button>
                                             );
                                         })}
                                     </div>
+                                    {showResult && selectedAnswer === null && (
+                                        <p className="text-center text-orange-500 font-semibold mt-3 text-sm">
+                                            ⏱️ Temps écoulé ! La bonne réponse est affichée en vert.
+                                        </p>
+                                    )}
                                 </div>
 
                                 {showResult && (
-                                    <button onClick={handleNext} className="w-full bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-6 rounded-lg">
-                                        {currentQuestion < dailyQuiz.length - 1 ? 'Question suivante' : 'Voir les résultats'}
+                                    <button onClick={handleNext}
+                                            className="w-full bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors">
+                                        {currentQuestion < dailyQuiz.length - 1 ? 'Question suivante →' : 'Voir les résultats'}
                                     </button>
                                 )}
                             </>
+
                         ) : (
+                        /* ── Results screen ── */
                             <div className="text-center">
                                 <div className="text-yellow-500 mx-auto mb-4 flex justify-center"><Trophy /></div>
                                 <h2 className="text-3xl font-bold text-gray-800 mb-4">Quiz terminé !</h2>
-                                <div className="bg-purple-100 rounded-lg p-6 mb-6">
+
+                                {/* Streak banner (only on fresh completion) */}
+                                {streak > 0 && !quizAlreadyCompleted && (
+                                    <div className="bg-orange-50 border border-orange-200 rounded-xl p-3 mb-4">
+                                        <p className="text-orange-600 font-bold text-lg">
+                                            🔥 {streak} jour{streak > 1 ? 's' : ''} de suite !
+                                        </p>
+                                        <p className="text-orange-500 text-sm">
+                                            {streak >= 7 ? "Incroyable série, continue !"
+                                             : streak >= 3 ? "Belle série, ne t'arrête pas !"
+                                             : "C'est parti pour une belle série !"}
+                                        </p>
+                                    </div>
+                                )}
+
+                                {/* Score */}
+                                <div className="bg-purple-100 rounded-xl p-6 mb-6">
                                     <p className="text-5xl font-bold text-purple-600 mb-2">{score}/{dailyQuiz.length}</p>
                                     <p className="text-gray-700">
-                                        {score === dailyQuiz.length ? "Parfait ! Vous êtes un expert !" :
-                                         score >= dailyQuiz.length * 0.7 ? "Excellent travail !" :
-                                         score >= dailyQuiz.length * 0.5 ? "Pas mal ! Continuez comme ça !" :
-                                         "Continuez à vous entraîner !"}
+                                        {score === dailyQuiz.length       ? "Parfait ! Vous êtes un expert !" :
+                                         score >= dailyQuiz.length * 0.7  ? "Excellent travail !" :
+                                         score >= dailyQuiz.length * 0.5  ? "Pas mal ! Continuez comme ça !" :
+                                                                             "Continuez à vous entraîner !"}
                                     </p>
                                 </div>
-                                <p className="text-gray-600 mb-6">
-                                    {quizAlreadyCompleted ? "Vous avez déjà fait le quiz aujourd'hui !" : "Revenez demain pour de nouvelles questions !"}
+
+                                <p className="text-gray-500 text-sm mb-6">
+                                    {quizAlreadyCompleted
+                                        ? "Vous avez déjà fait le quiz aujourd'hui. Revenez demain !"
+                                        : "Revenez demain pour de nouvelles questions !"}
                                 </p>
-                                <div className="flex justify-center">
-                                    <button onClick={shareResults} className="flex items-center justify-center gap-2 bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-8 rounded-lg">
-                                        <Share2 /> Partager mon score
+
+                                {/* Share buttons */}
+                                <p className="text-gray-600 font-medium mb-3">Partager mon score :</p>
+                                <div className="flex flex-col sm:flex-row gap-3 justify-center">
+                                    <button onClick={shareOnWhatsApp}
+                                            className="flex items-center justify-center gap-2 bg-green-500 hover:bg-green-600 text-white font-semibold py-3 px-5 rounded-lg transition-colors">
+                                        <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                                            <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                                        </svg>
+                                        WhatsApp
+                                    </button>
+
+                                    <button onClick={shareOnTwitter}
+                                            className="flex items-center justify-center gap-2 bg-black hover:bg-gray-800 text-white font-semibold py-3 px-5 rounded-lg transition-colors">
+                                        <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                                            <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.257 5.63L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77z"/>
+                                        </svg>
+                                        X (Twitter)
+                                    </button>
+
+                                    <button onClick={shareGeneric}
+                                            className="flex items-center justify-center gap-2 bg-gray-500 hover:bg-gray-600 text-white font-semibold py-3 px-5 rounded-lg transition-colors">
+                                        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <circle cx="18" cy="5" r="3"></circle>
+                                            <circle cx="6" cy="12" r="3"></circle>
+                                            <circle cx="18" cy="19" r="3"></circle>
+                                            <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line>
+                                            <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+                                        </svg>
+                                        Copier
                                     </button>
                                 </div>
                             </div>
