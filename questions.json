@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quelle mer se trouve entre l'Italie et la Croatie ?",
+      "options": [
+        "Mer Tyrrhénienne",
+        "Mer Adriatique",
+        "Mer Ionienne",
+        "Mer Égée"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1775606544785_0_w6av59",
+      "addedAt": "2026-04-08T00:02:24.785Z"
+    },
+    {
+      "question": "Qui était le pharaon lors de la construction de la Grande Pyramide de Gizeh ?",
+      "options": [
+        "Ramsès II",
+        "Toutânkhamon",
+        "Khéops",
+        "Néfertiti"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1775606544785_1_vev7ib",
+      "addedAt": "2026-04-08T00:02:24.785Z"
+    },
+    {
+      "question": "Dans quel pays se déroule l'action du roman '1984' de George Orwell ?",
+      "options": [
+        "Oceania",
+        "Eurasia",
+        "Eastasia",
+        "Angleterre"
+      ],
+      "correctAnswer": 0,
+      "category": "Littérature",
+      "id": "q_1775606544785_2_1ojm4y",
+      "addedAt": "2026-04-08T00:02:24.785Z"
+    },
+    {
+      "question": "Quel architecte a conçu la Sagrada Família à Barcelone ?",
+      "options": [
+        "Le Corbusier",
+        "Frank Gehry",
+        "Antoni Gaudí",
+        "Santiago Calatrava"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1775606544785_3_g4b56n",
+      "addedAt": "2026-04-08T00:02:24.785Z"
+    },
+    {
+      "question": "Quel animal peut dormir debout grâce à un système de verrouillage de ses pattes ?",
+      "options": [
+        "L'éléphant",
+        "Le flamant rose",
+        "Le cheval",
+        "La girafe"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1775606544785_4_17mbul",
+      "addedAt": "2026-04-08T00:02:24.785Z"
+    },
+    {
+      "question": "Dans quel film de 1994 Tom Hanks incarne-t-il un homme simple d'esprit ?",
+      "options": [
+        "Philadelphia",
+        "Forrest Gump",
+        "Cast Away",
+        "Big"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1775606544785_5_nhem4j",
+      "addedAt": "2026-04-08T00:02:24.785Z"
+    },
+    {
+      "question": "Quelle technologie permet aux chauves-souris de se déplacer dans l'obscurité ?",
+      "options": [
+        "L'infrarouge",
+        "L'écholocation",
+        "La bioluminescence",
+        "L'électromagnétisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775606544785_6_j2apta",
+      "addedAt": "2026-04-08T00:02:24.785Z"
+    },
+    {
+      "question": "Quel fromage français est traditionnellement fabriqué dans la région de Roquefort ?",
+      "options": [
+        "Le camembert",
+        "Le roquefort",
+        "Le brie",
+        "Le comté"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1775606544785_7_ny7d0m",
+      "addedAt": "2026-04-08T00:02:24.785Z"
+    },
+    {
+      "question": "Sur quel continent se trouve le désert de Gobi ?",
+      "options": [
+        "Afrique",
+        "Amérique du Nord",
+        "Asie",
+        "Australie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775606544785_8_6wte4h",
+      "addedAt": "2026-04-08T00:02:24.785Z"
+    },
+    {
+      "question": "Quelle révolution industrielle est associée à l'invention de la machine à vapeur ?",
+      "options": [
+        "Première révolution industrielle",
+        "Deuxième révolution industrielle",
+        "Troisième révolution industrielle",
+        "Quatrième révolution industrielle"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1775606544785_9_vafdzh",
+      "addedAt": "2026-04-08T00:02:24.785Z"
+    },
+    {
       "question": "Quel philosophe grec a été le précepteur d'Alexandre le Grand ?",
       "options": [
         "Platon",
@@ -1169,7 +1299,12 @@
       "category": "Science",
       "id": "q_1775183354653_5_se0qjo",
       "addedAt": "2026-04-03T02:29:14.653Z"
-    },
+    }
+  ],
+  "version": 123,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-08T00:02:24.786Z",
+  "archivedQuestions": [
     {
       "question": "Dans quelle langue a été écrit le 'Don Quichotte' original ?",
       "options": [
@@ -1299,154 +1434,6 @@
       "category": "Géographie",
       "id": "q_1775096872958_5_yw0xs9",
       "addedAt": "2026-04-02T02:27:52.958Z"
-    }
-  ],
-  "version": 122,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-07T02:32:38.470Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de minutes y a-t-il dans 3 heures et 45 minutes ?",
-      "options": [
-        "225",
-        "245",
-        "235",
-        "215"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1775096872958_6_yky8lt",
-      "addedAt": "2026-04-02T02:27:52.958Z"
-    },
-    {
-      "question": "Quelle actrice a joué Hermione Granger dans les films Harry Potter ?",
-      "options": [
-        "Emma Stone",
-        "Emma Watson",
-        "Emma Roberts",
-        "Emily Blunt"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1775096872958_7_ewt5cn",
-      "addedAt": "2026-04-02T02:27:52.958Z"
-    },
-    {
-      "question": "En quelle année a été créé Facebook ?",
-      "options": [
-        "2003",
-        "2004",
-        "2005",
-        "2006"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1775096872958_8_jtt6et",
-      "addedAt": "2026-04-02T02:27:52.958Z"
-    },
-    {
-      "question": "Quelle civilisation a construit les pyramides de Gizeh ?",
-      "options": [
-        "Mésopotamienne",
-        "Grecque",
-        "Romaine",
-        "Égyptienne"
-      ],
-      "correctAnswer": 3,
-      "category": "Histoire",
-      "id": "q_1775096872958_9_zpwhuy",
-      "addedAt": "2026-04-02T02:27:52.958Z"
-    },
-    {
-      "question": "Dans quel film de 1994 Tom Hanks prononce-t-il la phrase 'La vie est comme une boîte de chocolats' ?",
-      "options": [
-        "Philadelphia",
-        "Forrest Gump",
-        "Big",
-        "Apollo 13"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1775090847442_0_4sdl4p",
-      "addedAt": "2026-04-02T00:47:27.442Z"
-    },
-    {
-      "question": "Combien de tours une abeille ouvrière fait-elle pour indiquer une source de nectar éloignée ?",
-      "options": [
-        "Elle vibre",
-        "Elle fait des cercles",
-        "Elle fait des huit",
-        "Elle tape du pied"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1775090847442_1_nks2rw",
-      "addedAt": "2026-04-02T00:47:27.442Z"
-    },
-    {
-      "question": "Combien font 7 × 8 ?",
-      "options": [
-        "54",
-        "56",
-        "58",
-        "52"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1775090847442_2_sjfc2v",
-      "addedAt": "2026-04-02T00:47:27.442Z"
-    },
-    {
-      "question": "Quel sport se pratique sur un terrain appelé 'court' avec un filet au centre ?",
-      "options": [
-        "Badminton",
-        "Tennis",
-        "Volleyball",
-        "Tous ces sports"
-      ],
-      "correctAnswer": 3,
-      "category": "Sport",
-      "id": "q_1775090847442_3_vot8gs",
-      "addedAt": "2026-04-02T00:47:27.442Z"
-    },
-    {
-      "question": "Quelle technique de peinture utilise des pigments mélangés à l'eau ?",
-      "options": [
-        "Huile sur toile",
-        "Aquarelle",
-        "Acrylique",
-        "Pastel"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1775090847442_4_jg16l1",
-      "addedAt": "2026-04-02T00:47:27.442Z"
-    },
-    {
-      "question": "Quelle entreprise a créé le premier iPhone ?",
-      "options": [
-        "Samsung",
-        "Apple",
-        "Google",
-        "Microsoft"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1775090847442_5_6vfyke",
-      "addedAt": "2026-04-02T00:47:27.442Z"
-    },
-    {
-      "question": "Sur quel continent se trouve le Groenland ?",
-      "options": [
-        "Europe",
-        "Asie",
-        "Amérique du Nord",
-        "Amérique du Sud"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775090847442_6_oks2q2",
-      "addedAt": "2026-04-02T00:47:27.442Z"
     }
   ],
   "poolSize": 100
