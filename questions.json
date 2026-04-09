@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a formulé la théorie de la relativité générale ?",
+      "options": [
+        "Niels Bohr",
+        "Albert Einstein",
+        "Max Planck",
+        "Werner Heisenberg"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775693404622_0_28nu7u",
+      "addedAt": "2026-04-09T00:10:04.622Z"
+    },
+    {
+      "question": "En quelle année s'est déroulée la Révolution française ?",
+      "options": [
+        "1776",
+        "1789",
+        "1804",
+        "1815"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1775693404622_1_u6syoa",
+      "addedAt": "2026-04-09T00:10:04.622Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet du continent africain ?",
+      "options": [
+        "Mont Kenya",
+        "Kilimanjaro",
+        "Ras Dashen",
+        "Mont Speke"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1775693404622_2_sg38ct",
+      "addedAt": "2026-04-09T00:10:04.622Z"
+    },
+    {
+      "question": "Qui a écrit 'Orgueil et Préjugés' ?",
+      "options": [
+        "Charlotte Brontë",
+        "Jane Austen",
+        "George Eliot",
+        "Emily Dickinson"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1775693404622_3_n3m2xq",
+      "addedAt": "2026-04-09T00:10:04.622Z"
+    },
+    {
+      "question": "En quel siècle a vécu le compositeur Wolfgang Amadeus Mozart ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1775693404622_4_8lr0fo",
+      "addedAt": "2026-04-09T00:10:04.622Z"
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+      "options": [
+        "Belgique",
+        "France",
+        "Allemagne",
+        "Croatie"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1775693404622_5_zc1lnr",
+      "addedAt": "2026-04-09T00:10:04.622Z"
+    },
+    {
+      "question": "Quel artiste était un pionnier du mouvement Cubiste ?",
+      "options": [
+        "Salvator Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Marc Chagall"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1775693404622_6_0reb77",
+      "addedAt": "2026-04-09T00:10:04.622Z"
+    },
+    {
+      "question": "Quel type de roche se forme par le refroidissement de la lave ?",
+      "options": [
+        "Roche sédimentaire",
+        "Roche métamorphique",
+        "Roche ignée",
+        "Roche terreuse"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1775693404622_7_7qrimu",
+      "addedAt": "2026-04-09T00:10:04.622Z"
+    },
+    {
+      "question": "Quel fruit est riche en potassium et en vitamine B6 ?",
+      "options": [
+        "Fraise",
+        "Banane",
+        "Orange",
+        "Pomme"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1775693404622_8_wbbi0x",
+      "addedAt": "2026-04-09T00:10:04.622Z"
+    },
+    {
+      "question": "Quel est le plus grand désert du monde ?",
+      "options": [
+        "Sahara",
+        "Désert de Gobi",
+        "Antarctique",
+        "Désert d'Arabie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775693404622_9_2bulpu",
+      "addedAt": "2026-04-09T00:10:04.622Z"
+    },
+    {
+      "question": "Combien de chromosomes possède un être humain ?",
+      "options": [
+        "23",
+        "46",
+        "48",
+        "52"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775693404622_10_60zwkd",
+      "addedAt": "2026-04-09T00:10:04.622Z"
+    },
+    {
+      "question": "Quel cinéaste a réalisé 'Inception' en 2010 ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Martin Scorsese"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1775693404622_11_7nd6ip",
+      "addedAt": "2026-04-09T00:10:04.622Z"
+    },
+    {
       "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
       "options": [
         "1965",
@@ -1470,9 +1626,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 124,
+  "version": 125,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-08T02:33:18.762Z",
+  "last_updated": "2026-04-09T00:10:04.624Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
