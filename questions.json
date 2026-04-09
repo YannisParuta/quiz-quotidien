@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut sommet du monde ?",
+      "options": [
+        "K2",
+        "Kangchenjunga",
+        "Everest",
+        "Lhotse"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775701696258_0_zetzda",
+      "addedAt": "2026-04-09T02:28:16.258Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1775701696258_1_hp6ayu",
+      "addedAt": "2026-04-09T02:28:16.258Z"
+    },
+    {
+      "question": "Quel scientifique a formulé la théorie de la relativité ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Max Planck",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775701696258_2_nie07t",
+      "addedAt": "2026-04-09T02:28:16.258Z"
+    },
+    {
+      "question": "En quelle année a éclaté la Révolution française ?",
+      "options": [
+        "1776",
+        "1789",
+        "1799",
+        "1815"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1775701696258_3_heo2qu",
+      "addedAt": "2026-04-09T02:28:16.258Z"
+    },
+    {
+      "question": "Combien de continents y a-t-il sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775701696258_4_46rrxr",
+      "addedAt": "2026-04-09T02:28:16.258Z"
+    },
+    {
+      "question": "Quel cinéaste a réalisé 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Christopher Nolan",
+        "David Fincher"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1775701696258_5_wnyjn7",
+      "addedAt": "2026-04-09T02:28:16.258Z"
+    },
+    {
+      "question": "Quel animal possède le cœur le plus grand du règne animal ?",
+      "options": [
+        "l'Éléphant",
+        "la Girafe",
+        "la Baleine bleue",
+        "l'Hippopotame"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1775701696258_6_opn6ad",
+      "addedAt": "2026-04-09T02:28:16.258Z"
+    },
+    {
+      "question": "Quel pays produit le plus de café au monde ?",
+      "options": [
+        "la Colombie",
+        "l'Indonésie",
+        "le Brésil",
+        "l'Éthiopie"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1775701696258_7_m3o8fg",
+      "addedAt": "2026-04-09T02:28:16.258Z"
+    },
+    {
+      "question": "En quelle année a été inventée la première ampoule électrique fonctionnelle ?",
+      "options": [
+        "1879",
+        "1887",
+        "1895",
+        "1902"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie",
+      "id": "q_1775701696258_8_2794w8",
+      "addedAt": "2026-04-09T02:28:16.258Z"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde en superficie ?",
+      "options": [
+        "Monaco",
+        "Liechtenstein",
+        "le Vatican",
+        "San Marin"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775701696258_9_d22ohd",
+      "addedAt": "2026-04-09T02:28:16.258Z"
+    },
+    {
       "question": "Quel scientifique a formulé la théorie de la relativité générale ?",
       "options": [
         "Niels Bohr",
@@ -1626,9 +1756,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 125,
+  "version": 126,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-09T00:10:04.624Z",
+  "last_updated": "2026-04-09T02:28:16.258Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
