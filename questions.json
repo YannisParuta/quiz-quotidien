@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel chimiste a développé la vaccination contre la rage ?",
+      "options": [
+        "Joseph Lister",
+        "Louis Pasteur",
+        "Edward Jenner",
+        "Florence Nightingale"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775781237139_0_jb3b8q",
+      "addedAt": "2026-04-10T00:33:57.139Z"
+    },
+    {
+      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Oscar Wilde",
+        "Sir Arthur Conan Doyle",
+        "Agatha Christie",
+        "George Orwell"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1775781237139_1_a0llee",
+      "addedAt": "2026-04-10T00:33:57.139Z"
+    },
+    {
+      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+      "options": [
+        "1917",
+        "Parasite",
+        "Joker",
+        "Once Upon a Time in Hollywood"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1775781237139_2_armtim",
+      "addedAt": "2026-04-10T00:33:57.139Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique standard ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1775781237139_3_00ha3z",
+      "addedAt": "2026-04-10T00:33:57.139Z"
+    },
+    {
+      "question": "Quel mathématicien grec a démontré le théorème du triangle rectangle ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1775781237139_4_8nftbt",
+      "addedAt": "2026-04-10T00:33:57.139Z"
+    },
+    {
+      "question": "Quel artiste a coupé une partie de son oreille en 1888 ?",
+      "options": [
+        "Pablo Picasso",
+        "Paul Cézanne",
+        "Vincent van Gogh",
+        "Henri de Toulouse-Lautrec"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1775781237139_5_tq00fp",
+      "addedAt": "2026-04-10T00:33:57.139Z"
+    },
+    {
+      "question": "Quel pays produit la majorité du cacao mondial ?",
+      "options": [
+        "Ghana",
+        "Brésil",
+        "Côte d'Ivoire",
+        "Cameroun"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1775781237139_6_uapcyi",
+      "addedAt": "2026-04-10T00:33:57.139Z"
+    },
+    {
+      "question": "Quel est le plus ancien port du monde toujours en activité ?",
+      "options": [
+        "Port de Rotterdam",
+        "Port de Jaffa",
+        "Port d'Alexandrie",
+        "Port de Venise"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1775781237139_7_wyudfg",
+      "addedAt": "2026-04-10T00:33:57.139Z"
+    },
+    {
+      "question": "Quel langage informatique a été créé par Guido van Rossum en 1991 ?",
+      "options": [
+        "Java",
+        "Ruby",
+        "Python",
+        "Go"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1775781237139_8_23q04j",
+      "addedAt": "2026-04-10T00:33:57.139Z"
+    },
+    {
       "question": "Quel est le plus haut sommet du monde ?",
       "options": [
         "K2",
@@ -1756,9 +1873,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 126,
+  "version": 127,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-09T02:28:16.258Z",
+  "last_updated": "2026-04-10T00:33:57.140Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
