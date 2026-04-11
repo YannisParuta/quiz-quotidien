@@ -170,6 +170,22 @@
                     if (savedScore)   setScore(parseInt(savedScore));
                     if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
                     setQuizCompleted(true);
+
+                    // Initialiser le streak si le quiz a été complété aujourd'hui
+                    // (cas où l'utilisateur a joué avec l'ancienne version sans streak)
+                    try {
+                        const stored = JSON.parse(localStorage.getItem('quiz-streak') || '{"streak":0,"lastDate":""}');
+                        if (stored.lastDate !== dateKey) {
+                            // Quiz complété aujourd'hui mais streak pas encore enregistré
+                            const yesterday = getYesterdayKey();
+                            const newStreak = stored.lastDate === yesterday ? stored.streak + 1 : 1;
+                            localStorage.setItem('quiz-streak', JSON.stringify({ streak: newStreak, lastDate: dateKey }));
+                            setStreak(newStreak);
+                        } else {
+                            setStreak(stored.streak);
+                        }
+                    } catch (e) {}
+
                     return true;
                 }
                 return false;
@@ -225,22 +241,39 @@
                     } catch (e) {}
 
                     // ── Sélection mensuelle anti-répétition ──────────────────────
-                    // Seed basé sur année+mois → même ordre pour tous les utilisateurs ce mois
-                    // Chaque jour du mois reçoit sa propre tranche de 10 questions exclusives
-                    const rng = s => { let x = Math.sin(s++) * 10000; return x - Math.floor(x); };
-                    const monthSeed = year * 100 + month; // ex: 202603 pour mars 2026
-                    const shuffled  = [...data.questions].sort(() => rng(monthSeed) - 0.5);
-                    const dayIndex  = (day - 1) % 31;    // 0 pour le 1er, 30 pour le 31
+                    // PRNG (LCG) : génère des valeurs DIFFÉRENTES à chaque appel pour un seed donné
+                    const makePrng = (seed) => {
+                        let s = ((seed ^ 0x9E3779B9) >>> 0) || 1;
+                        return () => {
+                            s = Math.imul(s ^ (s >>> 16), 0x45d9f3b);
+                            s = (s ^ (s >>> 16)) >>> 0;
+                            return s / 0xFFFFFFFF;
+                        };
+                    };
+                    // Fisher-Yates : mélange réel et déterministe
+                    const seededShuffle = (arr, seed) => {
+                        const a = [...arr];
+                        const rand = makePrng(seed);
+                        for (let i = a.length - 1; i > 0; i--) {
+                            const j = Math.floor(rand() * (i + 1));
+                            [a[i], a[j]] = [a[j], a[i]];
+                        }
+                        return a;
+                    };
+
+                    const dayIndex = (day - 1) % 31; // 0 pour le 1er, 30 pour le 31
 
                     let selected;
-                    if (shuffled.length >= 310) {
-                        // Pool complet : tranche exclusive par jour → 0 répétition dans le mois
+                    if (data.questions.length >= 310) {
+                        // Pool complet : seed mensuel → même ordre pour tous → tranche exclusive par jour
+                        const monthSeed = year * 100 + month;
+                        const shuffled  = seededShuffle(data.questions, monthSeed);
                         selected = shuffled.slice(dayIndex * 10, dayIndex * 10 + 10);
                     } else {
-                        // Pool pas encore à 310 : sélection aléatoire déterministe (comportement de transition)
-                        const fallbackSeed = new Date().setHours(0, 0, 0, 0) + currentVersion * 1000000;
-                        const fallbackShuffled = [...data.questions].sort(() => rng(fallbackSeed) - 0.5);
-                        selected = fallbackShuffled.slice(0, 10);
+                        // Pool < 310 (transition) : seed journalier → questions différentes chaque jour
+                        const daySeed  = today.setHours(0, 0, 0, 0) + day * 7919 + month * 999983;
+                        const shuffled = seededShuffle(data.questions, daySeed);
+                        selected = shuffled.slice(0, 10);
                     }
 
                     try {
