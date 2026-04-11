@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Qui a réalisé le film 'Inception' en 2010 ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "David Fincher"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1775866067220_0_ii91y4",
+      "addedAt": "2026-04-11T00:07:47.220Z"
+    },
+    {
+      "question": "Quel continent est le moins peuplé en dehors de l'Antarctique ?",
+      "options": [
+        "L'Océanie",
+        "L'Asie",
+        "L'Amérique du Sud",
+        "L'Afrique"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1775866067220_1_a47syd",
+      "addedAt": "2026-04-11T00:07:47.220Z"
+    },
+    {
+      "question": "Combien de symphonies a composées Ludwig van Beethoven ?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1775866067220_2_1jcd23",
+      "addedAt": "2026-04-11T00:07:47.220Z"
+    },
+    {
+      "question": "Quel artiste impressionniste a peint 'Les Nymphéas' ?",
+      "options": [
+        "Pierre-Auguste Renoir",
+        "Edgar Degas",
+        "Claude Monet",
+        "Berthe Morisot"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1775866067220_3_3rpfmu",
+      "addedAt": "2026-04-11T00:07:47.220Z"
+    },
+    {
+      "question": "Quel sport nautique combine la natation, le cyclisme et la course à pied ?",
+      "options": [
+        "Le pentathlon",
+        "Le triathlon",
+        "Le biathlon",
+        "Le décathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1775866067220_4_4ez5zq",
+      "addedAt": "2026-04-11T00:07:47.220Z"
+    },
+    {
+      "question": "Quel oiseau ne peut pas voler et vit uniquement en Nouvelle-Zélande ?",
+      "options": [
+        "Le kakapo",
+        "Le kiwi",
+        "Le takahe",
+        "Le weka"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1775866067220_5_x0pejv",
+      "addedAt": "2026-04-11T00:07:47.220Z"
+    },
+    {
+      "question": "Quel écrivain français a créé le personnage de Cyrano de Bergerac ?",
+      "options": [
+        "Alexandre Dumas",
+        "Edmond Rostand",
+        "Victor Hugo",
+        "Guy de Maupassant"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1775866067220_6_g26sgl",
+      "addedAt": "2026-04-11T00:07:47.220Z"
+    },
+    {
+      "question": "Quelle est la capitale de la Suisse ?",
+      "options": [
+        "Zurich",
+        "Genève",
+        "Berne",
+        "Lausanne"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775866067220_7_jpxm59",
+      "addedAt": "2026-04-11T00:07:47.220Z"
+    },
+    {
+      "question": "Quel mathématicien grec a découvert le principe de la flottabilité dans l'eau ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thales"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1775866067220_8_6zmndi",
+      "addedAt": "2026-04-11T00:07:47.220Z"
+    },
+    {
+      "question": "En informatique, que signifie l'acronyme 'API' ?",
+      "options": [
+        "Application Program Interface",
+        "Advanced Programming Instruction",
+        "Automated Process Identification",
+        "Application Process Integration"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie",
+      "id": "q_1775866067220_9_l3kyqj",
+      "addedAt": "2026-04-11T00:07:47.220Z"
+    },
+    {
       "question": "Quel chimiste français a découvert le radium en 1898 ?",
       "options": [
         "Marie Curie",
@@ -2003,9 +2133,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 128,
+  "version": 129,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-10T02:39:39.598Z",
+  "last_updated": "2026-04-11T00:07:47.220Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
