@@ -1,6 +1,188 @@
 {
   "questions": [
     {
+      "question": "Quel chimiste suédois a inventé la dynamite ?",
+      "options": [
+        "Jöns Jakob Berzelius",
+        "Alfred Nobel",
+        "Svante Arrhenius",
+        "Carl Wilhelm Scheele"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775874292798_0_kwupay",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "En quelle année l'Homme a-t-il marché pour la première fois sur la Lune ?",
+      "options": [
+        "1967",
+        "1969",
+        "1971",
+        "1965"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1775874292798_1_aipvx5",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "Quel archipel est la capitale mondiale de la vanille ?",
+      "options": [
+        "Les Seychelles",
+        "Madagascar",
+        "Les Comores",
+        "La Polynésie française"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1775874292798_2_tdfswe",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "Quel compositeur a écrit la symphonie 'Pathétique' ?",
+      "options": [
+        "Beethoven",
+        "Tchaïkovski",
+        "Brahms",
+        "Debussy"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1775874292798_3_6qq6qr",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet d'Asie du Sud-Est ?",
+      "options": [
+        "Le Kanchenjunga",
+        "Le Pic Khao Yai",
+        "Le Hkakabo Razi",
+        "Le Mont Kinabalu"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775874292798_4_zp29ex",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "Quel mathématicien a démontré le théorème de Pythagore pour la première fois ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore lui-même",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1775874292798_5_jtdp1j",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "En quelle année Netflix a-t-il été fondé ?",
+      "options": [
+        "1997",
+        "1999",
+        "2001",
+        "2003"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie",
+      "id": "q_1775874292798_6_phjqk5",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "Quel artiste a créé l'installation 'Cloud Gate' à Chicago ?",
+      "options": [
+        "Anish Kapoor",
+        "Jeff Koons",
+        "Christo",
+        "Jenny Holzer"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1775874292798_7_zwfzk2",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "Quel écrivain français a remporté le prix Nobel de littérature en 1947 ?",
+      "options": [
+        "Jean-Paul Sartre",
+        "André Gide",
+        "Albert Camus",
+        "Simone de Beauvoir"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1775874292798_8_ozgrkk",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "Quel animal est capable de changer de sexe en fonction de son environnement ?",
+      "options": [
+        "Le crocodile",
+        "Le poisson-clown",
+        "La tortue marine",
+        "L'anguille"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1775874292798_9_86j5f0",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "En quel siècle le tournoi de Wimbledon a-t-il été créé ?",
+      "options": [
+        "XVIIIe siècle",
+        "XIXe siècle",
+        "XXe siècle",
+        "XVIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1775874292798_10_qox8un",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "Quel roi français a régné le plus longtemps ?",
+      "options": [
+        "Louis IX",
+        "Louis XIV",
+        "Charles VII",
+        "Henri IV"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1775874292798_11_uy0ro2",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "Quel film de réalisation collective a remporté la Palme d'Or en 2019 ?",
+      "options": [
+        "Parasite",
+        "Un Certain Regard",
+        "Joker",
+        "The Farewell"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1775874292798_12_wzjhdd",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
+      "question": "Quel métal alcalin réagit violemment au contact de l'eau ?",
+      "options": [
+        "Le calcium",
+        "Le sodium",
+        "Le magnésium",
+        "Le potassium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775874292798_13_r25hje",
+      "addedAt": "2026-04-11T02:24:52.798Z"
+    },
+    {
       "question": "Qui a réalisé le film 'Inception' en 2010 ?",
       "options": [
         "Steven Spielberg",
@@ -2133,9 +2315,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 129,
+  "version": 130,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-11T00:07:47.220Z",
+  "last_updated": "2026-04-11T02:24:52.799Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
