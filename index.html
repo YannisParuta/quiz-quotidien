@@ -5,14 +5,60 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz Quotidien</title>
     <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="canonical" href="https://quiz-quotidien.fr">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#7C3AED">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Quiz Quotidien">
 
-    <!-- Meta tags pour SEO et partage -->
+    <!-- SEO -->
     <meta name="description" content="Quiz Quotidien - 10 nouvelles questions chaque jour pour tester vos connaissances !">
+    <meta name="keywords" content="quiz, questions, culture générale, jeu quotidien, quizz français">
+    <meta name="author" content="Quiz Quotidien">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
     <meta property="og:title" content="Quiz Quotidien">
     <meta property="og:description" content="10 nouvelles questions chaque jour pour tester vos connaissances !">
-    <meta property="og:image" content="https://quiz-quotidien.fr/favicon.png">
+    <meta property="og:image" content="https://quiz-quotidien.fr/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:url" content="https://quiz-quotidien.fr">
-    <meta name="twitter:card" content="summary">
+    <meta property="og:locale" content="fr_FR">
+    <meta property="og:site_name" content="Quiz Quotidien">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Quiz Quotidien">
+    <meta name="twitter:description" content="10 nouvelles questions chaque jour pour tester vos connaissances !">
+    <meta name="twitter:image" content="https://quiz-quotidien.fr/og-image.png">
+
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Quiz Quotidien",
+      "url": "https://quiz-quotidien.fr",
+      "description": "10 nouvelles questions de culture générale chaque jour pour tester vos connaissances.",
+      "applicationCategory": "Game",
+      "operatingSystem": "Web",
+      "inLanguage": "fr",
+      "isAccessibleForFree": true,
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "EUR"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Quiz Quotidien",
+        "url": "https://quiz-quotidien.fr"
+      }
+    }
+    </script>
 
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XHE708K9TT"></script>
@@ -50,6 +96,14 @@
             d.setDate(d.getDate() - 1);
             return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
         };
+
+        // Titre dynamique avec la date (SEO : contenu frais chaque jour)
+        const updatePageTitle = () => {
+            const d = new Date();
+            const dateStr = d.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
+            document.title = `Quiz Quotidien – ${dateStr}`;
+        };
+        updatePageTitle();
 
         // ─── SVG Icons ─────────────────────────────────────────────────────────
         const Calendar = () => (
@@ -109,12 +163,15 @@
             const [quizAlreadyCompleted, setQuizAlreadyCompleted] = useState(false);
             const [timeLeft, setTimeLeft] = useState(TIMER_DURATION);
             const [streak, setStreak] = useState(0);
+            const [bestScore, setBestScore] = useState(0);
+            const [showRecap, setShowRecap] = useState(false);
 
             const timerRef = useRef(null);
             const answeredRef = useRef(false);
 
-            // ── Load streak on mount ──────────────────────────────────────────
+            // ── Load streak + best score on mount ─────────────────────────────
             useEffect(() => {
+                setBestScore(parseInt(localStorage.getItem('quiz-best-score') || '0'));
                 try {
                     const stored = JSON.parse(localStorage.getItem('quiz-streak') || '{"streak":0,"lastDate":""}');
                     const today = getTodayKey();
@@ -325,6 +382,13 @@
                     localStorage.setItem(`quiz-score-${dateKey}`, finalScore.toString());
                     localStorage.setItem(`quiz-answers-${dateKey}`, JSON.stringify(answers));
 
+                    // Meilleur score
+                    const currentBest = parseInt(localStorage.getItem('quiz-best-score') || '0');
+                    if (finalScore > currentBest) {
+                        localStorage.setItem('quiz-best-score', finalScore.toString());
+                        setBestScore(finalScore);
+                    }
+
                     // Update streak
                     try {
                         const stored = JSON.parse(localStorage.getItem('quiz-streak') || '{"streak":0,"lastDate":""}');
@@ -526,8 +590,8 @@
                                     </div>
                                 )}
 
-                                {/* Score */}
-                                <div className="bg-purple-100 rounded-xl p-6 mb-6">
+                                {/* Score + Best score */}
+                                <div className="bg-purple-100 rounded-xl p-6 mb-4">
                                     <p className="text-5xl font-bold text-purple-600 mb-2">{score}/{dailyQuiz.length}</p>
                                     <p className="text-gray-700">
                                         {score === dailyQuiz.length       ? "Parfait ! Vous êtes un expert !" :
@@ -535,13 +599,64 @@
                                          score >= dailyQuiz.length * 0.5  ? "Pas mal ! Continuez comme ça !" :
                                                                              "Continuez à vous entraîner !"}
                                     </p>
+                                    {bestScore > 0 && (
+                                        <p className="text-purple-500 text-sm mt-2">
+                                            {score >= bestScore && !quizAlreadyCompleted
+                                                ? `🏅 Nouveau record : ${score}/${dailyQuiz.length} !`
+                                                : `🏅 Ton record : ${bestScore}/${dailyQuiz.length}`}
+                                        </p>
+                                    )}
                                 </div>
 
-                                <p className="text-gray-500 text-sm mb-6">
+                                <p className="text-gray-500 text-sm mb-4">
                                     {quizAlreadyCompleted
                                         ? "Vous avez déjà fait le quiz aujourd'hui. Revenez demain !"
                                         : "Revenez demain pour de nouvelles questions !"}
                                 </p>
+
+                                {/* Récapitulatif des réponses */}
+                                {answers.length > 0 && (
+                                    <div className="mb-6">
+                                        <button
+                                            onClick={() => setShowRecap(r => !r)}
+                                            className="flex items-center justify-center gap-2 w-full text-purple-700 bg-purple-50 hover:bg-purple-100 border border-purple-200 rounded-lg py-2 px-4 text-sm font-medium transition-colors mb-3"
+                                        >
+                                            <span>{showRecap ? '▲' : '▼'}</span>
+                                            {showRecap ? 'Masquer le récapitulatif' : 'Voir le récapitulatif des réponses'}
+                                        </button>
+                                        {showRecap && (
+                                            <div className="space-y-2 text-left max-h-96 overflow-y-auto pr-1">
+                                                {dailyQuiz.map((q, i) => {
+                                                    const userAns   = answers[i];
+                                                    const isCorrect = userAns === q.correctAnswer;
+                                                    const isMissed  = userAns === null || userAns === undefined;
+                                                    return (
+                                                        <div key={i} className={`p-3 rounded-lg text-sm border ${isCorrect ? 'bg-green-50 border-green-200' : 'bg-red-50 border-red-200'}`}>
+                                                            <div className="flex items-start gap-2">
+                                                                <span className="text-base mt-0.5 flex-shrink-0">
+                                                                    {isCorrect ? '✅' : isMissed ? '⏱️' : '❌'}
+                                                                </span>
+                                                                <div className="min-w-0">
+                                                                    <p className="font-medium text-gray-800 leading-snug">{q.question}</p>
+                                                                    {!isCorrect && (
+                                                                        <p className="text-green-700 mt-1 text-xs">
+                                                                            ✓ {q.options[q.correctAnswer]}
+                                                                        </p>
+                                                                    )}
+                                                                    {!isCorrect && !isMissed && (
+                                                                        <p className="text-red-600 text-xs">
+                                                                            ✗ {q.options[userAns]}
+                                                                        </p>
+                                                                    )}
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    );
+                                                })}
+                                            </div>
+                                        )}
+                                    </div>
+                                )}
 
                                 {/* Share buttons */}
                                 <p className="text-gray-600 font-medium mb-3">Partager mon score :</p>
