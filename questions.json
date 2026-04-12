@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel artiste français est connu pour ses sculptures abstraites et minimalistes ?",
+      "options": [
+        "Pablo Picasso",
+        "Henri Matisse",
+        "Auguste Rodin",
+        "Henry Moore"
+      ],
+      "correctAnswer": 3,
+      "category": "Art",
+      "id": "q_1775955394943_0_do61zv",
+      "addedAt": "2026-04-12T00:56:34.943Z"
+    },
+    {
+      "question": "Quel est le plus profond océan du monde ?",
+      "options": [
+        "L'océan Atlantique",
+        "L'océan Pacifique",
+        "L'océan Indien",
+        "L'océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1775955394943_1_c0g5l6",
+      "addedAt": "2026-04-12T00:56:34.943Z"
+    },
+    {
+      "question": "En quel siècle a été inventée l'imprimerie par Gutenberg ?",
+      "options": [
+        "XIIe siècle",
+        "XIIIe siècle",
+        "XVe siècle",
+        "XVIIe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1775955394943_2_536odo",
+      "addedAt": "2026-04-12T00:56:34.943Z"
+    },
+    {
+      "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775955394943_3_eogtp1",
+      "addedAt": "2026-04-12T00:56:34.943Z"
+    },
+    {
+      "question": "Quel chef-d'œuvre cinématographique réalisé par Akira Kurosawa est un classique du cinéma ?",
+      "options": [
+        "Blade Runner",
+        "Rashomon",
+        "Metropolis",
+        "Nosferatu"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1775955394943_4_yyx04v",
+      "addedAt": "2026-04-12T00:56:34.943Z"
+    },
+    {
+      "question": "Quel sport olympique combine le tir à la carabine et le ski de fond ?",
+      "options": [
+        "Le pentathlon moderne",
+        "Le biathlon",
+        "Le triathlon",
+        "Le décathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1775955394943_5_j0cgqw",
+      "addedAt": "2026-04-12T00:56:34.943Z"
+    },
+    {
+      "question": "Quel fromage français provient de la région de Normandie et est recouvert d'une croûte blanche ?",
+      "options": [
+        "Le Comté",
+        "Le Camembert",
+        "Le Roquefort",
+        "Le Brie"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1775955394943_6_p4wp39",
+      "addedAt": "2026-04-12T00:56:34.943Z"
+    },
+    {
+      "question": "Quel animal marin peut changer de couleur rapidement pour se camoufler ?",
+      "options": [
+        "Le dauphin",
+        "Le phoque",
+        "La seiche",
+        "L'otarie"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1775955394943_7_e5wy7y",
+      "addedAt": "2026-04-12T00:56:34.943Z"
+    },
+    {
+      "question": "Quel langage de balisage est utilisé pour créer des pages web ?",
+      "options": [
+        "Java",
+        "HTML",
+        "SQL",
+        "C++"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1775955394943_8_fftp0f",
+      "addedAt": "2026-04-12T00:56:34.943Z"
+    },
+    {
       "question": "Quel chimiste suédois a inventé la dynamite ?",
       "options": [
         "Jöns Jakob Berzelius",
@@ -2315,9 +2432,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 130,
+  "version": 131,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-11T02:24:52.799Z",
+  "last_updated": "2026-04-12T00:56:34.944Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
