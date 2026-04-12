@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel réalisateur a créé le film 'Inception' ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "Denis Villeneuve"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1775961746934_0_yvvumf",
+      "addedAt": "2026-04-12T02:42:26.934Z"
+    },
+    {
+      "question": "Quel continent est le plus grand en superficie ?",
+      "options": [
+        "Afrique",
+        "Asie",
+        "Amérique du Nord",
+        "Europe"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1775961746934_1_h5h6du",
+      "addedAt": "2026-04-12T02:42:26.934Z"
+    },
+    {
+      "question": "Quel scientifique a développé la théorie de la relativité ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Stephen Hawking",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775961746934_2_rf5y7x",
+      "addedAt": "2026-04-12T02:42:26.934Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle commencé ?",
+      "options": [
+        "XIIe siècle",
+        "XIIIe siècle",
+        "XIVe siècle",
+        "XVe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1775961746934_3_939cym",
+      "addedAt": "2026-04-12T02:42:26.934Z"
+    },
+    {
+      "question": "Quel artiste a coupé une partie de son oreille ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Paul Cézanne",
+        "Henri Matisse"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1775961746934_4_ojsv42",
+      "addedAt": "2026-04-12T02:42:26.934Z"
+    },
+    {
+      "question": "Combien de chromosomes possède un humain ?",
+      "options": [
+        "23",
+        "46",
+        "48",
+        "52"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1775961746934_5_f1ubj3",
+      "addedAt": "2026-04-12T02:42:26.934Z"
+    },
+    {
+      "question": "Quel écrivain français a remporté le prix Nobel de littérature en 2014 ?",
+      "options": [
+        "Michel Houellebecq",
+        "Patrick Modiano",
+        "Leïla Slimani",
+        "Jonathan Littell"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1775961746934_6_wtwqny",
+      "addedAt": "2026-04-12T02:42:26.934Z"
+    },
+    {
+      "question": "Quel fruit est traditionnellement utilisé pour faire le cidre ?",
+      "options": [
+        "Raisin",
+        "Poire",
+        "Pomme",
+        "Prune"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1775961746934_7_9mvezl",
+      "addedAt": "2026-04-12T02:42:26.934Z"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde ?",
+      "options": [
+        "Monaco",
+        "Andorre",
+        "Cité du Vatican",
+        "Saint-Marin"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1775961746934_8_b70h2m",
+      "addedAt": "2026-04-12T02:42:26.934Z"
+    },
+    {
+      "question": "Quel mathématicien grec a découvert le rapport entre les côtés d'un triangle rectangle ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1775961746934_9_nbp6y6",
+      "addedAt": "2026-04-12T02:42:26.934Z"
+    },
+    {
       "question": "Quel artiste français est connu pour ses sculptures abstraites et minimalistes ?",
       "options": [
         "Pablo Picasso",
@@ -2432,9 +2562,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 131,
+  "version": 132,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-12T00:56:34.944Z",
+  "last_updated": "2026-04-12T02:42:26.935Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
