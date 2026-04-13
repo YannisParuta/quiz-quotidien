@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Combien de cordes possède une harpe classique ?",
+      "options": [
+        "22 à 47 cordes",
+        "10 à 15 cordes",
+        "50 à 60 cordes",
+        "5 à 8 cordes"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1776041022218_0_nv82mp",
+      "addedAt": "2026-04-13T00:43:42.218Z"
+    },
+    {
+      "question": "En quelle année a eu lieu la Révolution française ?",
+      "options": [
+        "1776",
+        "1789",
+        "1801",
+        "1815"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1776041022218_1_cbfgh6",
+      "addedAt": "2026-04-13T00:43:42.218Z"
+    },
+    {
+      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Alexandre Pouchkine",
+        "Ivan Tourguéniev"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1776041022218_2_pekuq3",
+      "addedAt": "2026-04-13T00:43:42.218Z"
+    },
+    {
+      "question": "Quel artiste flamand a coupé une partie de son oreille ?",
+      "options": [
+        "Rubens",
+        "Vincent van Gogh",
+        "Pieter Bruegel",
+        "Jérôme Bosch"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1776041022218_3_cvpmyr",
+      "addedAt": "2026-04-13T00:43:42.218Z"
+    },
+    {
+      "question": "Combien de chromosomes possède l'être humain ?",
+      "options": [
+        "23",
+        "46",
+        "48",
+        "52"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776041022218_4_6r3liq",
+      "addedAt": "2026-04-13T00:43:42.218Z"
+    },
+    {
+      "question": "Quel réalisateur a créé le film 'Inception' en 2010 ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Quentin Tarantino",
+        "Denis Villeneuve"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1776041022218_5_sifhad",
+      "addedAt": "2026-04-13T00:43:42.218Z"
+    },
+    {
+      "question": "Quel fruit est la baie du caféier ?",
+      "options": [
+        "Une cerise",
+        "Une noisette",
+        "Une amande",
+        "Une noix"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1776041022218_6_wr92rd",
+      "addedAt": "2026-04-13T00:43:42.218Z"
+    },
+    {
+      "question": "Combien de murs possède un cube ?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1776041022218_7_mdqhbb",
+      "addedAt": "2026-04-13T00:43:42.218Z"
+    },
+    {
+      "question": "Quel politique britannique a été Premier ministre pendant la Seconde Guerre mondiale ?",
+      "options": [
+        "Neville Chamberlain",
+        "Winston Churchill",
+        "Stanley Baldwin",
+        "Clement Attlee"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1776041022218_8_dpjxnq",
+      "addedAt": "2026-04-13T00:43:42.218Z"
+    },
+    {
+      "question": "Quel phénomène optique crée les aurores boréales ?",
+      "options": [
+        "La réfraction de la lumière solaire",
+        "L'interaction du vent solaire avec la magnétosphère",
+        "La réflexion de la lumière lunaire",
+        "Les rayons ultraviolets"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776041022218_9_2tdgd3",
+      "addedAt": "2026-04-13T00:43:42.218Z"
+    },
+    {
+      "question": "En quel matériau sont généralement fabriquées les balles de tennis ?",
+      "options": [
+        "Caoutchouc pur",
+        "Laine recouverte de feutre",
+        "Plastique renforcé",
+        "Cuir synthétique"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1776041022218_10_evfh9x",
+      "addedAt": "2026-04-13T00:43:42.218Z"
+    },
+    {
       "question": "Quel réalisateur a créé le film 'Inception' ?",
       "options": [
         "Steven Spielberg",
@@ -2562,9 +2705,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 132,
+  "version": 133,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-12T02:42:26.935Z",
+  "last_updated": "2026-04-13T00:43:42.219Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
