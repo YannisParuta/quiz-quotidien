@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "Combien de cordes possède une harpe celtique traditionnelle ?",
+      "options": [
+        "18 à 22",
+        "22 à 46",
+        "46 à 60",
+        "60 à 80"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1776048480289_0_8skgu7",
+      "addedAt": "2026-04-13T02:48:00.289Z"
+    },
+    {
+      "question": "Dans quel pays se trouve la barrière de corail la plus grande du monde ?",
+      "options": [
+        "Les Philippines",
+        "L'Indonésie",
+        "L'Australie",
+        "La Polynésie française"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1776048480289_1_m4oy3f",
+      "addedAt": "2026-04-13T02:48:00.289Z"
+    },
+    {
+      "question": "Quel animal terrestre possède le cœur le plus gros par rapport à sa taille ?",
+      "options": [
+        "L'éléphant",
+        "La baleine bleue",
+        "La girafe",
+        "L'hippopotame"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1776048480289_2_xfxqaf",
+      "addedAt": "2026-04-13T02:48:00.289Z"
+    },
+    {
+      "question": "Combien de temps met la lumière du Soleil pour atteindre la Terre ?",
+      "options": [
+        "Environ 5 minutes",
+        "Environ 8 minutes",
+        "Environ 12 minutes",
+        "Environ 15 minutes"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776048480289_3_l4q35i",
+      "addedAt": "2026-04-13T02:48:00.289Z"
+    },
+    {
+      "question": "Quel champion de tennis français a remporté trois fois Roland Garros ?",
+      "options": [
+        "Yannick Noah",
+        "Gilles Simon",
+        "Jo-Wilfried Tsonga",
+        "Gaston Gaudio"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1776048480289_4_ob5ner",
+      "addedAt": "2026-04-13T02:48:00.289Z"
+    },
+    {
+      "question": "Quel mouvement artistique a été fondé par Pablo Picasso et Georges Braque ?",
+      "options": [
+        "Le Surréalisme",
+        "Le Fauvisme",
+        "Le Cubisme",
+        "L'Expressionnisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1776048480289_5_6iha5u",
+      "addedAt": "2026-04-13T02:48:00.289Z"
+    },
+    {
+      "question": "En quelle année a été fondée la première université du monde ?",
+      "options": [
+        "388 avant J.C.",
+        "859 après J.C.",
+        "1088 après J.C.",
+        "1200 après J.C."
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1776048480289_6_73hqzz",
+      "addedAt": "2026-04-13T02:48:00.289Z"
+    },
+    {
       "question": "Combien de cordes possède une harpe classique ?",
       "options": [
         "22 à 47 cordes",
@@ -2705,9 +2796,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 133,
+  "version": 134,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-13T00:43:42.219Z",
+  "last_updated": "2026-04-13T02:48:00.290Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
