@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a formé la théorie de la relativité restreinte ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Stephen Hawking",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776134406923_0_y24m38",
+      "addedAt": "2026-04-14T02:40:06.923Z"
+    },
+    {
+      "question": "Quel pays produit le plus de chocolat au monde ?",
+      "options": [
+        "Belgique",
+        "Suisse",
+        "Côte d'Ivoire",
+        "Allemagne"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1776134406923_1_urpfbb",
+      "addedAt": "2026-04-14T02:40:06.923Z"
+    },
+    {
+      "question": "Quelle écrivaine a créé le personnage d'Harry Potter ?",
+      "options": [
+        "Agatha Christie",
+        "J.K. Rowling",
+        "Margaret Atwood",
+        "Sylvia Plath"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1776134406923_2_e1f4n9",
+      "addedAt": "2026-04-14T02:40:06.923Z"
+    },
+    {
+      "question": "Combien de cordes possède un violon ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1776134406923_3_89b5hl",
+      "addedAt": "2026-04-14T02:40:06.923Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
+      "options": [
+        "XIIIe siècle",
+        "XIVe siècle",
+        "XVe siècle",
+        "XVIe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1776134406923_4_dai28u",
+      "addedAt": "2026-04-14T02:40:06.923Z"
+    },
+    {
+      "question": "Quel mathématicien grec a découvert le théorème des triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1776134406923_5_0rbt80",
+      "addedAt": "2026-04-14T02:40:06.923Z"
+    },
+    {
+      "question": "Quel film de science-fiction réalisé par James Cameron est sorti en 1997 ?",
+      "options": [
+        "Avatar",
+        "Titanic",
+        "Terminator 2",
+        "Aliens"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1776134406923_6_xdhhse",
+      "addedAt": "2026-04-14T02:40:06.923Z"
+    },
+    {
+      "question": "Quel élément chimique a le symbole 'Au' sur le tableau périodique ?",
+      "options": [
+        "Argent",
+        "Or",
+        "Aluminium",
+        "Arsenic"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776134406923_7_k96i5o",
+      "addedAt": "2026-04-14T02:40:06.923Z"
+    },
+    {
+      "question": "Quel espèce de pingouin est la plus grande ?",
+      "options": [
+        "Pingouin royal",
+        "Pingouin empereur",
+        "Pingouin Adelie",
+        "Pingouin Macaroni"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1776134406923_8_pdlxlt",
+      "addedAt": "2026-04-14T02:40:06.923Z"
+    },
+    {
+      "question": "Qui a remporté le tournoi de Wimbledon en tennis en 2023 ?",
+      "options": [
+        "Novak Djokovic",
+        "Carlos Alcaraz",
+        "Roger Federer",
+        "Andy Murray"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1776134406923_9_q2vgp9",
+      "addedAt": "2026-04-14T02:40:06.923Z"
+    },
+    {
+      "question": "Quel peintre néerlandais s'est coupé une partie de l'oreille ?",
+      "options": [
+        "Rembrandt",
+        "Vincent van Gogh",
+        "Johannes Vermeer",
+        "Pieter Bruegel"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1776134406923_10_n0v9pt",
+      "addedAt": "2026-04-14T02:40:06.923Z"
+    },
+    {
       "question": "Combien de livres composent la série 'Harry Potter' ?",
       "options": [
         "5",
@@ -2900,9 +3043,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 135,
+  "version": 136,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-14T00:54:13.618Z",
+  "last_updated": "2026-04-14T02:40:06.923Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
