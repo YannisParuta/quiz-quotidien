@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel romancier français a écrit 'Le Comte de Monte-Cristo' ?",
+      "options": [
+        "Honoré de Balzac",
+        "Alexandre Dumas",
+        "Gustave Flaubert",
+        "Émile Zola"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1776211335840_0_4d17k1",
+      "addedAt": "2026-04-15T00:02:15.840Z"
+    },
+    {
+      "question": "En quel métal les pièces de monnaie de l'euro sont-elles principalement frappées ?",
+      "options": [
+        "Acier inoxydable",
+        "Cuivre et nickel",
+        "Aluminium",
+        "Titanium"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1776211335840_1_czjs6k",
+      "addedAt": "2026-04-15T00:02:15.840Z"
+    },
+    {
+      "question": "Quel pays a accueilli la première Coupe du Monde de football ?",
+      "options": [
+        "France",
+        "Uruguay",
+        "Italie",
+        "Brésil"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1776211335840_2_ug8bih",
+      "addedAt": "2026-04-15T00:02:15.840Z"
+    },
+    {
+      "question": "Quel mathématicien antique a découvert le théorème du triangle rectangle ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1776211335840_3_767o6i",
+      "addedAt": "2026-04-15T00:02:15.840Z"
+    },
+    {
+      "question": "Quel légume est traditionnellement utilisé pour la sauce bordelaise en gastronomie française ?",
+      "options": [
+        "Carotte",
+        "Champignon",
+        "Échalote",
+        "Oignon"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1776211335840_4_xleyn3",
+      "addedAt": "2026-04-15T00:02:15.840Z"
+    },
+    {
+      "question": "Quel animal aquatique peut vivre plus de 100 ans ?",
+      "options": [
+        "Dauphin",
+        "Tortue marine",
+        "Truite",
+        "Esturgeon"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1776211335840_5_by1lwy",
+      "addedAt": "2026-04-15T00:02:15.840Z"
+    },
+    {
+      "question": "Dans quel film de science-fiction de 1999 Keanu Reeves interprète-t-il Neo ?",
+      "options": [
+        "Blade Runner",
+        "Matrix",
+        "Total Recall",
+        "RoboCop"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1776211335840_6_pxl594",
+      "addedAt": "2026-04-15T00:02:15.840Z"
+    },
+    {
+      "question": "Quel est le point de congélation de l'eau en degré Celsius ?",
+      "options": [
+        "0°",
+        "-1°",
+        "-273°",
+        "32°"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1776211335840_7_advifl",
+      "addedAt": "2026-04-15T00:02:15.840Z"
+    },
+    {
+      "question": "Quel traité signé en 1815 a réorganisé l'Europe après Napoléon ?",
+      "options": [
+        "Traité de Versailles",
+        "Congrès de Vienne",
+        "Traité de Westphalie",
+        "Paix d'Utrecht"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1776211335840_8_wep8th",
+      "addedAt": "2026-04-15T00:02:15.840Z"
+    },
+    {
       "question": "Quel scientifique a formé la théorie de la relativité restreinte ?",
       "options": [
         "Isaac Newton",
@@ -3043,9 +3160,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 136,
+  "version": 137,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-14T02:40:06.923Z",
+  "last_updated": "2026-04-15T00:02:15.841Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
