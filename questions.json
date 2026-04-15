@@ -1,6 +1,71 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus long fleuve d'Europe ?",
+      "options": [
+        "Le Danube",
+        "Le Rhin",
+        "La Volga",
+        "L'Elbe"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1776220672898_0_vw2f7l",
+      "addedAt": "2026-04-15T02:37:52.898Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre actuellement vivant ?",
+      "options": [
+        "La girafe",
+        "L'hippopotame",
+        "Le rhinocéros",
+        "L'éléphant"
+      ],
+      "correctAnswer": 3,
+      "category": "Nature",
+      "id": "q_1776220672898_1_e6v0ni",
+      "addedAt": "2026-04-15T02:37:52.898Z"
+    },
+    {
+      "question": "Quel mathématicien grec a énoncé le théorème du triangle rectangle ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1776220672898_2_whd9ko",
+      "addedAt": "2026-04-15T02:37:52.898Z"
+    },
+    {
+      "question": "Quel fruit contient le plus de vitamine C ?",
+      "options": [
+        "L'orange",
+        "La goyave",
+        "Le citron",
+        "Le kiwi"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1776220672898_3_fevno4",
+      "addedAt": "2026-04-15T02:37:52.898Z"
+    },
+    {
+      "question": "En quelle année le premier ordinateur personnel Apple a-t-il été lancé ?",
+      "options": [
+        "1974",
+        "1976",
+        "1978",
+        "1980"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1776220672898_4_j3e6e5",
+      "addedAt": "2026-04-15T02:37:52.898Z"
+    },
+    {
       "question": "Quel romancier français a écrit 'Le Comte de Monte-Cristo' ?",
       "options": [
         "Honoré de Balzac",
@@ -3160,9 +3225,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 137,
+  "version": 138,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-15T00:02:15.841Z",
+  "last_updated": "2026-04-15T02:37:52.899Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
