@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "En quelle année la Révolution française a-t-elle débuté ?",
+      "options": [
+        "1785",
+        "1789",
+        "1792",
+        "1799"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1776384087731_0_2i45h9",
+      "addedAt": "2026-04-17T00:01:27.731Z"
+    },
+    {
+      "question": "Quel pays est le plus grand producteur de cacao au monde ?",
+      "options": [
+        "L'Équateur",
+        "La Côte d'Ivoire",
+        "Le Ghana",
+        "Le Cameroun"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1776384087731_1_2jezxp",
+      "addedAt": "2026-04-17T00:01:27.731Z"
+    },
+    {
+      "question": "Quel mathématicien a énoncé le théorème de Pythagore ?",
+      "options": [
+        "Archimède",
+        "Euclide",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1776384087731_2_5rn0cf",
+      "addedAt": "2026-04-17T00:01:27.731Z"
+    },
+    {
+      "question": "Quel artiste contemporain est connu pour ses sculptures d'araignées géantes ?",
+      "options": [
+        "Banksy",
+        "Louise Bourgeois",
+        "Koons Jeff",
+        "Christo"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1776384087731_3_5wb4jw",
+      "addedAt": "2026-04-17T00:01:27.731Z"
+    },
+    {
+      "question": "Quel îlot rocheux britannique est réputé pour ses falaises blanches ?",
+      "options": [
+        "L'île de Man",
+        "Les Îles Anglo-Normandes",
+        "Douvres",
+        "L'île de Wight"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1776384087731_4_zo5yhy",
+      "addedAt": "2026-04-17T00:01:27.731Z"
+    },
+    {
+      "question": "Quel écrivain belge a créé le détective Hercule Poirot ?",
+      "options": [
+        "Georges Simenon",
+        "Agatha Christie",
+        "Maurice Leblanc",
+        "Arthur Conan Doyle"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1776384087731_5_z1mjsg",
+      "addedAt": "2026-04-17T00:01:27.731Z"
+    },
+    {
+      "question": "Quel oiseau est capable de voler à reculons ?",
+      "options": [
+        "Le pigeon",
+        "Le colibri",
+        "Le perroquet",
+        "Le martinet"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1776384087731_6_4at2b1",
+      "addedAt": "2026-04-17T00:01:27.731Z"
+    },
+    {
+      "question": "Quel dispositif permettait aux anciens Grecs de calculer les mouvements célestes ?",
+      "options": [
+        "L'astrolabe",
+        "Le mécanisme d'Anticythère",
+        "L'arillaire",
+        "Le cadran solaire"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1776384087731_7_pb1od9",
+      "addedAt": "2026-04-17T00:01:27.731Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été créé par Linus Torvalds ?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1776384087731_8_om6656",
+      "addedAt": "2026-04-17T00:01:27.731Z"
+    },
+    {
+      "question": "Quel compositeur classique était sourd lorsqu'il a écrit sa neuvième symphonie ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Franz Schubert",
+        "Joseph Haydn"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1776384087731_9_qccyrx",
+      "addedAt": "2026-04-17T00:01:27.731Z"
+    },
+    {
       "question": "Quel élément chimique a le numéro atomique 79 ?",
       "options": [
         "Argent",
@@ -3459,9 +3589,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 140,
+  "version": 141,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-16T02:45:44.604Z",
+  "last_updated": "2026-04-17T00:01:27.732Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
