@@ -1,6 +1,84 @@
 {
   "questions": [
     {
+      "question": "Combien de livres composent la série 'Harry Potter' de J.K. Rowling ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1776393627142_0_zt1x9d",
+      "addedAt": "2026-04-17T02:40:27.142Z"
+    },
+    {
+      "question": "Quel mathématicien a développé la théorie de la relativité générale ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Stephen Hawking",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776393627142_1_hrvsi7",
+      "addedAt": "2026-04-17T02:40:27.142Z"
+    },
+    {
+      "question": "Quel sport olympique combine la natation, le cyclisme et la course à pied ?",
+      "options": [
+        "Le pentathlon moderne",
+        "Le triathlon",
+        "Le décathlon",
+        "L'heptathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1776393627142_2_qyoyc7",
+      "addedAt": "2026-04-17T02:40:27.142Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en enzyme 'bromélaïne' qui aide la digestion ?",
+      "options": [
+        "La papaye",
+        "L'ananas",
+        "La mangue",
+        "La goyave"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1776393627142_3_ypos5b",
+      "addedAt": "2026-04-17T02:40:27.142Z"
+    },
+    {
+      "question": "Quel musicien baroque allemand a écrit plus de 1000 compositions ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Georg Friedrich Haendel",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1776393627142_4_b8tjqr",
+      "addedAt": "2026-04-17T02:40:27.142Z"
+    },
+    {
+      "question": "En informatique, quel est le système d'exploitation développé par Apple pour ses ordinateurs ?",
+      "options": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Unix"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1776393627142_5_vioi2b",
+      "addedAt": "2026-04-17T02:40:27.142Z"
+    },
+    {
       "question": "En quelle année la Révolution française a-t-elle débuté ?",
       "options": [
         "1785",
@@ -3589,9 +3667,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 141,
+  "version": 142,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-17T00:01:27.732Z",
+  "last_updated": "2026-04-17T02:40:27.143Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
