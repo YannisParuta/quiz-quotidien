@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Quel mathématicien a formulé le théorème de Pythagore ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1776472502983_0_loy6fb",
+      "addedAt": "2026-04-18T00:35:02.983Z"
+    },
+    {
+      "question": "Quel fruit tropical est connu pour sa très haute teneur en vitamine C ?",
+      "options": [
+        "La papaye",
+        "La mangue",
+        "Le kiwi",
+        "L'ananas"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1776472502983_1_ahwg9m",
+      "addedAt": "2026-04-18T00:35:02.983Z"
+    },
+    {
+      "question": "Quel élément chimique est représenté par le symbole 'Au' ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "L'aluminium",
+        "L'antimoine"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776472502983_2_qaj4nk",
+      "addedAt": "2026-04-18T00:35:02.983Z"
+    },
+    {
+      "question": "Combien de joueurs une équipe de cricket doit-elle avoir sur le terrain ?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1776472502983_3_oxv8ot",
+      "addedAt": "2026-04-18T00:35:02.983Z"
+    },
+    {
+      "question": "Quel sculpteur a créé la statue du 'David' ?",
+      "options": [
+        "Léonard de Vinci",
+        "Raphaël",
+        "Michel-Ange",
+        "Donatello"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1776472502983_4_1t5d8i",
+      "addedAt": "2026-04-18T00:35:02.983Z"
+    },
+    {
+      "question": "Quel type de mammifère pond des œufs ?",
+      "options": [
+        "L'ornithorynque",
+        "Le kangourou",
+        "Le koala",
+        "Le dauphin"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1776472502983_5_xmf362",
+      "addedAt": "2026-04-18T00:35:02.983Z"
+    },
+    {
+      "question": "En quelle année Facebook a-t-il été fondé ?",
+      "options": [
+        "2002",
+        "2004",
+        "2006",
+        "2008"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1776472502983_6_78zpv1",
+      "addedAt": "2026-04-18T00:35:02.983Z"
+    },
+    {
+      "question": "Quel type de nuage ressemble à du coton et indique généralement un beau temps ?",
+      "options": [
+        "Cumulus",
+        "Stratus",
+        "Cirrus",
+        "Nimbus"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1776472502983_7_6c49u3",
+      "addedAt": "2026-04-18T00:35:02.983Z"
+    },
+    {
       "question": "Combien de livres composent la série 'Harry Potter' de J.K. Rowling ?",
       "options": [
         "5",
@@ -3667,9 +3771,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 142,
+  "version": 143,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-17T02:40:27.143Z",
+  "last_updated": "2026-04-18T00:35:02.984Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
