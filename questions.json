@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a créé le personnage de Sherlock Holmes... Non ! Quel écrivain britannique l'a créé ?",
+      "options": [
+        "Oscar Wilde",
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Lewis Carroll"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1776479507952_0_hnicmr",
+      "addedAt": "2026-04-18T02:31:47.952Z"
+    },
+    {
+      "question": "Qui a inventé l'ampoule électrique pratique ?",
+      "options": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Joseph Swan",
+        "Humphry Davy"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1776479507952_1_s1jls3",
+      "addedAt": "2026-04-18T02:31:47.952Z"
+    },
+    {
+      "question": "Quel type de fromage est traditionnellement utilisé dans une Pizza Hawaiienne ?",
+      "options": [
+        "Mozzarella",
+        "Cheddar",
+        "Parmesan",
+        "Camembert"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1776479507952_2_d8phe9",
+      "addedAt": "2026-04-18T02:31:47.952Z"
+    },
+    {
+      "question": "Combien d'os possède le squelette humain adulte ?",
+      "options": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776479507952_3_5iz0lb",
+      "addedAt": "2026-04-18T02:31:47.952Z"
+    },
+    {
+      "question": "En quelle année la Révolution française a-t-elle éclaté ?",
+      "options": [
+        "1787",
+        "1789",
+        "1791",
+        "1793"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1776479507952_4_obkt0v",
+      "addedAt": "2026-04-18T02:31:47.952Z"
+    },
+    {
+      "question": "Quel mammifère marin peut retenir sa respiration le plus longtemps ?",
+      "options": [
+        "La baleine bleue",
+        "Le dauphin",
+        "La baleine à bec de Cuvier",
+        "L'otarie"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1776479507952_5_fjzbx4",
+      "addedAt": "2026-04-18T02:31:47.952Z"
+    },
+    {
+      "question": "Si un triangle a un angle de 90 degrés, comment s'appelle-t-il ?",
+      "options": [
+        "Triangle isocèle",
+        "Triangle équilatéral",
+        "Triangle rectangle",
+        "Triangle obtus"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1776479507952_6_bmqb6m",
+      "addedAt": "2026-04-18T02:31:47.952Z"
+    },
+    {
       "question": "Quel mathématicien a formulé le théorème de Pythagore ?",
       "options": [
         "Archimède",
@@ -3771,9 +3862,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 143,
+  "version": 144,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-18T00:35:02.984Z",
+  "last_updated": "2026-04-18T02:31:47.953Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
