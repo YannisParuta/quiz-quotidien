@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut sommet de l'Afrique ?",
+      "options": [
+        "Le mont Kenya",
+        "Le Kilimandjaro",
+        "Le mont Stanley",
+        "Le Rwenzori"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1776566852948_0_y105pm",
+      "addedAt": "2026-04-19T02:47:32.948Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé le film 'Inception' en 2010 ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Quentin Tarantino"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1776566852948_1_5uwfmb",
+      "addedAt": "2026-04-19T02:47:32.948Z"
+    },
+    {
+      "question": "Quelle artiste mexicaine a peint 'Autoportrait avec collier de singes' ?",
+      "options": [
+        "Remedios Varo",
+        "Frida Kahlo",
+        "Leonora Carrington",
+        "María Izquierdo"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1776566852948_2_voxszj",
+      "addedAt": "2026-04-19T02:47:32.948Z"
+    },
+    {
+      "question": "Quel sport se pratique sur un tatami ?",
+      "options": [
+        "Le karaté",
+        "Le judo",
+        "Le sumo",
+        "Le kung-fu"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1776566852948_3_6egcfu",
+      "addedAt": "2026-04-19T02:47:32.948Z"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde en termes de superficie ?",
+      "options": [
+        "Monaco",
+        "Andorre",
+        "Vatican",
+        "Liechtenstein"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1776566852948_4_gw6occ",
+      "addedAt": "2026-04-19T02:47:32.948Z"
+    },
+    {
+      "question": "Combien de dents les adultes humains possèdent-ils normalement ?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1776566852948_5_78iohk",
+      "addedAt": "2026-04-19T02:47:32.948Z"
+    },
+    {
+      "question": "Quel langage est considéré comme la langue de programmation la plus ancienne encore utilisée ?",
+      "options": [
+        "COBOL",
+        "FORTRAN",
+        "ALGOL",
+        "LISP"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1776566852948_6_f4cxbw",
+      "addedAt": "2026-04-19T02:47:32.948Z"
+    },
+    {
       "question": "En quel siècle la Renaissance italienne a-t-elle principalement lieu ?",
       "options": [
         "XIIIe siècle",
@@ -3938,7 +4029,12 @@
       "category": "Littérature",
       "id": "q_1775261206758_12_6p7f8b",
       "addedAt": "2026-04-04T00:06:46.758Z"
-    },
+    }
+  ],
+  "version": 146,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-19T02:47:32.949Z",
+  "archivedQuestions": [
     {
       "question": "Quel fleuve traverse la capitale de l'Autriche ?",
       "options": [
@@ -4018,9 +4114,5 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 145,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-19T00:10:35.144Z",
-  "archivedQuestions": [],
   "poolSize": 310
 }
