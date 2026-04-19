@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "En quel siècle la Renaissance italienne a-t-elle principalement lieu ?",
+      "options": [
+        "XIIIe siècle",
+        "XIVe siècle",
+        "XVe siècle",
+        "XVIe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1776557435143_5_iycn8s",
+      "addedAt": "2026-04-19T00:10:35.144Z"
+    },
+    {
+      "question": "Quel scientifique a énoncé les trois lois du mouvement ?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Tycho Brahé"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776557435144_6_ybifj0",
+      "addedAt": "2026-04-19T00:10:35.144Z"
+    },
+    {
+      "question": "Dans quel sport les athlètes manient un épée, un fleuret ou un sabre ?",
+      "options": [
+        "Tir à l'arc",
+        "Escrime",
+        "Pentathlon moderne",
+        "Biathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1776557435144_7_0hmrv2",
+      "addedAt": "2026-04-19T00:10:35.144Z"
+    },
+    {
+      "question": "Quel fruit est riche en bromélaïne, une enzyme digestive ?",
+      "options": [
+        "Papaye",
+        "Ananas",
+        "Kiwi",
+        "Mangue"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1776557435144_8_fqfmw4",
+      "addedAt": "2026-04-19T00:10:35.144Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé la trilogie 'Le Seigneur des Anneaux' ?",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Peter Jackson",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1776557435144_9_imcbu9",
+      "addedAt": "2026-04-19T00:10:35.144Z"
+    },
+    {
+      "question": "Combien de dents possède un crocodile adulte en moyenne ?",
+      "options": [
+        "32",
+        "48",
+        "64",
+        "80"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1776557435144_10_n29sal",
+      "addedAt": "2026-04-19T00:10:35.144Z"
+    },
+    {
+      "question": "Quel mathématicien grec a énoncé le célèbre théorème sur les triangles rectangles ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Thalès",
+        "Euclide"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1776557435144_11_piu27c",
+      "addedAt": "2026-04-19T00:10:35.144Z"
+    },
+    {
+      "question": "Quel biologiste britannique a proposé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Alfred Russel Wallace",
+        "Charles Darwin",
+        "Thomas Huxley",
+        "Richard Dawkins"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776557435143_0_irknhe",
+      "addedAt": "2026-04-19T00:10:35.143Z"
+    },
+    {
+      "question": "Quel archipel volcanique se situe à l'entrée du golfe de Naples en Italie ?",
+      "options": [
+        "Îles Éoliennes",
+        "Îles Tremiti",
+        "Îles Pontines",
+        "Îles Campanes"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1776557435143_1_ivaz3v",
+      "addedAt": "2026-04-19T00:10:35.143Z"
+    },
+    {
+      "question": "Combien de symphonies complètes Ludwig van Beethoven a-t-il composées ?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1776557435143_2_qap7d1",
+      "addedAt": "2026-04-19T00:10:35.143Z"
+    },
+    {
+      "question": "Quel écrivain français a créé le personnage de Sherlock Holmes... attendez, c'est une erreur ! Qui a créé ce célèbre détective ?",
+      "options": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Jules Verne",
+        "Émile Zola"
+      ],
+      "correctAnswer": 0,
+      "category": "Littérature",
+      "id": "q_1776557435143_3_e53j8e",
+      "addedAt": "2026-04-19T00:10:35.143Z"
+    },
+    {
+      "question": "Quel minéral compose principalement les diamants ?",
+      "options": [
+        "Graphite",
+        "Carbone",
+        "Silice",
+        "Feldspath"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776557435143_4_sm2w43",
+      "addedAt": "2026-04-19T00:10:35.143Z"
+    },
+    {
       "question": "Quel écrivain français a créé le personnage de Sherlock Holmes... Non ! Quel écrivain britannique l'a créé ?",
       "options": [
         "Oscar Wilde",
@@ -3862,9 +4018,9 @@
       "addedAt": "2026-04-03T02:29:14.653Z"
     }
   ],
-  "version": 144,
+  "version": 145,
   "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-18T02:31:47.953Z",
+  "last_updated": "2026-04-19T00:10:35.144Z",
   "archivedQuestions": [],
   "poolSize": 310
 }
