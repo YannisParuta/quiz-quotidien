@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel mathématicien grec a formulé le célèbre théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1776653348153_0_enlrrp",
+      "addedAt": "2026-04-20T02:49:08.153Z"
+    },
+    {
+      "question": "Quel élément chimique est le plus abondant dans l'univers ?",
+      "options": [
+        "L'hélium",
+        "L'hydrogène",
+        "Le carbone",
+        "L'oxygène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776653348153_1_gd8k68",
+      "addedAt": "2026-04-20T02:49:08.153Z"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1776653348153_2_6gf9s2",
+      "addedAt": "2026-04-20T02:49:08.153Z"
+    },
+    {
+      "question": "Quel artiste français est connu pour ses séries de nymphéas peints ?",
+      "options": [
+        "Paul Cézanne",
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1776653348153_3_tba2u9",
+      "addedAt": "2026-04-20T02:49:08.153Z"
+    },
+    {
+      "question": "En quel siècle a été inventée l'imprimerie à caractères mobiles en Europe ?",
+      "options": [
+        "13ème siècle",
+        "14ème siècle",
+        "15ème siècle",
+        "16ème siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1776653348153_4_jcktar",
+      "addedAt": "2026-04-20T02:49:08.153Z"
+    },
+    {
+      "question": "Quel type de cuisine méditerranéenne est caractérisé par l'utilisation d'huile d'olive et de produits frais ?",
+      "options": [
+        "La cuisine italienne",
+        "La cuisine espagnole",
+        "La diète méditerranéenne",
+        "La cuisine grecque"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1776653348153_5_lvso3g",
+      "addedAt": "2026-04-20T02:49:08.153Z"
+    },
+    {
+      "question": "Quel animal est le plus gros jamais existé sur Terre ?",
+      "options": [
+        "Le dinosaure Bleu",
+        "La Baleine bleue",
+        "L'Éléphant d'Afrique",
+        "Le Cachalot"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1776653348153_6_mf70er",
+      "addedAt": "2026-04-20T02:49:08.153Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la saga cinématographique 'Avatar' ?",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Christopher Nolan",
+        "Denis Villeneuve"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1776653348153_7_0tmxis",
+      "addedAt": "2026-04-20T02:49:08.153Z"
+    },
+    {
+      "question": "Quel sport se joue avec une raquette et une balle sur un court divisé par un filet ?",
+      "options": [
+        "Le badminton",
+        "Le tennis",
+        "Le squash",
+        "Le ping-pong"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1776653348153_8_4pkqmc",
+      "addedAt": "2026-04-20T02:49:08.153Z"
+    },
+    {
+      "question": "Quel capitale européenne est traversée par le Danube ?",
+      "options": [
+        "Prague",
+        "Budapest",
+        "Bratislava",
+        "Belgrade"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1776653348153_9_35g0v5",
+      "addedAt": "2026-04-20T02:49:08.153Z"
+    },
+    {
       "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
       "options": [
         "L'oxygène",
@@ -3899,7 +4029,12 @@
       "category": "Sport",
       "id": "q_1775269307479_2_peoayg",
       "addedAt": "2026-04-04T02:21:47.479Z"
-    },
+    }
+  ],
+  "version": 148,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-20T02:49:08.154Z",
+  "archivedQuestions": [
     {
       "question": "Qui a écrit le roman '1984' ?",
       "options": [
@@ -4028,154 +4163,6 @@
       "correctAnswer": 2,
       "category": "Science",
       "id": "q_1775261206758_1_dqqdkg",
-      "addedAt": "2026-04-04T00:06:46.758Z"
-    }
-  ],
-  "version": 147,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-20T00:41:14.041Z",
-  "archivedQuestions": [
-    {
-      "question": "Dans quelle décennie a été inventé le World Wide Web ?",
-      "options": [
-        "1970",
-        "1980",
-        "1990",
-        "2000"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1775261206758_2_ims0hi",
-      "addedAt": "2026-04-04T00:06:46.758Z"
-    },
-    {
-      "question": "Quel est le plus grand lac d'Afrique ?",
-      "options": [
-        "Lac Tchad",
-        "Lac Tanganyika",
-        "Lac Victoria",
-        "Lac Malawi"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775261206758_3_uz5np9",
-      "addedAt": "2026-04-04T00:06:46.758Z"
-    },
-    {
-      "question": "En quelle année a été construite la tour Eiffel ?",
-      "options": [
-        "1885",
-        "1887",
-        "1889",
-        "1891"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1775261206758_4_0w43ey",
-      "addedAt": "2026-04-04T00:06:46.758Z"
-    },
-    {
-      "question": "Quel sport se joue avec un palet et des crosses ?",
-      "options": [
-        "Hockey sur glace",
-        "Lacrosse",
-        "Polo",
-        "Hurling"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1775261206758_5_4gm14i",
-      "addedAt": "2026-04-04T00:06:46.758Z"
-    },
-    {
-      "question": "Quelle vitamine est produite par la peau lors d'une exposition au soleil ?",
-      "options": [
-        "Vitamine A",
-        "Vitamine B12",
-        "Vitamine C",
-        "Vitamine D"
-      ],
-      "correctAnswer": 3,
-      "category": "Science",
-      "id": "q_1775261206758_6_asi9cw",
-      "addedAt": "2026-04-04T00:06:46.758Z"
-    },
-    {
-      "question": "Dans quel pays se trouve le Machu Picchu ?",
-      "options": [
-        "Bolivie",
-        "Équateur",
-        "Pérou",
-        "Colombie"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775261206758_7_f30fs3",
-      "addedAt": "2026-04-04T00:06:46.758Z"
-    },
-    {
-      "question": "Combien de côtés possède un octogone ?",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1775261206758_8_a3apx1",
-      "addedAt": "2026-04-04T00:06:46.758Z"
-    },
-    {
-      "question": "Quel peintre a créé l'œuvre 'La Nuit étoilée' ?",
-      "options": [
-        "Pablo Picasso",
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Paul Cézanne"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1775261206758_9_p47qn1",
-      "addedAt": "2026-04-04T00:06:46.758Z"
-    },
-    {
-      "question": "Quelle épice donne sa couleur jaune au curry ?",
-      "options": [
-        "Safran",
-        "Curcuma",
-        "Paprika",
-        "Gingembre"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1775261206758_10_n3fgdy",
-      "addedAt": "2026-04-04T00:06:46.758Z"
-    },
-    {
-      "question": "Quel animal est le symbole national de l'Australie ?",
-      "options": [
-        "Koala",
-        "Kangourou",
-        "Émeu",
-        "Wombat"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1775261206758_11_t7cz68",
-      "addedAt": "2026-04-04T00:06:46.758Z"
-    },
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Gustave Flaubert",
-        "Victor Hugo",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1775261206758_12_6p7f8b",
       "addedAt": "2026-04-04T00:06:46.758Z"
     }
   ],
