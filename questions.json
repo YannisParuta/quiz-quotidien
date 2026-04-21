@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "Quel physicien a découvert la loi de la gravitation universelle ?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Nicolaus Copernicus"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776739310315_0_nuqh3j",
+      "addedAt": "2026-04-21T02:41:50.315Z"
+    },
+    {
+      "question": "Quel artiste néerlandais a coupé une partie de son oreille ?",
+      "options": [
+        "Paul Klee",
+        "Vincent van Gogh",
+        "Wassily Kandinsky",
+        "Piet Mondrian"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1776739310315_1_0gxpmi",
+      "addedAt": "2026-04-21T02:41:50.315Z"
+    },
+    {
+      "question": "Quel musicien allemand était sourd en composant la 9e Symphonie ?",
+      "options": [
+        "Wolfgang Mozart",
+        "Johann Bach",
+        "Ludwig van Beethoven",
+        "George Friedrich Händel"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1776739310315_2_ih7s74",
+      "addedAt": "2026-04-21T02:41:50.315Z"
+    },
+    {
+      "question": "Quel sport utilise un objet appelé 'volant' ?",
+      "options": [
+        "Le tennis",
+        "Le badminton",
+        "Le squash",
+        "Le paddle"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1776739310315_3_8iesu5",
+      "addedAt": "2026-04-21T02:41:50.315Z"
+    },
+    {
+      "question": "Dans quel pays le café est-il originaire ?",
+      "options": [
+        "La Colombie",
+        "L'Éthiopie",
+        "Le Brésil",
+        "Le Vietnam"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1776739310315_4_86wmdk",
+      "addedAt": "2026-04-21T02:41:50.315Z"
+    },
+    {
+      "question": "Quel mathématicien grec a découvert le théorème du triangle rectangle ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1776739310315_5_u2obqq",
+      "addedAt": "2026-04-21T02:41:50.315Z"
+    },
+    {
+      "question": "Quel animal terrestre est le plus rapide au monde ?",
+      "options": [
+        "Le lion",
+        "L'antilope",
+        "Le guépard",
+        "Le cheval"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1776739310315_6_1rlhje",
+      "addedAt": "2026-04-21T02:41:50.315Z"
+    },
+    {
       "question": "Quel est le plus petit État du monde par la superficie ?",
       "options": [
         "Monaco",
@@ -3938,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1775356586180_5_7bdbov",
       "addedAt": "2026-04-05T02:36:26.180Z"
-    },
+    }
+  ],
+  "version": 150,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-21T02:41:50.315Z",
+  "archivedQuestions": [
     {
       "question": "Quel acteur a incarné le personnage de Jack Sparrow ?",
       "options": [
@@ -4029,102 +4125,6 @@
       "category": "Science",
       "id": "q_1775350461671_2_id6s90",
       "addedAt": "2026-04-05T00:54:21.671Z"
-    }
-  ],
-  "version": 149,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-21T00:22:48.689Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel pharaon a fait construire la grande pyramide de Gizeh ?",
-      "options": [
-        "Khéops",
-        "Khéphren",
-        "Mykérinos",
-        "Ramsès II"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1775350461671_3_u9myky",
-      "addedAt": "2026-04-05T00:54:21.671Z"
-    },
-    {
-      "question": "Dans quel film trouve-t-on la réplique 'Que la Force soit avec toi' ?",
-      "options": [
-        "Star Trek",
-        "Star Wars",
-        "Blade Runner",
-        "Matrix"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1775350461671_4_e5zki3",
-      "addedAt": "2026-04-05T00:54:21.671Z"
-    },
-    {
-      "question": "Quelle invention est attribuée à Johannes Gutenberg ?",
-      "options": [
-        "La boussole",
-        "L'imprimerie",
-        "Le télescope",
-        "La machine à vapeur"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1775350461671_5_7stnlb",
-      "addedAt": "2026-04-05T00:54:21.671Z"
-    },
-    {
-      "question": "Quel fleuve traverse la ville de Londres ?",
-      "options": [
-        "La Seine",
-        "Le Rhin",
-        "La Tamise",
-        "Le Danube"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775350461671_6_zlbeo9",
-      "addedAt": "2026-04-05T00:54:21.671Z"
-    },
-    {
-      "question": "Quelle dynastie chinoise a construit la majeure partie de la Grande Muraille ?",
-      "options": [
-        "Dynastie Tang",
-        "Dynastie Song",
-        "Dynastie Ming",
-        "Dynastie Qing"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1775269307479_0_j7sg73",
-      "addedAt": "2026-04-04T02:21:47.479Z"
-    },
-    {
-      "question": "Dans quelle ville se trouve le célèbre musée du Prado ?",
-      "options": [
-        "Barcelone",
-        "Madrid",
-        "Séville",
-        "Valence"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1775269307479_1_zj3nra",
-      "addedAt": "2026-04-04T02:21:47.479Z"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de volleyball sur le terrain ?",
-      "options": [
-        "5 joueurs",
-        "6 joueurs",
-        "7 joueurs",
-        "8 joueurs"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1775269307479_2_peoayg",
-      "addedAt": "2026-04-04T02:21:47.479Z"
     }
   ],
   "poolSize": 310
