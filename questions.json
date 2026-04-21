@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus petit État du monde par la superficie ?",
+      "options": [
+        "Monaco",
+        "Andorre",
+        "Cité du Vatican",
+        "Liechtenstein"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1776730968688_0_w7fvkd",
+      "addedAt": "2026-04-21T00:22:48.688Z"
+    },
+    {
+      "question": "Quel scientifique a découvert la structure en double hélice de l'ADN ?",
+      "options": [
+        "Marie Curie",
+        "James Watson et Francis Crick",
+        "Linus Pauling",
+        "Rosalind Franklin"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776730968688_1_0u2h6w",
+      "addedAt": "2026-04-21T00:22:48.688Z"
+    },
+    {
+      "question": "Dans quel sport se déroulent les tournois du Grand Chelem ?",
+      "options": [
+        "Golf",
+        "Tennis",
+        "Équitation",
+        "Boxe"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1776730968688_2_ge1ili",
+      "addedAt": "2026-04-21T00:22:48.688Z"
+    },
+    {
+      "question": "Quel gaz représente environ 21% de l'atmosphère terrestre ?",
+      "options": [
+        "Dioxyde de carbone",
+        "Azote",
+        "Oxygène",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1776730968688_3_kx1nbs",
+      "addedAt": "2026-04-21T00:22:48.688Z"
+    },
+    {
+      "question": "Quel fruit est traditionnellement utilisé pour préparer le guacamole ?",
+      "options": [
+        "Banane",
+        "Avocate",
+        "Pomme verte",
+        "Kiwi"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1776730968688_4_3itoks",
+      "addedAt": "2026-04-21T00:22:48.688Z"
+    },
+    {
+      "question": "Quelle plate-forme de streaming a produit la série 'Stranger Things' ?",
+      "options": [
+        "Amazon Prime Video",
+        "Disney+",
+        "Netflix",
+        "HBO Max"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1776730968688_5_co175y",
+      "addedAt": "2026-04-21T00:22:48.688Z"
+    },
+    {
+      "question": "Combien de côtés possède un hexagone régulier ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1776730968688_6_58tvp4",
+      "addedAt": "2026-04-21T00:22:48.688Z"
+    },
+    {
       "question": "Quel mathématicien grec a formulé le célèbre théorème sur les triangles rectangles ?",
       "options": [
         "Euclide",
@@ -3938,7 +4029,12 @@
       "category": "Science",
       "id": "q_1775350461671_2_id6s90",
       "addedAt": "2026-04-05T00:54:21.671Z"
-    },
+    }
+  ],
+  "version": 149,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-21T00:22:48.689Z",
+  "archivedQuestions": [
     {
       "question": "Quel pharaon a fait construire la grande pyramide de Gizeh ?",
       "options": [
@@ -4029,141 +4125,6 @@
       "category": "Sport",
       "id": "q_1775269307479_2_peoayg",
       "addedAt": "2026-04-04T02:21:47.479Z"
-    }
-  ],
-  "version": 148,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-20T02:49:08.154Z",
-  "archivedQuestions": [
-    {
-      "question": "Qui a écrit le roman '1984' ?",
-      "options": [
-        "Aldous Huxley",
-        "Ray Bradbury",
-        "George Orwell",
-        "H.G. Wells"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1775269307479_3_6eo295",
-      "addedAt": "2026-04-04T02:21:47.479Z"
-    },
-    {
-      "question": "Quel est l'animal le plus rapide du monde ?",
-      "options": [
-        "Guépard",
-        "Faucon pèlerin",
-        "Antilope",
-        "Espadon"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1775269307479_4_o4xue6",
-      "addedAt": "2026-04-04T02:21:47.479Z"
-    },
-    {
-      "question": "Quel instrument Frédéric Chopin jouait-il principalement ?",
-      "options": [
-        "Violon",
-        "Piano",
-        "Violoncelle",
-        "Flûte"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1775269307479_5_2du4dy",
-      "addedAt": "2026-04-04T02:21:47.479Z"
-    },
-    {
-      "question": "Dans quel film de 1994 Tom Hanks dit-il 'La vie est comme une boîte de chocolats' ?",
-      "options": [
-        "Philadelphia",
-        "Forrest Gump",
-        "Cast Away",
-        "Big"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1775269307479_6_iu6oz0",
-      "addedAt": "2026-04-04T02:21:47.479Z"
-    },
-    {
-      "question": "Quel langage de programmation porte le nom d'un serpent ?",
-      "options": [
-        "Java",
-        "Python",
-        "Ruby",
-        "Swift"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1775269307479_7_dxcp17",
-      "addedAt": "2026-04-04T02:21:47.479Z"
-    },
-    {
-      "question": "Quelle planète est surnommée 'la planète rouge' ?",
-      "options": [
-        "Vénus",
-        "Jupiter",
-        "Mars",
-        "Saturne"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1775269307479_8_l9echr",
-      "addedAt": "2026-04-04T02:21:47.479Z"
-    },
-    {
-      "question": "En quelle année le mur de Berlin est-il tombé ?",
-      "options": [
-        "1987",
-        "1988",
-        "1989",
-        "1990"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1775269307479_9_5gptb7",
-      "addedAt": "2026-04-04T02:21:47.479Z"
-    },
-    {
-      "question": "Quel fleuve traverse Paris ?",
-      "options": [
-        "La Loire",
-        "La Seine",
-        "Le Rhône",
-        "La Garonne"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1775269307479_10_hmfwqp",
-      "addedAt": "2026-04-04T02:21:47.479Z"
-    },
-    {
-      "question": "Quel océan borde la côte ouest de l'Afrique ?",
-      "options": [
-        "Océan Indien",
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1775261206758_0_2i36je",
-      "addedAt": "2026-04-04T00:06:46.758Z"
-    },
-    {
-      "question": "Qui a découvert la pénicilline en 1928 ?",
-      "options": [
-        "Louis Pasteur",
-        "Marie Curie",
-        "Alexander Fleming",
-        "Albert Einstein"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1775261206758_1_dqqdkg",
-      "addedAt": "2026-04-04T00:06:46.758Z"
     }
   ],
   "poolSize": 310
