@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Quelle est la profondeur maximale de la Fosse des Mariannes ?",
+      "options": [
+        "8 848 m",
+        "10 994 m",
+        "7 725 m",
+        "9 216 m"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1776912201179_0_r1fq93",
+      "addedAt": "2026-04-23T02:43:21.179Z"
+    },
+    {
+      "question": "En chimie, quel est le symbole de l'or ?",
+      "options": [
+        "Go",
+        "Or",
+        "Au",
+        "Ag"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1776912201179_1_y45ubh",
+      "addedAt": "2026-04-23T02:43:21.179Z"
+    },
+    {
+      "question": "Quel sport utilise des quilles et une boule lourde ?",
+      "options": [
+        "Le cricket",
+        "Le bowling",
+        "Le pétanque",
+        "Le curling"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1776912201179_2_iiyh1s",
+      "addedAt": "2026-04-23T02:43:21.179Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le personnage de Monsieur Hulot ?",
+      "options": [
+        "Claude Chabrol",
+        "Jacques Tati",
+        "Louis Malle",
+        "Agnès Varda"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1776912201179_3_4k56li",
+      "addedAt": "2026-04-23T02:43:21.179Z"
+    },
+    {
+      "question": "Quelle est la plus grande chaîne de montagnes sous-marine du monde ?",
+      "options": [
+        "Chaîne centrale",
+        "Dorsale médio-océanique",
+        "Crête des Andes",
+        "Sierra Madre"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1776912201179_4_cqdft8",
+      "addedAt": "2026-04-23T02:43:21.179Z"
+    },
+    {
+      "question": "Quel gaz les plantes absorbent-elles pour la photosynthèse ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1776912201179_5_frz81e",
+      "addedAt": "2026-04-23T02:43:21.179Z"
+    },
+    {
+      "question": "En quelle année a commencé la Grande Dépression aux États-Unis ?",
+      "options": [
+        "1925",
+        "1929",
+        "1933",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1776912201179_6_z7ozsd",
+      "addedAt": "2026-04-23T02:43:21.179Z"
+    },
+    {
+      "question": "Quel peuple a construit Machu Picchu au Pérou ?",
+      "options": [
+        "Les Aztèques",
+        "Les Incas",
+        "Les Mayas",
+        "Les Olmèques"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1776912201179_7_qchj9o",
+      "addedAt": "2026-04-23T02:43:21.179Z"
+    },
+    {
       "question": "En quelle année la construction de la Tour Eiffel a-t-elle été achevée ?",
       "options": [
         "1887",
@@ -3925,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1775520944800_5_jv6112",
       "addedAt": "2026-04-07T00:15:44.800Z"
-    },
+    }
+  ],
+  "version": 154,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-23T02:43:21.179Z",
+  "archivedQuestions": [
     {
       "question": "Quel compositeur a écrit 'Les Quatre Saisons' ?",
       "options": [
@@ -4029,115 +4138,6 @@
       "category": "Nature",
       "id": "q_1775443071149_4_b42z2f",
       "addedAt": "2026-04-06T02:37:51.149Z"
-    }
-  ],
-  "version": 153,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-23T00:40:50.433Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle est la racine carrée de 144 ?",
-      "options": [
-        "11",
-        "12",
-        "13",
-        "14"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1775443071149_5_04ovq0",
-      "addedAt": "2026-04-06T02:37:51.149Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Steven Spielberg",
-        "David Lynch"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1775443071149_6_msglvl",
-      "addedAt": "2026-04-06T02:37:51.149Z"
-    },
-    {
-      "question": "Quel système d'exploitation Google a-t-il développé pour smartphones ?",
-      "options": [
-        "iOS",
-        "Windows Phone",
-        "Android",
-        "BlackBerry"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1775443071149_7_poprhy",
-      "addedAt": "2026-04-06T02:37:51.149Z"
-    },
-    {
-      "question": "Dans quel océan se trouvent les îles Maldives ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775443071149_8_gglmwb",
-      "addedAt": "2026-04-06T02:37:51.149Z"
-    },
-    {
-      "question": "Quelle est la capitale de l'Australie ?",
-      "options": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Perth"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775435146396_0_m4x080",
-      "addedAt": "2026-04-06T00:25:46.396Z"
-    },
-    {
-      "question": "Quel scientifique a développé la théorie de l'évolution par sélection naturelle ?",
-      "options": [
-        "Charles Darwin",
-        "Gregor Mendel",
-        "Louis Pasteur",
-        "Alexander Fleming"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1775435146396_1_wbzcab",
-      "addedAt": "2026-04-06T00:25:46.396Z"
-    },
-    {
-      "question": "Dans quel film trouve-t-on la célèbre réplique 'Frankly, my dear, I don't give a damn' ?",
-      "options": [
-        "Casablanca",
-        "Autant en emporte le vent",
-        "Citizen Kane",
-        "Le Parrain"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1775435146396_2_w2mroj",
-      "addedAt": "2026-04-06T00:25:46.396Z"
-    },
-    {
-      "question": "Combien de faces possède un icosaèdre ?",
-      "options": [
-        "12",
-        "16",
-        "20",
-        "24"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1775435146396_3_rjsk30",
-      "addedAt": "2026-04-06T00:25:46.396Z"
     }
   ],
   "poolSize": 310
