@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut volcan actif d'Europe ?",
+      "options": [
+        "Le Vésuve",
+        "L'Etna",
+        "Le Stromboli",
+        "Le Sakurajima"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1776998675199_0_w4x05s",
+      "addedAt": "2026-04-24T02:44:35.199Z"
+    },
+    {
+      "question": "Quel athlète a remporté le plus de médailles aux Jeux olympiques ?",
+      "options": [
+        "Usain Bolt",
+        "Michael Phelps",
+        "Carl Lewis",
+        "Larisa Latynina"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1776998675199_1_dwh60k",
+      "addedAt": "2026-04-24T02:44:35.199Z"
+    },
+    {
+      "question": "En quelle année la Tour Eiffel a-t-elle été construite ?",
+      "options": [
+        "1885",
+        "1889",
+        "1892",
+        "1900"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1776998675199_2_3576z9",
+      "addedAt": "2026-04-24T02:44:35.199Z"
+    },
+    {
+      "question": "Quel peintre impressionniste français est connu pour ses séries de Nymphéas ?",
+      "options": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas",
+        "Berthe Morisot"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1776998675199_3_jkk0gv",
+      "addedAt": "2026-04-24T02:44:35.199Z"
+    },
+    {
+      "question": "Quel type de corail est responsable de la formation des atolls ?",
+      "options": [
+        "Corail mou",
+        "Corail dur",
+        "Corail noir",
+        "Corail tubulaire"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1776998675199_4_wbkoq2",
+      "addedAt": "2026-04-24T02:44:35.199Z"
+    },
+    {
+      "question": "Quel mathématicien suisse a créé la notation du calcul infinitésimal ?",
+      "options": [
+        "Leonhard Euler",
+        "Gottfried Leibniz",
+        "Isaac Newton",
+        "Jakob Bernoulli"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1776998675199_5_dcyj2j",
+      "addedAt": "2026-04-24T02:44:35.199Z"
+    },
+    {
+      "question": "Quel instrument de musique classique possède 47 cordes ?",
+      "options": [
+        "Le violoncelle",
+        "La harpe celtique",
+        "La harpe orchestrale",
+        "Le piano"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1776998675199_6_9vzc58",
+      "addedAt": "2026-04-24T02:44:35.199Z"
+    },
+    {
+      "question": "Dans quel pays la salade César a-t-elle été créée pour la première fois ?",
+      "options": [
+        "Les États-Unis",
+        "L'Italie",
+        "Le Mexique",
+        "La France"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1776998675199_7_5i19is",
+      "addedAt": "2026-04-24T02:44:35.199Z"
+    },
+    {
+      "question": "Quel acteur a remporté l'Oscar du meilleur acteur pour 'Parasite' ?",
+      "options": [
+        "Leonardo DiCaprio",
+        "Joaquin Phoenix",
+        "Song Kang-ho",
+        "Timothée Chalamet"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1776998675199_8_oktrql",
+      "addedAt": "2026-04-24T02:44:35.199Z"
+    },
+    {
+      "question": "Quel est le plus grand lac souterrain du monde ?",
+      "options": [
+        "Le lac Souterrain de Sa Majeste",
+        "Le Dragon Lake",
+        "Le lac de Dracula",
+        "Le Sorvatn"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1776998675199_9_1jigna",
+      "addedAt": "2026-04-24T02:44:35.199Z"
+    },
+    {
+      "question": "En quelle année l'Afrique du Sud a-t-elle aboli l'apartheid ?",
+      "options": [
+        "1990",
+        "1992",
+        "1994",
+        "1996"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1776998675199_10_ez1k3g",
+      "addedAt": "2026-04-24T02:44:35.199Z"
+    },
+    {
       "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
       "options": [
         "Louis Pasteur",
@@ -3886,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1775606544785_5_nhem4j",
       "addedAt": "2026-04-08T00:02:24.785Z"
-    },
+    }
+  ],
+  "version": 156,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-24T02:44:35.199Z",
+  "archivedQuestions": [
     {
       "question": "Quelle technologie permet aux chauves-souris de se déplacer dans l'obscurité ?",
       "options": [
@@ -4029,141 +4177,6 @@
       "category": "Musique",
       "id": "q_1775529158470_6_vw56yo",
       "addedAt": "2026-04-07T02:32:38.470Z"
-    }
-  ],
-  "version": 155,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-24T00:04:43.268Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel réalisateur a créé la saga 'Star Wars' ?",
-      "options": [
-        "Steven Spielberg",
-        "George Lucas",
-        "Ridley Scott",
-        "James Cameron"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1775529158470_7_lua0pa",
-      "addedAt": "2026-04-07T02:32:38.470Z"
-    },
-    {
-      "question": "En quelle année a été lancé le premier satellite artificiel Spoutnik ?",
-      "options": [
-        "1955",
-        "1957",
-        "1959",
-        "1961"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1775529158470_8_2dkbjy",
-      "addedAt": "2026-04-07T02:32:38.470Z"
-    },
-    {
-      "question": "Quel fromage français est surnommé 'le roi des fromages' ?",
-      "options": [
-        "Le camembert",
-        "Le roquefort",
-        "Le brie",
-        "Le comté"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1775529158470_9_ea1frt",
-      "addedAt": "2026-04-07T02:32:38.470Z"
-    },
-    {
-      "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
-      "options": [
-        "Auckland",
-        "Wellington",
-        "Christchurch",
-        "Hamilton"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1775529158470_10_2d79f5",
-      "addedAt": "2026-04-07T02:32:38.470Z"
-    },
-    {
-      "question": "Quelle planète du système solaire possède les anneaux les plus visibles ?",
-      "options": [
-        "Jupiter",
-        "Saturne",
-        "Uranus",
-        "Neptune"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1775520944800_0_4c2n4d",
-      "addedAt": "2026-04-07T00:15:44.800Z"
-    },
-    {
-      "question": "Quel océan borde la côte ouest de l'Amérique du Sud ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1775520944800_1_r72p6e",
-      "addedAt": "2026-04-07T00:15:44.800Z"
-    },
-    {
-      "question": "En quelle année Napoléon a-t-il été couronné empereur des Français ?",
-      "options": [
-        "1802",
-        "1804",
-        "1806",
-        "1808"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1775520944800_2_hqzlr5",
-      "addedAt": "2026-04-07T00:15:44.800Z"
-    },
-    {
-      "question": "Quel est l'ingrédient principal du guacamole ?",
-      "options": [
-        "Tomate",
-        "Avocat",
-        "Concombre",
-        "Courgette"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1775520944800_3_a7cj5n",
-      "addedAt": "2026-04-07T00:15:44.800Z"
-    },
-    {
-      "question": "Combien de joueurs compose une équipe de rugby à XV sur le terrain ?",
-      "options": [
-        "13",
-        "15",
-        "17",
-        "11"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1775520944800_4_zc6ixz",
-      "addedAt": "2026-04-07T00:15:44.800Z"
-    },
-    {
-      "question": "Quel mammifère est capable de voler ?",
-      "options": [
-        "L'écureuil volant",
-        "La chauve-souris",
-        "Le polatouche",
-        "Le planeur du sucre"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1775520944800_5_jv6112",
-      "addedAt": "2026-04-07T00:15:44.800Z"
     }
   ],
   "poolSize": 310
