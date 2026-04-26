@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
+      "options": [
+        "Antoni Gaudí",
+        "Santiago Calatrava",
+        "Josep Puig i Cadafalch",
+        "Lluís Domènech i Montaner"
+      ],
+      "correctAnswer": 0,
+      "category": "Architecture",
+      "id": "q_1777171818484_0_hfkrel",
+      "addedAt": "2026-04-26T02:50:18.484Z"
+    },
+    {
+      "question": "Quel est le plus grand désert du monde ?",
+      "options": [
+        "Le Sahara",
+        "Le désert de Gobi",
+        "L'Antarctique",
+        "Le désert de Kalahari"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1777171818484_1_vghjse",
+      "addedAt": "2026-04-26T02:50:18.484Z"
+    },
+    {
+      "question": "Quel peintre impressionniste a créé la série des 'Nymphéas' ?",
+      "options": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Alfred Sisley",
+        "Berthe Morisot"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1777171818484_2_r8rba6",
+      "addedAt": "2026-04-26T02:50:18.484Z"
+    },
+    {
+      "question": "En quel année la Grande Muraille de Chine a-t-elle commencé à être construite ?",
+      "options": [
+        "XIIe siècle",
+        "VIe siècle avant J.-C.",
+        "IIe siècle avant J.-C.",
+        "XVIe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1777171818484_3_3wuch8",
+      "addedAt": "2026-04-26T02:50:18.484Z"
+    },
+    {
+      "question": "Quel sport olympique combine le tir à l'arc et la course à pied ?",
+      "options": [
+        "Le pentathlon moderne",
+        "Le biathlon",
+        "Le heptathlon",
+        "Le triathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1777171818484_4_i0zuq5",
+      "addedAt": "2026-04-26T02:50:18.484Z"
+    },
+    {
+      "question": "Combien de côtés possède un octogone régulier ?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1777171818484_5_myfbur",
+      "addedAt": "2026-04-26T02:50:18.484Z"
+    },
+    {
+      "question": "Quel instrument de musique traditionnel japonais a treize cordes ?",
+      "options": [
+        "Le shakuhachi",
+        "Le koto",
+        "Le shamisen",
+        "Le taiko"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1777171818484_6_5ooce1",
+      "addedAt": "2026-04-26T02:50:18.484Z"
+    },
+    {
+      "question": "En quelle année le Titanic a-t-il coulé ?",
+      "options": [
+        "1910",
+        "1912",
+        "1914",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1777171818484_7_7wxhtw",
+      "addedAt": "2026-04-26T02:50:18.484Z"
+    },
+    {
+      "question": "Quel est le plus grand animal terrestre actuellement vivant ?",
+      "options": [
+        "Le rhinocéros",
+        "L'hippopotame",
+        "L'éléphant d'Afrique",
+        "La girafe"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1777171818484_8_ndsu86",
+      "addedAt": "2026-04-26T02:50:18.484Z"
+    },
+    {
+      "question": "Quel type de fromage est traditionnellement utilisé dans la carbonara italienne ?",
+      "options": [
+        "Le parmesan",
+        "Le pecorino romain",
+        "Le mozzarella",
+        "Le gorgonzola"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1777171818484_9_wm07km",
+      "addedAt": "2026-04-26T02:50:18.484Z"
+    },
+    {
       "question": "En quelle année la Chute du Mur de Berlin s'est-elle produite ?",
       "options": [
         "1987",
@@ -3899,7 +4029,12 @@
       "category": "Mathématiques",
       "id": "q_1775781237139_4_8nftbt",
       "addedAt": "2026-04-10T00:33:57.139Z"
-    },
+    }
+  ],
+  "version": 160,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-26T02:50:18.485Z",
+  "archivedQuestions": [
     {
       "question": "Quel artiste a coupé une partie de son oreille en 1888 ?",
       "options": [
@@ -4029,167 +4164,6 @@
       "category": "Cinéma",
       "id": "q_1775701696258_5_wnyjn7",
       "addedAt": "2026-04-09T02:28:16.258Z"
-    }
-  ],
-  "version": 159,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-26T00:39:01.211Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel animal possède le cœur le plus grand du règne animal ?",
-      "options": [
-        "l'Éléphant",
-        "la Girafe",
-        "la Baleine bleue",
-        "l'Hippopotame"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1775701696258_6_opn6ad",
-      "addedAt": "2026-04-09T02:28:16.258Z"
-    },
-    {
-      "question": "Quel pays produit le plus de café au monde ?",
-      "options": [
-        "la Colombie",
-        "l'Indonésie",
-        "le Brésil",
-        "l'Éthiopie"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1775701696258_7_m3o8fg",
-      "addedAt": "2026-04-09T02:28:16.258Z"
-    },
-    {
-      "question": "En quelle année a été inventée la première ampoule électrique fonctionnelle ?",
-      "options": [
-        "1879",
-        "1887",
-        "1895",
-        "1902"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1775701696258_8_2794w8",
-      "addedAt": "2026-04-09T02:28:16.258Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde en superficie ?",
-      "options": [
-        "Monaco",
-        "Liechtenstein",
-        "le Vatican",
-        "San Marin"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775701696258_9_d22ohd",
-      "addedAt": "2026-04-09T02:28:16.258Z"
-    },
-    {
-      "question": "Quel scientifique a formulé la théorie de la relativité générale ?",
-      "options": [
-        "Niels Bohr",
-        "Albert Einstein",
-        "Max Planck",
-        "Werner Heisenberg"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1775693404622_0_28nu7u",
-      "addedAt": "2026-04-09T00:10:04.622Z"
-    },
-    {
-      "question": "En quelle année s'est déroulée la Révolution française ?",
-      "options": [
-        "1776",
-        "1789",
-        "1804",
-        "1815"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1775693404622_1_u6syoa",
-      "addedAt": "2026-04-09T00:10:04.622Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet du continent africain ?",
-      "options": [
-        "Mont Kenya",
-        "Kilimanjaro",
-        "Ras Dashen",
-        "Mont Speke"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1775693404622_2_sg38ct",
-      "addedAt": "2026-04-09T00:10:04.622Z"
-    },
-    {
-      "question": "Qui a écrit 'Orgueil et Préjugés' ?",
-      "options": [
-        "Charlotte Brontë",
-        "Jane Austen",
-        "George Eliot",
-        "Emily Dickinson"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1775693404622_3_n3m2xq",
-      "addedAt": "2026-04-09T00:10:04.622Z"
-    },
-    {
-      "question": "En quel siècle a vécu le compositeur Wolfgang Amadeus Mozart ?",
-      "options": [
-        "XVIe siècle",
-        "XVIIe siècle",
-        "XVIIIe siècle",
-        "XIXe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1775693404622_4_8lr0fo",
-      "addedAt": "2026-04-09T00:10:04.622Z"
-    },
-    {
-      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
-      "options": [
-        "Belgique",
-        "France",
-        "Allemagne",
-        "Croatie"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1775693404622_5_zc1lnr",
-      "addedAt": "2026-04-09T00:10:04.622Z"
-    },
-    {
-      "question": "Quel artiste était un pionnier du mouvement Cubiste ?",
-      "options": [
-        "Salvator Dalí",
-        "Pablo Picasso",
-        "Joan Miró",
-        "Marc Chagall"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1775693404622_6_0reb77",
-      "addedAt": "2026-04-09T00:10:04.622Z"
-    },
-    {
-      "question": "Quel type de roche se forme par le refroidissement de la lave ?",
-      "options": [
-        "Roche sédimentaire",
-        "Roche métamorphique",
-        "Roche ignée",
-        "Roche terreuse"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1775693404622_7_7qrimu",
-      "addedAt": "2026-04-09T00:10:04.622Z"
     }
   ],
   "poolSize": 310
