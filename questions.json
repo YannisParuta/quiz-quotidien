@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel célèbre compositeur autrichien a écrit 'Eine kleine Nachtmusik' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Franz Schubert",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1777248699975_0_042g13",
+      "addedAt": "2026-04-27T00:11:39.975Z"
+    },
+    {
+      "question": "Quel est le plus grand désert chaud du monde ?",
+      "options": [
+        "Le désert du Sahara",
+        "Le désert de Gobi",
+        "Le désert de Kalahari",
+        "Le désert d'Arabie"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1777248699975_1_x4jc9d",
+      "addedAt": "2026-04-27T00:11:39.975Z"
+    },
+    {
+      "question": "Quel romancier français a écrit 'Les Misérables' ?",
+      "options": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1777248699975_2_wes84q",
+      "addedAt": "2026-04-27T00:11:39.975Z"
+    },
+    {
+      "question": "Quel sport professionnel a été inventé à Montréal en 1875 ?",
+      "options": [
+        "Le basketball",
+        "Le hockey sur glace",
+        "Le football canadien",
+        "Le curling"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1777248699975_3_07sce4",
+      "addedAt": "2026-04-27T00:11:39.975Z"
+    },
+    {
+      "question": "Quel peintre espagnol est connu pour ses déformations surréalistes du corps humain ?",
+      "options": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Francisco Goya"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1777248699975_4_637hdr",
+      "addedAt": "2026-04-27T00:11:39.975Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en bromélaïne, une enzyme digestive ?",
+      "options": [
+        "La banane",
+        "La mangue",
+        "L'ananas",
+        "La papaye"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1777248699975_5_c77bhq",
+      "addedAt": "2026-04-27T00:11:39.975Z"
+    },
+    {
+      "question": "Quel est le langage de programmation créé par Guido van Rossum ?",
+      "options": [
+        "Java",
+        "Python",
+        "Ruby",
+        "JavaScript"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1777248699975_6_qsok97",
+      "addedAt": "2026-04-27T00:11:39.975Z"
+    },
+    {
+      "question": "Quel animal mammifère pond des œufs et vit en Australie ?",
+      "options": [
+        "Le koala",
+        "Le kangourou",
+        "L'ornithorynque",
+        "Le wombat"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1777248699975_7_xcpjwy",
+      "addedAt": "2026-04-27T00:11:39.975Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé la première version du film 'Diaboliques' en 1955 ?",
+      "options": [
+        "Jacques Tati",
+        "Henri-Georges Clouzot",
+        "Robert Bresson",
+        "François Truffaut"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1777248699975_8_8tkzpe",
+      "addedAt": "2026-04-27T00:11:39.975Z"
+    },
+    {
       "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
       "options": [
         "Antoni Gaudí",
@@ -3912,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1775788779598_5_ogrugl",
       "addedAt": "2026-04-10T02:39:39.598Z"
-    },
+    }
+  ],
+  "version": 161,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-27T00:11:39.976Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le plus long fleuve d'Asie ?",
       "options": [
@@ -4029,141 +4151,6 @@
       "category": "Mathématiques",
       "id": "q_1775781237139_4_8nftbt",
       "addedAt": "2026-04-10T00:33:57.139Z"
-    }
-  ],
-  "version": 160,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-26T02:50:18.485Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel artiste a coupé une partie de son oreille en 1888 ?",
-      "options": [
-        "Pablo Picasso",
-        "Paul Cézanne",
-        "Vincent van Gogh",
-        "Henri de Toulouse-Lautrec"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1775781237139_5_tq00fp",
-      "addedAt": "2026-04-10T00:33:57.139Z"
-    },
-    {
-      "question": "Quel pays produit la majorité du cacao mondial ?",
-      "options": [
-        "Ghana",
-        "Brésil",
-        "Côte d'Ivoire",
-        "Cameroun"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1775781237139_6_uapcyi",
-      "addedAt": "2026-04-10T00:33:57.139Z"
-    },
-    {
-      "question": "Quel est le plus ancien port du monde toujours en activité ?",
-      "options": [
-        "Port de Rotterdam",
-        "Port de Jaffa",
-        "Port d'Alexandrie",
-        "Port de Venise"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1775781237139_7_wyudfg",
-      "addedAt": "2026-04-10T00:33:57.139Z"
-    },
-    {
-      "question": "Quel langage informatique a été créé par Guido van Rossum en 1991 ?",
-      "options": [
-        "Java",
-        "Ruby",
-        "Python",
-        "Go"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1775781237139_8_23q04j",
-      "addedAt": "2026-04-10T00:33:57.139Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet du monde ?",
-      "options": [
-        "K2",
-        "Kangchenjunga",
-        "Everest",
-        "Lhotse"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775701696258_0_zetzda",
-      "addedAt": "2026-04-09T02:28:16.258Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1775701696258_1_hp6ayu",
-      "addedAt": "2026-04-09T02:28:16.258Z"
-    },
-    {
-      "question": "Quel scientifique a formulé la théorie de la relativité ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Max Planck",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1775701696258_2_nie07t",
-      "addedAt": "2026-04-09T02:28:16.258Z"
-    },
-    {
-      "question": "En quelle année a éclaté la Révolution française ?",
-      "options": [
-        "1776",
-        "1789",
-        "1799",
-        "1815"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1775701696258_3_heo2qu",
-      "addedAt": "2026-04-09T02:28:16.258Z"
-    },
-    {
-      "question": "Combien de continents y a-t-il sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775701696258_4_46rrxr",
-      "addedAt": "2026-04-09T02:28:16.258Z"
-    },
-    {
-      "question": "Quel cinéaste a réalisé 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Christopher Nolan",
-        "David Fincher"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1775701696258_5_wnyjn7",
-      "addedAt": "2026-04-09T02:28:16.258Z"
     }
   ],
   "poolSize": 310
