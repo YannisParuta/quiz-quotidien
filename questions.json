@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "En quelle année la Première Guerre mondiale a-t-elle pris fin ?",
+      "options": [
+        "1916",
+        "1917",
+        "1918",
+        "1919"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1777258380359_0_0vi8y6",
+      "addedAt": "2026-04-27T02:53:00.359Z"
+    },
+    {
+      "question": "Quel peintre espagnol a cofondé le mouvement cubiste ?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Francisco Goya"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1777258380359_1_c9224e",
+      "addedAt": "2026-04-27T02:53:00.359Z"
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+      "options": [
+        "Belgique",
+        "Croatie",
+        "France",
+        "Allemagne"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1777258380359_2_iaxryb",
+      "addedAt": "2026-04-27T02:53:00.359Z"
+    },
+    {
+      "question": "Quel musicien a composé 'La Marche des Dieux' pour le film 'Apocalypse Now' ?",
+      "options": [
+        "John Williams",
+        "Vangelis",
+        "Giorgio Moroder",
+        "Hans Zimmer"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1777258380359_3_7xxl53",
+      "addedAt": "2026-04-27T02:53:00.359Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé la série 'Amélie Poulain' ?",
+      "options": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Christophe Honoré",
+        "Michel Gondry"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1777258380359_4_l9589q",
+      "addedAt": "2026-04-27T02:53:00.359Z"
+    },
+    {
+      "question": "Quel mammifère marin est le prédateur du phoque ?",
+      "options": [
+        "Le dauphin",
+        "L'orque",
+        "Le requin blanc",
+        "Le cachalot"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1777258380359_5_rv0b7i",
+      "addedAt": "2026-04-27T02:53:00.359Z"
+    },
+    {
+      "question": "En informatique, quel langage de programmation est utilisé principalement pour les pages web ?",
+      "options": [
+        "Python",
+        "JavaScript",
+        "C++",
+        "Java"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1777258380359_6_04uecf",
+      "addedAt": "2026-04-27T02:53:00.359Z"
+    },
+    {
+      "question": "Quel mathématicien a développé le système de coordonnées cartésiennes ?",
+      "options": [
+        "Isaac Newton",
+        "René Descartes",
+        "Blaise Pascal",
+        "Pierre de Fermat"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1777258380359_7_jqbmcv",
+      "addedAt": "2026-04-27T02:53:00.359Z"
+    },
+    {
+      "question": "Quel instrument de musique à cordes pincées est le symbole de la Grèce antique ?",
+      "options": [
+        "La harpe",
+        "La lyre",
+        "Le luth",
+        "La cithare"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1777258380359_8_mo3vrh",
+      "addedAt": "2026-04-27T02:53:00.359Z"
+    },
+    {
+      "question": "Quel philosophe grec a fondé l'Académie à Athènes ?",
+      "options": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Épicure"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1777258380359_9_g6s9y4",
+      "addedAt": "2026-04-27T02:53:00.359Z"
+    },
+    {
+      "question": "Quel type de roche est le marbre ?",
+      "options": [
+        "Roche sédimentaire",
+        "Roche ignée",
+        "Roche métamorphique",
+        "Roche volcanique"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1777258380359_10_d8ncu9",
+      "addedAt": "2026-04-27T02:53:00.359Z"
+    },
+    {
       "question": "Quel célèbre compositeur autrichien a écrit 'Eine kleine Nachtmusik' ?",
       "options": [
         "Wolfgang Amadeus Mozart",
@@ -3886,7 +4029,12 @@
       "category": "Sport",
       "id": "q_1775866067220_4_4ez5zq",
       "addedAt": "2026-04-11T00:07:47.220Z"
-    },
+    }
+  ],
+  "version": 162,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-27T02:53:00.360Z",
+  "archivedQuestions": [
     {
       "question": "Quel oiseau ne peut pas voler et vit uniquement en Nouvelle-Zélande ?",
       "options": [
@@ -4029,128 +4177,6 @@
       "category": "Musique",
       "id": "q_1775788779598_5_ogrugl",
       "addedAt": "2026-04-10T02:39:39.598Z"
-    }
-  ],
-  "version": 161,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-27T00:11:39.976Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus long fleuve d'Asie ?",
-      "options": [
-        "Le Tigre",
-        "L'Indus",
-        "Le Yangzi",
-        "Le Mékong"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775788779598_6_86s0y0",
-      "addedAt": "2026-04-10T02:39:39.598Z"
-    },
-    {
-      "question": "En quelle année l'imprimerie a-t-elle été inventée par Gutenberg ?",
-      "options": [
-        "1440",
-        "1450",
-        "1460",
-        "1470"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1775788779598_7_68rz3y",
-      "addedAt": "2026-04-10T02:39:39.598Z"
-    },
-    {
-      "question": "Quel fruit est traditionnellement associé à la Nouvelle-Zélande ?",
-      "options": [
-        "La mangue",
-        "Le kiwi",
-        "La papaye",
-        "L'ananas"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1775788779598_8_brjpd6",
-      "addedAt": "2026-04-10T02:39:39.598Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde en surface ?",
-      "options": [
-        "Monaco",
-        "Saint-Marin",
-        "Le Vatican",
-        "Liechtenstein"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775788779598_9_s1tmfi",
-      "addedAt": "2026-04-10T02:39:39.598Z"
-    },
-    {
-      "question": "Quel chimiste a développé la vaccination contre la rage ?",
-      "options": [
-        "Joseph Lister",
-        "Louis Pasteur",
-        "Edward Jenner",
-        "Florence Nightingale"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1775781237139_0_jb3b8q",
-      "addedAt": "2026-04-10T00:33:57.139Z"
-    },
-    {
-      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Oscar Wilde",
-        "Sir Arthur Conan Doyle",
-        "Agatha Christie",
-        "George Orwell"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1775781237139_1_a0llee",
-      "addedAt": "2026-04-10T00:33:57.139Z"
-    },
-    {
-      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
-      "options": [
-        "1917",
-        "Parasite",
-        "Joker",
-        "Once Upon a Time in Hollywood"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1775781237139_2_armtim",
-      "addedAt": "2026-04-10T00:33:57.139Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique standard ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1775781237139_3_00ha3z",
-      "addedAt": "2026-04-10T00:33:57.139Z"
-    },
-    {
-      "question": "Quel mathématicien grec a démontré le théorème du triangle rectangle ?",
-      "options": [
-        "Archimède",
-        "Pythagore",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1775781237139_4_8nftbt",
-      "addedAt": "2026-04-10T00:33:57.139Z"
     }
   ],
   "poolSize": 310
