@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel explorateur portugais a été le premier à contourner le cap de Bonne-Espérance en 1488 ?",
+      "options": [
+        "Vasco de Gama",
+        "Bartolomeu Dias",
+        "Christophe Colomb",
+        "Ferdinand Magellan"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1777334762690_0_w5ng42",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
+      "question": "Quel scientifique a formulé la théorie de l'évolution par la sélection naturelle ?",
+      "options": [
+        "Jean-Baptiste Lamarck",
+        "Charles Darwin",
+        "Alfred Russel Wallace",
+        "Gregor Mendel"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1777334762690_1_35w8qo",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
+      "question": "Quel instrument de musique à cordes est originaire d'Afrique de l'Ouest et possède des cordes en nylon ?",
+      "options": [
+        "Le sitar",
+        "La kora",
+        "La mandoline",
+        "Le luth"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1777334762690_2_z3uuto",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
+      "question": "Quel phénomène climatique périodique affecte particulièrement l'Océan Pacifique et se caractérise par un réchauffement des eaux ?",
+      "options": [
+        "La mousson",
+        "El Niño",
+        "La Niña",
+        "Le Gulf Stream"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1777334762690_3_pdk1fy",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
+      "question": "Combien de os possède un adulte humain en moyenne ?",
+      "options": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1777334762690_4_6vy5qc",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
+      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Oscar Wilde",
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "George Bernard Shaw"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1777334762690_5_z9otn1",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
+      "question": "Quel minéral transparent et dur est composé de carbone pur et est la pierre précieuse la plus appréciée ?",
+      "options": [
+        "Le rubis",
+        "Le diamant",
+        "l'émeraude",
+        "Le saphir"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1777334762690_6_kd09bt",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
+      "question": "En quel siècle l'Académie française a-t-elle été fondée ?",
+      "options": [
+        "XVe siècle",
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1777334762690_7_lex1gm",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
+      "question": "Quel océan est le deuxième plus vaste du monde ?",
+      "options": [
+        "L'océan Indien",
+        "L'océan Atlantique",
+        "L'océan Arctique",
+        "L'océan Pacifique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1777334762690_8_8g7xxg",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
+      "question": "Quel peintre italien de la Renaissance est célèbre pour ses fresques du Sistine et le 'David' en sculpture ?",
+      "options": [
+        "Raphaël",
+        "Michel-Ange",
+        "Donatello",
+        "Léonard de Vinci"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1777334762690_9_1ep71n",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
+      "question": "Quel type de cuisine française est caractérisée par des portions généreuses et des plats de terroir régional ?",
+      "options": [
+        "La nouvelle cuisine",
+        "La cuisine bourgeoise",
+        "La gastronomie moléculaire",
+        "La cuisine paysanne"
+      ],
+      "correctAnswer": 3,
+      "category": "Gastronomie",
+      "id": "q_1777334762690_10_sc9hjq",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
+      "question": "Quel était le langage de programmation utilisé pour créer le système d'exploitation Unix ?",
+      "options": [
+        "Python",
+        "C",
+        "Java",
+        "Assembly"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1777334762690_11_4icpak",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
+      "question": "Quel athlète jamaïcain détient le record du monde du 100 mètres avec un temps de 9,58 secondes ?",
+      "options": [
+        "Yohan Blake",
+        "Usain Bolt",
+        "Asafa Powell",
+        "Justin Gatlin"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1777334762690_12_tg0s3w",
+      "addedAt": "2026-04-28T00:06:02.690Z"
+    },
+    {
       "question": "En quelle année la Première Guerre mondiale a-t-elle pris fin ?",
       "options": [
         "1916",
@@ -3860,7 +4029,12 @@
       "category": "Mathématiques",
       "id": "q_1775874292798_5_jtdp1j",
       "addedAt": "2026-04-11T02:24:52.798Z"
-    },
+    }
+  ],
+  "version": 163,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-28T00:06:02.691Z",
+  "archivedQuestions": [
     {
       "question": "En quelle année Netflix a-t-il été fondé ?",
       "options": [
@@ -4029,154 +4203,6 @@
       "category": "Sport",
       "id": "q_1775866067220_4_4ez5zq",
       "addedAt": "2026-04-11T00:07:47.220Z"
-    }
-  ],
-  "version": 162,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-27T02:53:00.360Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel oiseau ne peut pas voler et vit uniquement en Nouvelle-Zélande ?",
-      "options": [
-        "Le kakapo",
-        "Le kiwi",
-        "Le takahe",
-        "Le weka"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1775866067220_5_x0pejv",
-      "addedAt": "2026-04-11T00:07:47.220Z"
-    },
-    {
-      "question": "Quel écrivain français a créé le personnage de Cyrano de Bergerac ?",
-      "options": [
-        "Alexandre Dumas",
-        "Edmond Rostand",
-        "Victor Hugo",
-        "Guy de Maupassant"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1775866067220_6_g26sgl",
-      "addedAt": "2026-04-11T00:07:47.220Z"
-    },
-    {
-      "question": "Quelle est la capitale de la Suisse ?",
-      "options": [
-        "Zurich",
-        "Genève",
-        "Berne",
-        "Lausanne"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775866067220_7_jpxm59",
-      "addedAt": "2026-04-11T00:07:47.220Z"
-    },
-    {
-      "question": "Quel mathématicien grec a découvert le principe de la flottabilité dans l'eau ?",
-      "options": [
-        "Euclide",
-        "Archimède",
-        "Pythagore",
-        "Thales"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1775866067220_8_6zmndi",
-      "addedAt": "2026-04-11T00:07:47.220Z"
-    },
-    {
-      "question": "En informatique, que signifie l'acronyme 'API' ?",
-      "options": [
-        "Application Program Interface",
-        "Advanced Programming Instruction",
-        "Automated Process Identification",
-        "Application Process Integration"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1775866067220_9_l3kyqj",
-      "addedAt": "2026-04-11T00:07:47.220Z"
-    },
-    {
-      "question": "Quel chimiste français a découvert le radium en 1898 ?",
-      "options": [
-        "Marie Curie",
-        "Louis Pasteur",
-        "Claude Bernard",
-        "Antoine Lavoisier"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1775788779598_0_tltu50",
-      "addedAt": "2026-04-10T02:39:39.598Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet d'Europe ?",
-      "options": [
-        "Le Mont-Blanc",
-        "L'Elbrouz",
-        "Le Mont Rose",
-        "Le Dom"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1775788779598_1_bfm28i",
-      "addedAt": "2026-04-10T02:39:39.598Z"
-    },
-    {
-      "question": "Qui a écrit le conte 'Le Petit Prince' ?",
-      "options": [
-        "Jules Verne",
-        "Antoine de Saint-Exupéry",
-        "Alexandre Dumas",
-        "Gustave Flaubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1775788779598_2_13vwem",
-      "addedAt": "2026-04-10T02:39:39.598Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle commencé ?",
-      "options": [
-        "1785",
-        "1789",
-        "1793",
-        "1799"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1775788779598_3_hb03an",
-      "addedAt": "2026-04-10T02:39:39.598Z"
-    },
-    {
-      "question": "Quel est le plus grand organisme vivant sur Terre ?",
-      "options": [
-        "La baleine bleue",
-        "Le champignon miel",
-        "L'arbre Général Sherman",
-        "Le corail"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1775788779598_4_v3jj6y",
-      "addedAt": "2026-04-10T02:39:39.598Z"
-    },
-    {
-      "question": "Combien de cordes possède un violoncelle ?",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1775788779598_5_ogrugl",
-      "addedAt": "2026-04-10T02:39:39.598Z"
     }
   ],
   "poolSize": 310
