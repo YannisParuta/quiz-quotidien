@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur allemand a écrit la 9ème symphonie contenant l'Ode à la Joie ?",
+      "options": [
+        "Wolfgang Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Richard Wagner"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1777422016514_0_t4nxaz",
+      "addedAt": "2026-04-29T00:20:16.514Z"
+    },
+    {
+      "question": "Quel animal peut survivre sans boire d'eau pendant plusieurs années ?",
+      "options": [
+        "Le chameau",
+        "Le kangourou",
+        "La girafe",
+        "Le chameau"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1777422016514_1_wip29t",
+      "addedAt": "2026-04-29T00:20:16.514Z"
+    },
+    {
+      "question": "En quel siècle la Grande Muraille de Chine a-t-elle été principalement construite ?",
+      "options": [
+        "7ème siècle",
+        "10ème siècle",
+        "15ème-17ème siècle",
+        "18ème siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1777422016514_2_zvkz40",
+      "addedAt": "2026-04-29T00:20:16.514Z"
+    },
+    {
+      "question": "Quel romancier britannique a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Oscar Wilde",
+        "Arthur Conan Doyle",
+        "Charles Dickens",
+        "Thomas Hardy"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1777422016514_3_l6c11b",
+      "addedAt": "2026-04-29T00:20:16.514Z"
+    },
+    {
+      "question": "Quel film d'animation Pixar raconte l'histoire d'un robot amoureux de la Terre ?",
+      "options": [
+        "Ratatouille",
+        "WALL-E",
+        "Toy Story",
+        "Monstres & Cie"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1777422016514_4_at7eji",
+      "addedAt": "2026-04-29T00:20:16.514Z"
+    },
+    {
+      "question": "En quelle année la Bastille a-t-elle été prise pendant la Révolution française ?",
+      "options": [
+        "1788",
+        "1789",
+        "1790",
+        "1792"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1777422016514_5_b9sxol",
+      "addedAt": "2026-04-29T00:20:16.514Z"
+    },
+    {
+      "question": "Quel peintre impressionniste français est célèbre pour ses séries de Nymphéas ?",
+      "options": [
+        "Edgar Degas",
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Frédéric Bazille"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1777422016514_6_osmeb0",
+      "addedAt": "2026-04-29T00:20:16.514Z"
+    },
+    {
+      "question": "Quel sport consiste à frapper une balle avec une raquette sur un court herbeux ?",
+      "options": [
+        "Le squash",
+        "Le badminton",
+        "Le tennis sur gazon",
+        "Le padel"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1777422016514_7_o1so7u",
+      "addedAt": "2026-04-29T00:20:16.514Z"
+    },
+    {
+      "question": "Quel algorithme de tri informatique divise le problème en deux pour les résoudre ?",
+      "options": [
+        "Tri à bulles",
+        "Tri fusion",
+        "Tri insertion",
+        "Tri rapide"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1777422016514_8_kk56lh",
+      "addedAt": "2026-04-29T00:20:16.514Z"
+    },
+    {
+      "question": "Quel fromage français est protégé par une Appellation d'Origine Contrôlée et produit uniquement dans le Massif Central ?",
+      "options": [
+        "Le Camembert",
+        "Le Roquefort",
+        "Le Brie",
+        "L'Emmental"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1777422016514_9_en3c4o",
+      "addedAt": "2026-04-29T00:20:16.514Z"
+    },
+    {
       "question": "Quel courant artistique a été fondé par Salvador Dalí et d'autres artistes dans les années 1920 ?",
       "options": [
         "Cubisme",
@@ -3899,7 +4029,12 @@
       "category": "Science",
       "id": "q_1775961746934_5_f1ubj3",
       "addedAt": "2026-04-12T02:42:26.934Z"
-    },
+    }
+  ],
+  "version": 165,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-29T00:20:16.515Z",
+  "archivedQuestions": [
     {
       "question": "Quel écrivain français a remporté le prix Nobel de littérature en 2014 ?",
       "options": [
@@ -4029,128 +4164,6 @@
       "category": "Sport",
       "id": "q_1775955394943_5_j0cgqw",
       "addedAt": "2026-04-12T00:56:34.943Z"
-    }
-  ],
-  "version": 164,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-28T03:21:34.437Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel fromage français provient de la région de Normandie et est recouvert d'une croûte blanche ?",
-      "options": [
-        "Le Comté",
-        "Le Camembert",
-        "Le Roquefort",
-        "Le Brie"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1775955394943_6_p4wp39",
-      "addedAt": "2026-04-12T00:56:34.943Z"
-    },
-    {
-      "question": "Quel animal marin peut changer de couleur rapidement pour se camoufler ?",
-      "options": [
-        "Le dauphin",
-        "Le phoque",
-        "La seiche",
-        "L'otarie"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1775955394943_7_e5wy7y",
-      "addedAt": "2026-04-12T00:56:34.943Z"
-    },
-    {
-      "question": "Quel langage de balisage est utilisé pour créer des pages web ?",
-      "options": [
-        "Java",
-        "HTML",
-        "SQL",
-        "C++"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1775955394943_8_fftp0f",
-      "addedAt": "2026-04-12T00:56:34.943Z"
-    },
-    {
-      "question": "Quel chimiste suédois a inventé la dynamite ?",
-      "options": [
-        "Jöns Jakob Berzelius",
-        "Alfred Nobel",
-        "Svante Arrhenius",
-        "Carl Wilhelm Scheele"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1775874292798_0_kwupay",
-      "addedAt": "2026-04-11T02:24:52.798Z"
-    },
-    {
-      "question": "En quelle année l'Homme a-t-il marché pour la première fois sur la Lune ?",
-      "options": [
-        "1967",
-        "1969",
-        "1971",
-        "1965"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1775874292798_1_aipvx5",
-      "addedAt": "2026-04-11T02:24:52.798Z"
-    },
-    {
-      "question": "Quel archipel est la capitale mondiale de la vanille ?",
-      "options": [
-        "Les Seychelles",
-        "Madagascar",
-        "Les Comores",
-        "La Polynésie française"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1775874292798_2_tdfswe",
-      "addedAt": "2026-04-11T02:24:52.798Z"
-    },
-    {
-      "question": "Quel compositeur a écrit la symphonie 'Pathétique' ?",
-      "options": [
-        "Beethoven",
-        "Tchaïkovski",
-        "Brahms",
-        "Debussy"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1775874292798_3_6qq6qr",
-      "addedAt": "2026-04-11T02:24:52.798Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet d'Asie du Sud-Est ?",
-      "options": [
-        "Le Kanchenjunga",
-        "Le Pic Khao Yai",
-        "Le Hkakabo Razi",
-        "Le Mont Kinabalu"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775874292798_4_zp29ex",
-      "addedAt": "2026-04-11T02:24:52.798Z"
-    },
-    {
-      "question": "Quel mathématicien a démontré le théorème de Pythagore pour la première fois ?",
-      "options": [
-        "Euclide",
-        "Archimède",
-        "Pythagore lui-même",
-        "Thalès"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1775874292798_5_jtdp1j",
-      "addedAt": "2026-04-11T02:24:52.798Z"
     }
   ],
   "poolSize": 310
