@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut sommet d'Afrique ?",
+      "options": [
+        "Le Mont Kenya",
+        "Le Kilimandjaro",
+        "Le Pic de Ras Dashen",
+        "Le Mont Stanley"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1777431460507_0_zw56s2",
+      "addedAt": "2026-04-29T02:57:40.507Z"
+    },
+    {
+      "question": "Quel peintre impressionniste français a créé la série 'Les Nymphéas' ?",
+      "options": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas",
+        "Frédéric Bazille"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1777431460507_1_5sukm8",
+      "addedAt": "2026-04-29T02:57:40.507Z"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de volleyball sur le terrain ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1777431460507_2_pk1jxi",
+      "addedAt": "2026-04-29T02:57:40.507Z"
+    },
+    {
+      "question": "Quel auteur britannique a écrit la série 'Harry Potter' ?",
+      "options": [
+        "Agatha Christie",
+        "J.K. Rowling",
+        "George R.R. Martin",
+        "Stephen King"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1777431460507_3_wifsk6",
+      "addedAt": "2026-04-29T02:57:40.507Z"
+    },
+    {
+      "question": "Quel type de requin est le plus rapide des océans ?",
+      "options": [
+        "Le requin blanc",
+        "Le requin taupe bleu",
+        "Le requin tigre",
+        "Le requin marteau"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1777431460507_4_zq6tsl",
+      "addedAt": "2026-04-29T02:57:40.507Z"
+    },
+    {
+      "question": "Quel mathématicien grec ancien a formulé le théorème de Pythagore ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1777431460507_5_etek6h",
+      "addedAt": "2026-04-29T02:57:40.507Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit la 'Symphonie n°40 en sol mineur' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Joseph Haydn",
+        "Franz Schubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1777431460507_6_h8bvjf",
+      "addedAt": "2026-04-29T02:57:40.507Z"
+    },
+    {
+      "question": "Dans quel pays la pâte à tartiner 'Nutella' a-t-elle été inventée ?",
+      "options": [
+        "La Belgique",
+        "La Suisse",
+        "L'Italie",
+        "La France"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1777431460507_7_y40plv",
+      "addedAt": "2026-04-29T02:57:40.507Z"
+    },
+    {
+      "question": "Quel réalisateur sud-coréen a remporté la Palme d'or à Cannes en 2019 avec 'Parasite' ?",
+      "options": [
+        "Lee Chang-dong",
+        "Bong Joon-ho",
+        "Kim Ki-duk",
+        "Park Chan-wook"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1777431460507_8_yanlfe",
+      "addedAt": "2026-04-29T02:57:40.507Z"
+    },
+    {
+      "question": "Combien de bits composent un octet en informatique ?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1777431460507_9_ublq71",
+      "addedAt": "2026-04-29T02:57:40.507Z"
+    },
+    {
+      "question": "Quel empire antique a construit le Colosseum à Rome ?",
+      "options": [
+        "L'Empire romain républicain",
+        "L'Empire romain sous les Flaviens",
+        "L'Empire byzantin",
+        "L'Empire ottoman"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1777431460507_10_kf0jxn",
+      "addedAt": "2026-04-29T02:57:40.507Z"
+    },
+    {
       "question": "Quel compositeur allemand a écrit la 9ème symphonie contenant l'Ode à la Joie ?",
       "options": [
         "Wolfgang Mozart",
@@ -3886,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1776041022218_5_sifhad",
       "addedAt": "2026-04-13T00:43:42.218Z"
-    },
+    }
+  ],
+  "version": 166,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-29T02:57:40.508Z",
+  "archivedQuestions": [
     {
       "question": "Quel fruit est la baie du caféier ?",
       "options": [
@@ -4029,141 +4177,6 @@
       "category": "Science",
       "id": "q_1775961746934_5_f1ubj3",
       "addedAt": "2026-04-12T02:42:26.934Z"
-    }
-  ],
-  "version": 165,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-29T00:20:16.515Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel écrivain français a remporté le prix Nobel de littérature en 2014 ?",
-      "options": [
-        "Michel Houellebecq",
-        "Patrick Modiano",
-        "Leïla Slimani",
-        "Jonathan Littell"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1775961746934_6_wtwqny",
-      "addedAt": "2026-04-12T02:42:26.934Z"
-    },
-    {
-      "question": "Quel fruit est traditionnellement utilisé pour faire le cidre ?",
-      "options": [
-        "Raisin",
-        "Poire",
-        "Pomme",
-        "Prune"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1775961746934_7_9mvezl",
-      "addedAt": "2026-04-12T02:42:26.934Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde ?",
-      "options": [
-        "Monaco",
-        "Andorre",
-        "Cité du Vatican",
-        "Saint-Marin"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1775961746934_8_b70h2m",
-      "addedAt": "2026-04-12T02:42:26.934Z"
-    },
-    {
-      "question": "Quel mathématicien grec a découvert le rapport entre les côtés d'un triangle rectangle ?",
-      "options": [
-        "Archimède",
-        "Pythagore",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1775961746934_9_nbp6y6",
-      "addedAt": "2026-04-12T02:42:26.934Z"
-    },
-    {
-      "question": "Quel artiste français est connu pour ses sculptures abstraites et minimalistes ?",
-      "options": [
-        "Pablo Picasso",
-        "Henri Matisse",
-        "Auguste Rodin",
-        "Henry Moore"
-      ],
-      "correctAnswer": 3,
-      "category": "Art",
-      "id": "q_1775955394943_0_do61zv",
-      "addedAt": "2026-04-12T00:56:34.943Z"
-    },
-    {
-      "question": "Quel est le plus profond océan du monde ?",
-      "options": [
-        "L'océan Atlantique",
-        "L'océan Pacifique",
-        "L'océan Indien",
-        "L'océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1775955394943_1_c0g5l6",
-      "addedAt": "2026-04-12T00:56:34.943Z"
-    },
-    {
-      "question": "En quel siècle a été inventée l'imprimerie par Gutenberg ?",
-      "options": [
-        "XIIe siècle",
-        "XIIIe siècle",
-        "XVe siècle",
-        "XVIIe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1775955394943_2_536odo",
-      "addedAt": "2026-04-12T00:56:34.943Z"
-    },
-    {
-      "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
-      "options": [
-        "L'oxygène",
-        "Le dioxyde de carbone",
-        "L'azote",
-        "L'hydrogène"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1775955394943_3_eogtp1",
-      "addedAt": "2026-04-12T00:56:34.943Z"
-    },
-    {
-      "question": "Quel chef-d'œuvre cinématographique réalisé par Akira Kurosawa est un classique du cinéma ?",
-      "options": [
-        "Blade Runner",
-        "Rashomon",
-        "Metropolis",
-        "Nosferatu"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1775955394943_4_yyx04v",
-      "addedAt": "2026-04-12T00:56:34.943Z"
-    },
-    {
-      "question": "Quel sport olympique combine le tir à la carabine et le ski de fond ?",
-      "options": [
-        "Le pentathlon moderne",
-        "Le biathlon",
-        "Le triathlon",
-        "Le décathlon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1775955394943_5_j0cgqw",
-      "addedAt": "2026-04-12T00:56:34.943Z"
     }
   ],
   "poolSize": 310
