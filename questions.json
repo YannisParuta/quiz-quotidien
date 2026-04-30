@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut sommet du continent africain ?",
+      "options": [
+        "Le Mont Kenya",
+        "Le Kilimandjaro",
+        "Le Mont Stanley",
+        "Le Mont Speke"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1777519262032_0_03ombc",
+      "addedAt": "2026-04-30T03:21:02.032Z"
+    },
+    {
+      "question": "Combien de côtés possède un hexagone ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1777519262032_1_ud72gn",
+      "addedAt": "2026-04-30T03:21:02.032Z"
+    },
+    {
+      "question": "En quel siècle Léonard de Vinci a-t-il vécu principalement ?",
+      "options": [
+        "XVe siècle",
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1777519262032_2_i0h5rj",
+      "addedAt": "2026-04-30T03:21:02.032Z"
+    },
+    {
+      "question": "Quel est le plus grand océan du monde ?",
+      "options": [
+        "L'océan Atlantique",
+        "L'océan Indien",
+        "L'océan Pacifique",
+        "L'océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1777519262032_3_6emcst",
+      "addedAt": "2026-04-30T03:21:02.032Z"
+    },
+    {
+      "question": "Combien de chromosomes possède un être humain ?",
+      "options": [
+        "23",
+        "46",
+        "48",
+        "52"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1777519262032_4_2uxytj",
+      "addedAt": "2026-04-30T03:21:02.032Z"
+    },
+    {
+      "question": "Quel animal peut fermer complètement ses yeux même en dormant ?",
+      "options": [
+        "Les poissons",
+        "Les oiseaux",
+        "Les reptiles",
+        "Les dauphins"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1777519262032_5_y2aggn",
+      "addedAt": "2026-04-30T03:21:02.032Z"
+    },
+    {
+      "question": "En quelle année l'homme a-t-il marché pour la première fois sur la Lune ?",
+      "options": [
+        "1965",
+        "1968",
+        "1969",
+        "1971"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1777519262032_6_jin4k2",
+      "addedAt": "2026-04-30T03:21:02.032Z"
+    },
+    {
+      "question": "Quel château français est le plus grand château royal d'Europe ?",
+      "options": [
+        "Le château de Chambord",
+        "Le château de Versailles",
+        "Le château de Fontainebleau",
+        "Le château de Chenonceau"
+      ],
+      "correctAnswer": 1,
+      "category": "Architecture",
+      "id": "q_1777519262032_7_vk8ozu",
+      "addedAt": "2026-04-30T03:21:02.032Z"
+    },
+    {
+      "question": "Quel processus biologique permet aux plantes de produire leur propre nourriture ?",
+      "options": [
+        "La respiration",
+        "La photosynthèse",
+        "La fermentation",
+        "L'osmose"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1777519262032_8_liaz0g",
+      "addedAt": "2026-04-30T03:21:02.032Z"
+    },
+    {
       "question": "Quel gaz est le plus abondant dans l'atmosphère terrestre ?",
       "options": [
         "Oxygène",
@@ -3912,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1776128053618_2_2jh7jx",
       "addedAt": "2026-04-14T00:54:13.618Z"
-    },
+    }
+  ],
+  "version": 168,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-04-30T03:21:02.033Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le plus grand pays d'Amérique du Sud en superficie ?",
       "options": [
@@ -4029,128 +4151,6 @@
       "category": "Science",
       "id": "q_1776048480289_3_l4q35i",
       "addedAt": "2026-04-13T02:48:00.289Z"
-    }
-  ],
-  "version": 167,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-30T00:09:46.678Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel champion de tennis français a remporté trois fois Roland Garros ?",
-      "options": [
-        "Yannick Noah",
-        "Gilles Simon",
-        "Jo-Wilfried Tsonga",
-        "Gaston Gaudio"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1776048480289_4_ob5ner",
-      "addedAt": "2026-04-13T02:48:00.289Z"
-    },
-    {
-      "question": "Quel mouvement artistique a été fondé par Pablo Picasso et Georges Braque ?",
-      "options": [
-        "Le Surréalisme",
-        "Le Fauvisme",
-        "Le Cubisme",
-        "L'Expressionnisme"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1776048480289_5_6iha5u",
-      "addedAt": "2026-04-13T02:48:00.289Z"
-    },
-    {
-      "question": "En quelle année a été fondée la première université du monde ?",
-      "options": [
-        "388 avant J.C.",
-        "859 après J.C.",
-        "1088 après J.C.",
-        "1200 après J.C."
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1776048480289_6_73hqzz",
-      "addedAt": "2026-04-13T02:48:00.289Z"
-    },
-    {
-      "question": "Combien de cordes possède une harpe classique ?",
-      "options": [
-        "22 à 47 cordes",
-        "10 à 15 cordes",
-        "50 à 60 cordes",
-        "5 à 8 cordes"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1776041022218_0_nv82mp",
-      "addedAt": "2026-04-13T00:43:42.218Z"
-    },
-    {
-      "question": "En quelle année a eu lieu la Révolution française ?",
-      "options": [
-        "1776",
-        "1789",
-        "1801",
-        "1815"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1776041022218_1_cbfgh6",
-      "addedAt": "2026-04-13T00:43:42.218Z"
-    },
-    {
-      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
-      "options": [
-        "Léon Tolstoï",
-        "Fiodor Dostoïevski",
-        "Alexandre Pouchkine",
-        "Ivan Tourguéniev"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1776041022218_2_pekuq3",
-      "addedAt": "2026-04-13T00:43:42.218Z"
-    },
-    {
-      "question": "Quel artiste flamand a coupé une partie de son oreille ?",
-      "options": [
-        "Rubens",
-        "Vincent van Gogh",
-        "Pieter Bruegel",
-        "Jérôme Bosch"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1776041022218_3_cvpmyr",
-      "addedAt": "2026-04-13T00:43:42.218Z"
-    },
-    {
-      "question": "Combien de chromosomes possède l'être humain ?",
-      "options": [
-        "23",
-        "46",
-        "48",
-        "52"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776041022218_4_6r3liq",
-      "addedAt": "2026-04-13T00:43:42.218Z"
-    },
-    {
-      "question": "Quel réalisateur a créé le film 'Inception' en 2010 ?",
-      "options": [
-        "Steven Spielberg",
-        "Christopher Nolan",
-        "Quentin Tarantino",
-        "Denis Villeneuve"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1776041022218_5_sifhad",
-      "addedAt": "2026-04-13T00:43:42.218Z"
     }
   ],
   "poolSize": 310
