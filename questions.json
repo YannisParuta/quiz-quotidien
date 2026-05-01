@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur autrichien a écrit la célèbre 'Marche turque' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Franz Schubert"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1777595943866_0_m7zq5w",
+      "addedAt": "2026-05-01T00:39:03.866Z"
+    },
+    {
+      "question": "Quel pays d'Asie du Sud-Est est le plus grand producteur de caoutchouc naturel ?",
+      "options": [
+        "Viêtnam",
+        "Thaïlande",
+        "Indonésie",
+        "Malaisie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1777595943866_1_f4jbjj",
+      "addedAt": "2026-05-01T00:39:03.866Z"
+    },
+    {
+      "question": "Quel gaz est principalement responsable du changement climatique ?",
+      "options": [
+        "L'azote",
+        "Le dioxyde de carbone",
+        "L'oxygène",
+        "L'hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1777595943866_2_w6gzl1",
+      "addedAt": "2026-05-01T00:39:03.866Z"
+    },
+    {
+      "question": "Quel artiste surréaliste espagnol est connu pour ses montres molles ?",
+      "options": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Juan Gris"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1777595943866_3_a4tqmr",
+      "addedAt": "2026-05-01T00:39:03.866Z"
+    },
+    {
+      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Leo Tolstoï",
+        "Fiodor Dostoïevski",
+        "Ivan Tourguéniev",
+        "Alexandre Pouchkine"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1777595943866_4_m8lo3o",
+      "addedAt": "2026-05-01T00:39:03.866Z"
+    },
+    {
+      "question": "Quel phénomène naturel se produit lors d'une éclipse lunaire totale ?",
+      "options": [
+        "La Lune devient rouge",
+        "Le Soleil disparaît",
+        "La Lune se divise",
+        "Les étoiles disparaissent"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1777595943866_5_erpe5p",
+      "addedAt": "2026-05-01T00:39:03.866Z"
+    },
+    {
+      "question": "Quel champion de tennis a remporté le plus de titres du Grand Chelem chez les hommes ?",
+      "options": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Pete Sampras"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1777595943866_6_55o55y",
+      "addedAt": "2026-05-01T00:39:03.866Z"
+    },
+    {
+      "question": "Quel épice provient du fruit d'un orchidée tropicale ?",
+      "options": [
+        "Le safran",
+        "La vanille",
+        "La cannelle",
+        "La muscade"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1777595943866_7_6kqmiy",
+      "addedAt": "2026-05-01T00:39:03.866Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été lancé par Microsoft en 2015 ?",
+      "options": [
+        "Windows 8",
+        "Windows 10",
+        "Windows XP",
+        "Windows Vista"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1777595943866_8_n2us7y",
+      "addedAt": "2026-05-01T00:39:03.866Z"
+    },
+    {
+      "question": "Quel réalisateur a créé le personnage de Dracula dans le cinéma en 1931 ?",
+      "options": [
+        "Tod Browning",
+        "F.W. Murnau",
+        "Carl Theodor Dreyer",
+        "John Landis"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1777595943866_9_6dzzbs",
+      "addedAt": "2026-05-01T00:39:03.866Z"
+    },
+    {
+      "question": "Quel culte religieux pratique l'illumination appelée 'Bodhi' ?",
+      "options": [
+        "L'hindouisme",
+        "Le bouddhisme",
+        "Le taoïsme",
+        "Le shintoïsme"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1777595943866_10_zbzgsa",
+      "addedAt": "2026-05-01T00:39:03.866Z"
+    },
+    {
       "question": "Quel est le plus haut sommet du continent africain ?",
       "options": [
         "Le Mont Kenya",
@@ -3886,7 +4029,12 @@
       "category": "Littérature",
       "id": "q_1776134406923_2_e1f4n9",
       "addedAt": "2026-04-14T02:40:06.923Z"
-    },
+    }
+  ],
+  "version": 169,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-01T00:39:03.867Z",
+  "archivedQuestions": [
     {
       "question": "Combien de cordes possède un violon ?",
       "options": [
@@ -4029,128 +4177,6 @@
       "category": "Cinéma",
       "id": "q_1776128053618_2_2jh7jx",
       "addedAt": "2026-04-14T00:54:13.618Z"
-    }
-  ],
-  "version": 168,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-04-30T03:21:02.033Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus grand pays d'Amérique du Sud en superficie ?",
-      "options": [
-        "La Colombie",
-        "Le Pérou",
-        "Le Brésil",
-        "L'Argentine"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1776128053618_3_6ozr0x",
-      "addedAt": "2026-04-14T00:54:13.618Z"
-    },
-    {
-      "question": "Quel chimiste a découvert le radium ?",
-      "options": [
-        "Marie Curie",
-        "Pierre Curie",
-        "Ernest Rutherford",
-        "Enrico Fermi"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1776128053618_4_fp1csn",
-      "addedAt": "2026-04-14T00:54:13.618Z"
-    },
-    {
-      "question": "Quel instrument de musique a la plus grave tessiture ?",
-      "options": [
-        "La trompette",
-        "Le violoncelle",
-        "La contrebasse",
-        "Le trombone"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1776128053618_5_3jfpjo",
-      "addedAt": "2026-04-14T00:54:13.618Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère du monde ?",
-      "options": [
-        "L'éléphant d'Afrique",
-        "La girafe",
-        "La baleine bleue",
-        "L'hippopotame"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1776128053618_6_t23l22",
-      "addedAt": "2026-04-14T00:54:13.618Z"
-    },
-    {
-      "question": "Quel protocole de sécurité est utilisé pour les connexions Internet sécurisées ?",
-      "options": [
-        "HTTP",
-        "FTP",
-        "HTTPS",
-        "SMTP"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1776128053618_7_4uysjm",
-      "addedAt": "2026-04-14T00:54:13.618Z"
-    },
-    {
-      "question": "Combien de cordes possède une harpe celtique traditionnelle ?",
-      "options": [
-        "18 à 22",
-        "22 à 46",
-        "46 à 60",
-        "60 à 80"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1776048480289_0_8skgu7",
-      "addedAt": "2026-04-13T02:48:00.289Z"
-    },
-    {
-      "question": "Dans quel pays se trouve la barrière de corail la plus grande du monde ?",
-      "options": [
-        "Les Philippines",
-        "L'Indonésie",
-        "L'Australie",
-        "La Polynésie française"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1776048480289_1_m4oy3f",
-      "addedAt": "2026-04-13T02:48:00.289Z"
-    },
-    {
-      "question": "Quel animal terrestre possède le cœur le plus gros par rapport à sa taille ?",
-      "options": [
-        "L'éléphant",
-        "La baleine bleue",
-        "La girafe",
-        "L'hippopotame"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1776048480289_2_xfxqaf",
-      "addedAt": "2026-04-13T02:48:00.289Z"
-    },
-    {
-      "question": "Combien de temps met la lumière du Soleil pour atteindre la Terre ?",
-      "options": [
-        "Environ 5 minutes",
-        "Environ 8 minutes",
-        "Environ 12 minutes",
-        "Environ 15 minutes"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776048480289_3_l4q35i",
-      "addedAt": "2026-04-13T02:48:00.289Z"
     }
   ],
   "poolSize": 310
