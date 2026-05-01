@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel artiste impressionniste a peint 'Les Nymphéas' ?",
+      "options": [
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1777606261279_0_did23h",
+      "addedAt": "2026-05-01T03:31:01.279Z"
+    },
+    {
+      "question": "En quel sport l'équipe remporte-t-elle la Coupe Stanley ?",
+      "options": [
+        "Baseball",
+        "Basketball",
+        "Hockey sur glace",
+        "American Football"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1777606261279_1_88pa5b",
+      "addedAt": "2026-05-01T03:31:01.279Z"
+    },
+    {
+      "question": "Combien de cordes a une guitare classique ?",
+      "options": [
+        "4",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1777606261279_2_zwrrt6",
+      "addedAt": "2026-05-01T03:31:01.279Z"
+    },
+    {
+      "question": "Quel pays a inventé les pâtes alimentaires selon la tradition historique ?",
+      "options": [
+        "La Chine",
+        "L'Italie",
+        "La Grèce",
+        "La France"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1777606261279_3_lkkw0s",
+      "addedAt": "2026-05-01T03:31:01.279Z"
+    },
+    {
+      "question": "Quel physicien a découvert la radioactivité ?",
+      "options": [
+        "Marie Curie",
+        "Albert Einstein",
+        "Henry Becquerel",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1777606261279_4_yjpsw3",
+      "addedAt": "2026-05-01T03:31:01.279Z"
+    },
+    {
+      "question": "En quel siècle la Grande Muraille de Chine a-t-elle été construite pour la première fois ?",
+      "options": [
+        "7e siècle av. J.-C.",
+        "3e siècle av. J.-C.",
+        "1er siècle av. J.-C.",
+        "2e siècle ap. J.-C."
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1777606261279_5_9i6mf0",
+      "addedAt": "2026-05-01T03:31:01.279Z"
+    },
+    {
+      "question": "Quel réalisateur français a dirigé le film 'Les Quatre Cents Coups' ?",
+      "options": [
+        "Jean-Luc Godard",
+        "François Truffaut",
+        "Claude Chabrol",
+        "Jacques Rivette"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1777606261279_6_9gvqo1",
+      "addedAt": "2026-05-01T03:31:01.279Z"
+    },
+    {
+      "question": "Quel est le plus grand prédateur du règne animal actuel ?",
+      "options": [
+        "Tigre du Bengale",
+        "Requin blanc",
+        "Lion",
+        "Ours polaire"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1777606261279_7_x39mw6",
+      "addedAt": "2026-05-01T03:31:01.279Z"
+    },
+    {
+      "question": "Quel programmeur informatique a créé le World Wide Web (WWW) ?",
+      "options": [
+        "Bill Gates",
+        "Steve Jobs",
+        "Tim Berners-Lee",
+        "Linus Torvalds"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1777606261279_8_byhaud",
+      "addedAt": "2026-05-01T03:31:01.279Z"
+    },
+    {
+      "question": "Quel nombre représente l'infini en mathématiques symboliquement ?",
+      "options": [
+        "∞",
+        "π",
+        "φ",
+        "Ω"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1777606261279_9_b2ebjc",
+      "addedAt": "2026-05-01T03:31:01.279Z"
+    },
+    {
       "question": "Quel compositeur autrichien a écrit la célèbre 'Marche turque' ?",
       "options": [
         "Wolfgang Amadeus Mozart",
@@ -3899,7 +4029,12 @@
       "category": "Technologie",
       "id": "q_1776211335840_1_czjs6k",
       "addedAt": "2026-04-15T00:02:15.840Z"
-    },
+    }
+  ],
+  "version": 170,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-01T03:31:01.280Z",
+  "archivedQuestions": [
     {
       "question": "Quel pays a accueilli la première Coupe du Monde de football ?",
       "options": [
@@ -4029,154 +4164,6 @@
       "category": "Littérature",
       "id": "q_1776134406923_2_e1f4n9",
       "addedAt": "2026-04-14T02:40:06.923Z"
-    }
-  ],
-  "version": 169,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-01T00:39:03.867Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de cordes possède un violon ?",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1776134406923_3_89b5hl",
-      "addedAt": "2026-04-14T02:40:06.923Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
-      "options": [
-        "XIIIe siècle",
-        "XIVe siècle",
-        "XVe siècle",
-        "XVIe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1776134406923_4_dai28u",
-      "addedAt": "2026-04-14T02:40:06.923Z"
-    },
-    {
-      "question": "Quel mathématicien grec a découvert le théorème des triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Archimède",
-        "Pythagore",
-        "Thalès"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1776134406923_5_0rbt80",
-      "addedAt": "2026-04-14T02:40:06.923Z"
-    },
-    {
-      "question": "Quel film de science-fiction réalisé par James Cameron est sorti en 1997 ?",
-      "options": [
-        "Avatar",
-        "Titanic",
-        "Terminator 2",
-        "Aliens"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1776134406923_6_xdhhse",
-      "addedAt": "2026-04-14T02:40:06.923Z"
-    },
-    {
-      "question": "Quel élément chimique a le symbole 'Au' sur le tableau périodique ?",
-      "options": [
-        "Argent",
-        "Or",
-        "Aluminium",
-        "Arsenic"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776134406923_7_k96i5o",
-      "addedAt": "2026-04-14T02:40:06.923Z"
-    },
-    {
-      "question": "Quel espèce de pingouin est la plus grande ?",
-      "options": [
-        "Pingouin royal",
-        "Pingouin empereur",
-        "Pingouin Adelie",
-        "Pingouin Macaroni"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1776134406923_8_pdlxlt",
-      "addedAt": "2026-04-14T02:40:06.923Z"
-    },
-    {
-      "question": "Qui a remporté le tournoi de Wimbledon en tennis en 2023 ?",
-      "options": [
-        "Novak Djokovic",
-        "Carlos Alcaraz",
-        "Roger Federer",
-        "Andy Murray"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1776134406923_9_q2vgp9",
-      "addedAt": "2026-04-14T02:40:06.923Z"
-    },
-    {
-      "question": "Quel peintre néerlandais s'est coupé une partie de l'oreille ?",
-      "options": [
-        "Rembrandt",
-        "Vincent van Gogh",
-        "Johannes Vermeer",
-        "Pieter Bruegel"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1776134406923_10_n0v9pt",
-      "addedAt": "2026-04-14T02:40:06.923Z"
-    },
-    {
-      "question": "Combien de livres composent la série 'Harry Potter' ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1776128053618_0_sqxhaw",
-      "addedAt": "2026-04-14T00:54:13.618Z"
-    },
-    {
-      "question": "Quel aliment est la source principale de fer pour les végétariens ?",
-      "options": [
-        "Le fromage",
-        "Les épinards",
-        "Le lait",
-        "L'huile d'olive"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1776128053618_1_y0i0ul",
-      "addedAt": "2026-04-14T00:54:13.618Z"
-    },
-    {
-      "question": "Quel réalisateur a créé le personnage de King Kong en 1933 ?",
-      "options": [
-        "Alfred Hitchcock",
-        "Orson Welles",
-        "Merian C. Cooper",
-        "Fritz Lang"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1776128053618_2_2jh7jx",
-      "addedAt": "2026-04-14T00:54:13.618Z"
     }
   ],
   "poolSize": 310
