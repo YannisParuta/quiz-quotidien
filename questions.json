@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel peintre impressionniste français a coupé une partie de son oreille ?",
+      "options": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Vincent van Gogh",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1777690054036_0_cjdggn",
+      "addedAt": "2026-05-02T02:47:34.036Z"
+    },
+    {
+      "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Olympiques d'été 2020 ?",
+      "options": [
+        "Chine",
+        "Japon",
+        "États-Unis",
+        "Royaume-Uni"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1777690054036_1_vp1tyy",
+      "addedAt": "2026-05-02T02:47:34.036Z"
+    },
+    {
+      "question": "Quel auteur français a écrit 'Le Comte de Monte-Cristo' ?",
+      "options": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1777690054036_2_vza34o",
+      "addedAt": "2026-05-02T02:47:34.036Z"
+    },
+    {
+      "question": "Quel animal peut changer de couleur pour se camoufler ?",
+      "options": [
+        "Lézard vert",
+        "Caméléon",
+        "Grenouille verte",
+        "Serpent vert"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1777690054036_3_hjx8ss",
+      "addedAt": "2026-05-02T02:47:34.036Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit 'Eine kleine Nachtmusik' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert",
+        "Joseph Haydn"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1777690054036_4_abawwu",
+      "addedAt": "2026-05-02T02:47:34.036Z"
+    },
+    {
+      "question": "Quel réalisateur britannique a créé la saga 'Harry Potter' au cinéma ?",
+      "options": [
+        "David Yates",
+        "Chris Columbus",
+        "Alfonso Cuarón",
+        "Plusieurs réalisateurs"
+      ],
+      "correctAnswer": 3,
+      "category": "Cinéma",
+      "id": "q_1777690054036_5_mv2ptw",
+      "addedAt": "2026-05-02T02:47:34.036Z"
+    },
+    {
+      "question": "Quel langage de programmation est principalement utilisé pour le développement web côté serveur ?",
+      "options": [
+        "JavaScript",
+        "Python",
+        "PHP",
+        "C++"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1777690054036_6_ix4zxb",
+      "addedAt": "2026-05-02T02:47:34.036Z"
+    },
+    {
+      "question": "Quel type de fromage est originaire de Hollande et est recouvert de cire rouge ?",
+      "options": [
+        "Gouda",
+        "Camembert",
+        "Emmental",
+        "Cheddar"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1777690054036_7_7u3u6f",
+      "addedAt": "2026-05-02T02:47:34.036Z"
+    },
+    {
+      "question": "Quel fleuve passe par quatre pays européens dont l'Autriche et la Roumanie ?",
+      "options": [
+        "Rhin",
+        "Danube",
+        "Volga",
+        "Elbe"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1777690054036_8_7muro2",
+      "addedAt": "2026-05-02T02:47:34.036Z"
+    },
+    {
+      "question": "Quel événement historique a marqué la fin de la Première Guerre mondiale ?",
+      "options": [
+        "Traité de Versailles",
+        "Armistice du 11 novembre 1918",
+        "Conférence de Yalta",
+        "Traité de Brest-Litovsk"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1777690054036_9_4uolkf",
+      "addedAt": "2026-05-02T02:47:34.036Z"
+    },
+    {
       "question": "Quel océan est le plus vaste du monde ?",
       "options": [
         "Océan Atlantique",
@@ -3899,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1776307544604_4_jl2cxy",
       "addedAt": "2026-04-16T02:45:44.604Z"
-    },
+    }
+  ],
+  "version": 172,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-02T02:47:34.036Z",
+  "archivedQuestions": [
     {
       "question": "Quel pays a gagné la Coupe du Monde de football en 2022 ?",
       "options": [
@@ -4029,141 +4164,6 @@
       "category": "Technologie",
       "id": "q_1776298766406_6_qgiwb0",
       "addedAt": "2026-04-16T00:19:26.406Z"
-    }
-  ],
-  "version": 171,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-02T00:40:27.110Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le point le plus profond des océans ?",
-      "options": [
-        "Fosse des Mariannes",
-        "Fosse de Tonga",
-        "Fosse de Kouriles",
-        "Fosse de Java"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1776298766406_7_sgzrta",
-      "addedAt": "2026-04-16T00:19:26.406Z"
-    },
-    {
-      "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
-      "options": [
-        "Traité de Versailles",
-        "Traité de Trianon",
-        "Traité de Brest-Litovsk",
-        "Traité de Paris"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1776298766406_8_dw3o89",
-      "addedAt": "2026-04-16T00:19:26.406Z"
-    },
-    {
-      "question": "Quel type de cellule du système immunitaire produit les anticorps ?",
-      "options": [
-        "Lymphocytes T",
-        "Lymphocytes B",
-        "Macrophages",
-        "Neutrophiles"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776298766406_9_j0ialo",
-      "addedAt": "2026-04-16T00:19:26.406Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Europe ?",
-      "options": [
-        "Le Danube",
-        "Le Rhin",
-        "La Volga",
-        "L'Elbe"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1776220672898_0_vw2f7l",
-      "addedAt": "2026-04-15T02:37:52.898Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre actuellement vivant ?",
-      "options": [
-        "La girafe",
-        "L'hippopotame",
-        "Le rhinocéros",
-        "L'éléphant"
-      ],
-      "correctAnswer": 3,
-      "category": "Nature",
-      "id": "q_1776220672898_1_e6v0ni",
-      "addedAt": "2026-04-15T02:37:52.898Z"
-    },
-    {
-      "question": "Quel mathématicien grec a énoncé le théorème du triangle rectangle ?",
-      "options": [
-        "Archimède",
-        "Pythagore",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1776220672898_2_whd9ko",
-      "addedAt": "2026-04-15T02:37:52.898Z"
-    },
-    {
-      "question": "Quel fruit contient le plus de vitamine C ?",
-      "options": [
-        "L'orange",
-        "La goyave",
-        "Le citron",
-        "Le kiwi"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1776220672898_3_fevno4",
-      "addedAt": "2026-04-15T02:37:52.898Z"
-    },
-    {
-      "question": "En quelle année le premier ordinateur personnel Apple a-t-il été lancé ?",
-      "options": [
-        "1974",
-        "1976",
-        "1978",
-        "1980"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1776220672898_4_j3e6e5",
-      "addedAt": "2026-04-15T02:37:52.898Z"
-    },
-    {
-      "question": "Quel romancier français a écrit 'Le Comte de Monte-Cristo' ?",
-      "options": [
-        "Honoré de Balzac",
-        "Alexandre Dumas",
-        "Gustave Flaubert",
-        "Émile Zola"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1776211335840_0_4d17k1",
-      "addedAt": "2026-04-15T00:02:15.840Z"
-    },
-    {
-      "question": "En quel métal les pièces de monnaie de l'euro sont-elles principalement frappées ?",
-      "options": [
-        "Acier inoxydable",
-        "Cuivre et nickel",
-        "Aluminium",
-        "Titanium"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1776211335840_1_czjs6k",
-      "addedAt": "2026-04-15T00:02:15.840Z"
     }
   ],
   "poolSize": 310
