@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "Quel peintre a créé la série des 'Nymphéas' ?",
+      "options": [
+        "Van Gogh",
+        "Claude Monet",
+        "Picasso",
+        "Dalí"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1777768143473_0_jqkssr",
+      "addedAt": "2026-05-03T00:29:03.473Z"
+    },
+    {
+      "question": "Quel animal terrestre est le plus rapide ?",
+      "options": [
+        "L'antilope",
+        "Le guépard",
+        "Le cheval",
+        "L'autruche"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1777768143473_1_gnfk5l",
+      "addedAt": "2026-05-03T00:29:03.473Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1777768143473_2_zxkf1q",
+      "addedAt": "2026-05-03T00:29:03.473Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la franchise 'Matrix' ?",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Les Wachowski",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1777768143473_3_6iu576",
+      "addedAt": "2026-05-03T00:29:03.473Z"
+    },
+    {
+      "question": "En quelle année la construction de la Tour Eiffel s'est-elle achevée ?",
+      "options": [
+        "1887",
+        "1889",
+        "1891",
+        "1893"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1777768143473_4_vajgwp",
+      "addedAt": "2026-05-03T00:29:03.473Z"
+    },
+    {
+      "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1777768143473_5_nbcsz5",
+      "addedAt": "2026-05-03T00:29:03.473Z"
+    },
+    {
+      "question": "Combien de continents y a-t-il sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1777768143473_6_pt1yzh",
+      "addedAt": "2026-05-03T00:29:03.473Z"
+    },
+    {
       "question": "Quel peintre impressionniste français a coupé une partie de son oreille ?",
       "options": [
         "Claude Monet",
@@ -3938,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1776384087731_7_pb1od9",
       "addedAt": "2026-04-17T00:01:27.731Z"
-    },
+    }
+  ],
+  "version": 173,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-03T00:29:03.473Z",
+  "archivedQuestions": [
     {
       "question": "Quel système d'exploitation a été créé par Linus Torvalds ?",
       "options": [
@@ -4029,141 +4125,6 @@
       "category": "Musique",
       "id": "q_1776307544604_4_jl2cxy",
       "addedAt": "2026-04-16T02:45:44.604Z"
-    }
-  ],
-  "version": 172,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-02T02:47:34.036Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel pays a gagné la Coupe du Monde de football en 2022 ?",
-      "options": [
-        "France",
-        "Argentine",
-        "Brésil",
-        "Espagne"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1776307544604_5_v0si8m",
-      "addedAt": "2026-04-16T02:45:44.604Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère marin du monde ?",
-      "options": [
-        "Requin blanc",
-        "Baleine bleue",
-        "Orque",
-        "Dauphin"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1776307544604_6_duneqe",
-      "addedAt": "2026-04-16T02:45:44.604Z"
-    },
-    {
-      "question": "Quel fruit tropical contient une enzyme digestive appelée bromélaïne ?",
-      "options": [
-        "Banane",
-        "Mangue",
-        "Ananas",
-        "Papaye"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1776307544604_7_355ebq",
-      "addedAt": "2026-04-16T02:45:44.604Z"
-    },
-    {
-      "question": "Quel sport est associé au Grand Chelem ?",
-      "options": [
-        "Golf",
-        "Cricket",
-        "Tennis",
-        "Rugby"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1776298766406_0_veqmzo",
-      "addedAt": "2026-04-16T00:19:26.406Z"
-    },
-    {
-      "question": "Quel est l'auteur de 'Orgueil et Préjugés' ?",
-      "options": [
-        "Jane Austen",
-        "Charlotte Brontë",
-        "Emily Dickinson",
-        "George Eliot"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1776298766406_1_sdtpeq",
-      "addedAt": "2026-04-16T00:19:26.406Z"
-    },
-    {
-      "question": "Combien d'espèces différentes de manchots existent environ ?",
-      "options": [
-        "8",
-        "12",
-        "18",
-        "25"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1776298766406_2_kbzuvt",
-      "addedAt": "2026-04-16T00:19:26.406Z"
-    },
-    {
-      "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles ?",
-      "options": [
-        "Archimède",
-        "Pythagore",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1776298766406_3_p5xttl",
-      "addedAt": "2026-04-16T00:19:26.406Z"
-    },
-    {
-      "question": "Quel musicien cubain a popularisé la musique salsa internationale ?",
-      "options": [
-        "Tito Puente",
-        "Celia Cruz",
-        "Compay Segundo",
-        "Pérez Prado"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1776298766406_4_u10ac0",
-      "addedAt": "2026-04-16T00:19:26.406Z"
-    },
-    {
-      "question": "D'où provient originellement la pizza ?",
-      "options": [
-        "Grèce",
-        "Italie",
-        "Turquie",
-        "Espagne"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1776298766406_5_pd01xa",
-      "addedAt": "2026-04-16T00:19:26.406Z"
-    },
-    {
-      "question": "Quel langage informatique a été créé en 1995 par Brendan Eich ?",
-      "options": [
-        "Java",
-        "JavaScript",
-        "C++",
-        "Ruby"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1776298766406_6_qgiwb0",
-      "addedAt": "2026-04-16T00:19:26.406Z"
     }
   ],
   "poolSize": 310
