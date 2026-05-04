@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur allemand a écrit la 'Symphonie du Nouveau Monde' ?",
+      "options": [
+        "Wagner",
+        "Brahms",
+        "Dvořák",
+        "Mahler"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1777863442257_0_r44nk6",
+      "addedAt": "2026-05-04T02:57:22.257Z"
+    },
+    {
+      "question": "En quel pays se trouve le monument de Angkor Vat ?",
+      "options": [
+        "Thaïlande",
+        "Cambodge",
+        "Laos",
+        "Vietnam"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1777863442257_1_m0ij8e",
+      "addedAt": "2026-05-04T02:57:22.257Z"
+    },
+    {
+      "question": "En quel année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1965",
+        "1969",
+        "1971",
+        "1973"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1777863442257_2_skyls2",
+      "addedAt": "2026-05-04T02:57:22.257Z"
+    },
+    {
+      "question": "Quel peintre impressionniste français est connu pour ses séries de nénuphars ?",
+      "options": [
+        "Cézanne",
+        "Monet",
+        "Renoir",
+        "Degas"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1777863442257_3_itfdkt",
+      "addedAt": "2026-05-04T02:57:22.257Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet du monde ?",
+      "options": [
+        "K2",
+        "Mont Everest",
+        "Kilimanjaro",
+        "Mont Blanc"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1777863442257_4_fcwxn0",
+      "addedAt": "2026-05-04T02:57:22.257Z"
+    },
+    {
+      "question": "Quel scientifique a découvert la radioactivité ?",
+      "options": [
+        "Albert Einstein",
+        "Marie Curie",
+        "Ernest Rutherford",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1777863442257_5_8bqzbf",
+      "addedAt": "2026-05-04T02:57:22.257Z"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on des raquettes et un filet ?",
+      "options": [
+        "Badminton",
+        "Tennis",
+        "Volleyball",
+        "Squash"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1777863442257_6_82x2bw",
+      "addedAt": "2026-05-04T02:57:22.257Z"
+    },
+    {
+      "question": "Quel plat italien est fait à base de riz arborio et de bouillon ?",
+      "options": [
+        "Pasta",
+        "Risotto",
+        "Polenta",
+        "Gnocchi"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1777863442257_7_r65mcn",
+      "addedAt": "2026-05-04T02:57:22.257Z"
+    },
+    {
+      "question": "Quel est le langage de balisage standard utilisé pour créer des pages web ?",
+      "options": [
+        "Python",
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1777863442257_8_hft9sn",
+      "addedAt": "2026-05-04T02:57:22.257Z"
+    },
+    {
+      "question": "Quel animal aquatique est le plus rapide du monde ?",
+      "options": [
+        "Requin blanc",
+        "Dauphin",
+        "Faucon pèlerin",
+        "Espadon"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1777863442257_9_27oglx",
+      "addedAt": "2026-05-04T02:57:22.257Z"
+    },
+    {
+      "question": "En quelle année la Première Guerre mondiale s'est-elle terminée ?",
+      "options": [
+        "1916",
+        "1917",
+        "1918",
+        "1919"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1777863442257_10_iwog5r",
+      "addedAt": "2026-05-04T02:57:22.257Z"
+    },
+    {
       "question": "Quel peintre a coupé une partie de son oreille ?",
       "options": [
         "Pablo Picasso",
@@ -3886,7 +4029,12 @@
       "category": "Littérature",
       "id": "q_1776479507952_0_hnicmr",
       "addedAt": "2026-04-18T02:31:47.952Z"
-    },
+    }
+  ],
+  "version": 176,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-04T02:57:22.258Z",
+  "archivedQuestions": [
     {
       "question": "Qui a inventé l'ampoule électrique pratique ?",
       "options": [
@@ -4029,115 +4177,6 @@
       "category": "Art",
       "id": "q_1776472502983_4_1t5d8i",
       "addedAt": "2026-04-18T00:35:02.983Z"
-    }
-  ],
-  "version": 175,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-04T00:47:42.695Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel type de mammifère pond des œufs ?",
-      "options": [
-        "L'ornithorynque",
-        "Le kangourou",
-        "Le koala",
-        "Le dauphin"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1776472502983_5_xmf362",
-      "addedAt": "2026-04-18T00:35:02.983Z"
-    },
-    {
-      "question": "En quelle année Facebook a-t-il été fondé ?",
-      "options": [
-        "2002",
-        "2004",
-        "2006",
-        "2008"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1776472502983_6_78zpv1",
-      "addedAt": "2026-04-18T00:35:02.983Z"
-    },
-    {
-      "question": "Quel type de nuage ressemble à du coton et indique généralement un beau temps ?",
-      "options": [
-        "Cumulus",
-        "Stratus",
-        "Cirrus",
-        "Nimbus"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1776472502983_7_6c49u3",
-      "addedAt": "2026-04-18T00:35:02.983Z"
-    },
-    {
-      "question": "Combien de livres composent la série 'Harry Potter' de J.K. Rowling ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1776393627142_0_zt1x9d",
-      "addedAt": "2026-04-17T02:40:27.142Z"
-    },
-    {
-      "question": "Quel mathématicien a développé la théorie de la relativité générale ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Stephen Hawking",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776393627142_1_hrvsi7",
-      "addedAt": "2026-04-17T02:40:27.142Z"
-    },
-    {
-      "question": "Quel sport olympique combine la natation, le cyclisme et la course à pied ?",
-      "options": [
-        "Le pentathlon moderne",
-        "Le triathlon",
-        "Le décathlon",
-        "L'heptathlon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1776393627142_2_qyoyc7",
-      "addedAt": "2026-04-17T02:40:27.142Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en enzyme 'bromélaïne' qui aide la digestion ?",
-      "options": [
-        "La papaye",
-        "L'ananas",
-        "La mangue",
-        "La goyave"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1776393627142_3_ypos5b",
-      "addedAt": "2026-04-17T02:40:27.142Z"
-    },
-    {
-      "question": "Quel musicien baroque allemand a écrit plus de 1000 compositions ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Johann Sebastian Bach",
-        "Georg Friedrich Haendel",
-        "Antonio Vivaldi"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1776393627142_4_b8tjqr",
-      "addedAt": "2026-04-17T02:40:27.142Z"
     }
   ],
   "poolSize": 310
