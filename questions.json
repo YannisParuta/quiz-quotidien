@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Quel peintre a coupé une partie de son oreille ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Salvador Dalí",
+        "Frida Kahlo"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1777855662694_0_hoe07l",
+      "addedAt": "2026-05-04T00:47:42.694Z"
+    },
+    {
+      "question": "Quel compositeur a écrit la symphonie 'Héroïque' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Georges Fridéric Haendel",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1777855662694_1_yphh5m",
+      "addedAt": "2026-05-04T00:47:42.694Z"
+    },
+    {
+      "question": "Dans quel pays se situe la Statue de la Liberté ?",
+      "options": [
+        "La France",
+        "Les États-Unis",
+        "L'Italie",
+        "La Belgique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1777855662694_2_3h3crm",
+      "addedAt": "2026-05-04T00:47:42.694Z"
+    },
+    {
+      "question": "Quel auteur a écrit '1984', un roman dystopique ?",
+      "options": [
+        "Aldous Huxley",
+        "Margaret Atwood",
+        "George Orwell",
+        "Ray Bradbury"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1777855662694_3_gv04le",
+      "addedAt": "2026-05-04T00:47:42.694Z"
+    },
+    {
+      "question": "Quel type de molécule est responsable de la transmission des gènes ?",
+      "options": [
+        "L'ARN",
+        "L'ADN",
+        "Les protéines",
+        "Les lipides"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1777855662694_4_vdpens",
+      "addedAt": "2026-05-04T00:47:42.694Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique traditionnelle ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1777855662694_5_y82vfr",
+      "addedAt": "2026-05-04T00:47:42.694Z"
+    },
+    {
+      "question": "Quel réseau social a été fondé en 2010 avec l'application mobile Instagram ?",
+      "options": [
+        "Snapchat",
+        "TikTok",
+        "Instagram",
+        "Pinterest"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1777855662694_6_0e2fed",
+      "addedAt": "2026-05-04T00:47:42.694Z"
+    },
+    {
+      "question": "Quel type de cuisine est caractérisé par l'utilisation intensive de fruits de mer et de riz ?",
+      "options": [
+        "La cuisine thaïlandaise",
+        "La cuisine japonaise",
+        "La cuisine coréenne",
+        "La cuisine vietnamienne"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1777855662694_7_fbr5fr",
+      "addedAt": "2026-05-04T00:47:42.694Z"
+    },
+    {
       "question": "Quel peintre cubiste espagnol a créé 'Guernica' ?",
       "options": [
         "Salvador Dalí",
@@ -3925,7 +4029,12 @@
       "category": "Art",
       "id": "q_1776472502983_4_1t5d8i",
       "addedAt": "2026-04-18T00:35:02.983Z"
-    },
+    }
+  ],
+  "version": 175,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-04T00:47:42.695Z",
+  "archivedQuestions": [
     {
       "question": "Quel type de mammifère pond des œufs ?",
       "options": [
@@ -4029,128 +4138,6 @@
       "category": "Musique",
       "id": "q_1776393627142_4_b8tjqr",
       "addedAt": "2026-04-17T02:40:27.142Z"
-    }
-  ],
-  "version": 174,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-03T03:22:16.154Z",
-  "archivedQuestions": [
-    {
-      "question": "En informatique, quel est le système d'exploitation développé par Apple pour ses ordinateurs ?",
-      "options": [
-        "Windows",
-        "Linux",
-        "macOS",
-        "Unix"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1776393627142_5_vioi2b",
-      "addedAt": "2026-04-17T02:40:27.142Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle débuté ?",
-      "options": [
-        "1785",
-        "1789",
-        "1792",
-        "1799"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1776384087731_0_2i45h9",
-      "addedAt": "2026-04-17T00:01:27.731Z"
-    },
-    {
-      "question": "Quel pays est le plus grand producteur de cacao au monde ?",
-      "options": [
-        "L'Équateur",
-        "La Côte d'Ivoire",
-        "Le Ghana",
-        "Le Cameroun"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1776384087731_1_2jezxp",
-      "addedAt": "2026-04-17T00:01:27.731Z"
-    },
-    {
-      "question": "Quel mathématicien a énoncé le théorème de Pythagore ?",
-      "options": [
-        "Archimède",
-        "Euclide",
-        "Pythagore",
-        "Thalès"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1776384087731_2_5rn0cf",
-      "addedAt": "2026-04-17T00:01:27.731Z"
-    },
-    {
-      "question": "Quel artiste contemporain est connu pour ses sculptures d'araignées géantes ?",
-      "options": [
-        "Banksy",
-        "Louise Bourgeois",
-        "Koons Jeff",
-        "Christo"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1776384087731_3_5wb4jw",
-      "addedAt": "2026-04-17T00:01:27.731Z"
-    },
-    {
-      "question": "Quel îlot rocheux britannique est réputé pour ses falaises blanches ?",
-      "options": [
-        "L'île de Man",
-        "Les Îles Anglo-Normandes",
-        "Douvres",
-        "L'île de Wight"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1776384087731_4_zo5yhy",
-      "addedAt": "2026-04-17T00:01:27.731Z"
-    },
-    {
-      "question": "Quel écrivain belge a créé le détective Hercule Poirot ?",
-      "options": [
-        "Georges Simenon",
-        "Agatha Christie",
-        "Maurice Leblanc",
-        "Arthur Conan Doyle"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1776384087731_5_z1mjsg",
-      "addedAt": "2026-04-17T00:01:27.731Z"
-    },
-    {
-      "question": "Quel oiseau est capable de voler à reculons ?",
-      "options": [
-        "Le pigeon",
-        "Le colibri",
-        "Le perroquet",
-        "Le martinet"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1776384087731_6_4at2b1",
-      "addedAt": "2026-04-17T00:01:27.731Z"
-    },
-    {
-      "question": "Quel dispositif permettait aux anciens Grecs de calculer les mouvements célestes ?",
-      "options": [
-        "L'astrolabe",
-        "Le mécanisme d'Anticythère",
-        "L'arillaire",
-        "Le cadran solaire"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1776384087731_7_pb1od9",
-      "addedAt": "2026-04-17T00:01:27.731Z"
     }
   ],
   "poolSize": 310
