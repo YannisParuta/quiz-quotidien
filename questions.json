@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "En quel pays se trouve la Grande Barrière de corail ?",
+      "options": [
+        "Indonésie",
+        "Australie",
+        "Philippines",
+        "Fidji"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1777939235926_0_gf0z4n",
+      "addedAt": "2026-05-05T00:00:35.926Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit 'La Marche de Radetzky' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Johann Strauss Sr.",
+        "Franz Joseph Haydn",
+        "Ludwig van Beethoven"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1777939235926_1_eh3cjj",
+      "addedAt": "2026-05-05T00:00:35.926Z"
+    },
+    {
+      "question": "Quel écrivain russe a écrit 'Guerre et Paix' ?",
+      "options": [
+        "Fiodor Dostoïevski",
+        "Léon Tolstoï",
+        "Ivan Tourgueniev",
+        "Nikolaï Gogol"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1777939235926_2_rrermu",
+      "addedAt": "2026-05-05T00:00:35.926Z"
+    },
+    {
+      "question": "Quel sport olympique se pratique sur une piste de 400 mètres ?",
+      "options": [
+        "L'athlétisme",
+        "La natation",
+        "Le cyclisme sur piste",
+        "L'aviron"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1777939235926_3_o0sahm",
+      "addedAt": "2026-05-05T00:00:35.926Z"
+    },
+    {
+      "question": "Quel fruit tropical est la source principale du chocolat ?",
+      "options": [
+        "La noix de coco",
+        "La cacao",
+        "La banane",
+        "La mangue"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1777939235926_4_vl4xp3",
+      "addedAt": "2026-05-05T00:00:35.926Z"
+    },
+    {
+      "question": "Quel langage de programmation est dominé par la 'syntaxe à base d'indentation' ?",
+      "options": [
+        "JavaScript",
+        "C++",
+        "Python",
+        "Java"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1777939235926_5_km0klf",
+      "addedAt": "2026-05-05T00:00:35.926Z"
+    },
+    {
+      "question": "Quel animal ne peut pas saliver ?",
+      "options": [
+        "La girafe",
+        "Le chameau",
+        "Le crocodile",
+        "L'ours"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1777939235926_6_l2jrrv",
+      "addedAt": "2026-05-05T00:00:35.926Z"
+    },
+    {
       "question": "Quel compositeur allemand a écrit la 'Symphonie du Nouveau Monde' ?",
       "options": [
         "Wagner",
@@ -3938,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1776557435144_10_n29sal",
       "addedAt": "2026-04-19T00:10:35.144Z"
-    },
+    }
+  ],
+  "version": 177,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-05T00:00:35.927Z",
+  "archivedQuestions": [
     {
       "question": "Quel mathématicien grec a énoncé le célèbre théorème sur les triangles rectangles ?",
       "options": [
@@ -4029,154 +4125,6 @@
       "category": "Littérature",
       "id": "q_1776479507952_0_hnicmr",
       "addedAt": "2026-04-18T02:31:47.952Z"
-    }
-  ],
-  "version": 176,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-04T02:57:22.258Z",
-  "archivedQuestions": [
-    {
-      "question": "Qui a inventé l'ampoule électrique pratique ?",
-      "options": [
-        "Nikola Tesla",
-        "Thomas Edison",
-        "Joseph Swan",
-        "Humphry Davy"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1776479507952_1_s1jls3",
-      "addedAt": "2026-04-18T02:31:47.952Z"
-    },
-    {
-      "question": "Quel type de fromage est traditionnellement utilisé dans une Pizza Hawaiienne ?",
-      "options": [
-        "Mozzarella",
-        "Cheddar",
-        "Parmesan",
-        "Camembert"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1776479507952_2_d8phe9",
-      "addedAt": "2026-04-18T02:31:47.952Z"
-    },
-    {
-      "question": "Combien d'os possède le squelette humain adulte ?",
-      "options": [
-        "186",
-        "206",
-        "226",
-        "246"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776479507952_3_5iz0lb",
-      "addedAt": "2026-04-18T02:31:47.952Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle éclaté ?",
-      "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1776479507952_4_obkt0v",
-      "addedAt": "2026-04-18T02:31:47.952Z"
-    },
-    {
-      "question": "Quel mammifère marin peut retenir sa respiration le plus longtemps ?",
-      "options": [
-        "La baleine bleue",
-        "Le dauphin",
-        "La baleine à bec de Cuvier",
-        "L'otarie"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1776479507952_5_fjzbx4",
-      "addedAt": "2026-04-18T02:31:47.952Z"
-    },
-    {
-      "question": "Si un triangle a un angle de 90 degrés, comment s'appelle-t-il ?",
-      "options": [
-        "Triangle isocèle",
-        "Triangle équilatéral",
-        "Triangle rectangle",
-        "Triangle obtus"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1776479507952_6_bmqb6m",
-      "addedAt": "2026-04-18T02:31:47.952Z"
-    },
-    {
-      "question": "Quel mathématicien a formulé le théorème de Pythagore ?",
-      "options": [
-        "Archimède",
-        "Pythagore",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1776472502983_0_loy6fb",
-      "addedAt": "2026-04-18T00:35:02.983Z"
-    },
-    {
-      "question": "Quel fruit tropical est connu pour sa très haute teneur en vitamine C ?",
-      "options": [
-        "La papaye",
-        "La mangue",
-        "Le kiwi",
-        "L'ananas"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1776472502983_1_ahwg9m",
-      "addedAt": "2026-04-18T00:35:02.983Z"
-    },
-    {
-      "question": "Quel élément chimique est représenté par le symbole 'Au' ?",
-      "options": [
-        "L'argent",
-        "L'or",
-        "L'aluminium",
-        "L'antimoine"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776472502983_2_qaj4nk",
-      "addedAt": "2026-04-18T00:35:02.983Z"
-    },
-    {
-      "question": "Combien de joueurs une équipe de cricket doit-elle avoir sur le terrain ?",
-      "options": [
-        "9",
-        "10",
-        "11",
-        "12"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1776472502983_3_oxv8ot",
-      "addedAt": "2026-04-18T00:35:02.983Z"
-    },
-    {
-      "question": "Quel sculpteur a créé la statue du 'David' ?",
-      "options": [
-        "Léonard de Vinci",
-        "Raphaël",
-        "Michel-Ange",
-        "Donatello"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1776472502983_4_1t5d8i",
-      "addedAt": "2026-04-18T00:35:02.983Z"
     }
   ],
   "poolSize": 310
