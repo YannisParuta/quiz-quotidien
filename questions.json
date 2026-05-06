@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel gaz est produit par les plantes lors de la photosynthèse ?",
+      "options": [
+        "Dioxyde de carbone",
+        "Oxygène",
+        "Azote",
+        "Hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778026501357_0_pqq52s",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
+      "question": "En quel année s'est déroulée la Révolution française ?",
+      "options": [
+        "1776",
+        "1789",
+        "1815",
+        "1848"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1778026501357_1_sbxjoz",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
+      "question": "Quel compositeur allemand a créé 'Le Clair de lune' ?",
+      "options": [
+        "Richard Wagner",
+        "Ludwig van Beethoven",
+        "Claude Debussy",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1778026501357_2_bqqkyq",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
+      "question": "Quel désert est le plus grand du monde ?",
+      "options": [
+        "Désert du Kalahari",
+        "Désert de Gobi",
+        "Sahara",
+        "Désert d'Arabie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1778026501357_3_sxk2qq",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
+      "question": "Combien de cordes possède un violon classique ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1778026501357_4_eca4gj",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
+      "question": "Quel scientifique a découvert le radium ?",
+      "options": [
+        "Ernest Rutherford",
+        "Marie Curie",
+        "Max Planck",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778026501357_5_kcpjgs",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
+      "question": "Quel fleuve traverse la Suisse et l'Autriche ?",
+      "options": [
+        "Le Rhin",
+        "Le Danube",
+        "La Meuse",
+        "La Tamise"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1778026501357_6_x8aanx",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
+      "question": "Quel peintre impressionniste est connu pour ses 'Tournesols' ?",
+      "options": [
+        "Pierre-Auguste Renoir",
+        "Vincent van Gogh",
+        "Paul Cézanne",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1778026501357_7_tfe02o",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
+      "question": "En quel siècle a été construite la Grande Muraille de Chine ?",
+      "options": [
+        "7e siècle",
+        "13e siècle",
+        "17e siècle",
+        "19e siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1778026501357_8_mgvvhx",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
+      "question": "Quel sport se joue avec neuf joueurs par équipe sur un diamant ?",
+      "options": [
+        "Softball",
+        "Cricket",
+        "Baseball",
+        "Rounders"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1778026501357_9_arkx51",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
+      "question": "Quel légume est traditionnellement utilisé pour préparer le kimchi coréen ?",
+      "options": [
+        "Radis daikon",
+        "Chou chinois",
+        "Oignon",
+        "Ail"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1778026501357_10_4wkch8",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
+      "question": "Combien de chromosomes possèdent les humains ?",
+      "options": [
+        "23",
+        "46",
+        "48",
+        "52"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778026501357_11_b69bth",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
+      "question": "Quel artiste dadaïste a peint 'La Persistance de la mémoire' avec ses montres molles ?",
+      "options": [
+        "Marcel Duchamp",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Max Ernst"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1778026501357_12_gw8vb3",
+      "addedAt": "2026-05-06T00:15:01.357Z"
+    },
+    {
       "question": "Quel est le plus grand désert froid du monde ?",
       "options": [
         "Désert du Kalahari",
@@ -3860,7 +4029,12 @@
       "category": "Science",
       "id": "q_1776645674041_3_j4ccn6",
       "addedAt": "2026-04-20T00:41:14.041Z"
-    },
+    }
+  ],
+  "version": 179,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-06T00:15:01.358Z",
+  "archivedQuestions": [
     {
       "question": "En quel siècle la Renaissance italienne a-t-elle eu lieu ?",
       "options": [
@@ -4029,102 +4203,6 @@
       "category": "Science",
       "id": "q_1776566852948_5_78iohk",
       "addedAt": "2026-04-19T02:47:32.948Z"
-    }
-  ],
-  "version": 178,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-05T02:49:25.181Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel langage est considéré comme la langue de programmation la plus ancienne encore utilisée ?",
-      "options": [
-        "COBOL",
-        "FORTRAN",
-        "ALGOL",
-        "LISP"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1776566852948_6_f4cxbw",
-      "addedAt": "2026-04-19T02:47:32.948Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle principalement lieu ?",
-      "options": [
-        "XIIIe siècle",
-        "XIVe siècle",
-        "XVe siècle",
-        "XVIe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1776557435143_5_iycn8s",
-      "addedAt": "2026-04-19T00:10:35.144Z"
-    },
-    {
-      "question": "Quel scientifique a énoncé les trois lois du mouvement ?",
-      "options": [
-        "Galileo Galilei",
-        "Isaac Newton",
-        "Johannes Kepler",
-        "Tycho Brahé"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776557435144_6_ybifj0",
-      "addedAt": "2026-04-19T00:10:35.144Z"
-    },
-    {
-      "question": "Dans quel sport les athlètes manient un épée, un fleuret ou un sabre ?",
-      "options": [
-        "Tir à l'arc",
-        "Escrime",
-        "Pentathlon moderne",
-        "Biathlon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1776557435144_7_0hmrv2",
-      "addedAt": "2026-04-19T00:10:35.144Z"
-    },
-    {
-      "question": "Quel fruit est riche en bromélaïne, une enzyme digestive ?",
-      "options": [
-        "Papaye",
-        "Ananas",
-        "Kiwi",
-        "Mangue"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1776557435144_8_fqfmw4",
-      "addedAt": "2026-04-19T00:10:35.144Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé la trilogie 'Le Seigneur des Anneaux' ?",
-      "options": [
-        "Steven Spielberg",
-        "James Cameron",
-        "Peter Jackson",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1776557435144_9_imcbu9",
-      "addedAt": "2026-04-19T00:10:35.144Z"
-    },
-    {
-      "question": "Combien de dents possède un crocodile adulte en moyenne ?",
-      "options": [
-        "32",
-        "48",
-        "64",
-        "80"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1776557435144_10_n29sal",
-      "addedAt": "2026-04-19T00:10:35.144Z"
     }
   ],
   "poolSize": 310
