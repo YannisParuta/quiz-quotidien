@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel philosophe grec a fondé l'école du Lycée à Athènes ?",
+      "options": [
+        "Platon",
+        "Socrate",
+        "Aristote",
+        "Épicure"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1778113727430_0_icdkx3",
+      "addedAt": "2026-05-07T00:28:47.430Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet d'Europe ?",
+      "options": [
+        "Mont-Blanc",
+        "Elbrus",
+        "Kelbrus",
+        "Matterhorn"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1778113727430_1_v29qmh",
+      "addedAt": "2026-05-07T00:28:47.430Z"
+    },
+    {
+      "question": "Quel gaz produit les plantes lors de la photosynthèse ?",
+      "options": [
+        "Dioxyde de carbone",
+        "Azote",
+        "Oxygène",
+        "Hydrogène"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1778113727430_2_s5ea88",
+      "addedAt": "2026-05-07T00:28:47.430Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance a-t-elle commencé en Italie ?",
+      "options": [
+        "12e siècle",
+        "13e siècle",
+        "14e siècle",
+        "15e siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1778113727430_3_83ryxm",
+      "addedAt": "2026-05-07T00:28:47.430Z"
+    },
+    {
+      "question": "Combien de cordes possède généralement une guitare classique ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1778113727430_4_p16pxy",
+      "addedAt": "2026-05-07T00:28:47.430Z"
+    },
+    {
+      "question": "Quel animal est le plus gros mammifère du monde ?",
+      "options": [
+        "Éléphant d'Afrique",
+        "Girafe",
+        "Baleine bleue",
+        "Hippopotame"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1778113727430_5_vcwpf9",
+      "addedAt": "2026-05-07T00:28:47.430Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé 'Blade Runner' en 1982 ?",
+      "options": [
+        "Steven Spielberg",
+        "Ridley Scott",
+        "James Cameron",
+        "George Lucas"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1778113727430_6_2ubt9q",
+      "addedAt": "2026-05-07T00:28:47.430Z"
+    },
+    {
+      "question": "Quel fruit tropical contient une enzyme qui digère les protéines ?",
+      "options": [
+        "Noix de coco",
+        "Papaye",
+        "Ananas",
+        "Mangue"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1778113727430_7_u25r1q",
+      "addedAt": "2026-05-07T00:28:47.430Z"
+    },
+    {
+      "question": "Quel est le plus long tunnel ferroviaire du monde ?",
+      "options": [
+        "Tunnel de la Manche",
+        "Tunnel Gotthard",
+        "Tunnel sous les Alpes",
+        "Tunnel de Seikan"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1778113727430_8_tkdv22",
+      "addedAt": "2026-05-07T00:28:47.430Z"
+    },
+    {
       "question": "Quel chimiste français a découvert le processus de pasteurisation ?",
       "options": [
         "Claude Bernard",
@@ -3912,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1776730968688_0_w7fvkd",
       "addedAt": "2026-04-21T00:22:48.688Z"
-    },
+    }
+  ],
+  "version": 181,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-07T00:28:47.431Z",
+  "archivedQuestions": [
     {
       "question": "Quel scientifique a découvert la structure en double hélice de l'ADN ?",
       "options": [
@@ -4029,154 +4151,6 @@
       "category": "Littérature",
       "id": "q_1776653348153_2_6gf9s2",
       "addedAt": "2026-04-20T02:49:08.153Z"
-    }
-  ],
-  "version": 180,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-06T02:55:59.460Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel artiste français est connu pour ses séries de nymphéas peints ?",
-      "options": [
-        "Paul Cézanne",
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Edgar Degas"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1776653348153_3_tba2u9",
-      "addedAt": "2026-04-20T02:49:08.153Z"
-    },
-    {
-      "question": "En quel siècle a été inventée l'imprimerie à caractères mobiles en Europe ?",
-      "options": [
-        "13ème siècle",
-        "14ème siècle",
-        "15ème siècle",
-        "16ème siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1776653348153_4_jcktar",
-      "addedAt": "2026-04-20T02:49:08.153Z"
-    },
-    {
-      "question": "Quel type de cuisine méditerranéenne est caractérisé par l'utilisation d'huile d'olive et de produits frais ?",
-      "options": [
-        "La cuisine italienne",
-        "La cuisine espagnole",
-        "La diète méditerranéenne",
-        "La cuisine grecque"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1776653348153_5_lvso3g",
-      "addedAt": "2026-04-20T02:49:08.153Z"
-    },
-    {
-      "question": "Quel animal est le plus gros jamais existé sur Terre ?",
-      "options": [
-        "Le dinosaure Bleu",
-        "La Baleine bleue",
-        "L'Éléphant d'Afrique",
-        "Le Cachalot"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1776653348153_6_mf70er",
-      "addedAt": "2026-04-20T02:49:08.153Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la saga cinématographique 'Avatar' ?",
-      "options": [
-        "Steven Spielberg",
-        "James Cameron",
-        "Christopher Nolan",
-        "Denis Villeneuve"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1776653348153_7_0tmxis",
-      "addedAt": "2026-04-20T02:49:08.153Z"
-    },
-    {
-      "question": "Quel sport se joue avec une raquette et une balle sur un court divisé par un filet ?",
-      "options": [
-        "Le badminton",
-        "Le tennis",
-        "Le squash",
-        "Le ping-pong"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1776653348153_8_4pkqmc",
-      "addedAt": "2026-04-20T02:49:08.153Z"
-    },
-    {
-      "question": "Quel capitale européenne est traversée par le Danube ?",
-      "options": [
-        "Prague",
-        "Budapest",
-        "Bratislava",
-        "Belgrade"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1776653348153_9_35g0v5",
-      "addedAt": "2026-04-20T02:49:08.153Z"
-    },
-    {
-      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "L'oxygène",
-        "L'azote",
-        "Le dioxyde de carbone",
-        "L'argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776645674041_0_m5b8th",
-      "addedAt": "2026-04-20T00:41:14.041Z"
-    },
-    {
-      "question": "Qui a composé 'La Cinquième Symphonie' ?",
-      "options": [
-        "Mozart",
-        "Beethoven",
-        "Brahms",
-        "Tchaïkovski"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1776645674041_1_z2ga8n",
-      "addedAt": "2026-04-20T00:41:14.041Z"
-    },
-    {
-      "question": "Combien de continents compte notre planète ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1776645674041_2_4xh8vq",
-      "addedAt": "2026-04-20T00:41:14.041Z"
-    },
-    {
-      "question": "Quel scientifique a énoncé la théorie de la relativité ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Stephen Hawking"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776645674041_3_j4ccn6",
-      "addedAt": "2026-04-20T00:41:14.041Z"
     }
   ],
   "poolSize": 310
