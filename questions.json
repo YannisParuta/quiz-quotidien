@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur autrichien a écrit plus de 600 œuvres musicales ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert",
+        "Ludwig van Beethoven",
+        "Johann Strauss"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1778122594317_0_da6rjm",
+      "addedAt": "2026-05-07T02:56:34.318Z"
+    },
+    {
+      "question": "Quel art martial coréen est connu pour ses coups de pied spectaculaires ?",
+      "options": [
+        "Judo",
+        "Karaté",
+        "Taekwondo",
+        "Kung Fu"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1778122594318_1_5yotms",
+      "addedAt": "2026-05-07T02:56:34.318Z"
+    },
+    {
+      "question": "Quel musée parisien abrite la Victoire de Samothrace ?",
+      "options": [
+        "Musée d'Orsay",
+        "Musée du Louvre",
+        "Centre Pompidou",
+        "Musée Rodin"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1778122594318_2_nxhe10",
+      "addedAt": "2026-05-07T02:56:34.318Z"
+    },
+    {
+      "question": "Quel animal marin peut changer de couleur en quelques secondes ?",
+      "options": [
+        "Dauphin",
+        "Pieuvre",
+        "Baleine",
+        "Raie"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1778122594318_3_eotz6v",
+      "addedAt": "2026-05-07T02:56:34.318Z"
+    },
+    {
+      "question": "Combien de côtés a un polygone régulier appelé hexagone ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1778122594318_4_4vumf6",
+      "addedAt": "2026-05-07T02:56:34.318Z"
+    },
+    {
+      "question": "Quel épice jaune vif est utilisée en cuisine indienne et contient la curcumine ?",
+      "options": [
+        "Safran",
+        "Curcuma",
+        "Poivre noir",
+        "Cannelle"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1778122594318_5_hw5jmc",
+      "addedAt": "2026-05-07T02:56:34.318Z"
+    },
+    {
+      "question": "Quel cinéaste italien est connu pour son style de 'néoréalisme' ?",
+      "options": [
+        "Federico Fellini",
+        "Sergio Leone",
+        "Roberto Rossellini",
+        "Pier Paolo Pasolini"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1778122594318_6_rvq3al",
+      "addedAt": "2026-05-07T02:56:34.318Z"
+    },
+    {
+      "question": "Quel réseau social chinois est devenu populaire pour ses vidéos courtes appelées 'TikTok' en Occident ?",
+      "options": [
+        "WeChat",
+        "Douyin",
+        "QQ",
+        "Sina Weibo"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1778122594318_7_t4bcn7",
+      "addedAt": "2026-05-07T02:56:34.318Z"
+    },
+    {
+      "question": "Quel château français est le plus visité d'Europe ?",
+      "options": [
+        "Château de Fontainebleau",
+        "Château de Versailles",
+        "Château de Chambord",
+        "Château de Chenonceau"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1778122594318_8_vdiuf9",
+      "addedAt": "2026-05-07T02:56:34.318Z"
+    },
+    {
+      "question": "Quel scientifique polonais a découvert le polonium et le radium ?",
+      "options": [
+        "Marie Curie",
+        "Pierre Curie",
+        "Albert Einstein",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1778122594318_9_91fd5c",
+      "addedAt": "2026-05-07T02:56:34.318Z"
+    },
+    {
+      "question": "Quel mouvement artistique du XXe siècle a été fondé par Pablo Picasso et Georges Braque ?",
+      "options": [
+        "Surréalisme",
+        "Cubisme",
+        "Futurisme",
+        "Expressionnisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1778122594318_10_x6t5z7",
+      "addedAt": "2026-05-07T02:56:34.318Z"
+    },
+    {
       "question": "Quel philosophe grec a fondé l'école du Lycée à Athènes ?",
       "options": [
         "Platon",
@@ -3886,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1776816657201_6_3mjhf9",
       "addedAt": "2026-04-22T00:10:57.201Z"
-    },
+    }
+  ],
+  "version": 182,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-07T02:56:34.318Z",
+  "archivedQuestions": [
     {
       "question": "Combien de pattes possède une araignée ?",
       "options": [
@@ -4029,128 +4177,6 @@
       "category": "Géographie",
       "id": "q_1776730968688_0_w7fvkd",
       "addedAt": "2026-04-21T00:22:48.688Z"
-    }
-  ],
-  "version": 181,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-07T00:28:47.431Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel scientifique a découvert la structure en double hélice de l'ADN ?",
-      "options": [
-        "Marie Curie",
-        "James Watson et Francis Crick",
-        "Linus Pauling",
-        "Rosalind Franklin"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776730968688_1_0u2h6w",
-      "addedAt": "2026-04-21T00:22:48.688Z"
-    },
-    {
-      "question": "Dans quel sport se déroulent les tournois du Grand Chelem ?",
-      "options": [
-        "Golf",
-        "Tennis",
-        "Équitation",
-        "Boxe"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1776730968688_2_ge1ili",
-      "addedAt": "2026-04-21T00:22:48.688Z"
-    },
-    {
-      "question": "Quel gaz représente environ 21% de l'atmosphère terrestre ?",
-      "options": [
-        "Dioxyde de carbone",
-        "Azote",
-        "Oxygène",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1776730968688_3_kx1nbs",
-      "addedAt": "2026-04-21T00:22:48.688Z"
-    },
-    {
-      "question": "Quel fruit est traditionnellement utilisé pour préparer le guacamole ?",
-      "options": [
-        "Banane",
-        "Avocate",
-        "Pomme verte",
-        "Kiwi"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1776730968688_4_3itoks",
-      "addedAt": "2026-04-21T00:22:48.688Z"
-    },
-    {
-      "question": "Quelle plate-forme de streaming a produit la série 'Stranger Things' ?",
-      "options": [
-        "Amazon Prime Video",
-        "Disney+",
-        "Netflix",
-        "HBO Max"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1776730968688_5_co175y",
-      "addedAt": "2026-04-21T00:22:48.688Z"
-    },
-    {
-      "question": "Combien de côtés possède un hexagone régulier ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1776730968688_6_58tvp4",
-      "addedAt": "2026-04-21T00:22:48.688Z"
-    },
-    {
-      "question": "Quel mathématicien grec a formulé le célèbre théorème sur les triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Archimède",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1776653348153_0_enlrrp",
-      "addedAt": "2026-04-20T02:49:08.153Z"
-    },
-    {
-      "question": "Quel élément chimique est le plus abondant dans l'univers ?",
-      "options": [
-        "L'hélium",
-        "L'hydrogène",
-        "Le carbone",
-        "L'oxygène"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776653348153_1_gd8k68",
-      "addedAt": "2026-04-20T02:49:08.153Z"
-    },
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Alexandre Dumas",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1776653348153_2_6gf9s2",
-      "addedAt": "2026-04-20T02:49:08.153Z"
     }
   ],
   "poolSize": 310
