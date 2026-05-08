@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "En quelle année la Révolution française a-t-elle éclaté ?",
+      "options": [
+        "1787",
+        "1789",
+        "1791",
+        "1793"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1778209082498_0_sy0972",
+      "addedAt": "2026-05-08T02:58:02.498Z"
+    },
+    {
+      "question": "Quel scientifique a découvert la radioactivité naturelle ?",
+      "options": [
+        "Marie Curie",
+        "Henri Becquerel",
+        "Ernest Rutherford",
+        "Lise Meitner"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778209082498_1_u3mfd5",
+      "addedAt": "2026-05-08T02:58:02.498Z"
+    },
+    {
+      "question": "Qui a composé la Symphonie n°9 en ré mineur ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Franz Joseph Haydn",
+        "Georges Fridéric Hændel"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1778209082498_2_pi5u1f",
+      "addedAt": "2026-05-08T02:58:02.498Z"
+    },
+    {
+      "question": "Combien de continents possèdent une population indigène de kangourous ?",
+      "options": [
+        "Deux",
+        "Un seul",
+        "Trois",
+        "Aucun"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1778209082498_3_j7t00k",
+      "addedAt": "2026-05-08T02:58:02.498Z"
+    },
+    {
+      "question": "Quel photographe français est célèbre pour ses photographies d'humanité urbaine ?",
+      "options": [
+        "Henri Cartier-Bresson",
+        "Jacques-Henri Lartigue",
+        "Yousuf Karsh",
+        "Man Ray"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1778209082498_4_az05h9",
+      "addedAt": "2026-05-08T02:58:02.498Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a créé 'La Nuit étoilée' ?",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Vincent van Gogh",
+        "Hieronymus Bosch"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1778209082498_5_rs6f6w",
+      "addedAt": "2026-05-08T02:58:02.498Z"
+    },
+    {
+      "question": "Quel sport est originaire du Québec au Canada et utilise un bâton et une balle ?",
+      "options": [
+        "Le crosse",
+        "Le lacrosse",
+        "Le hurling",
+        "Le shinty"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1778209082498_6_ufkiow",
+      "addedAt": "2026-05-08T02:58:02.498Z"
+    },
+    {
+      "question": "Quel est le plus ancien traité de médecine connu de l'histoire ?",
+      "options": [
+        "Le Corpus Hippocraticum",
+        "L'Edwin Smith Papyrus",
+        "Les écrits de Galien",
+        "Les textes d'Hippocrate"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1778209082498_7_g49thk",
+      "addedAt": "2026-05-08T02:58:02.498Z"
+    },
+    {
+      "question": "Quel légume est techniquement un fruit du point de vue botanique ?",
+      "options": [
+        "La carotte",
+        "La tomate",
+        "L'oignon",
+        "La pomme de terre"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1778209082498_8_mymfi7",
+      "addedAt": "2026-05-08T02:58:02.498Z"
+    },
+    {
+      "question": "Quel mathématicien grec a énoncé le théorème sur les triangles rectangles ?",
+      "options": [
+        "Archimède",
+        "Euclide",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1778209082498_9_co90tn",
+      "addedAt": "2026-05-08T02:58:02.498Z"
+    },
+    {
+      "question": "Quel réalisateur italien est connu pour ses films épiques comme 'Ben-Hur' ?",
+      "options": [
+        "Sergio Leone",
+        "Federico Fellini",
+        "William Wyler",
+        "Luciano Visconti"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1778209082498_10_5k9opo",
+      "addedAt": "2026-05-08T02:58:02.498Z"
+    },
+    {
       "question": "Quel océan est le plus profond de la Terre ?",
       "options": [
         "Océan Atlantique",
@@ -3886,7 +4029,12 @@
       "category": "Littérature",
       "id": "q_1776904850433_3_t5x93c",
       "addedAt": "2026-04-23T00:40:50.433Z"
-    },
+    }
+  ],
+  "version": 184,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-08T02:58:02.499Z",
+  "archivedQuestions": [
     {
       "question": "Quel élément chimique a pour symbole 'Au' ?",
       "options": [
@@ -4029,102 +4177,6 @@
       "category": "Cinéma",
       "id": "q_1776825613946_5_lyfzm1",
       "addedAt": "2026-04-22T02:40:13.946Z"
-    }
-  ],
-  "version": 183,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-08T00:14:07.765Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus long fleuve d'Afrique ?",
-      "options": [
-        "Le Congo",
-        "Le Nil",
-        "Le Niger",
-        "Le Zambèze"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1776816657201_0_qfxyzi",
-      "addedAt": "2026-04-22T00:10:57.201Z"
-    },
-    {
-      "question": "Quel élément chimique a le symbole 'Au' ?",
-      "options": [
-        "L'argent",
-        "L'or",
-        "L'aluminium",
-        "L'argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776816657201_1_wfyxgx",
-      "addedAt": "2026-04-22T00:10:57.201Z"
-    },
-    {
-      "question": "Quel écrivain français a remporté le Prix Goncourt en 2014 pour 'Chanson douce' ?",
-      "options": [
-        "Leïla Slimani",
-        "Valérie Perrin",
-        "Franck Thilliez",
-        "Joël Dicker"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1776816657201_2_33bbz2",
-      "addedAt": "2026-04-22T00:10:57.201Z"
-    },
-    {
-      "question": "Quel fruit est originaire de Chine et contient de la vitamine C en grande quantité ?",
-      "options": [
-        "La mangue",
-        "Le kiwi",
-        "La papaye",
-        "La goyave"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1776816657201_3_0eyw9p",
-      "addedAt": "2026-04-22T00:10:57.201Z"
-    },
-    {
-      "question": "En quel art martial japonais utilise-t-on un katana ?",
-      "options": [
-        "Le judo",
-        "Le karaté",
-        "L'iaïdo",
-        "L'aïkido"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1776816657201_4_65g0jf",
-      "addedAt": "2026-04-22T00:10:57.201Z"
-    },
-    {
-      "question": "Quel peintre impressionniste français a peint 'Les Nymphéas' ?",
-      "options": [
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Edgar Degas",
-        "Frédéric Bazille"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1776816657201_5_7vne15",
-      "addedAt": "2026-04-22T00:10:57.201Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le film 'Amélie' en 2001 ?",
-      "options": [
-        "Michel Gondry",
-        "Jean-Pierre Jeunet",
-        "Cédric Klapisch",
-        "Jacques Tati"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1776816657201_6_3mjhf9",
-      "addedAt": "2026-04-22T00:10:57.201Z"
     }
   ],
   "poolSize": 310
