@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "Quel océan est le plus profond de la Terre ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1778199247765_0_jep4m5",
+      "addedAt": "2026-05-08T00:14:07.765Z"
+    },
+    {
+      "question": "En quelle année la Révolution française a-t-elle commencé ?",
+      "options": [
+        "1785",
+        "1789",
+        "1792",
+        "1799"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1778199247765_1_4twloy",
+      "addedAt": "2026-05-08T00:14:07.765Z"
+    },
+    {
+      "question": "Quel scientifique a développé la théorie de la relativité ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Marie Curie"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778199247765_2_arxk13",
+      "addedAt": "2026-05-08T00:14:07.765Z"
+    },
+    {
+      "question": "Combien de continents existe-t-il sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1778199247765_3_7e4mh7",
+      "addedAt": "2026-05-08T00:14:07.765Z"
+    },
+    {
+      "question": "Quel peintre hollandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Vincent van Gogh",
+        "Jan Vermeer",
+        "Pieter Bruegel"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1778199247765_4_a0ab38",
+      "addedAt": "2026-05-08T00:14:07.765Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère du monde ?",
+      "options": [
+        "Éléphant d'Afrique",
+        "Girafe",
+        "Baleine bleue",
+        "Hippopotame"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1778199247765_5_2f3x7f",
+      "addedAt": "2026-05-08T00:14:07.765Z"
+    },
+    {
+      "question": "Quel ingénieur français a conçu le Canal de Panama ?",
+      "options": [
+        "Gustave Eiffel",
+        "Ferdinand de Lesseps",
+        "Isambard Kingdom Brunel",
+        "John Roebling"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1778199247765_6_9x3tek",
+      "addedAt": "2026-05-08T00:14:07.765Z"
+    },
+    {
       "question": "Quel compositeur autrichien a écrit plus de 600 œuvres musicales ?",
       "options": [
         "Wolfgang Amadeus Mozart",
@@ -3938,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1776825613946_5_lyfzm1",
       "addedAt": "2026-04-22T02:40:13.946Z"
-    },
+    }
+  ],
+  "version": 183,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-08T00:14:07.765Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le plus long fleuve d'Afrique ?",
       "options": [
@@ -4029,154 +4125,6 @@
       "category": "Cinéma",
       "id": "q_1776816657201_6_3mjhf9",
       "addedAt": "2026-04-22T00:10:57.201Z"
-    }
-  ],
-  "version": 182,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-07T02:56:34.318Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de pattes possède une araignée ?",
-      "options": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1776816657201_7_rmr81j",
-      "addedAt": "2026-04-22T00:10:57.201Z"
-    },
-    {
-      "question": "Quel réseau social est connu pour ses vidéos courtes en vertical ?",
-      "options": [
-        "Snapchat",
-        "TikTok",
-        "Instagram",
-        "Telegram"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1776816657201_8_381rzp",
-      "addedAt": "2026-04-22T00:10:57.201Z"
-    },
-    {
-      "question": "En quelle année la Bastille a-t-elle été prise lors de la Révolution française ?",
-      "options": [
-        "1785",
-        "1789",
-        "1793",
-        "1799"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1776816657201_9_cmhiuf",
-      "addedAt": "2026-04-22T00:10:57.201Z"
-    },
-    {
-      "question": "Quel physicien a découvert la loi de la gravitation universelle ?",
-      "options": [
-        "Galileo Galilei",
-        "Isaac Newton",
-        "Johannes Kepler",
-        "Nicolaus Copernicus"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776739310315_0_nuqh3j",
-      "addedAt": "2026-04-21T02:41:50.315Z"
-    },
-    {
-      "question": "Quel artiste néerlandais a coupé une partie de son oreille ?",
-      "options": [
-        "Paul Klee",
-        "Vincent van Gogh",
-        "Wassily Kandinsky",
-        "Piet Mondrian"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1776739310315_1_0gxpmi",
-      "addedAt": "2026-04-21T02:41:50.315Z"
-    },
-    {
-      "question": "Quel musicien allemand était sourd en composant la 9e Symphonie ?",
-      "options": [
-        "Wolfgang Mozart",
-        "Johann Bach",
-        "Ludwig van Beethoven",
-        "George Friedrich Händel"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1776739310315_2_ih7s74",
-      "addedAt": "2026-04-21T02:41:50.315Z"
-    },
-    {
-      "question": "Quel sport utilise un objet appelé 'volant' ?",
-      "options": [
-        "Le tennis",
-        "Le badminton",
-        "Le squash",
-        "Le paddle"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1776739310315_3_8iesu5",
-      "addedAt": "2026-04-21T02:41:50.315Z"
-    },
-    {
-      "question": "Dans quel pays le café est-il originaire ?",
-      "options": [
-        "La Colombie",
-        "L'Éthiopie",
-        "Le Brésil",
-        "Le Vietnam"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1776739310315_4_86wmdk",
-      "addedAt": "2026-04-21T02:41:50.315Z"
-    },
-    {
-      "question": "Quel mathématicien grec a découvert le théorème du triangle rectangle ?",
-      "options": [
-        "Archimède",
-        "Pythagore",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1776739310315_5_u2obqq",
-      "addedAt": "2026-04-21T02:41:50.315Z"
-    },
-    {
-      "question": "Quel animal terrestre est le plus rapide au monde ?",
-      "options": [
-        "Le lion",
-        "L'antilope",
-        "Le guépard",
-        "Le cheval"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1776739310315_6_1rlhje",
-      "addedAt": "2026-04-21T02:41:50.315Z"
-    },
-    {
-      "question": "Quel est le plus petit État du monde par la superficie ?",
-      "options": [
-        "Monaco",
-        "Andorre",
-        "Cité du Vatican",
-        "Liechtenstein"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1776730968688_0_w7fvkd",
-      "addedAt": "2026-04-21T00:22:48.688Z"
     }
   ],
   "poolSize": 310
