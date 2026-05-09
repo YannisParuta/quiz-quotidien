@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel élément chimique porte le numéro atomique 6 ?",
+      "options": [
+        "Hydrogène",
+        "Oxygène",
+        "Carbone",
+        "Azote"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1778288002946_0_qhulb2",
+      "addedAt": "2026-05-09T00:53:22.946Z"
+    },
+    {
+      "question": "Quel compositeur a écrit la symphonie 'Ode à la Joie' ?",
+      "options": [
+        "Mozart",
+        "Beethoven",
+        "Brahms",
+        "Tchaikovski"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1778288002946_1_d4324h",
+      "addedAt": "2026-05-09T00:53:22.946Z"
+    },
+    {
+      "question": "Quel artiste hollandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Van Gogh",
+        "Mondrian"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1778288002946_2_cn7ty5",
+      "addedAt": "2026-05-09T00:53:22.946Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
+      "options": [
+        "XIIIe siècle",
+        "XIVe-XVIe siècles",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1778288002946_3_aeifp1",
+      "addedAt": "2026-05-09T00:53:22.946Z"
+    },
+    {
+      "question": "Quel sport a remporté le Français Jean-Pierre Adams à titre personnel au plus haut niveau ?",
+      "options": [
+        "Boxe",
+        "Judo",
+        "Escrime",
+        "Athlétisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1778288002946_4_e4ldil",
+      "addedAt": "2026-05-09T00:53:22.946Z"
+    },
+    {
+      "question": "Quel produit laitier est traditionnel dans la cuisine italienne et vient de Campanie ?",
+      "options": [
+        "Parmesan",
+        "Mozzarella di Bufala",
+        "Ricotta",
+        "Gorgonzola"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1778288002946_5_lyztk4",
+      "addedAt": "2026-05-09T00:53:22.946Z"
+    },
+    {
+      "question": "Quel scientifique a formulé les lois du mouvement et de la gravitation universelle ?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Albert Einstein"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778288002946_6_32q08c",
+      "addedAt": "2026-05-09T00:53:22.946Z"
+    },
+    {
+      "question": "Quel réalisateur a créé le personnage de Buster Keaton au cinéma muet ?",
+      "options": [
+        "Charlie Chaplin",
+        "Buster Keaton",
+        "D.W. Griffith",
+        "Frederick Niblo"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1778288002946_7_8uyjkp",
+      "addedAt": "2026-05-09T00:53:22.946Z"
+    },
+    {
+      "question": "Quel est le plus grand fleuve d'Asie du Sud ?",
+      "options": [
+        "Gange",
+        "Brahmapoutre",
+        "Indus",
+        "Irraouaddy"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1778288002946_8_gd43lj",
+      "addedAt": "2026-05-09T00:53:22.946Z"
+    },
+    {
       "question": "En quelle année la Révolution française a-t-elle éclaté ?",
       "options": [
         "1787",
@@ -3912,7 +4029,12 @@
       "category": "Science",
       "id": "q_1776912201179_1_y45ubh",
       "addedAt": "2026-04-23T02:43:21.179Z"
-    },
+    }
+  ],
+  "version": 185,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-09T00:53:22.947Z",
+  "archivedQuestions": [
     {
       "question": "Quel sport utilise des quilles et une boule lourde ?",
       "options": [
@@ -4029,154 +4151,6 @@
       "category": "Littérature",
       "id": "q_1776904850433_3_t5x93c",
       "addedAt": "2026-04-23T00:40:50.433Z"
-    }
-  ],
-  "version": 184,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-08T02:58:02.499Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel élément chimique a pour symbole 'Au' ?",
-      "options": [
-        "L'argent",
-        "L'or",
-        "L'aluminium",
-        "L'arsenic"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776904850433_4_74ar9l",
-      "addedAt": "2026-04-23T00:40:50.433Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le film 'Amélie' ?",
-      "options": [
-        "Claude Jacquet",
-        "Jean-Pierre Jeunet",
-        "Michel Gondry",
-        "Luc Besson"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1776904850433_5_lvi9sv",
-      "addedAt": "2026-04-23T00:40:50.433Z"
-    },
-    {
-      "question": "Combien de lettres contient l'alphabet grec ?",
-      "options": [
-        "20",
-        "22",
-        "24",
-        "26"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1776904850433_6_8k64s0",
-      "addedAt": "2026-04-23T00:40:50.433Z"
-    },
-    {
-      "question": "Quel type d'animal est un pangolin ?",
-      "options": [
-        "Un reptile",
-        "Un mammifère",
-        "Un insecte",
-        "Un amphibien"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1776904850433_7_mik20p",
-      "addedAt": "2026-04-23T00:40:50.433Z"
-    },
-    {
-      "question": "Quel écrivain français a remporté le Prix Nobel de littérature en 1964 ?",
-      "options": [
-        "Albert Camus",
-        "Jean-Paul Sartre",
-        "Simone de Beauvoir",
-        "André Gide"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1776904850432_0_3zrsel",
-      "addedAt": "2026-04-23T00:40:50.432Z"
-    },
-    {
-      "question": "Quel fleuve est le plus long d'Europe ?",
-      "options": [
-        "Le Danube",
-        "La Volga",
-        "Le Rhin",
-        "La Loire"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1776825613946_0_1n26d8",
-      "addedAt": "2026-04-22T02:40:13.946Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
-      "options": [
-        "Balzac",
-        "Victor Hugo",
-        "Dumas",
-        "Flaubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1776825613946_1_2tzvni",
-      "addedAt": "2026-04-22T02:40:13.946Z"
-    },
-    {
-      "question": "Quel minéral est composé de carbone pur cristallisé ?",
-      "options": [
-        "Le rubis",
-        "Le diamant",
-        "L'émeraude",
-        "Le saphir"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776825613946_2_igbbrp",
-      "addedAt": "2026-04-22T02:40:13.946Z"
-    },
-    {
-      "question": "En quel année le Titanic a-t-il coulé ?",
-      "options": [
-        "1910",
-        "1911",
-        "1912",
-        "1913"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1776825613946_3_tjdn83",
-      "addedAt": "2026-04-22T02:40:13.946Z"
-    },
-    {
-      "question": "Combien de joueurs maximums peuvent être sur le terrain dans une équipe de basket-ball ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1776825613946_4_p3wsg7",
-      "addedAt": "2026-04-22T02:40:13.946Z"
-    },
-    {
-      "question": "Quel cinéaste français a réalisé 'Inception' ?",
-      "options": [
-        "Denis Villeneuve",
-        "Christopher Nolan",
-        "Michel Hazanavicius",
-        "Luc Besson"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1776825613946_5_lyfzm1",
-      "addedAt": "2026-04-22T02:40:13.946Z"
     }
   ],
   "poolSize": 310
