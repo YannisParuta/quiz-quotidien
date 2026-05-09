@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a formulé la théorie de la relativité générale ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Stephen Hawking"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778295228650_0_drm9jk",
+      "addedAt": "2026-05-09T02:53:48.650Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
+      "options": [
+        "Gustave Flaubert",
+        "Victor Hugo",
+        "Honoré de Balzac",
+        "Alexandre Dumas"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1778295228650_1_ai39gf",
+      "addedAt": "2026-05-09T02:53:48.650Z"
+    },
+    {
+      "question": "Combien de chambres possède le cœur humain ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1778295228650_2_qzt68l",
+      "addedAt": "2026-05-09T02:53:48.650Z"
+    },
+    {
+      "question": "Quel artiste a coupé une partie de son oreille ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Henri Matisse",
+        "Paul Klee"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1778295228650_3_aenqed",
+      "addedAt": "2026-05-09T02:53:48.650Z"
+    },
+    {
+      "question": "En quel siècle la Magna Carta a-t-elle été signée ?",
+      "options": [
+        "11e siècle",
+        "12e siècle",
+        "13e siècle",
+        "14e siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1778295228650_4_i09zhw",
+      "addedAt": "2026-05-09T02:53:48.650Z"
+    },
+    {
+      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Dioxyde de carbone",
+        "Argon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778295228650_5_421iub",
+      "addedAt": "2026-05-09T02:53:48.650Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit la '9e Symphonie' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Richard Wagner"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1778295228650_6_6mf91u",
+      "addedAt": "2026-05-09T02:53:48.650Z"
+    },
+    {
+      "question": "Quel est l'élément chimique le plus léger ?",
+      "options": [
+        "Hélium",
+        "Hydrogène",
+        "Lithium",
+        "Béryllium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778295228650_7_h8rs21",
+      "addedAt": "2026-05-09T02:53:48.650Z"
+    },
+    {
+      "question": "En quel pays la pizza Margherita est-elle originaire ?",
+      "options": [
+        "Grèce",
+        "Espagne",
+        "Italie",
+        "France"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1778295228650_8_v4exnd",
+      "addedAt": "2026-05-09T02:53:48.650Z"
+    },
+    {
+      "question": "Quel réalisateur a créé le film 'Inception' ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Martin Scorsese"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1778295228650_9_c5wgvr",
+      "addedAt": "2026-05-09T02:53:48.650Z"
+    },
+    {
+      "question": "Quel organisme international a reçu le prix Nobel de la paix en 2022 ?",
+      "options": [
+        "Amnesty International",
+        "Médecins sans frontières",
+        "Organisation des Nations Unies",
+        "Human Rights Watch"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1778295228650_10_jmixqz",
+      "addedAt": "2026-05-09T02:53:48.650Z"
+    },
+    {
+      "question": "Quel est le langage de programmation le plus utilisé pour le développement web côté serveur ?",
+      "options": [
+        "JavaScript",
+        "Python",
+        "PHP",
+        "Java"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1778295228650_11_lu6emt",
+      "addedAt": "2026-05-09T02:53:48.650Z"
+    },
+    {
       "question": "Quel élément chimique porte le numéro atomique 6 ?",
       "options": [
         "Hydrogène",
@@ -3873,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1776998675199_10_ez1k3g",
       "addedAt": "2026-04-24T02:44:35.199Z"
-    },
+    }
+  ],
+  "version": 186,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-09T02:53:48.651Z",
+  "archivedQuestions": [
     {
       "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
       "options": [
@@ -4029,128 +4190,6 @@
       "category": "Science",
       "id": "q_1776912201179_1_y45ubh",
       "addedAt": "2026-04-23T02:43:21.179Z"
-    }
-  ],
-  "version": 185,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-09T00:53:22.947Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel sport utilise des quilles et une boule lourde ?",
-      "options": [
-        "Le cricket",
-        "Le bowling",
-        "Le pétanque",
-        "Le curling"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1776912201179_2_iiyh1s",
-      "addedAt": "2026-04-23T02:43:21.179Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le personnage de Monsieur Hulot ?",
-      "options": [
-        "Claude Chabrol",
-        "Jacques Tati",
-        "Louis Malle",
-        "Agnès Varda"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1776912201179_3_4k56li",
-      "addedAt": "2026-04-23T02:43:21.179Z"
-    },
-    {
-      "question": "Quelle est la plus grande chaîne de montagnes sous-marine du monde ?",
-      "options": [
-        "Chaîne centrale",
-        "Dorsale médio-océanique",
-        "Crête des Andes",
-        "Sierra Madre"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1776912201179_4_cqdft8",
-      "addedAt": "2026-04-23T02:43:21.179Z"
-    },
-    {
-      "question": "Quel gaz les plantes absorbent-elles pour la photosynthèse ?",
-      "options": [
-        "L'oxygène",
-        "Le dioxyde de carbone",
-        "L'azote",
-        "L'hydrogène"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776912201179_5_frz81e",
-      "addedAt": "2026-04-23T02:43:21.179Z"
-    },
-    {
-      "question": "En quelle année a commencé la Grande Dépression aux États-Unis ?",
-      "options": [
-        "1925",
-        "1929",
-        "1933",
-        "1920"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1776912201179_6_z7ozsd",
-      "addedAt": "2026-04-23T02:43:21.179Z"
-    },
-    {
-      "question": "Quel peuple a construit Machu Picchu au Pérou ?",
-      "options": [
-        "Les Aztèques",
-        "Les Incas",
-        "Les Mayas",
-        "Les Olmèques"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1776912201179_7_qchj9o",
-      "addedAt": "2026-04-23T02:43:21.179Z"
-    },
-    {
-      "question": "En quelle année la construction de la Tour Eiffel a-t-elle été achevée ?",
-      "options": [
-        "1887",
-        "1889",
-        "1891",
-        "1893"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1776904850433_1_vy5my2",
-      "addedAt": "2026-04-23T00:40:50.433Z"
-    },
-    {
-      "question": "Quel artiste impressionniste français a peint 'Les Coquelicots' ?",
-      "options": [
-        "Edgar Degas",
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Frédéric Bazille"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1776904850433_2_vesoqq",
-      "addedAt": "2026-04-23T00:40:50.433Z"
-    },
-    {
-      "question": "Quel auteur a écrit 'Le Seigneur des Anneaux' ?",
-      "options": [
-        "C.S. Lewis",
-        "J.R.R. Tolkien",
-        "George R.R. Martin",
-        "Patrick Rothfuss"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1776904850433_3_t5x93c",
-      "addedAt": "2026-04-23T00:40:50.433Z"
     }
   ],
   "poolSize": 310
