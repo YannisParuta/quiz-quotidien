@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Marie Curie",
+        "Joseph Lister"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778374673902_0_28mof0",
+      "addedAt": "2026-05-10T00:57:53.902Z"
+    },
+    {
+      "question": "Quel compositeur allemand est connu pour ses symphonies bien qu'il soit devenu sourd ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "George Friedrich Haendel"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1778374673902_1_yo3out",
+      "addedAt": "2026-05-10T00:57:53.902Z"
+    },
+    {
+      "question": "Quel type de gaz est le plus abondant dans l'atmosphère terrestre ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1778374673902_2_f1oxis",
+      "addedAt": "2026-05-10T00:57:53.902Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'À bout de souffle' en 1960 ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Claude Chabrol",
+        "Éric Rohmer"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1778374673902_3_elryql",
+      "addedAt": "2026-05-10T00:57:53.902Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve du continent américain ?",
+      "options": [
+        "Le Rio Grande",
+        "L'Amazone",
+        "Le Mississippi",
+        "Le Yukon"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1778374673902_4_3ihdp6",
+      "addedAt": "2026-05-10T00:57:53.902Z"
+    },
+    {
+      "question": "Quel mathématicien grec ancien a formulé le théorème sur les triangles rectangles ?",
+      "options": [
+        "Archimède",
+        "Euclide",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1778374673902_5_kc9pyt",
+      "addedAt": "2026-05-10T00:57:53.902Z"
+    },
+    {
+      "question": "Quel sport d'équipe est l'ancêtre du basket-ball moderne inventé en 1891 ?",
+      "options": [
+        "Le volleyball",
+        "Le handball",
+        "Le baseball",
+        "Le football américain"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1778374673902_6_rr6kld",
+      "addedAt": "2026-05-10T00:57:53.902Z"
+    },
+    {
+      "question": "Quel plat espagnol traditionnel est à base de riz, de safran et de bouillon ?",
+      "options": [
+        "La tapas",
+        "La paella",
+        "La sangria",
+        "Le gazpacho"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1778374673902_7_tx8vcc",
+      "addedAt": "2026-05-10T00:57:53.902Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet de l'Afrique ?",
+      "options": [
+        "Le Mont Kenya",
+        "Le Kilimandjaro",
+        "Le Mont Stanley",
+        "Le Mont Speke"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1778374673902_8_ruphgd",
+      "addedAt": "2026-05-10T00:57:53.902Z"
+    },
+    {
+      "question": "Quel artiste néerlandais a coupé une partie de son oreille en 1888 ?",
+      "options": [
+        "Paul Klee",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Paul Cézanne"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1778374673902_9_mjoilh",
+      "addedAt": "2026-05-10T00:57:53.902Z"
+    },
+    {
       "question": "Quel scientifique a formulé la théorie de la relativité générale ?",
       "options": [
         "Isaac Newton",
@@ -3899,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1776998675199_0_w4x05s",
       "addedAt": "2026-04-24T02:44:35.199Z"
-    },
+    }
+  ],
+  "version": 187,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-10T00:57:53.903Z",
+  "archivedQuestions": [
     {
       "question": "Quel athlète a remporté le plus de médailles aux Jeux olympiques ?",
       "options": [
@@ -4029,167 +4164,6 @@
       "category": "Histoire",
       "id": "q_1776998675199_10_ez1k3g",
       "addedAt": "2026-04-24T02:44:35.199Z"
-    }
-  ],
-  "version": 186,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-09T02:53:48.651Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
-      "options": [
-        "Louis Pasteur",
-        "Alexander Fleming",
-        "Marie Curie",
-        "Joseph Lister"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1776989083268_0_gp0toc",
-      "addedAt": "2026-04-24T00:04:43.268Z"
-    },
-    {
-      "question": "Quel est le plus grand lac d'eau douce d'Europe ?",
-      "options": [
-        "Lac Léman",
-        "Lac Balkhach",
-        "Lac Ladoga",
-        "Lac Onega"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1776989083268_1_ehfhgc",
-      "addedAt": "2026-04-24T00:04:43.268Z"
-    },
-    {
-      "question": "Combien de côtés possède un heptagone ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1776989083268_2_8ku69t",
-      "addedAt": "2026-04-24T00:04:43.268Z"
-    },
-    {
-      "question": "En quel matériau sont traditionnellement faites les cordes de piano ?",
-      "options": [
-        "Soie",
-        "Acier et cuivre",
-        "Nylon",
-        "Catgut"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1776989083268_3_o1rtwv",
-      "addedAt": "2026-04-24T00:04:43.268Z"
-    },
-    {
-      "question": "Quel réalisateur a filmé 'Metropolis', chef-d'œuvre du cinéma expressionniste allemand ?",
-      "options": [
-        "F.W. Murnau",
-        "Fritz Lang",
-        "Georg Wilhelm Pabst",
-        "Robert Wiene"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1776989083268_4_4r4cvj",
-      "addedAt": "2026-04-24T00:04:43.268Z"
-    },
-    {
-      "question": "Quel est le plus petit os du corps humain ?",
-      "options": [
-        "Étrier",
-        "Enclume",
-        "Marteau",
-        "Radius"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1776989083268_5_32vqsx",
-      "addedAt": "2026-04-24T00:04:43.268Z"
-    },
-    {
-      "question": "Dans quel sport se dispute le tournoi de Wimbledon ?",
-      "options": [
-        "Cricket",
-        "Golf",
-        "Tennis",
-        "Badminton"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1776989083268_6_9hoi4y",
-      "addedAt": "2026-04-24T00:04:43.268Z"
-    },
-    {
-      "question": "Quel est le plat national de la Thaïlande ?",
-      "options": [
-        "Pad Thai",
-        "Tom Yum",
-        "Papaye verte",
-        "Satay"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1776989083268_7_kih17a",
-      "addedAt": "2026-04-24T00:04:43.268Z"
-    },
-    {
-      "question": "Quel mathématicien suisse a résolu le problème des sept ponts de Königsberg ?",
-      "options": [
-        "Bernhard Riemann",
-        "Leonhard Euler",
-        "Carl Friedrich Gauss",
-        "Joseph Fourier"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1776989083268_8_1optbk",
-      "addedAt": "2026-04-24T00:04:43.268Z"
-    },
-    {
-      "question": "Quel est le plus grand archipel du monde ?",
-      "options": [
-        "Philippines",
-        "Indonésie",
-        "Japon",
-        "Antilles"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1776989083268_9_ssffuf",
-      "addedAt": "2026-04-24T00:04:43.268Z"
-    },
-    {
-      "question": "Quelle est la profondeur maximale de la Fosse des Mariannes ?",
-      "options": [
-        "8 848 m",
-        "10 994 m",
-        "7 725 m",
-        "9 216 m"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1776912201179_0_r1fq93",
-      "addedAt": "2026-04-23T02:43:21.179Z"
-    },
-    {
-      "question": "En chimie, quel est le symbole de l'or ?",
-      "options": [
-        "Go",
-        "Or",
-        "Au",
-        "Ag"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1776912201179_1_y45ubh",
-      "addedAt": "2026-04-23T02:43:21.179Z"
     }
   ],
   "poolSize": 310
