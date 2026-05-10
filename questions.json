@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur a écrit la symphonie 'Ainsi parlait Zarathoustra' ?",
+      "options": [
+        "Richard Wagner",
+        "Richard Strauss",
+        "Johannes Brahms",
+        "Gustav Mahler"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1778383524134_0_nl2jdx",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
+      "question": "Quel processus biologique permet aux plantes de convertir la lumière en énergie chimique ?",
+      "options": [
+        "Respiration cellulaire",
+        "Photosynthèse",
+        "Fermentation",
+        "Osmose"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778383524134_1_87zrar",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
+      "question": "En quelle année la Déclaration des droits de l'homme a-t-elle été adoptée par l'ONU ?",
+      "options": [
+        "1945",
+        "1948",
+        "1951",
+        "1955"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1778383524134_2_jjrlqe",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le mouvement du 'Cinéma Vérité' ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Jean Rouch",
+        "Claude Chabrol"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1778383524134_3_5jph8h",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
+      "question": "Combien de chromosomes possède normalement un être humain ?",
+      "options": [
+        "23",
+        "46",
+        "48",
+        "52"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778383524134_4_aaav25",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
+      "question": "Quel est le seul pays d'Afrique du Nord situé à l'ouest du Maroc ?",
+      "options": [
+        "La Mauritanie",
+        "Le Sénégal",
+        "La Guinée",
+        "Le Mali"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1778383524134_5_wj0h0d",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
+      "question": "Quel mathématicien français a donné son nom à la 'Transformée' utilisée en traitement du signal ?",
+      "options": [
+        "Jean Fourier",
+        "Joseph Fourier",
+        "Pierre Fourier",
+        "Claude Fourier"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1778383524134_6_1zoe3j",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
+      "question": "Quel type de cuisine italienne est originaire de la région de Bologne ?",
+      "options": [
+        "La cuisine sicilienne",
+        "La cuisine émilienne",
+        "La cuisine romaine",
+        "La cuisine toscane"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1778383524134_7_pat2f9",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
+      "question": "Quel animal marin est capable de changer de couleur en quelques secondes ?",
+      "options": [
+        "L'hippocampe",
+        "Le calmar",
+        "L'oursin",
+        "L'étoile de mer"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1778383524134_8_knelhr",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
+      "question": "En quel siècle l'imprimerie a-t-elle été inventée par Gutenberg ?",
+      "options": [
+        "12ème siècle",
+        "14ème siècle",
+        "15ème siècle",
+        "16ème siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1778383524134_9_8elkxt",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
+      "question": "Quel langage de balisage est utilisé pour structurer le contenu des pages web ?",
+      "options": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Python"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1778383524134_10_113jd3",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
+      "question": "Quel ballet de Tchaïkovski raconte l'histoire d'une princesse maudite ?",
+      "options": [
+        "Le Lac des cygnes",
+        "La Belle au bois dormant",
+        "Casse-Noisette",
+        "Roméo et Juliette"
+      ],
+      "correctAnswer": 0,
+      "category": "Culture",
+      "id": "q_1778383524134_11_ipfyxp",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
+      "question": "Quel sport d'équipe se joue avec un ballon ovale et compte deux mi-temps de 40 minutes ?",
+      "options": [
+        "Le football américain",
+        "Le rugby à XIII",
+        "Le hurling",
+        "Le football australien"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1778383524134_12_h8knay",
+      "addedAt": "2026-05-10T03:25:24.134Z"
+    },
+    {
       "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
       "options": [
         "Louis Pasteur",
@@ -3860,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1777084385215_10_7vhuod",
       "addedAt": "2026-04-25T02:33:05.215Z"
-    },
+    }
+  ],
+  "version": 188,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-10T03:25:24.135Z",
+  "archivedQuestions": [
     {
       "question": "Quel langage de programmation a été créé par Guido van Rossum en 1989 ?",
       "options": [
@@ -4028,141 +4202,6 @@
       "correctAnswer": 1,
       "category": "Géographie",
       "id": "q_1776998675199_0_w4x05s",
-      "addedAt": "2026-04-24T02:44:35.199Z"
-    }
-  ],
-  "version": 187,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-10T00:57:53.903Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel athlète a remporté le plus de médailles aux Jeux olympiques ?",
-      "options": [
-        "Usain Bolt",
-        "Michael Phelps",
-        "Carl Lewis",
-        "Larisa Latynina"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1776998675199_1_dwh60k",
-      "addedAt": "2026-04-24T02:44:35.199Z"
-    },
-    {
-      "question": "En quelle année la Tour Eiffel a-t-elle été construite ?",
-      "options": [
-        "1885",
-        "1889",
-        "1892",
-        "1900"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1776998675199_2_3576z9",
-      "addedAt": "2026-04-24T02:44:35.199Z"
-    },
-    {
-      "question": "Quel peintre impressionniste français est connu pour ses séries de Nymphéas ?",
-      "options": [
-        "Pierre-Auguste Renoir",
-        "Claude Monet",
-        "Edgar Degas",
-        "Berthe Morisot"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1776998675199_3_jkk0gv",
-      "addedAt": "2026-04-24T02:44:35.199Z"
-    },
-    {
-      "question": "Quel type de corail est responsable de la formation des atolls ?",
-      "options": [
-        "Corail mou",
-        "Corail dur",
-        "Corail noir",
-        "Corail tubulaire"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1776998675199_4_wbkoq2",
-      "addedAt": "2026-04-24T02:44:35.199Z"
-    },
-    {
-      "question": "Quel mathématicien suisse a créé la notation du calcul infinitésimal ?",
-      "options": [
-        "Leonhard Euler",
-        "Gottfried Leibniz",
-        "Isaac Newton",
-        "Jakob Bernoulli"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1776998675199_5_dcyj2j",
-      "addedAt": "2026-04-24T02:44:35.199Z"
-    },
-    {
-      "question": "Quel instrument de musique classique possède 47 cordes ?",
-      "options": [
-        "Le violoncelle",
-        "La harpe celtique",
-        "La harpe orchestrale",
-        "Le piano"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1776998675199_6_9vzc58",
-      "addedAt": "2026-04-24T02:44:35.199Z"
-    },
-    {
-      "question": "Dans quel pays la salade César a-t-elle été créée pour la première fois ?",
-      "options": [
-        "Les États-Unis",
-        "L'Italie",
-        "Le Mexique",
-        "La France"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1776998675199_7_5i19is",
-      "addedAt": "2026-04-24T02:44:35.199Z"
-    },
-    {
-      "question": "Quel acteur a remporté l'Oscar du meilleur acteur pour 'Parasite' ?",
-      "options": [
-        "Leonardo DiCaprio",
-        "Joaquin Phoenix",
-        "Song Kang-ho",
-        "Timothée Chalamet"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1776998675199_8_oktrql",
-      "addedAt": "2026-04-24T02:44:35.199Z"
-    },
-    {
-      "question": "Quel est le plus grand lac souterrain du monde ?",
-      "options": [
-        "Le lac Souterrain de Sa Majeste",
-        "Le Dragon Lake",
-        "Le lac de Dracula",
-        "Le Sorvatn"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1776998675199_9_1jigna",
-      "addedAt": "2026-04-24T02:44:35.199Z"
-    },
-    {
-      "question": "En quelle année l'Afrique du Sud a-t-elle aboli l'apartheid ?",
-      "options": [
-        "1990",
-        "1992",
-        "1994",
-        "1996"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1776998675199_10_ez1k3g",
       "addedAt": "2026-04-24T02:44:35.199Z"
     }
   ],
