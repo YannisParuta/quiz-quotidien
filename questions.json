@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus long fleuve d'Afrique ?",
+      "options": [
+        "Le Congo",
+        "Le Nil",
+        "Le Zambèze",
+        "Le Niger"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1778461098464_0_1r5d9p",
+      "addedAt": "2026-05-11T00:58:18.464Z"
+    },
+    {
+      "question": "Quel élément chimique a pour symbole 'Au' ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "L'aluminium",
+        "L'arsenic"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778461098464_1_7rhell",
+      "addedAt": "2026-05-11T00:58:18.464Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'Amélie Poulain' ?",
+      "options": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Claude Jadot",
+        "Christophe Honoré"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1778461098464_2_4pfhhb",
+      "addedAt": "2026-05-11T00:58:18.464Z"
+    },
+    {
+      "question": "Combien de cordes possède une harpe celtique standard ?",
+      "options": [
+        "18",
+        "22",
+        "30",
+        "36"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1778461098464_3_4hnrpl",
+      "addedAt": "2026-05-11T00:58:18.464Z"
+    },
+    {
+      "question": "Quel pays produit le plus de cacao au monde ?",
+      "options": [
+        "Le Ghana",
+        "La Côte d'Ivoire",
+        "L'Équateur",
+        "Le Cameroun"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1778461098464_4_qfr3i7",
+      "addedAt": "2026-05-11T00:58:18.464Z"
+    },
+    {
+      "question": "Combien de continents possèdent des pingouins à l'état naturel ?",
+      "options": [
+        "Un",
+        "Deux",
+        "Trois",
+        "Quatre"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1778461098464_5_uqbc0y",
+      "addedAt": "2026-05-11T00:58:18.464Z"
+    },
+    {
+      "question": "Quel peintre impressionniste a coupé une partie de son oreille ?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1778461098464_6_x2mrah",
+      "addedAt": "2026-05-11T00:58:18.464Z"
+    },
+    {
+      "question": "Quel sport est appelé 'le roi des sports' ?",
+      "options": [
+        "Le tennis",
+        "L'athlétisme",
+        "La natation",
+        "La gymnrastique"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1778461098464_7_59xt96",
+      "addedAt": "2026-05-11T00:58:18.464Z"
+    },
+    {
+      "question": "En quelle année la première olympiade moderne a-t-elle eu lieu ?",
+      "options": [
+        "1892",
+        "1896",
+        "1900",
+        "1904"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1778461098464_8_3ro12p",
+      "addedAt": "2026-05-11T00:58:18.464Z"
+    },
+    {
+      "question": "Combien de touches possède un clavier de piano standard ?",
+      "options": [
+        "76",
+        "88",
+        "92",
+        "100"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1778461098464_9_oj06fd",
+      "addedAt": "2026-05-11T00:58:18.464Z"
+    },
+    {
       "question": "Quel compositeur a écrit la symphonie 'Ainsi parlait Zarathoustra' ?",
       "options": [
         "Richard Wagner",
@@ -3899,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1777084385215_0_a3bim3",
       "addedAt": "2026-04-25T02:33:05.215Z"
-    },
+    }
+  ],
+  "version": 189,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-11T00:58:18.465Z",
+  "archivedQuestions": [
     {
       "question": "En quelle année l'Empire romain s'est-il effondré en Occident ?",
       "options": [
@@ -4029,180 +4164,6 @@
       "category": "Gastronomie",
       "id": "q_1777084385215_10_7vhuod",
       "addedAt": "2026-04-25T02:33:05.215Z"
-    }
-  ],
-  "version": 188,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-10T03:25:24.135Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum en 1989 ?",
-      "options": [
-        "Java",
-        "Python",
-        "Ruby",
-        "Perl"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1777084385215_11_cgmgkz",
-      "addedAt": "2026-04-25T02:33:05.215Z"
-    },
-    {
-      "question": "Quel océan est le plus profond du monde ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1777077221711_0_5x1afk",
-      "addedAt": "2026-04-25T00:33:41.712Z"
-    },
-    {
-      "question": "En quelle année la photographie a-t-elle été inventée par Nicéphore Niépce ?",
-      "options": [
-        "1822",
-        "1839",
-        "1851",
-        "1865"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1777077221712_1_4ea7os",
-      "addedAt": "2026-04-25T00:33:41.712Z"
-    },
-    {
-      "question": "Qui a peint la Chapelle Sixtine au Vatican ?",
-      "options": [
-        "Léonard de Vinci",
-        "Raphaël",
-        "Michel-Ange",
-        "Botticelli"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1777077221712_2_143n98",
-      "addedAt": "2026-04-25T00:33:41.712Z"
-    },
-    {
-      "question": "En quelle année la Première Guerre mondiale a-t-elle commencé ?",
-      "options": [
-        "1912",
-        "1914",
-        "1916",
-        "1918"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1777077221712_3_77d0y8",
-      "addedAt": "2026-04-25T00:33:41.712Z"
-    },
-    {
-      "question": "Quel est le plus grand lac du monde ?",
-      "options": [
-        "Lac Baïkal",
-        "Lac Supérieur",
-        "Lac Caspienne",
-        "Lac Victoria"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1777077221712_4_m6bd1w",
-      "addedAt": "2026-04-25T00:33:41.712Z"
-    },
-    {
-      "question": "Quel est le plus grand organisme unicellulaire connu ?",
-      "options": [
-        "Amibe",
-        "Paramécie",
-        "Zooxanthelle",
-        "Thallassiosire"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1777077221712_5_2pgcll",
-      "addedAt": "2026-04-25T00:33:41.712Z"
-    },
-    {
-      "question": "Quel ingrédient principal compose la sauce béarnaise ?",
-      "options": [
-        "Crème fraîche",
-        "Beurre et jaune d'œuf",
-        "Mayonnaise",
-        "Huile d'olive"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1777077221712_6_cmnqr8",
-      "addedAt": "2026-04-25T00:33:41.712Z"
-    },
-    {
-      "question": "Quel animal terrestre possède le cœur le plus lent ?",
-      "options": [
-        "Éléphant",
-        "Tortue géante",
-        "Baleine",
-        "Paresseux"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1777077221712_7_4x2dwk",
-      "addedAt": "2026-04-25T00:33:41.712Z"
-    },
-    {
-      "question": "Quel mathématicien suisse est connu pour ses travaux sur les graphes et les ponts de Königsberg ?",
-      "options": [
-        "Euler",
-        "Gauss",
-        "Leibniz",
-        "Bernoulli"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1777077221712_8_m99kt9",
-      "addedAt": "2026-04-25T00:33:41.712Z"
-    },
-    {
-      "question": "En quel continent se trouve la plus grande savane du monde ?",
-      "options": [
-        "Asie",
-        "Amérique du Sud",
-        "Afrique",
-        "Australie"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1777077221712_9_0vyh24",
-      "addedAt": "2026-04-25T00:33:41.712Z"
-    },
-    {
-      "question": "Quel pays a accueilli les Jeux Olympiques d'été en 2016 ?",
-      "options": [
-        "Brésil",
-        "Chine",
-        "Royaume-Uni",
-        "Japon"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1777077221712_10_likrf6",
-      "addedAt": "2026-04-25T00:33:41.712Z"
-    },
-    {
-      "question": "Quel est le plus haut volcan actif d'Europe ?",
-      "options": [
-        "Le Vésuve",
-        "L'Etna",
-        "Le Stromboli",
-        "Le Sakurajima"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1776998675199_0_w4x05s",
-      "addedAt": "2026-04-24T02:44:35.199Z"
     }
   ],
   "poolSize": 310
