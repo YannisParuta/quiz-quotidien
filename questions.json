@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel célèbre réalisateur britannique a créé 'Psycho' en 1960 ?",
+      "options": [
+        "David Lean",
+        "Alfred Hitchcock",
+        "Carol Reed",
+        "Terence Young"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1778544955347_8_3xbht7",
+      "addedAt": "2026-05-12T00:15:55.348Z"
+    },
+    {
+      "question": "Quel virus cause la rougeole ?",
+      "options": [
+        "Virus de la grippe",
+        "Virus de la rougeole",
+        "Virus de la varicelle",
+        "Coronavirus"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778544955348_9_yu6nbz",
+      "addedAt": "2026-05-12T00:15:55.348Z"
+    },
+    {
+      "question": "Quel plat français consiste en une pâte feuilletée garnie de crème pâtissière ?",
+      "options": [
+        "Croissant",
+        "Éclair",
+        "Mille-feuille",
+        "Tarte Tatin"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1778544955348_10_mx06le",
+      "addedAt": "2026-05-12T00:15:55.348Z"
+    },
+    {
+      "question": "Quel célèbre mathématicien grec a découvert le théorème de Pythagore ?",
+      "options": [
+        "Archimède",
+        "Euclide",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1778544955348_11_2ye8rs",
+      "addedAt": "2026-05-12T00:15:55.348Z"
+    },
+    {
+      "question": "Quel oiseau migrateur est symbole de l'arrivée du printemps en Europe ?",
+      "options": [
+        "Cigogne",
+        "Hirondelle",
+        "Coucou",
+        "Rossignol"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1778544955348_12_14q7he",
+      "addedAt": "2026-05-12T00:15:55.348Z"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde en superficie ?",
+      "options": [
+        "Monaco",
+        "Vatican",
+        "San Marin",
+        "Liechtenstein"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1778544955347_0_0bo4dx",
+      "addedAt": "2026-05-12T00:15:55.347Z"
+    },
+    {
+      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1967",
+        "1969",
+        "1971",
+        "1968"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1778544955347_1_xb5wuz",
+      "addedAt": "2026-05-12T00:15:55.347Z"
+    },
+    {
+      "question": "Quel élément chimique a le numéro atomique 79 ?",
+      "options": [
+        "Argent",
+        "Cuivre",
+        "Or",
+        "Platine"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1778544955347_2_bsvl04",
+      "addedAt": "2026-05-12T00:15:55.347Z"
+    },
+    {
+      "question": "Quel artiste italien a peint la Chapelle Sixtine ?",
+      "options": [
+        "Léonard de Vinci",
+        "Raphaël",
+        "Michel-Ange",
+        "Botticelli"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1778544955347_3_r0oray",
+      "addedAt": "2026-05-12T00:15:55.347Z"
+    },
+    {
+      "question": "Quel sport utilise un panier fixé à 3,05 mètres de hauteur ?",
+      "options": [
+        "Volley-ball",
+        "Tennis",
+        "Basket-ball",
+        "Badminton"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1778544955347_4_2es6cs",
+      "addedAt": "2026-05-12T00:15:55.347Z"
+    },
+    {
+      "question": "Quel océan est le plus profond du monde ?",
+      "options": [
+        "Atlantique",
+        "Indien",
+        "Arctique",
+        "Pacifique"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1778544955347_5_vpmuli",
+      "addedAt": "2026-05-12T00:15:55.347Z"
+    },
+    {
+      "question": "En quelle année Mozart est-il né ?",
+      "options": [
+        "1754",
+        "1756",
+        "1758",
+        "1760"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1778544955347_6_ig4svf",
+      "addedAt": "2026-05-12T00:15:55.347Z"
+    },
+    {
+      "question": "Quel gaz est essentiel pour la photosynthèse des plantes ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Dioxyde de carbone",
+        "Hydrogène"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1778544955347_7_o2q39u",
+      "addedAt": "2026-05-12T00:15:55.347Z"
+    },
+    {
       "question": "Quel mathématicien grec a formulé le théorème célèbre sur les triangles rectangles ?",
       "options": [
         "Archimède",
@@ -3860,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1777248699975_7_xcpjwy",
       "addedAt": "2026-04-27T00:11:39.975Z"
-    },
+    }
+  ],
+  "version": 191,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-12T00:15:55.348Z",
+  "archivedQuestions": [
     {
       "question": "Quel réalisateur français a créé la première version du film 'Diaboliques' en 1955 ?",
       "options": [
@@ -4029,154 +4203,6 @@
       "category": "Musique",
       "id": "q_1777163941210_1_bsvcgu",
       "addedAt": "2026-04-26T00:39:01.210Z"
-    }
-  ],
-  "version": 190,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-11T03:37:23.013Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel réalisateur a créé la saga 'La Planète des Singes' (version 2011-2017) ?",
-      "options": [
-        "Steven Spielberg",
-        "Matt Reeves",
-        "Christopher Nolan",
-        "Denis Villeneuve"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1777163941210_2_th4sdk",
-      "addedAt": "2026-04-26T00:39:01.210Z"
-    },
-    {
-      "question": "Quelle est la capitale de la Thaïlande ?",
-      "options": [
-        "Phuket",
-        "Bangkok",
-        "Chiang Mai",
-        "Pattaya"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1777163941210_3_2ma5j0",
-      "addedAt": "2026-04-26T00:39:01.210Z"
-    },
-    {
-      "question": "Quel écrivain a signé 'Les Misérables' ?",
-      "options": [
-        "Balzac",
-        "Dumas",
-        "Victor Hugo",
-        "Stendhal"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1777163941210_4_55fefc",
-      "addedAt": "2026-04-26T00:39:01.210Z"
-    },
-    {
-      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
-      "options": [
-        "1967",
-        "1969",
-        "1971",
-        "1973"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1777163941210_5_fnz6g8",
-      "addedAt": "2026-04-26T00:39:01.210Z"
-    },
-    {
-      "question": "Quel artiste a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Monet",
-        "Van Gogh",
-        "Cézanne",
-        "Matisse"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1777163941210_6_m2tk6h",
-      "addedAt": "2026-04-26T00:39:01.210Z"
-    },
-    {
-      "question": "Quel sport utilise des raquettes et se joue sur un court divisé par un filet ?",
-      "options": [
-        "Le badminton",
-        "Le tennis",
-        "Le squash",
-        "Le racquetball"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1777163941210_7_94n5bq",
-      "addedAt": "2026-04-26T00:39:01.210Z"
-    },
-    {
-      "question": "Quel animal est connu pour hiberner pendant l'hiver ?",
-      "options": [
-        "Le chameau",
-        "L'ours brun",
-        "Le chamois",
-        "Le renard"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1777163941210_8_s0tr91",
-      "addedAt": "2026-04-26T00:39:01.210Z"
-    },
-    {
-      "question": "Combien de côtés possède un pentagone ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1777163941210_9_hl6ty3",
-      "addedAt": "2026-04-26T00:39:01.210Z"
-    },
-    {
-      "question": "Quel fromage français est bleu et vient du Massif Central ?",
-      "options": [
-        "Le Camembert",
-        "Le Roquefort",
-        "Le Comté",
-        "Le Brie"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1777163941210_10_wvc7zi",
-      "addedAt": "2026-04-26T00:39:01.210Z"
-    },
-    {
-      "question": "Quel système d'exploitation a été développé par Microsoft ?",
-      "options": [
-        "macOS",
-        "Linux",
-        "Windows",
-        "iOS"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1777163941210_11_o1vf4c",
-      "addedAt": "2026-04-26T00:39:01.210Z"
-    },
-    {
-      "question": "Quel est le plus grand océan de la Terre ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1777084385215_0_a3bim3",
-      "addedAt": "2026-04-25T02:33:05.215Z"
     }
   ],
   "poolSize": 310
