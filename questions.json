@@ -1,6 +1,188 @@
 {
   "questions": [
     {
+      "question": "Quel archéologue britannique a découvert le tombeau de Toutânkhamon en 1922 ?",
+      "options": [
+        "Howard Carter",
+        "Flinders Petrie",
+        "Auguste Mariette",
+        "Zahi Hawass"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1778556273964_0_peke0z",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "Quel gaz noble est utilisé dans les tubes luminescents et porte le symbole Ne ?",
+      "options": [
+        "Hélium",
+        "Néon",
+        "Argon",
+        "Krypton"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778556273964_1_x0zk5o",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "En quel année l'Everest a-t-il été gravi pour la première fois avec succès ?",
+      "options": [
+        "1950",
+        "1953",
+        "1960",
+        "1975"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1778556273964_2_0k6xl7",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "Quel cinéaste suédois a réalisé 'Le Septième Sceau' ?",
+      "options": [
+        "Ingrid Bergman",
+        "Ingmar Bergman",
+        "Lars von Trier",
+        "Andrei Tarkovski"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1778556273964_3_o0jk6i",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "Quel fleuve traverse la Suisse et se jette dans la Mer du Nord ?",
+      "options": [
+        "Le Danube",
+        "Le Rhin",
+        "La Meuse",
+        "La Volga"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1778556273964_4_p176bv",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "Quel mathématicien grec a découvert le principe de la poussée hydrostatique en prenant son bain ?",
+      "options": [
+        "Pythagore",
+        "Archimède",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1778556273964_5_bneuxb",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "Quel compositeur russe a écrit le ballet 'Le Lac des Cygnes' ?",
+      "options": [
+        "Igor Stravinski",
+        "Serge Prokofiev",
+        "Piotr Ilitch Tchaïkovski",
+        "Dimitri Chostakovitch"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1778556273964_6_nfwu84",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "Quel système de notation musicale a été inventé par une religieuse du Moyen Âge ?",
+      "options": [
+        "Les clés de sol",
+        "Le solfège",
+        "La notation neumatique",
+        "La portée musicale"
+      ],
+      "correctAnswer": 3,
+      "category": "Musique",
+      "id": "q_1778556273964_7_k6bnl1",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "Quel type de fromage français est produit dans les grottes naturelles de Roquefort ?",
+      "options": [
+        "Camembert",
+        "Brie",
+        "Roquefort",
+        "Comté"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1778556273964_8_1b5w5z",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "Quel insecte social construit des structures géométriques complexes appelées nids ?",
+      "options": [
+        "Les termites",
+        "Les fourmis",
+        "Les abeilles",
+        "Les guêpes"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1778556273964_9_zj4nmv",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "En quel siècle le télescope a-t-il été inventé ?",
+      "options": [
+        "XVe siècle",
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778556273964_10_xsexh0",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "Quel écrivain français a créé le détective Hercule Poirot ?",
+      "options": [
+        "Maurice Leblanc",
+        "Agatha Christie",
+        "Georges Simenon",
+        "Éric Reinhardt"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1778556273964_11_z3yn5s",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "Quel phénomène météorologique se produit lorsque la terre tourne plus rapidement que l'atmosphère ?",
+      "options": [
+        "Une tornade",
+        "Un ouragan",
+        "Un vent solaire",
+        "Un jet-stream"
+      ],
+      "correctAnswer": 3,
+      "category": "Science",
+      "id": "q_1778556273964_12_j3e4hp",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
+      "question": "Quel sport d'équipe mélange le rugby et le basketball et est populaire en Australie ?",
+      "options": [
+        "Le football australien",
+        "Le netball",
+        "Le hurling",
+        "Le lacrosse"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1778556273964_13_stxubr",
+      "addedAt": "2026-05-12T03:24:33.964Z"
+    },
+    {
       "question": "Quel célèbre réalisateur britannique a créé 'Psycho' en 1960 ?",
       "options": [
         "David Lean",
@@ -3847,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1777258380359_4_l9589q",
       "addedAt": "2026-04-27T02:53:00.359Z"
-    },
+    }
+  ],
+  "version": 192,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-12T03:24:33.965Z",
+  "archivedQuestions": [
     {
       "question": "Quel mammifère marin est le prédateur du phoque ?",
       "options": [
@@ -4029,180 +4216,6 @@
       "category": "Nature",
       "id": "q_1777248699975_7_xcpjwy",
       "addedAt": "2026-04-27T00:11:39.975Z"
-    }
-  ],
-  "version": 191,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-12T00:15:55.348Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel réalisateur français a créé la première version du film 'Diaboliques' en 1955 ?",
-      "options": [
-        "Jacques Tati",
-        "Henri-Georges Clouzot",
-        "Robert Bresson",
-        "François Truffaut"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1777248699975_8_8tkzpe",
-      "addedAt": "2026-04-27T00:11:39.975Z"
-    },
-    {
-      "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
-      "options": [
-        "Antoni Gaudí",
-        "Santiago Calatrava",
-        "Josep Puig i Cadafalch",
-        "Lluís Domènech i Montaner"
-      ],
-      "correctAnswer": 0,
-      "category": "Architecture",
-      "id": "q_1777171818484_0_hfkrel",
-      "addedAt": "2026-04-26T02:50:18.484Z"
-    },
-    {
-      "question": "Quel est le plus grand désert du monde ?",
-      "options": [
-        "Le Sahara",
-        "Le désert de Gobi",
-        "L'Antarctique",
-        "Le désert de Kalahari"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1777171818484_1_vghjse",
-      "addedAt": "2026-04-26T02:50:18.484Z"
-    },
-    {
-      "question": "Quel peintre impressionniste a créé la série des 'Nymphéas' ?",
-      "options": [
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Alfred Sisley",
-        "Berthe Morisot"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1777171818484_2_r8rba6",
-      "addedAt": "2026-04-26T02:50:18.484Z"
-    },
-    {
-      "question": "En quel année la Grande Muraille de Chine a-t-elle commencé à être construite ?",
-      "options": [
-        "XIIe siècle",
-        "VIe siècle avant J.-C.",
-        "IIe siècle avant J.-C.",
-        "XVIe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1777171818484_3_3wuch8",
-      "addedAt": "2026-04-26T02:50:18.484Z"
-    },
-    {
-      "question": "Quel sport olympique combine le tir à l'arc et la course à pied ?",
-      "options": [
-        "Le pentathlon moderne",
-        "Le biathlon",
-        "Le heptathlon",
-        "Le triathlon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1777171818484_4_i0zuq5",
-      "addedAt": "2026-04-26T02:50:18.484Z"
-    },
-    {
-      "question": "Combien de côtés possède un octogone régulier ?",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1777171818484_5_myfbur",
-      "addedAt": "2026-04-26T02:50:18.484Z"
-    },
-    {
-      "question": "Quel instrument de musique traditionnel japonais a treize cordes ?",
-      "options": [
-        "Le shakuhachi",
-        "Le koto",
-        "Le shamisen",
-        "Le taiko"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1777171818484_6_5ooce1",
-      "addedAt": "2026-04-26T02:50:18.484Z"
-    },
-    {
-      "question": "En quelle année le Titanic a-t-il coulé ?",
-      "options": [
-        "1910",
-        "1912",
-        "1914",
-        "1920"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1777171818484_7_7wxhtw",
-      "addedAt": "2026-04-26T02:50:18.484Z"
-    },
-    {
-      "question": "Quel est le plus grand animal terrestre actuellement vivant ?",
-      "options": [
-        "Le rhinocéros",
-        "L'hippopotame",
-        "L'éléphant d'Afrique",
-        "La girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1777171818484_8_ndsu86",
-      "addedAt": "2026-04-26T02:50:18.484Z"
-    },
-    {
-      "question": "Quel type de fromage est traditionnellement utilisé dans la carbonara italienne ?",
-      "options": [
-        "Le parmesan",
-        "Le pecorino romain",
-        "Le mozzarella",
-        "Le gorgonzola"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1777171818484_9_wm07km",
-      "addedAt": "2026-04-26T02:50:18.484Z"
-    },
-    {
-      "question": "En quelle année la Chute du Mur de Berlin s'est-elle produite ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1985"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1777163941210_0_y725vs",
-      "addedAt": "2026-04-26T00:39:01.210Z"
-    },
-    {
-      "question": "Combien de symphonies Ludwig van Beethoven a-t-il composées ?",
-      "options": [
-        "8",
-        "9",
-        "10",
-        "11"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1777163941210_1_bsvcgu",
-      "addedAt": "2026-04-26T00:39:01.210Z"
     }
   ],
   "poolSize": 310
