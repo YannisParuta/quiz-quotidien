@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel phénomène naturel provoque les aurores boréales dans le ciel arctique ?",
+      "options": [
+        "Les éruptions volcaniques",
+        "L'interaction du vent solaire avec la magnétosphère terrestre",
+        "Les réactions chimiques dans l'atmosphère",
+        "Les réflexions de la lumière lunaire"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778643141517_0_qyok6a",
+      "addedAt": "2026-05-13T03:32:21.517Z"
+    },
+    {
+      "question": "Quel écrivain français a créé le personnage du Comte de Monte-Cristo ?",
+      "options": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1778643141517_1_z7dh0c",
+      "addedAt": "2026-05-13T03:32:21.517Z"
+    },
+    {
+      "question": "Quel élément chimique a le symbole 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Azote"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1778643141517_2_4vcjlb",
+      "addedAt": "2026-05-13T03:32:21.517Z"
+    },
+    {
+      "question": "Quel artiste des années 1980 est connu pour ses peintures de boîtes de soupe Campbell ?",
+      "options": [
+        "Andy Warhol",
+        "Jackson Pollock",
+        "Roy Lichtenstein",
+        "Keith Haring"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1778643141517_3_opvmgc",
+      "addedAt": "2026-05-13T03:32:21.517Z"
+    },
+    {
+      "question": "Quel sport utilise un volant et se joue sur un terrain rectangulaire divisé par un filet ?",
+      "options": [
+        "Le tennis de table",
+        "Le badminton",
+        "Le squash",
+        "Le volleyball"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1778643141517_4_u2ehnb",
+      "addedAt": "2026-05-13T03:32:21.517Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été créé par Linus Torvalds en 1991 ?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1778643141517_5_cqyxij",
+      "addedAt": "2026-05-13T03:32:21.517Z"
+    },
+    {
+      "question": "Quel réalisateur italien a créé le mouvement cinématographique du néoréalisme après la Seconde Guerre mondiale ?",
+      "options": [
+        "Michelangelo Antonioni",
+        "Sergio Leone",
+        "Roberto Rossellini",
+        "Vittorio De Sica"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1778643141517_6_qqmzr6",
+      "addedAt": "2026-05-13T03:32:21.517Z"
+    },
+    {
+      "question": "Quel plat français traditionnel est préparé avec du foie gras ?",
+      "options": [
+        "La bouillabaisse",
+        "Le pâté de foie gras",
+        "L'escargot de Bourgogne",
+        "La cassoulet"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1778643141517_7_d9rsbg",
+      "addedAt": "2026-05-13T03:32:21.517Z"
+    },
+    {
+      "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles portant son nom ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1778643141517_8_akdaqa",
+      "addedAt": "2026-05-13T03:32:21.517Z"
+    },
+    {
+      "question": "Quel animal possède le cœur le plus grand du règne animal ?",
+      "options": [
+        "L'éléphant",
+        "Le cœlacanthe",
+        "La baleine bleue",
+        "L'autruche"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1778643141517_9_opicrm",
+      "addedAt": "2026-05-13T03:32:21.517Z"
+    },
+    {
+      "question": "Quel historien et philosophe français du XVIIIe siècle a écrit 'Candide' ?",
+      "options": [
+        "Jean-Jacques Rousseau",
+        "Denis Diderot",
+        "Voltaire",
+        "Montesquieu"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1778643141517_10_5wc44z",
+      "addedAt": "2026-05-13T03:32:21.517Z"
+    },
+    {
       "question": "En quel année la Révolution française a-t-elle commencé ?",
       "options": [
         "1787",
@@ -3886,7 +4029,12 @@
       "category": "Sport",
       "id": "q_1777346494437_6_wzetvs",
       "addedAt": "2026-04-28T03:21:34.437Z"
-    },
+    }
+  ],
+  "version": 194,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-13T03:32:21.518Z",
+  "archivedQuestions": [
     {
       "question": "Quel type de protéine est responsable du transport de l'oxygène dans le sang humain ?",
       "options": [
@@ -4029,128 +4177,6 @@
       "category": "Géographie",
       "id": "q_1777334762690_8_8g7xxg",
       "addedAt": "2026-04-28T00:06:02.690Z"
-    }
-  ],
-  "version": 193,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-13T00:15:53.976Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel peintre italien de la Renaissance est célèbre pour ses fresques du Sistine et le 'David' en sculpture ?",
-      "options": [
-        "Raphaël",
-        "Michel-Ange",
-        "Donatello",
-        "Léonard de Vinci"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1777334762690_9_1ep71n",
-      "addedAt": "2026-04-28T00:06:02.690Z"
-    },
-    {
-      "question": "Quel type de cuisine française est caractérisée par des portions généreuses et des plats de terroir régional ?",
-      "options": [
-        "La nouvelle cuisine",
-        "La cuisine bourgeoise",
-        "La gastronomie moléculaire",
-        "La cuisine paysanne"
-      ],
-      "correctAnswer": 3,
-      "category": "Gastronomie",
-      "id": "q_1777334762690_10_sc9hjq",
-      "addedAt": "2026-04-28T00:06:02.690Z"
-    },
-    {
-      "question": "Quel était le langage de programmation utilisé pour créer le système d'exploitation Unix ?",
-      "options": [
-        "Python",
-        "C",
-        "Java",
-        "Assembly"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1777334762690_11_4icpak",
-      "addedAt": "2026-04-28T00:06:02.690Z"
-    },
-    {
-      "question": "Quel athlète jamaïcain détient le record du monde du 100 mètres avec un temps de 9,58 secondes ?",
-      "options": [
-        "Yohan Blake",
-        "Usain Bolt",
-        "Asafa Powell",
-        "Justin Gatlin"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1777334762690_12_tg0s3w",
-      "addedAt": "2026-04-28T00:06:02.690Z"
-    },
-    {
-      "question": "En quelle année la Première Guerre mondiale a-t-elle pris fin ?",
-      "options": [
-        "1916",
-        "1917",
-        "1918",
-        "1919"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1777258380359_0_0vi8y6",
-      "addedAt": "2026-04-27T02:53:00.359Z"
-    },
-    {
-      "question": "Quel peintre espagnol a cofondé le mouvement cubiste ?",
-      "options": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Joan Miró",
-        "Francisco Goya"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1777258380359_1_c9224e",
-      "addedAt": "2026-04-27T02:53:00.359Z"
-    },
-    {
-      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
-      "options": [
-        "Belgique",
-        "Croatie",
-        "France",
-        "Allemagne"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1777258380359_2_iaxryb",
-      "addedAt": "2026-04-27T02:53:00.359Z"
-    },
-    {
-      "question": "Quel musicien a composé 'La Marche des Dieux' pour le film 'Apocalypse Now' ?",
-      "options": [
-        "John Williams",
-        "Vangelis",
-        "Giorgio Moroder",
-        "Hans Zimmer"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1777258380359_3_7xxl53",
-      "addedAt": "2026-04-27T02:53:00.359Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé la série 'Amélie Poulain' ?",
-      "options": [
-        "Luc Besson",
-        "Jean-Pierre Jeunet",
-        "Christophe Honoré",
-        "Michel Gondry"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1777258380359_4_l9589q",
-      "addedAt": "2026-04-27T02:53:00.359Z"
     }
   ],
   "poolSize": 310
