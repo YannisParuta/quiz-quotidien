@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "En quel année la Révolution française a-t-elle commencé ?",
+      "options": [
+        "1787",
+        "1789",
+        "1791",
+        "1793"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1778631353975_0_gbxdaz",
+      "addedAt": "2026-05-13T00:15:53.975Z"
+    },
+    {
+      "question": "Quel scientifique a découvert la pénicilline en 1928 ?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Joseph Lister",
+        "Edward Jenner"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778631353975_1_rervly",
+      "addedAt": "2026-05-13T00:15:53.975Z"
+    },
+    {
+      "question": "Quel est le sport national du Japon ?",
+      "options": [
+        "Le karaté",
+        "Le sumo",
+        "Le judo",
+        "Le badminton"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1778631353975_2_ohjmec",
+      "addedAt": "2026-05-13T00:15:53.975Z"
+    },
+    {
+      "question": "Quel gaz constitue environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "L'oxygène",
+        "L'azote",
+        "L'argon",
+        "Le dioxyde de carbone"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778631353975_3_muix2j",
+      "addedAt": "2026-05-13T00:15:53.975Z"
+    },
+    {
+      "question": "Quel compositeur autrichien est surnommé 'Wolfgang'? Quel est son nom complet ?",
+      "options": [
+        "Wolfgang Strauss",
+        "Wolfgang Amadeus Mozart",
+        "Wolfgang Mahler",
+        "Wolfgang Salieri"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1778631353975_4_8arqrj",
+      "addedAt": "2026-05-13T00:15:53.975Z"
+    },
+    {
+      "question": "Quel film réalisé par James Cameron sort en 1997 et devient le plus grand succès au box-office de son époque ?",
+      "options": [
+        "Avatar",
+        "Titanic",
+        "Terminator 2",
+        "Aliens"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1778631353975_5_26zfyz",
+      "addedAt": "2026-05-13T00:15:53.975Z"
+    },
+    {
+      "question": "Quel fruit tropical contient une enzyme appelée bromélaïne ?",
+      "options": [
+        "La mangue",
+        "La banane",
+        "L'ananas",
+        "La papaye"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1778631353975_6_rlrnt2",
+      "addedAt": "2026-05-13T00:15:53.975Z"
+    },
+    {
+      "question": "Quel est le premier nombre premier ?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1778631353975_7_q8e8jd",
+      "addedAt": "2026-05-13T00:15:53.975Z"
+    },
+    {
+      "question": "Quel mouvement artistique des années 1960 utilise des images des médias de masse et de la culture populaire ?",
+      "options": [
+        "Le Dadaïsme",
+        "Le Pop Art",
+        "L'Art abstrait",
+        "L'Expressionnisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1778631353975_8_vxxd7c",
+      "addedAt": "2026-05-13T00:15:53.975Z"
+    },
+    {
       "question": "Quel archéologue britannique a découvert le tombeau de Toutânkhamon en 1922 ?",
       "options": [
         "Howard Carter",
@@ -3912,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1777334762690_8_8g7xxg",
       "addedAt": "2026-04-28T00:06:02.690Z"
-    },
+    }
+  ],
+  "version": 193,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-13T00:15:53.976Z",
+  "archivedQuestions": [
     {
       "question": "Quel peintre italien de la Renaissance est célèbre pour ses fresques du Sistine et le 'David' en sculpture ?",
       "options": [
@@ -4029,193 +4151,6 @@
       "category": "Cinéma",
       "id": "q_1777258380359_4_l9589q",
       "addedAt": "2026-04-27T02:53:00.359Z"
-    }
-  ],
-  "version": 192,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-12T03:24:33.965Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mammifère marin est le prédateur du phoque ?",
-      "options": [
-        "Le dauphin",
-        "L'orque",
-        "Le requin blanc",
-        "Le cachalot"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1777258380359_5_rv0b7i",
-      "addedAt": "2026-04-27T02:53:00.359Z"
-    },
-    {
-      "question": "En informatique, quel langage de programmation est utilisé principalement pour les pages web ?",
-      "options": [
-        "Python",
-        "JavaScript",
-        "C++",
-        "Java"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1777258380359_6_04uecf",
-      "addedAt": "2026-04-27T02:53:00.359Z"
-    },
-    {
-      "question": "Quel mathématicien a développé le système de coordonnées cartésiennes ?",
-      "options": [
-        "Isaac Newton",
-        "René Descartes",
-        "Blaise Pascal",
-        "Pierre de Fermat"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1777258380359_7_jqbmcv",
-      "addedAt": "2026-04-27T02:53:00.359Z"
-    },
-    {
-      "question": "Quel instrument de musique à cordes pincées est le symbole de la Grèce antique ?",
-      "options": [
-        "La harpe",
-        "La lyre",
-        "Le luth",
-        "La cithare"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_1777258380359_8_mo3vrh",
-      "addedAt": "2026-04-27T02:53:00.359Z"
-    },
-    {
-      "question": "Quel philosophe grec a fondé l'Académie à Athènes ?",
-      "options": [
-        "Socrate",
-        "Platon",
-        "Aristote",
-        "Épicure"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1777258380359_9_g6s9y4",
-      "addedAt": "2026-04-27T02:53:00.359Z"
-    },
-    {
-      "question": "Quel type de roche est le marbre ?",
-      "options": [
-        "Roche sédimentaire",
-        "Roche ignée",
-        "Roche métamorphique",
-        "Roche volcanique"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1777258380359_10_d8ncu9",
-      "addedAt": "2026-04-27T02:53:00.359Z"
-    },
-    {
-      "question": "Quel célèbre compositeur autrichien a écrit 'Eine kleine Nachtmusik' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Johann Sebastian Bach",
-        "Franz Schubert",
-        "Antonio Vivaldi"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1777248699975_0_042g13",
-      "addedAt": "2026-04-27T00:11:39.975Z"
-    },
-    {
-      "question": "Quel est le plus grand désert chaud du monde ?",
-      "options": [
-        "Le désert du Sahara",
-        "Le désert de Gobi",
-        "Le désert de Kalahari",
-        "Le désert d'Arabie"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1777248699975_1_x4jc9d",
-      "addedAt": "2026-04-27T00:11:39.975Z"
-    },
-    {
-      "question": "Quel romancier français a écrit 'Les Misérables' ?",
-      "options": [
-        "Émile Zola",
-        "Victor Hugo",
-        "Alexandre Dumas",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1777248699975_2_wes84q",
-      "addedAt": "2026-04-27T00:11:39.975Z"
-    },
-    {
-      "question": "Quel sport professionnel a été inventé à Montréal en 1875 ?",
-      "options": [
-        "Le basketball",
-        "Le hockey sur glace",
-        "Le football canadien",
-        "Le curling"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1777248699975_3_07sce4",
-      "addedAt": "2026-04-27T00:11:39.975Z"
-    },
-    {
-      "question": "Quel peintre espagnol est connu pour ses déformations surréalistes du corps humain ?",
-      "options": [
-        "Pablo Picasso",
-        "Salvador Dalí",
-        "Joan Miró",
-        "Francisco Goya"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1777248699975_4_637hdr",
-      "addedAt": "2026-04-27T00:11:39.975Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en bromélaïne, une enzyme digestive ?",
-      "options": [
-        "La banane",
-        "La mangue",
-        "L'ananas",
-        "La papaye"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1777248699975_5_c77bhq",
-      "addedAt": "2026-04-27T00:11:39.975Z"
-    },
-    {
-      "question": "Quel est le langage de programmation créé par Guido van Rossum ?",
-      "options": [
-        "Java",
-        "Python",
-        "Ruby",
-        "JavaScript"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1777248699975_6_qsok97",
-      "addedAt": "2026-04-27T00:11:39.975Z"
-    },
-    {
-      "question": "Quel animal mammifère pond des œufs et vit en Australie ?",
-      "options": [
-        "Le koala",
-        "Le kangourou",
-        "L'ornithorynque",
-        "Le wombat"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1777248699975_7_xcpjwy",
-      "addedAt": "2026-04-27T00:11:39.975Z"
     }
   ],
   "poolSize": 310
