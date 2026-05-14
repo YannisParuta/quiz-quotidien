@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel chimiste français a découvert la radioactivité en 1896 ?",
+      "options": [
+        "Marie Curie",
+        "Henri Becquerel",
+        "Pierre Curie",
+        "Ernest Rutherford"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778717339389_0_9p5nt3",
+      "addedAt": "2026-05-14T00:08:59.389Z"
+    },
+    {
+      "question": "Quel artiste néerlandais a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Paul Cézanne",
+        "Vincent van Gogh",
+        "Henri de Toulouse-Lautrec",
+        "Édouard Manet"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1778717339389_1_ml9hll",
+      "addedAt": "2026-05-14T00:08:59.389Z"
+    },
+    {
+      "question": "En quel siècle a été signé la Magna Carta en Angleterre ?",
+      "options": [
+        "XIe siècle",
+        "XIIe siècle",
+        "XIIIe siècle",
+        "XIVe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1778717339389_2_a7li9g",
+      "addedAt": "2026-05-14T00:08:59.389Z"
+    },
+    {
+      "question": "Quel est le nombre de côtés d'un hexagone régulier ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1778717339389_3_48dj4h",
+      "addedAt": "2026-05-14T00:08:59.389Z"
+    },
+    {
+      "question": "Quel sport nautique consiste à naviguer avec une planche et une voile ?",
+      "options": [
+        "Le surf",
+        "Le wakeboard",
+        "La planche à voile",
+        "Le kayak"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1778717339389_4_cpnzsl",
+      "addedAt": "2026-05-14T00:08:59.389Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Asie ?",
+      "options": [
+        "Le fleuve Jaune",
+        "Le Mékong",
+        "Le Yangzi",
+        "L'Indus"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1778717339389_5_dkd836",
+      "addedAt": "2026-05-14T00:08:59.389Z"
+    },
+    {
+      "question": "Quel type de cuisine utilise principalement du riz, du soja et des fruits de mer ?",
+      "options": [
+        "La cuisine méditerranéenne",
+        "La cuisine asiatique",
+        "La cuisine tex-mex",
+        "La cuisine scandinave"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1778717339389_6_xw0fa8",
+      "addedAt": "2026-05-14T00:08:59.389Z"
+    },
+    {
+      "question": "Quel animal terrestre possède la plus longue espérance de vie ?",
+      "options": [
+        "L'éléphant",
+        "La tortue géante",
+        "Le perroquet gris",
+        "La baleine"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1778717339389_7_jq15p2",
+      "addedAt": "2026-05-14T00:08:59.389Z"
+    },
+    {
+      "question": "Quel langage de programmation a été créé par Guido van Rossum en 1989 ?",
+      "options": [
+        "Java",
+        "Python",
+        "C++",
+        "JavaScript"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1778717339389_8_dlxdk9",
+      "addedAt": "2026-05-14T00:08:59.389Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'Amélie' en 2001 ?",
+      "options": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Claude Chabrol",
+        "François Truffaut"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1778717339389_9_te8rb8",
+      "addedAt": "2026-05-14T00:08:59.389Z"
+    },
+    {
       "question": "Quel phénomène naturel provoque les aurores boréales dans le ciel arctique ?",
       "options": [
         "Les éruptions volcaniques",
@@ -3899,7 +4029,12 @@
       "category": "Art",
       "id": "q_1777422016514_6_osmeb0",
       "addedAt": "2026-04-29T00:20:16.514Z"
-    },
+    }
+  ],
+  "version": 195,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-14T00:08:59.390Z",
+  "archivedQuestions": [
     {
       "question": "Quel sport consiste à frapper une balle avec une raquette sur un court herbeux ?",
       "options": [
@@ -4029,154 +4164,6 @@
       "category": "Sport",
       "id": "q_1777346494437_6_wzetvs",
       "addedAt": "2026-04-28T03:21:34.437Z"
-    }
-  ],
-  "version": 194,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-13T03:32:21.518Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel type de protéine est responsable du transport de l'oxygène dans le sang humain ?",
-      "options": [
-        "L'amylase",
-        "L'hémoglobine",
-        "L'insuline",
-        "L'albumine"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1777346494437_7_6jlk91",
-      "addedAt": "2026-04-28T03:21:34.437Z"
-    },
-    {
-      "question": "Quel est le plus vieux vignoble en production continue d'Europe ?",
-      "options": [
-        "En Alsace",
-        "En Allemagne",
-        "En Hongrie",
-        "En Slovénie"
-      ],
-      "correctAnswer": 3,
-      "category": "Gastronomie",
-      "id": "q_1777346494437_8_30zfva",
-      "addedAt": "2026-04-28T03:21:34.437Z"
-    },
-    {
-      "question": "Quel explorateur portugais a été le premier à contourner le cap de Bonne-Espérance en 1488 ?",
-      "options": [
-        "Vasco de Gama",
-        "Bartolomeu Dias",
-        "Christophe Colomb",
-        "Ferdinand Magellan"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1777334762690_0_w5ng42",
-      "addedAt": "2026-04-28T00:06:02.690Z"
-    },
-    {
-      "question": "Quel scientifique a formulé la théorie de l'évolution par la sélection naturelle ?",
-      "options": [
-        "Jean-Baptiste Lamarck",
-        "Charles Darwin",
-        "Alfred Russel Wallace",
-        "Gregor Mendel"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1777334762690_1_35w8qo",
-      "addedAt": "2026-04-28T00:06:02.690Z"
-    },
-    {
-      "question": "Quel instrument de musique à cordes est originaire d'Afrique de l'Ouest et possède des cordes en nylon ?",
-      "options": [
-        "Le sitar",
-        "La kora",
-        "La mandoline",
-        "Le luth"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1777334762690_2_z3uuto",
-      "addedAt": "2026-04-28T00:06:02.690Z"
-    },
-    {
-      "question": "Quel phénomène climatique périodique affecte particulièrement l'Océan Pacifique et se caractérise par un réchauffement des eaux ?",
-      "options": [
-        "La mousson",
-        "El Niño",
-        "La Niña",
-        "Le Gulf Stream"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1777334762690_3_pdk1fy",
-      "addedAt": "2026-04-28T00:06:02.690Z"
-    },
-    {
-      "question": "Combien de os possède un adulte humain en moyenne ?",
-      "options": [
-        "186",
-        "206",
-        "226",
-        "246"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1777334762690_4_6vy5qc",
-      "addedAt": "2026-04-28T00:06:02.690Z"
-    },
-    {
-      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Oscar Wilde",
-        "Arthur Conan Doyle",
-        "Agatha Christie",
-        "George Bernard Shaw"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1777334762690_5_z9otn1",
-      "addedAt": "2026-04-28T00:06:02.690Z"
-    },
-    {
-      "question": "Quel minéral transparent et dur est composé de carbone pur et est la pierre précieuse la plus appréciée ?",
-      "options": [
-        "Le rubis",
-        "Le diamant",
-        "l'émeraude",
-        "Le saphir"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1777334762690_6_kd09bt",
-      "addedAt": "2026-04-28T00:06:02.690Z"
-    },
-    {
-      "question": "En quel siècle l'Académie française a-t-elle été fondée ?",
-      "options": [
-        "XVe siècle",
-        "XVIe siècle",
-        "XVIIe siècle",
-        "XVIIIe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1777334762690_7_lex1gm",
-      "addedAt": "2026-04-28T00:06:02.690Z"
-    },
-    {
-      "question": "Quel océan est le deuxième plus vaste du monde ?",
-      "options": [
-        "L'océan Indien",
-        "L'océan Atlantique",
-        "L'océan Arctique",
-        "L'océan Pacifique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1777334762690_8_8g7xxg",
-      "addedAt": "2026-04-28T00:06:02.690Z"
     }
   ],
   "poolSize": 310
