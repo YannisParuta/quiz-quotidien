@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel mouvement artistique a été fondé par Salvador Dalí ?",
+      "options": [
+        "Le cubisme",
+        "Le surréalisme",
+        "L'expressionnisme",
+        "Le futurisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1778806513287_0_gnw39x",
+      "addedAt": "2026-05-15T00:55:13.287Z"
+    },
+    {
+      "question": "Quel animal est le mammifère terrestre le plus rapide ?",
+      "options": [
+        "Le lion",
+        "Le guépard",
+        "L'antilope",
+        "Le cheval"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1778806513287_1_tletyt",
+      "addedAt": "2026-05-15T00:55:13.287Z"
+    },
+    {
+      "question": "En quel siècle la dynastie Ming a-t-elle gouverné la Chine ?",
+      "options": [
+        "12e au 14e siècle",
+        "14e au 17e siècle",
+        "16e au 18e siècle",
+        "17e au 19e siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1778806513287_2_07tl5u",
+      "addedAt": "2026-05-15T00:55:13.287Z"
+    },
+    {
+      "question": "Quel réalisateur britannique a créé la franchise 'James Bond' au cinéma ?",
+      "options": [
+        "Christopher Nolan",
+        "Guy Hamilton",
+        "Steven Spielberg",
+        "David Lean"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1778806513287_3_sj5d15",
+      "addedAt": "2026-05-15T00:55:13.287Z"
+    },
+    {
+      "question": "Combien de pattes possède une araignée ?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1778806513287_4_gmw6kg",
+      "addedAt": "2026-05-15T00:55:13.287Z"
+    },
+    {
+      "question": "Quel protocole de communication informatique est à la base du Web ?",
+      "options": [
+        "FTP",
+        "SMTP",
+        "HTTP",
+        "DNS"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1778806513287_5_fg6vka",
+      "addedAt": "2026-05-15T00:55:13.287Z"
+    },
+    {
+      "question": "Quel plat espagnol traditionnel est à base de riz, fruits de mer et safran ?",
+      "options": [
+        "La paella",
+        "Le gazpacho",
+        "Les tapas",
+        "La tortilla"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1778806513287_6_yslsjx",
+      "addedAt": "2026-05-15T00:55:13.287Z"
+    },
+    {
+      "question": "Quel nombre est considéré comme le plus parfait en mathématiques antiques ?",
+      "options": [
+        "7",
+        "6",
+        "9",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1778806513287_7_0al2lb",
+      "addedAt": "2026-05-15T00:55:13.287Z"
+    },
+    {
+      "question": "Quel footballeur a remporté le plus de Ballons d'Or avant 2024 ?",
+      "options": [
+        "Pelé",
+        "Maradona",
+        "Cristiano Ronaldo",
+        "Messi"
+      ],
+      "correctAnswer": 3,
+      "category": "Sport",
+      "id": "q_1778806513287_8_hqljrl",
+      "addedAt": "2026-05-15T00:55:13.287Z"
+    },
+    {
       "question": "Quel est le plus grand désert chaud du monde ?",
       "options": [
         "Le Sahara",
@@ -3912,7 +4029,12 @@
       "category": "Technologie",
       "id": "q_1777507786677_7_ycqelm",
       "addedAt": "2026-04-30T00:09:46.677Z"
-    },
+    }
+  ],
+  "version": 197,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-15T00:55:13.288Z",
+  "archivedQuestions": [
     {
       "question": "Quel sculpteur italien a créé la statue du 'David' au XVIe siècle ?",
       "options": [
@@ -4029,141 +4151,6 @@
       "category": "Gastronomie",
       "id": "q_1777431460507_7_y40plv",
       "addedAt": "2026-04-29T02:57:40.507Z"
-    }
-  ],
-  "version": 196,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-14T03:32:07.996Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel réalisateur sud-coréen a remporté la Palme d'or à Cannes en 2019 avec 'Parasite' ?",
-      "options": [
-        "Lee Chang-dong",
-        "Bong Joon-ho",
-        "Kim Ki-duk",
-        "Park Chan-wook"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1777431460507_8_yanlfe",
-      "addedAt": "2026-04-29T02:57:40.507Z"
-    },
-    {
-      "question": "Combien de bits composent un octet en informatique ?",
-      "options": [
-        "4",
-        "8",
-        "16",
-        "32"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1777431460507_9_ublq71",
-      "addedAt": "2026-04-29T02:57:40.507Z"
-    },
-    {
-      "question": "Quel empire antique a construit le Colosseum à Rome ?",
-      "options": [
-        "L'Empire romain républicain",
-        "L'Empire romain sous les Flaviens",
-        "L'Empire byzantin",
-        "L'Empire ottoman"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1777431460507_10_kf0jxn",
-      "addedAt": "2026-04-29T02:57:40.507Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit la 9ème symphonie contenant l'Ode à la Joie ?",
-      "options": [
-        "Wolfgang Mozart",
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach",
-        "Richard Wagner"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1777422016514_0_t4nxaz",
-      "addedAt": "2026-04-29T00:20:16.514Z"
-    },
-    {
-      "question": "Quel animal peut survivre sans boire d'eau pendant plusieurs années ?",
-      "options": [
-        "Le chameau",
-        "Le kangourou",
-        "La girafe",
-        "Le chameau"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1777422016514_1_wip29t",
-      "addedAt": "2026-04-29T00:20:16.514Z"
-    },
-    {
-      "question": "En quel siècle la Grande Muraille de Chine a-t-elle été principalement construite ?",
-      "options": [
-        "7ème siècle",
-        "10ème siècle",
-        "15ème-17ème siècle",
-        "18ème siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1777422016514_2_zvkz40",
-      "addedAt": "2026-04-29T00:20:16.514Z"
-    },
-    {
-      "question": "Quel romancier britannique a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Oscar Wilde",
-        "Arthur Conan Doyle",
-        "Charles Dickens",
-        "Thomas Hardy"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1777422016514_3_l6c11b",
-      "addedAt": "2026-04-29T00:20:16.514Z"
-    },
-    {
-      "question": "Quel film d'animation Pixar raconte l'histoire d'un robot amoureux de la Terre ?",
-      "options": [
-        "Ratatouille",
-        "WALL-E",
-        "Toy Story",
-        "Monstres & Cie"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1777422016514_4_at7eji",
-      "addedAt": "2026-04-29T00:20:16.514Z"
-    },
-    {
-      "question": "En quelle année la Bastille a-t-elle été prise pendant la Révolution française ?",
-      "options": [
-        "1788",
-        "1789",
-        "1790",
-        "1792"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1777422016514_5_b9sxol",
-      "addedAt": "2026-04-29T00:20:16.514Z"
-    },
-    {
-      "question": "Quel peintre impressionniste français est célèbre pour ses séries de Nymphéas ?",
-      "options": [
-        "Edgar Degas",
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Frédéric Bazille"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1777422016514_6_osmeb0",
-      "addedAt": "2026-04-29T00:20:16.514Z"
     }
   ],
   "poolSize": 310
