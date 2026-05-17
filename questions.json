@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel élément chimique a le symbole 'Au' sur le tableau périodique ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "L'aluminium",
+        "L'arsenic"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778977972883_0_i7qdr8",
+      "addedAt": "2026-05-17T00:32:52.883Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'Amélie' en 2001 ?",
+      "options": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Michel Gondry",
+        "Mathieu Kassovitz"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1778977972883_1_nd40h8",
+      "addedAt": "2026-05-17T00:32:52.883Z"
+    },
+    {
+      "question": "Quel insecte butine les fleurs et produit du miel ?",
+      "options": [
+        "La guêpe",
+        "Le papillon",
+        "L'abeille",
+        "La libellule"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1778977972883_2_nicx8w",
+      "addedAt": "2026-05-17T00:32:52.883Z"
+    },
+    {
+      "question": "Quel musicien suédois a dominé les charts avec le groupe ABBA dans les années 1970 ?",
+      "options": [
+        "Benny Andersson",
+        "Björn Ulvaeus",
+        "Les deux",
+        "Aucun des deux"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1778977972883_3_ztax0e",
+      "addedAt": "2026-05-17T00:32:52.883Z"
+    },
+    {
+      "question": "Quel château français est célèbre pour sa galerie des Glaces ?",
+      "options": [
+        "Château de Chambord",
+        "Château de Versailles",
+        "Château de Chenonceau",
+        "Château de Fontainebleau"
+      ],
+      "correctAnswer": 1,
+      "category": "Architecture",
+      "id": "q_1778977972883_4_ypcly4",
+      "addedAt": "2026-05-17T00:32:52.883Z"
+    },
+    {
+      "question": "Quel sport utilise des quilles et une boule ?",
+      "options": [
+        "Le curling",
+        "Le bowling",
+        "La pétanque",
+        "Le billard"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1778977972883_5_9zas9c",
+      "addedAt": "2026-05-17T00:32:52.883Z"
+    },
+    {
+      "question": "Quel phénomène optique crée un arc coloré dans le ciel après la pluie ?",
+      "options": [
+        "Le mirage",
+        "L'arc-en-ciel",
+        "L'aurore boréale",
+        "Le halo"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778977972883_6_swr574",
+      "addedAt": "2026-05-17T00:32:52.883Z"
+    },
+    {
+      "question": "Quel artiste a peint 'La Nuit étoilée' en 1889 ?",
+      "options": [
+        "Paul Klee",
+        "Salvador Dalí",
+        "Vincent van Gogh",
+        "Pablo Picasso"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1778977972883_7_esrmc5",
+      "addedAt": "2026-05-17T00:32:52.883Z"
+    },
+    {
+      "question": "Quel alcool blanc est obtenu par la fermentation et la distillation de la canne à sucre ?",
+      "options": [
+        "Le rhum",
+        "La vodka",
+        "Le whisky",
+        "Le gin"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1778977972883_8_4gsjky",
+      "addedAt": "2026-05-17T00:32:52.883Z"
+    },
+    {
+      "question": "Quel est le langage de balisage fondamental pour créer des pages web ?",
+      "options": [
+        "Python",
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1778977972883_9_iwqp8w",
+      "addedAt": "2026-05-17T00:32:52.883Z"
+    },
+    {
       "question": "Quel est le plus haut sommet du continent africain ?",
       "options": [
         "Mont Kenya",
@@ -3899,7 +4029,12 @@
       "category": "Art",
       "id": "q_1777682427109_1_7et8lz",
       "addedAt": "2026-05-02T00:40:27.109Z"
-    },
+    }
+  ],
+  "version": 201,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-17T00:32:52.884Z",
+  "archivedQuestions": [
     {
       "question": "Combien de cordes possède un violon ?",
       "options": [
@@ -4029,154 +4164,6 @@
       "category": "Sport",
       "id": "q_1777606261279_1_88pa5b",
       "addedAt": "2026-05-01T03:31:01.279Z"
-    }
-  ],
-  "version": 200,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-16T03:19:53.856Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de cordes a une guitare classique ?",
-      "options": [
-        "4",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1777606261279_2_zwrrt6",
-      "addedAt": "2026-05-01T03:31:01.279Z"
-    },
-    {
-      "question": "Quel pays a inventé les pâtes alimentaires selon la tradition historique ?",
-      "options": [
-        "La Chine",
-        "L'Italie",
-        "La Grèce",
-        "La France"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1777606261279_3_lkkw0s",
-      "addedAt": "2026-05-01T03:31:01.279Z"
-    },
-    {
-      "question": "Quel physicien a découvert la radioactivité ?",
-      "options": [
-        "Marie Curie",
-        "Albert Einstein",
-        "Henry Becquerel",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1777606261279_4_yjpsw3",
-      "addedAt": "2026-05-01T03:31:01.279Z"
-    },
-    {
-      "question": "En quel siècle la Grande Muraille de Chine a-t-elle été construite pour la première fois ?",
-      "options": [
-        "7e siècle av. J.-C.",
-        "3e siècle av. J.-C.",
-        "1er siècle av. J.-C.",
-        "2e siècle ap. J.-C."
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1777606261279_5_9i6mf0",
-      "addedAt": "2026-05-01T03:31:01.279Z"
-    },
-    {
-      "question": "Quel réalisateur français a dirigé le film 'Les Quatre Cents Coups' ?",
-      "options": [
-        "Jean-Luc Godard",
-        "François Truffaut",
-        "Claude Chabrol",
-        "Jacques Rivette"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1777606261279_6_9gvqo1",
-      "addedAt": "2026-05-01T03:31:01.279Z"
-    },
-    {
-      "question": "Quel est le plus grand prédateur du règne animal actuel ?",
-      "options": [
-        "Tigre du Bengale",
-        "Requin blanc",
-        "Lion",
-        "Ours polaire"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1777606261279_7_x39mw6",
-      "addedAt": "2026-05-01T03:31:01.279Z"
-    },
-    {
-      "question": "Quel programmeur informatique a créé le World Wide Web (WWW) ?",
-      "options": [
-        "Bill Gates",
-        "Steve Jobs",
-        "Tim Berners-Lee",
-        "Linus Torvalds"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1777606261279_8_byhaud",
-      "addedAt": "2026-05-01T03:31:01.279Z"
-    },
-    {
-      "question": "Quel nombre représente l'infini en mathématiques symboliquement ?",
-      "options": [
-        "∞",
-        "π",
-        "φ",
-        "Ω"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1777606261279_9_b2ebjc",
-      "addedAt": "2026-05-01T03:31:01.279Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit la célèbre 'Marche turque' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach",
-        "Franz Schubert"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1777595943866_0_m7zq5w",
-      "addedAt": "2026-05-01T00:39:03.866Z"
-    },
-    {
-      "question": "Quel pays d'Asie du Sud-Est est le plus grand producteur de caoutchouc naturel ?",
-      "options": [
-        "Viêtnam",
-        "Thaïlande",
-        "Indonésie",
-        "Malaisie"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1777595943866_1_f4jbjj",
-      "addedAt": "2026-05-01T00:39:03.866Z"
-    },
-    {
-      "question": "Quel gaz est principalement responsable du changement climatique ?",
-      "options": [
-        "L'azote",
-        "Le dioxyde de carbone",
-        "L'oxygène",
-        "L'hydrogène"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1777595943866_2_w6gzl1",
-      "addedAt": "2026-05-01T00:39:03.866Z"
     }
   ],
   "poolSize": 310
