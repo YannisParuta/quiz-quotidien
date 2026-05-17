@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a développé la théorie de la relativité générale ?",
+      "options": [
+        "Niels Bohr",
+        "Albert Einstein",
+        "Max Planck",
+        "Werner Heisenberg"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778988803652_0_5wamgu",
+      "addedAt": "2026-05-17T03:33:23.652Z"
+    },
+    {
+      "question": "Quel capital est situé à la confluence du Danube et de la Vltava ?",
+      "options": [
+        "Budapest",
+        "Prague",
+        "Bratislava",
+        "Vienne"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1778988803652_1_zqonem",
+      "addedAt": "2026-05-17T03:33:23.652Z"
+    },
+    {
+      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Ivan Tourgueniev",
+        "Nikolaï Gogol"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1778988803652_2_dv0jrl",
+      "addedAt": "2026-05-17T03:33:23.652Z"
+    },
+    {
+      "question": "Quel instrument de musique possède 88 touches ?",
+      "options": [
+        "Harpe",
+        "Violon",
+        "Piano",
+        "Saxophone"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1778988803652_3_81art0",
+      "addedAt": "2026-05-17T03:33:23.652Z"
+    },
+    {
+      "question": "Quel processus biologique transforme la lumière en énergie chimique chez les plantes ?",
+      "options": [
+        "Respiration cellulaire",
+        "Photosynthèse",
+        "Fermentation",
+        "Transpiration"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778988803652_4_kq5j13",
+      "addedAt": "2026-05-17T03:33:23.652Z"
+    },
+    {
+      "question": "Quel empire antique a construit le Colosseum à Rome ?",
+      "options": [
+        "Empire romain",
+        "République romaine",
+        "Empire byzantin",
+        "Empire ottoman"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1778988803652_5_b71sbt",
+      "addedAt": "2026-05-17T03:33:23.652Z"
+    },
+    {
+      "question": "Quel sport olympique combine la natation, le cyclisme et la course à pied ?",
+      "options": [
+        "Pentathlon moderne",
+        "Triathlon",
+        "Décathlon",
+        "Biathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1778988803652_6_ueek4j",
+      "addedAt": "2026-05-17T03:33:23.652Z"
+    },
+    {
+      "question": "Quel type de roche se forme par refroidissement du magma ?",
+      "options": [
+        "Roche sédimentaire",
+        "Roche métamorphique",
+        "Roche ignée",
+        "Roche calcaire"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1778988803652_7_uxxtc3",
+      "addedAt": "2026-05-17T03:33:23.652Z"
+    },
+    {
+      "question": "Quel artiste flamand a peint 'L'Homme vitruve' célèbre ?",
+      "options": [
+        "Jan van Eyck",
+        "Léonard de Vinci",
+        "Albrecht Dürer",
+        "Peter Bruegel"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1778988803652_8_ahvk0i",
+      "addedAt": "2026-05-17T03:33:23.652Z"
+    },
+    {
+      "question": "Quel virus cause la maladie COVID-19 ?",
+      "options": [
+        "SARS-CoV-1",
+        "SARS-CoV-2",
+        "MERS-CoV",
+        "Coronavirus HKU1"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1778988803652_9_gor3wu",
+      "addedAt": "2026-05-17T03:33:23.652Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le mouvement du Nouvelle Vague au cinéma ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Claude Chabrol",
+        "Les trois à la fois"
+      ],
+      "correctAnswer": 3,
+      "category": "Cinéma",
+      "id": "q_1778988803652_10_5sobud",
+      "addedAt": "2026-05-17T03:33:23.652Z"
+    },
+    {
       "question": "Quel élément chimique a le symbole 'Au' sur le tableau périodique ?",
       "options": [
         "L'argent",
@@ -3886,7 +4029,12 @@
       "category": "Art",
       "id": "q_1777690054036_0_cjdggn",
       "addedAt": "2026-05-02T02:47:34.036Z"
-    },
+    }
+  ],
+  "version": 202,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-17T03:33:23.652Z",
+  "archivedQuestions": [
     {
       "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Olympiques d'été 2020 ?",
       "options": [
@@ -4029,141 +4177,6 @@
       "category": "Art",
       "id": "q_1777682427109_1_7et8lz",
       "addedAt": "2026-05-02T00:40:27.109Z"
-    }
-  ],
-  "version": 201,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-17T00:32:52.884Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de cordes possède un violon ?",
-      "options": [
-        "3 cordes",
-        "4 cordes",
-        "5 cordes",
-        "6 cordes"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1777682427109_2_f83h5d",
-      "addedAt": "2026-05-02T00:40:27.109Z"
-    },
-    {
-      "question": "Quel réalisateur a créé le personnage de King Kong en 1933 ?",
-      "options": [
-        "John Ford",
-        "Orson Welles",
-        "Merian C. Cooper",
-        "Frank Capra"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1777682427109_3_2jlkr2",
-      "addedAt": "2026-05-02T00:40:27.109Z"
-    },
-    {
-      "question": "Quel type de roche est formé par le refroidissement de la lave ?",
-      "options": [
-        "Roche sédimentaire",
-        "Roche métamorphique",
-        "Roche ignée",
-        "Roche calcaire"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1777682427109_4_6xnll9",
-      "addedAt": "2026-05-02T00:40:27.109Z"
-    },
-    {
-      "question": "Quel plat traditionnel italien est à base de riz et de bouillon ?",
-      "options": [
-        "Lasagne",
-        "Risotto",
-        "Polenta",
-        "Gnocchi"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1777682427109_5_frhd64",
-      "addedAt": "2026-05-02T00:40:27.109Z"
-    },
-    {
-      "question": "Quel nombre de côtés possède un hexagone ?",
-      "options": [
-        "5 côtés",
-        "6 côtés",
-        "7 côtés",
-        "8 côtés"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1777682427109_6_nxdjhc",
-      "addedAt": "2026-05-02T00:40:27.109Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide sur terre ?",
-      "options": [
-        "Antilope pronghorn",
-        "Guépard",
-        "Cheval de course",
-        "Chien de chasse"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1777682427109_7_xerz6d",
-      "addedAt": "2026-05-02T00:40:27.109Z"
-    },
-    {
-      "question": "En quel année a été inventé le microscope optique ?",
-      "options": [
-        "1590",
-        "1610",
-        "1650",
-        "1700"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1777682427109_8_68kt5m",
-      "addedAt": "2026-05-02T00:40:27.109Z"
-    },
-    {
-      "question": "Quel sport olympique d'équipe utilise un filet séparant deux terrains ?",
-      "options": [
-        "Basketball",
-        "Water-polo",
-        "Volley-ball",
-        "Handball"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1777682427109_9_cfeiav",
-      "addedAt": "2026-05-02T00:40:27.109Z"
-    },
-    {
-      "question": "Quel artiste impressionniste a peint 'Les Nymphéas' ?",
-      "options": [
-        "Vincent van Gogh",
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Edgar Degas"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1777606261279_0_did23h",
-      "addedAt": "2026-05-01T03:31:01.279Z"
-    },
-    {
-      "question": "En quel sport l'équipe remporte-t-elle la Coupe Stanley ?",
-      "options": [
-        "Baseball",
-        "Basketball",
-        "Hockey sur glace",
-        "American Football"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1777606261279_1_88pa5b",
-      "addedAt": "2026-05-01T03:31:01.279Z"
     }
   ],
   "poolSize": 310
