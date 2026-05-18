@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "En quelle année l'Homme a-t-il inventé l'ampoule électrique ?",
+      "options": [
+        "1879",
+        "1859",
+        "1899",
+        "1839"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1779076053923_0_96ikun",
+      "addedAt": "2026-05-18T03:47:33.923Z"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de rugby sur le terrain ?",
+      "options": [
+        "13 joueurs",
+        "15 joueurs",
+        "11 joueurs",
+        "14 joueurs"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1779076053923_1_2kryar",
+      "addedAt": "2026-05-18T03:47:33.923Z"
+    },
+    {
+      "question": "Quel chef d'orchestre britannique a composé 'La Marche de Pomp and Circumstance' ?",
+      "options": [
+        "Edward Elgar",
+        "Gustav Holst",
+        "William Walton",
+        "Ralph Vaughan Williams"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1779076053923_2_2uyzrt",
+      "addedAt": "2026-05-18T03:47:33.923Z"
+    },
+    {
+      "question": "Quel réalisateur italien a créé 'Cinéma Paradiso' ?",
+      "options": [
+        "Federico Fellini",
+        "Giuseppe Tornatore",
+        "Sergio Leone",
+        "Vittorio De Sica"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1779076053923_3_7do9kz",
+      "addedAt": "2026-05-18T03:47:33.923Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Europe ?",
+      "options": [
+        "Danube",
+        "Volga",
+        "Rhin",
+        "Loire"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1779076053923_4_zxuxug",
+      "addedAt": "2026-05-18T03:47:33.923Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en vitamine C et en enzymes digestives ?",
+      "options": [
+        "Mangue",
+        "Papaye",
+        "Noix de coco",
+        "Goyave"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1779076053923_5_za77ix",
+      "addedAt": "2026-05-18T03:47:33.923Z"
+    },
+    {
+      "question": "Quel scientifique russe a remporté deux prix Nobel dans différents domaines ?",
+      "options": [
+        "Dmitri Mendeleïev",
+        "Linus Pauling",
+        "Marie Curie",
+        "Ivan Pavlov"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779076053923_6_rgm3ft",
+      "addedAt": "2026-05-18T03:47:33.923Z"
+    },
+    {
+      "question": "Quel protocole internet est utilisé pour transférer des fichiers de manière sécurisée ?",
+      "options": [
+        "FTP",
+        "HTTPS",
+        "SMTP",
+        "POP3"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1779076053923_7_7idltu",
+      "addedAt": "2026-05-18T03:47:33.923Z"
+    },
+    {
+      "question": "Quel animal est le plus grand herbivore terrestre actuel ?",
+      "options": [
+        "Girafe",
+        "Rhinocéros",
+        "Éléphant africain",
+        "Hippopotame"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1779076053923_8_eaata6",
+      "addedAt": "2026-05-18T03:47:33.923Z"
+    },
+    {
       "question": "Qui a composé la 'Marche des Prisonniers' du Nabucco ?",
       "options": [
         "Mozart",
@@ -3912,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1777855662694_7_fbr5fr",
       "addedAt": "2026-05-04T00:47:42.694Z"
-    },
+    }
+  ],
+  "version": 204,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-18T03:47:33.924Z",
+  "archivedQuestions": [
     {
       "question": "Quel peintre cubiste espagnol a créé 'Guernica' ?",
       "options": [
@@ -4029,115 +4151,6 @@
       "category": "Culture",
       "id": "q_1777778536153_8_uuygwk",
       "addedAt": "2026-05-03T03:22:16.153Z"
-    }
-  ],
-  "version": 203,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-18T00:06:52.718Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel peintre a créé la série des 'Nymphéas' ?",
-      "options": [
-        "Van Gogh",
-        "Claude Monet",
-        "Picasso",
-        "Dalí"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1777768143473_0_jqkssr",
-      "addedAt": "2026-05-03T00:29:03.473Z"
-    },
-    {
-      "question": "Quel animal terrestre est le plus rapide ?",
-      "options": [
-        "L'antilope",
-        "Le guépard",
-        "Le cheval",
-        "L'autruche"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1777768143473_1_gnfk5l",
-      "addedAt": "2026-05-03T00:29:03.473Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1777768143473_2_zxkf1q",
-      "addedAt": "2026-05-03T00:29:03.473Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la franchise 'Matrix' ?",
-      "options": [
-        "Steven Spielberg",
-        "James Cameron",
-        "Les Wachowski",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1777768143473_3_6iu576",
-      "addedAt": "2026-05-03T00:29:03.473Z"
-    },
-    {
-      "question": "En quelle année la construction de la Tour Eiffel s'est-elle achevée ?",
-      "options": [
-        "1887",
-        "1889",
-        "1891",
-        "1893"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1777768143473_4_vajgwp",
-      "addedAt": "2026-05-03T00:29:03.473Z"
-    },
-    {
-      "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
-      "options": [
-        "L'oxygène",
-        "Le dioxyde de carbone",
-        "L'azote",
-        "L'hydrogène"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1777768143473_5_nbcsz5",
-      "addedAt": "2026-05-03T00:29:03.473Z"
-    },
-    {
-      "question": "Combien de continents y a-t-il sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1777768143473_6_pt1yzh",
-      "addedAt": "2026-05-03T00:29:03.473Z"
-    },
-    {
-      "question": "Quel peintre impressionniste français a coupé une partie de son oreille ?",
-      "options": [
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Vincent van Gogh",
-        "Edgar Degas"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1777690054036_0_cjdggn",
-      "addedAt": "2026-05-02T02:47:34.036Z"
     }
   ],
   "poolSize": 310
