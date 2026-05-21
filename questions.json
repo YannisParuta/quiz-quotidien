@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "Combien de joueurs composent une équipe de basket-ball sur le terrain ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1779335450477_0_90zmia",
+      "addedAt": "2026-05-21T03:50:50.477Z"
+    },
+    {
+      "question": "Quel artiste a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Paul Cézanne",
+        "Henri Matisse"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1779335450477_1_av26hb",
+      "addedAt": "2026-05-21T03:50:50.477Z"
+    },
+    {
+      "question": "Quel gaz noble est utilisé dans les tubes luminescents publicitaires ?",
+      "options": [
+        "Hélium",
+        "Néon",
+        "Argon",
+        "Xénon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779335450477_2_dta96k",
+      "addedAt": "2026-05-21T03:50:50.477Z"
+    },
+    {
+      "question": "Quel est le plus grand musée d'art du monde ?",
+      "options": [
+        "Le Louvre",
+        "Le Musée Métropolitain",
+        "L'Ermitage",
+        "Le Prado"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1779335450477_3_nujvvi",
+      "addedAt": "2026-05-21T03:50:50.477Z"
+    },
+    {
+      "question": "Quel instrument de musique a été inventé par Adolphe Sax ?",
+      "options": [
+        "La trompette",
+        "Le saxophone",
+        "La clarinette",
+        "Le trombone"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1779335450477_4_h59h7k",
+      "addedAt": "2026-05-21T03:50:50.477Z"
+    },
+    {
+      "question": "Quel est le plus haut pic montagneux du continent africain ?",
+      "options": [
+        "Mont Kenya",
+        "Mont Kilimandjaro",
+        "Pic de l'Elbrus",
+        "Chaîne de l'Atlas"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1779335450477_5_8w39vf",
+      "addedAt": "2026-05-21T03:50:50.477Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'La Grande Illusion' en 1937 ?",
+      "options": [
+        "Jean-Luc Godard",
+        "Jean Renoir",
+        "François Truffaut",
+        "Claude Autant-Lara"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1779335450477_6_8qnmfp",
+      "addedAt": "2026-05-21T03:50:50.477Z"
+    },
+    {
       "question": "Quel est le plus grand océan du monde en termes de superficie ?",
       "options": [
         "Océan Atlantique",
@@ -3938,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1778036159459_1_fmjbnv",
       "addedAt": "2026-05-06T02:55:59.459Z"
-    },
+    }
+  ],
+  "version": 210,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-21T03:50:50.478Z",
+  "archivedQuestions": [
     {
       "question": "Combien de cordes possède traditionnellement une guitare classique ?",
       "options": [
@@ -4029,154 +4125,6 @@
       "category": "Nature",
       "id": "q_1778036159459_8_rvo7bj",
       "addedAt": "2026-05-06T02:55:59.459Z"
-    }
-  ],
-  "version": 209,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-21T00:26:27.622Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel philosophe grec ancien a fondé l'Académie d'Athènes ?",
-      "options": [
-        "Socrate",
-        "Aristote",
-        "Platon",
-        "Héraclite"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1778036159459_9_1f091j",
-      "addedAt": "2026-05-06T02:55:59.459Z"
-    },
-    {
-      "question": "Quel poète français du XIXe siècle a écrit 'Le Corbeau' (traduction) et 'Les Fleurs du Mal' ?",
-      "options": [
-        "Victor Hugo",
-        "Charles Baudelaire",
-        "Arthur Rimbaud",
-        "Stéphane Mallarmé"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1778036159459_10_3t2zjn",
-      "addedAt": "2026-05-06T02:55:59.459Z"
-    },
-    {
-      "question": "Quel gaz est produit par les plantes lors de la photosynthèse ?",
-      "options": [
-        "Dioxyde de carbone",
-        "Oxygène",
-        "Azote",
-        "Hydrogène"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778026501357_0_pqq52s",
-      "addedAt": "2026-05-06T00:15:01.357Z"
-    },
-    {
-      "question": "En quel année s'est déroulée la Révolution française ?",
-      "options": [
-        "1776",
-        "1789",
-        "1815",
-        "1848"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1778026501357_1_sbxjoz",
-      "addedAt": "2026-05-06T00:15:01.357Z"
-    },
-    {
-      "question": "Quel compositeur allemand a créé 'Le Clair de lune' ?",
-      "options": [
-        "Richard Wagner",
-        "Ludwig van Beethoven",
-        "Claude Debussy",
-        "Wolfgang Amadeus Mozart"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1778026501357_2_bqqkyq",
-      "addedAt": "2026-05-06T00:15:01.357Z"
-    },
-    {
-      "question": "Quel désert est le plus grand du monde ?",
-      "options": [
-        "Désert du Kalahari",
-        "Désert de Gobi",
-        "Sahara",
-        "Désert d'Arabie"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1778026501357_3_sxk2qq",
-      "addedAt": "2026-05-06T00:15:01.357Z"
-    },
-    {
-      "question": "Combien de cordes possède un violon classique ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "8"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1778026501357_4_eca4gj",
-      "addedAt": "2026-05-06T00:15:01.357Z"
-    },
-    {
-      "question": "Quel scientifique a découvert le radium ?",
-      "options": [
-        "Ernest Rutherford",
-        "Marie Curie",
-        "Max Planck",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778026501357_5_kcpjgs",
-      "addedAt": "2026-05-06T00:15:01.357Z"
-    },
-    {
-      "question": "Quel fleuve traverse la Suisse et l'Autriche ?",
-      "options": [
-        "Le Rhin",
-        "Le Danube",
-        "La Meuse",
-        "La Tamise"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1778026501357_6_x8aanx",
-      "addedAt": "2026-05-06T00:15:01.357Z"
-    },
-    {
-      "question": "Quel peintre impressionniste est connu pour ses 'Tournesols' ?",
-      "options": [
-        "Pierre-Auguste Renoir",
-        "Vincent van Gogh",
-        "Paul Cézanne",
-        "Edgar Degas"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1778026501357_7_tfe02o",
-      "addedAt": "2026-05-06T00:15:01.357Z"
-    },
-    {
-      "question": "En quel siècle a été construite la Grande Muraille de Chine ?",
-      "options": [
-        "7e siècle",
-        "13e siècle",
-        "17e siècle",
-        "19e siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1778026501357_8_mgvvhx",
-      "addedAt": "2026-05-06T00:15:01.357Z"
     }
   ],
   "poolSize": 310
