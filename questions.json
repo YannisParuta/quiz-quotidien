@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel était le nom de l'expédition de Christophe Colomb qui a atteint les Amériques en 1492 ?",
+      "options": [
+        "La Pinta",
+        "La Santa Maria",
+        "La Niña",
+        "La Caravelle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1779421530611_0_0hhie9",
+      "addedAt": "2026-05-22T03:45:30.611Z"
+    },
+    {
+      "question": "Quel élément chimique porte le symbole 'Au' dans le tableau périodique ?",
+      "options": [
+        "Argent",
+        "Or",
+        "Aluminium",
+        "Arsenic"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779421530611_1_ndow35",
+      "addedAt": "2026-05-22T03:45:30.611Z"
+    },
+    {
+      "question": "En quel siècle la Grande Muraille de Chine a-t-elle été principalement construite ?",
+      "options": [
+        "XIIe siècle",
+        "XVe siècle",
+        "XVIIIe siècle",
+        "XXe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1779421530611_2_ghlsni",
+      "addedAt": "2026-05-22T03:45:30.611Z"
+    },
+    {
+      "question": "Quel écrivain français a créé les aventures de Sherlock Holmes... attendez, c'est incorrect. Qui a réellement créé Sherlock Holmes ?",
+      "options": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Jules Verne",
+        "Émile Zola"
+      ],
+      "correctAnswer": 0,
+      "category": "Littérature",
+      "id": "q_1779421530611_3_xb079q",
+      "addedAt": "2026-05-22T03:45:30.611Z"
+    },
+    {
+      "question": "Quel danseur russe était réputé pour ses rôles dans les Ballets russes au début du XXe siècle ?",
+      "options": [
+        "Mikhaïl Nijinski",
+        "Rudolf Noureev",
+        "George Balanchine",
+        "Sergei Diaghilev"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1779421530611_4_9gy3jj",
+      "addedAt": "2026-05-22T03:45:30.611Z"
+    },
+    {
+      "question": "Quel sport utilise des termes comme 'deuce', 'ace' et 'love' ?",
+      "options": [
+        "Le badminton",
+        "Le squash",
+        "Le tennis",
+        "Le ping-pong"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1779421530611_5_0aylra",
+      "addedAt": "2026-05-22T03:45:30.611Z"
+    },
+    {
+      "question": "Quel philosophe grec a écrit 'La République' ?",
+      "options": [
+        "Socrate",
+        "Aristote",
+        "Platon",
+        "Héraclite"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1779421530611_6_y9rf5w",
+      "addedAt": "2026-05-22T03:45:30.611Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'Blade Runner 2049' en 2017 ?",
+      "options": [
+        "Jean-Luc Godard",
+        "Denis Villeneuve",
+        "Luc Besson",
+        "Claude Chabrol"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1779421530611_7_u6eag4",
+      "addedAt": "2026-05-22T03:45:30.611Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet d'Amérique du Sud ?",
+      "options": [
+        "Le Mont Blanc",
+        "L'Aconcagua",
+        "Le Chimborazo",
+        "Le Cotopaxi"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1779421530611_8_8qh03e",
+      "addedAt": "2026-05-22T03:45:30.611Z"
+    },
+    {
+      "question": "Quel oiseau est le plus rapide en piqué parmi tous les animaux ?",
+      "options": [
+        "L'aigle royal",
+        "Le faucon pèlerin",
+        "L'autruche",
+        "L'albatros"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1779421530611_9_qep4iz",
+      "addedAt": "2026-05-22T03:45:30.611Z"
+    },
+    {
       "question": "Quel écrivain français a remporté le Prix Nobel de littérature en 1947 ?",
       "options": [
         "André Gide",
@@ -3899,7 +4029,12 @@
       "category": "Sport",
       "id": "q_1778122594318_1_5yotms",
       "addedAt": "2026-05-07T02:56:34.318Z"
-    },
+    }
+  ],
+  "version": 212,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-22T03:45:30.612Z",
+  "archivedQuestions": [
     {
       "question": "Quel musée parisien abrite la Victoire de Samothrace ?",
       "options": [
@@ -4029,141 +4164,6 @@
       "category": "Histoire",
       "id": "q_1778113727430_0_icdkx3",
       "addedAt": "2026-05-07T00:28:47.430Z"
-    }
-  ],
-  "version": 211,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-22T00:59:19.527Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus haut sommet d'Europe ?",
-      "options": [
-        "Mont-Blanc",
-        "Elbrus",
-        "Kelbrus",
-        "Matterhorn"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1778113727430_1_v29qmh",
-      "addedAt": "2026-05-07T00:28:47.430Z"
-    },
-    {
-      "question": "Quel gaz produit les plantes lors de la photosynthèse ?",
-      "options": [
-        "Dioxyde de carbone",
-        "Azote",
-        "Oxygène",
-        "Hydrogène"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1778113727430_2_s5ea88",
-      "addedAt": "2026-05-07T00:28:47.430Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance a-t-elle commencé en Italie ?",
-      "options": [
-        "12e siècle",
-        "13e siècle",
-        "14e siècle",
-        "15e siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1778113727430_3_83ryxm",
-      "addedAt": "2026-05-07T00:28:47.430Z"
-    },
-    {
-      "question": "Combien de cordes possède généralement une guitare classique ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1778113727430_4_p16pxy",
-      "addedAt": "2026-05-07T00:28:47.430Z"
-    },
-    {
-      "question": "Quel animal est le plus gros mammifère du monde ?",
-      "options": [
-        "Éléphant d'Afrique",
-        "Girafe",
-        "Baleine bleue",
-        "Hippopotame"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1778113727430_5_vcwpf9",
-      "addedAt": "2026-05-07T00:28:47.430Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé 'Blade Runner' en 1982 ?",
-      "options": [
-        "Steven Spielberg",
-        "Ridley Scott",
-        "James Cameron",
-        "George Lucas"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1778113727430_6_2ubt9q",
-      "addedAt": "2026-05-07T00:28:47.430Z"
-    },
-    {
-      "question": "Quel fruit tropical contient une enzyme qui digère les protéines ?",
-      "options": [
-        "Noix de coco",
-        "Papaye",
-        "Ananas",
-        "Mangue"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1778113727430_7_u25r1q",
-      "addedAt": "2026-05-07T00:28:47.430Z"
-    },
-    {
-      "question": "Quel est le plus long tunnel ferroviaire du monde ?",
-      "options": [
-        "Tunnel de la Manche",
-        "Tunnel Gotthard",
-        "Tunnel sous les Alpes",
-        "Tunnel de Seikan"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1778113727430_8_tkdv22",
-      "addedAt": "2026-05-07T00:28:47.430Z"
-    },
-    {
-      "question": "Quel chimiste français a découvert le processus de pasteurisation ?",
-      "options": [
-        "Claude Bernard",
-        "Louis Pasteur",
-        "Marie Curie",
-        "Antoine Lavoisier"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778036159459_0_dduo1i",
-      "addedAt": "2026-05-06T02:55:59.459Z"
-    },
-    {
-      "question": "Quel fleuve passe par Prague, la capitale tchèque ?",
-      "options": [
-        "La Vltava",
-        "Le Danube",
-        "L'Elbe",
-        "La Moldau"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1778036159459_1_fmjbnv",
-      "addedAt": "2026-05-06T02:55:59.459Z"
     }
   ],
   "poolSize": 310
