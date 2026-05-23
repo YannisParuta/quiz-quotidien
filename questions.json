@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel mathématicien grec a établi le théorème du triangle rectangle ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1779506549461_0_zsg3dh",
+      "addedAt": "2026-05-23T03:22:29.461Z"
+    },
+    {
+      "question": "Quel virus a causé la pandémie de 2019-2020 ?",
+      "options": [
+        "Virus Ebola",
+        "SARS-CoV-2",
+        "Virus Zika",
+        "Virus de la grippe espagnole"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779506549461_1_4w6foh",
+      "addedAt": "2026-05-23T03:22:29.461Z"
+    },
+    {
+      "question": "Quel impressionniste français a peint 'Les Nymphéas' ?",
+      "options": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas",
+        "Frédéric Bazille"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1779506549461_2_n7jw8u",
+      "addedAt": "2026-05-23T03:22:29.461Z"
+    },
+    {
+      "question": "En quel siècle la Révolution industrielle a-t-elle commencé ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1779506549461_3_fe3g4c",
+      "addedAt": "2026-05-23T03:22:29.461Z"
+    },
+    {
+      "question": "Quel auteur anglais a écrit la série 'Harry Potter' ?",
+      "options": [
+        "Agatha Christie",
+        "J.K. Rowling",
+        "George Orwell",
+        "C.S. Lewis"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1779506549461_4_ham4tz",
+      "addedAt": "2026-05-23T03:22:29.461Z"
+    },
+    {
+      "question": "Quel est l'animal terrestre le plus rapide du monde ?",
+      "options": [
+        "Cheval",
+        "Guépard",
+        "Antilope pronghorn",
+        "Lièvre"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1779506549461_5_8ryr36",
+      "addedAt": "2026-05-23T03:22:29.461Z"
+    },
+    {
+      "question": "Quel est le plus grand musée du monde ?",
+      "options": [
+        "Musée du Vatican",
+        "Musée britannique",
+        "Musée du Louvre",
+        "Musée métropolitain"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1779506549461_6_djdvnj",
+      "addedAt": "2026-05-23T03:22:29.461Z"
+    },
+    {
+      "question": "Quel sport olympique utilise un cheval comme partenaire du sportif ?",
+      "options": [
+        "Tir à l'arc",
+        "Équitation",
+        "Pentathlon moderne",
+        "Biathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1779506549461_7_em757c",
+      "addedAt": "2026-05-23T03:22:29.461Z"
+    },
+    {
+      "question": "Quel est le langage de balisage standard pour créer des pages web ?",
+      "options": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Python"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1779506549461_8_rh2i3r",
+      "addedAt": "2026-05-23T03:22:29.461Z"
+    },
+    {
+      "question": "Quel légume est techniquement un fruit du point de vue botanique ?",
+      "options": [
+        "Carotte",
+        "Tomate",
+        "Betterave",
+        "Pomme de terre"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1779506549461_9_ykscek",
+      "addedAt": "2026-05-23T03:22:29.461Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'Le Cinquième Élément' ?",
+      "options": [
+        "François Truffaut",
+        "Luc Besson",
+        "Claude Godard",
+        "Jean-Luc Godard"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1779506549461_10_6hc63g",
+      "addedAt": "2026-05-23T03:22:29.461Z"
+    },
+    {
       "question": "Quel pays d'Afrique du Nord est connu pour ses arganiers et l'huile d'argan ?",
       "options": [
         "La Tunisie",
@@ -3886,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1778288002946_5_lyztk4",
       "addedAt": "2026-05-09T00:53:22.946Z"
-    },
+    }
+  ],
+  "version": 214,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-23T03:22:29.462Z",
+  "archivedQuestions": [
     {
       "question": "Quel scientifique a formulé les lois du mouvement et de la gravitation universelle ?",
       "options": [
@@ -4029,167 +4177,6 @@
       "category": "Histoire",
       "id": "q_1778209082498_7_g49thk",
       "addedAt": "2026-05-08T02:58:02.498Z"
-    }
-  ],
-  "version": 213,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-23T00:17:34.983Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel légume est techniquement un fruit du point de vue botanique ?",
-      "options": [
-        "La carotte",
-        "La tomate",
-        "L'oignon",
-        "La pomme de terre"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1778209082498_8_mymfi7",
-      "addedAt": "2026-05-08T02:58:02.498Z"
-    },
-    {
-      "question": "Quel mathématicien grec a énoncé le théorème sur les triangles rectangles ?",
-      "options": [
-        "Archimède",
-        "Euclide",
-        "Pythagore",
-        "Thalès"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1778209082498_9_co90tn",
-      "addedAt": "2026-05-08T02:58:02.498Z"
-    },
-    {
-      "question": "Quel réalisateur italien est connu pour ses films épiques comme 'Ben-Hur' ?",
-      "options": [
-        "Sergio Leone",
-        "Federico Fellini",
-        "William Wyler",
-        "Luciano Visconti"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1778209082498_10_5k9opo",
-      "addedAt": "2026-05-08T02:58:02.498Z"
-    },
-    {
-      "question": "Quel océan est le plus profond de la Terre ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1778199247765_0_jep4m5",
-      "addedAt": "2026-05-08T00:14:07.765Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle commencé ?",
-      "options": [
-        "1785",
-        "1789",
-        "1792",
-        "1799"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1778199247765_1_4twloy",
-      "addedAt": "2026-05-08T00:14:07.765Z"
-    },
-    {
-      "question": "Quel scientifique a développé la théorie de la relativité ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Marie Curie"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778199247765_2_arxk13",
-      "addedAt": "2026-05-08T00:14:07.765Z"
-    },
-    {
-      "question": "Combien de continents existe-t-il sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1778199247765_3_7e4mh7",
-      "addedAt": "2026-05-08T00:14:07.765Z"
-    },
-    {
-      "question": "Quel peintre hollandais a coupé une partie de son oreille ?",
-      "options": [
-        "Rembrandt",
-        "Vincent van Gogh",
-        "Jan Vermeer",
-        "Pieter Bruegel"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1778199247765_4_a0ab38",
-      "addedAt": "2026-05-08T00:14:07.765Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère du monde ?",
-      "options": [
-        "Éléphant d'Afrique",
-        "Girafe",
-        "Baleine bleue",
-        "Hippopotame"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1778199247765_5_2f3x7f",
-      "addedAt": "2026-05-08T00:14:07.765Z"
-    },
-    {
-      "question": "Quel ingénieur français a conçu le Canal de Panama ?",
-      "options": [
-        "Gustave Eiffel",
-        "Ferdinand de Lesseps",
-        "Isambard Kingdom Brunel",
-        "John Roebling"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1778199247765_6_9x3tek",
-      "addedAt": "2026-05-08T00:14:07.765Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit plus de 600 œuvres musicales ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Franz Schubert",
-        "Ludwig van Beethoven",
-        "Johann Strauss"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1778122594317_0_da6rjm",
-      "addedAt": "2026-05-07T02:56:34.318Z"
-    },
-    {
-      "question": "Quel art martial coréen est connu pour ses coups de pied spectaculaires ?",
-      "options": [
-        "Judo",
-        "Karaté",
-        "Taekwondo",
-        "Kung Fu"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1778122594318_1_5yotms",
-      "addedAt": "2026-05-07T02:56:34.318Z"
     }
   ],
   "poolSize": 310
