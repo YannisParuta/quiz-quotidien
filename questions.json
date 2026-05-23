@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel pays d'Afrique du Nord est connu pour ses arganiers et l'huile d'argan ?",
+      "options": [
+        "La Tunisie",
+        "L'Algérie",
+        "Le Maroc",
+        "La Libye"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1779495454982_1_6yz1ml",
+      "addedAt": "2026-05-23T00:17:34.983Z"
+    },
+    {
+      "question": "Quel artiste a peint la série 'Les Nymphéas' dans son jardin de Giverny ?",
+      "options": [
+        "Pablo Picasso",
+        "Claude Monet",
+        "Auguste Renoir",
+        "Paul Cézanne"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1779495454983_2_xj86ke",
+      "addedAt": "2026-05-23T00:17:34.983Z"
+    },
+    {
+      "question": "Quel est le plus petit os du corps humain ?",
+      "options": [
+        "Le péroné",
+        "L'étrier",
+        "Le pouce",
+        "La côte"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779495454983_3_q7cjzy",
+      "addedAt": "2026-05-23T00:17:34.983Z"
+    },
+    {
+      "question": "Quel réalisateur britannique a créé la série de films d'espionnage James Bond avec Sean Connery ?",
+      "options": [
+        "Guy Hamilton",
+        "Terence Young",
+        "Peter Hunt",
+        "John Glen"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1779495454983_4_3i20ip",
+      "addedAt": "2026-05-23T00:17:34.983Z"
+    },
+    {
+      "question": "Quelle ville est connue comme la 'Venise du Nord' en raison de ses nombreux canaux ?",
+      "options": [
+        "Amsterdam",
+        "Bruges",
+        "Copenhague",
+        "Stockholm"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1779495454983_5_xaltwc",
+      "addedAt": "2026-05-23T00:17:34.983Z"
+    },
+    {
+      "question": "Quel philosophe grec antique a fondé le Lycée et a été précepteur d'Alexandre le Grand ?",
+      "options": [
+        "Platon",
+        "Socrate",
+        "Aristote",
+        "Diogène"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1779495454983_6_1rrqeq",
+      "addedAt": "2026-05-23T00:17:34.983Z"
+    },
+    {
+      "question": "Quel sport aquatique combine la natation, le cyclisme et la course à pied ?",
+      "options": [
+        "Le pentathlon moderne",
+        "Le triathlon",
+        "Le biathlon",
+        "L'aquathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1779495454983_7_paflo6",
+      "addedAt": "2026-05-23T00:17:34.983Z"
+    },
+    {
+      "question": "Quel instrument de musique à cordes a 88 touches et est le plus grand de sa catégorie ?",
+      "options": [
+        "La harpe",
+        "Le piano",
+        "La guitare",
+        "Le violoncelle"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1779495454983_8_6u307w",
+      "addedAt": "2026-05-23T00:17:34.983Z"
+    },
+    {
+      "question": "Quel gâteau français caractéristique est composé de couches de pâte à choux et de crème pâtissière ?",
+      "options": [
+        "L'éclair",
+        "Le Paris-Brest",
+        "Le croquembouche",
+        "La mille-feuille"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1779495454983_9_1oof79",
+      "addedAt": "2026-05-23T00:17:34.983Z"
+    },
+    {
+      "question": "Quel protocole de sécurité internet chiffre les données transmises entre un navigateur et un serveur ?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1779495454983_10_f1dieo",
+      "addedAt": "2026-05-23T00:17:34.983Z"
+    },
+    {
+      "question": "Quel animal marin peut changer de couleur en quelques secondes pour se camoufler ?",
+      "options": [
+        "Le dauphin",
+        "La seiche",
+        "Le requin",
+        "La baleine"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1779495454983_11_ans9f8",
+      "addedAt": "2026-05-23T00:17:34.983Z"
+    },
+    {
+      "question": "Quel minéral est l'oxyde naturel le plus dur et est utilisé pour les diamants industriels ?",
+      "options": [
+        "Le quartz",
+        "Le diamant",
+        "Le corindon",
+        "La calcite"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779495454982_0_hgxitt",
+      "addedAt": "2026-05-23T00:17:34.982Z"
+    },
+    {
       "question": "Quel était le nom de l'expédition de Christophe Colomb qui a atteint les Amériques en 1492 ?",
       "options": [
         "La Pinta",
@@ -3873,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1778209082498_7_g49thk",
       "addedAt": "2026-05-08T02:58:02.498Z"
-    },
+    }
+  ],
+  "version": 213,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-23T00:17:34.983Z",
+  "archivedQuestions": [
     {
       "question": "Quel légume est techniquement un fruit du point de vue botanique ?",
       "options": [
@@ -4029,141 +4190,6 @@
       "category": "Sport",
       "id": "q_1778122594318_1_5yotms",
       "addedAt": "2026-05-07T02:56:34.318Z"
-    }
-  ],
-  "version": 212,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-22T03:45:30.612Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel musée parisien abrite la Victoire de Samothrace ?",
-      "options": [
-        "Musée d'Orsay",
-        "Musée du Louvre",
-        "Centre Pompidou",
-        "Musée Rodin"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1778122594318_2_nxhe10",
-      "addedAt": "2026-05-07T02:56:34.318Z"
-    },
-    {
-      "question": "Quel animal marin peut changer de couleur en quelques secondes ?",
-      "options": [
-        "Dauphin",
-        "Pieuvre",
-        "Baleine",
-        "Raie"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1778122594318_3_eotz6v",
-      "addedAt": "2026-05-07T02:56:34.318Z"
-    },
-    {
-      "question": "Combien de côtés a un polygone régulier appelé hexagone ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1778122594318_4_4vumf6",
-      "addedAt": "2026-05-07T02:56:34.318Z"
-    },
-    {
-      "question": "Quel épice jaune vif est utilisée en cuisine indienne et contient la curcumine ?",
-      "options": [
-        "Safran",
-        "Curcuma",
-        "Poivre noir",
-        "Cannelle"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1778122594318_5_hw5jmc",
-      "addedAt": "2026-05-07T02:56:34.318Z"
-    },
-    {
-      "question": "Quel cinéaste italien est connu pour son style de 'néoréalisme' ?",
-      "options": [
-        "Federico Fellini",
-        "Sergio Leone",
-        "Roberto Rossellini",
-        "Pier Paolo Pasolini"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1778122594318_6_rvq3al",
-      "addedAt": "2026-05-07T02:56:34.318Z"
-    },
-    {
-      "question": "Quel réseau social chinois est devenu populaire pour ses vidéos courtes appelées 'TikTok' en Occident ?",
-      "options": [
-        "WeChat",
-        "Douyin",
-        "QQ",
-        "Sina Weibo"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1778122594318_7_t4bcn7",
-      "addedAt": "2026-05-07T02:56:34.318Z"
-    },
-    {
-      "question": "Quel château français est le plus visité d'Europe ?",
-      "options": [
-        "Château de Fontainebleau",
-        "Château de Versailles",
-        "Château de Chambord",
-        "Château de Chenonceau"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1778122594318_8_vdiuf9",
-      "addedAt": "2026-05-07T02:56:34.318Z"
-    },
-    {
-      "question": "Quel scientifique polonais a découvert le polonium et le radium ?",
-      "options": [
-        "Marie Curie",
-        "Pierre Curie",
-        "Albert Einstein",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1778122594318_9_91fd5c",
-      "addedAt": "2026-05-07T02:56:34.318Z"
-    },
-    {
-      "question": "Quel mouvement artistique du XXe siècle a été fondé par Pablo Picasso et Georges Braque ?",
-      "options": [
-        "Surréalisme",
-        "Cubisme",
-        "Futurisme",
-        "Expressionnisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1778122594318_10_x6t5z7",
-      "addedAt": "2026-05-07T02:56:34.318Z"
-    },
-    {
-      "question": "Quel philosophe grec a fondé l'école du Lycée à Athènes ?",
-      "options": [
-        "Platon",
-        "Socrate",
-        "Aristote",
-        "Épicure"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1778113727430_0_icdkx3",
-      "addedAt": "2026-05-07T00:28:47.430Z"
     }
   ],
   "poolSize": 310
