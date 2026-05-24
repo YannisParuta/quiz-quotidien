@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "En quelle année la Révolution française a-t-elle débuté ?",
+      "options": [
+        "1776",
+        "1789",
+        "1799",
+        "1815"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1779581955152_0_auca4e",
+      "addedAt": "2026-05-24T00:19:15.152Z"
+    },
+    {
+      "question": "Qui a peint la Chapelle Sixtine au Vatican ?",
+      "options": [
+        "Léonard de Vinci",
+        "Raphaël",
+        "Michel-Ange",
+        "Botticelli"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1779581955152_1_k92wjj",
+      "addedAt": "2026-05-24T00:19:15.152Z"
+    },
+    {
+      "question": "Combien de continents existe-t-il sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1779581955152_2_o65ptu",
+      "addedAt": "2026-05-24T00:19:15.152Z"
+    },
+    {
+      "question": "Quel célèbre réalisateur italien a créé le film 'La Dolce Vita' ?",
+      "options": [
+        "Vittorio De Sica",
+        "Federico Fellini",
+        "Sergio Leone",
+        "Pier Paolo Pasolini"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1779581955152_3_9imxqi",
+      "addedAt": "2026-05-24T00:19:15.152Z"
+    },
+    {
+      "question": "Quel élément chimique est symbolisé par Au ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1779581955152_4_zjqjn7",
+      "addedAt": "2026-05-24T00:19:15.152Z"
+    },
+    {
+      "question": "En quel siècle la Grande Muraille de Chine a-t-elle principalement été construite ?",
+      "options": [
+        "IIIe siècle",
+        "VIIe siècle",
+        "XVe siècle",
+        "XIXe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1779581955152_5_ecfs28",
+      "addedAt": "2026-05-24T00:19:15.152Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en potassium et jaune à maturité ?",
+      "options": [
+        "La papaye",
+        "La banane",
+        "La mangue",
+        "L'ananas"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1779581955152_6_9rnz0j",
+      "addedAt": "2026-05-24T00:19:15.152Z"
+    },
+    {
+      "question": "Quel philosophe grec antique a fondé l'Académie à Athènes ?",
+      "options": [
+        "Socrate",
+        "Aristote",
+        "Platon",
+        "Epicure"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1779581955152_7_x63cso",
+      "addedAt": "2026-05-24T00:19:15.152Z"
+    },
+    {
+      "question": "Quel animal terrestre est le plus rapide du monde ?",
+      "options": [
+        "Le lion",
+        "L'antilope",
+        "Le guépard",
+        "L'autruche"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1779581955152_8_4us5zs",
+      "addedAt": "2026-05-24T00:19:15.152Z"
+    },
+    {
       "question": "Quel mathématicien grec a établi le théorème du triangle rectangle ?",
       "options": [
         "Euclide",
@@ -3912,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1778295228650_8_v4exnd",
       "addedAt": "2026-05-09T02:53:48.650Z"
-    },
+    }
+  ],
+  "version": 215,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-24T00:19:15.153Z",
+  "archivedQuestions": [
     {
       "question": "Quel réalisateur a créé le film 'Inception' ?",
       "options": [
@@ -4029,154 +4151,6 @@
       "category": "Gastronomie",
       "id": "q_1778288002946_5_lyztk4",
       "addedAt": "2026-05-09T00:53:22.946Z"
-    }
-  ],
-  "version": 214,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-23T03:22:29.462Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel scientifique a formulé les lois du mouvement et de la gravitation universelle ?",
-      "options": [
-        "Galileo Galilei",
-        "Isaac Newton",
-        "Johannes Kepler",
-        "Albert Einstein"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778288002946_6_32q08c",
-      "addedAt": "2026-05-09T00:53:22.946Z"
-    },
-    {
-      "question": "Quel réalisateur a créé le personnage de Buster Keaton au cinéma muet ?",
-      "options": [
-        "Charlie Chaplin",
-        "Buster Keaton",
-        "D.W. Griffith",
-        "Frederick Niblo"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1778288002946_7_8uyjkp",
-      "addedAt": "2026-05-09T00:53:22.946Z"
-    },
-    {
-      "question": "Quel est le plus grand fleuve d'Asie du Sud ?",
-      "options": [
-        "Gange",
-        "Brahmapoutre",
-        "Indus",
-        "Irraouaddy"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1778288002946_8_gd43lj",
-      "addedAt": "2026-05-09T00:53:22.946Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle éclaté ?",
-      "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1778209082498_0_sy0972",
-      "addedAt": "2026-05-08T02:58:02.498Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la radioactivité naturelle ?",
-      "options": [
-        "Marie Curie",
-        "Henri Becquerel",
-        "Ernest Rutherford",
-        "Lise Meitner"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778209082498_1_u3mfd5",
-      "addedAt": "2026-05-08T02:58:02.498Z"
-    },
-    {
-      "question": "Qui a composé la Symphonie n°9 en ré mineur ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Franz Joseph Haydn",
-        "Georges Fridéric Hændel"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1778209082498_2_pi5u1f",
-      "addedAt": "2026-05-08T02:58:02.498Z"
-    },
-    {
-      "question": "Combien de continents possèdent une population indigène de kangourous ?",
-      "options": [
-        "Deux",
-        "Un seul",
-        "Trois",
-        "Aucun"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1778209082498_3_j7t00k",
-      "addedAt": "2026-05-08T02:58:02.498Z"
-    },
-    {
-      "question": "Quel photographe français est célèbre pour ses photographies d'humanité urbaine ?",
-      "options": [
-        "Henri Cartier-Bresson",
-        "Jacques-Henri Lartigue",
-        "Yousuf Karsh",
-        "Man Ray"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1778209082498_4_az05h9",
-      "addedAt": "2026-05-08T02:58:02.498Z"
-    },
-    {
-      "question": "Quel peintre néerlandais a créé 'La Nuit étoilée' ?",
-      "options": [
-        "Rembrandt",
-        "Vermeer",
-        "Vincent van Gogh",
-        "Hieronymus Bosch"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1778209082498_5_rs6f6w",
-      "addedAt": "2026-05-08T02:58:02.498Z"
-    },
-    {
-      "question": "Quel sport est originaire du Québec au Canada et utilise un bâton et une balle ?",
-      "options": [
-        "Le crosse",
-        "Le lacrosse",
-        "Le hurling",
-        "Le shinty"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1778209082498_6_ufkiow",
-      "addedAt": "2026-05-08T02:58:02.498Z"
-    },
-    {
-      "question": "Quel est le plus ancien traité de médecine connu de l'histoire ?",
-      "options": [
-        "Le Corpus Hippocraticum",
-        "L'Edwin Smith Papyrus",
-        "Les écrits de Galien",
-        "Les textes d'Hippocrate"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1778209082498_7_g49thk",
-      "addedAt": "2026-05-08T02:58:02.498Z"
     }
   ],
   "poolSize": 310
