@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel gaz les plantes libèrent-elles lors de la photosynthèse ?",
+      "options": [
+        "Dioxyde de carbone",
+        "Oxygène",
+        "Azote",
+        "Hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779668642425_0_muao5h",
+      "addedAt": "2026-05-25T00:24:02.425Z"
+    },
+    {
+      "question": "Quel musée abrite la célèbre toile 'La Nuit étoilée' de Van Gogh ?",
+      "options": [
+        "Musée d'Orsay",
+        "Musée du Louvre",
+        "MoMA à New York",
+        "Musée Van Gogh à Amsterdam"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1779668642425_1_cnyh6f",
+      "addedAt": "2026-05-25T00:24:02.425Z"
+    },
+    {
+      "question": "Quel mont est le plus haut de la Terre ?",
+      "options": [
+        "Mont Kilimandjaro",
+        "Mont Blanc",
+        "Everest",
+        "K2"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1779668642425_2_q5waul",
+      "addedAt": "2026-05-25T00:24:02.425Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1779668642425_3_cwy3z1",
+      "addedAt": "2026-05-25T00:24:02.425Z"
+    },
+    {
+      "question": "En quel type de sport excelle Novak Djokovic ?",
+      "options": [
+        "Golf",
+        "Tennis",
+        "Badminton",
+        "Squash"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1779668642425_4_kxiujd",
+      "addedAt": "2026-05-25T00:24:02.425Z"
+    },
+    {
+      "question": "Quel instrument de musique possède des cordes frappées par des marteaux ?",
+      "options": [
+        "Violon",
+        "Guitare",
+        "Piano",
+        "Harpe"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1779668642425_5_ygu60h",
+      "addedAt": "2026-05-25T00:24:02.425Z"
+    },
+    {
+      "question": "Quel animal terrestre est le plus rapide ?",
+      "options": [
+        "Cheval",
+        "Autruche",
+        "Guépard",
+        "Lièvre"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1779668642425_6_ykzlr2",
+      "addedAt": "2026-05-25T00:24:02.425Z"
+    },
+    {
+      "question": "Quel géométre grec ancien a formulé le concept de la buoyance ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1779668642425_7_vmc0pk",
+      "addedAt": "2026-05-25T00:24:02.425Z"
+    },
+    {
+      "question": "Quel fromage français est produit en Normandie et couvert d'une croûte blanche ?",
+      "options": [
+        "Roquefort",
+        "Camembert",
+        "Brie",
+        "Comté"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1779668642425_8_wkot54",
+      "addedAt": "2026-05-25T00:24:02.425Z"
+    },
+    {
+      "question": "Quel cinéaste a réalisé 'Inception' en 2010 ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Quentin Tarantino"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1779668642425_9_tya94h",
+      "addedAt": "2026-05-25T00:24:02.425Z"
+    },
+    {
       "question": "Quel artiste a peint les 'Nymphéas' ?",
       "options": [
         "Renoir",
@@ -3899,7 +4029,12 @@
       "category": "Technologie",
       "id": "q_1778383524134_10_113jd3",
       "addedAt": "2026-05-10T03:25:24.134Z"
-    },
+    }
+  ],
+  "version": 217,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-25T00:24:02.426Z",
+  "archivedQuestions": [
     {
       "question": "Quel ballet de Tchaïkovski raconte l'histoire d'une princesse maudite ?",
       "options": [
@@ -4029,154 +4164,6 @@
       "category": "Gastronomie",
       "id": "q_1778374673902_7_tx8vcc",
       "addedAt": "2026-05-10T00:57:53.902Z"
-    }
-  ],
-  "version": 216,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-24T03:41:19.831Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus haut sommet de l'Afrique ?",
-      "options": [
-        "Le Mont Kenya",
-        "Le Kilimandjaro",
-        "Le Mont Stanley",
-        "Le Mont Speke"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1778374673902_8_ruphgd",
-      "addedAt": "2026-05-10T00:57:53.902Z"
-    },
-    {
-      "question": "Quel artiste néerlandais a coupé une partie de son oreille en 1888 ?",
-      "options": [
-        "Paul Klee",
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Paul Cézanne"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1778374673902_9_mjoilh",
-      "addedAt": "2026-05-10T00:57:53.902Z"
-    },
-    {
-      "question": "Quel scientifique a formulé la théorie de la relativité générale ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Stephen Hawking"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778295228650_0_drm9jk",
-      "addedAt": "2026-05-09T02:53:48.650Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
-      "options": [
-        "Gustave Flaubert",
-        "Victor Hugo",
-        "Honoré de Balzac",
-        "Alexandre Dumas"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1778295228650_1_ai39gf",
-      "addedAt": "2026-05-09T02:53:48.650Z"
-    },
-    {
-      "question": "Combien de chambres possède le cœur humain ?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1778295228650_2_qzt68l",
-      "addedAt": "2026-05-09T02:53:48.650Z"
-    },
-    {
-      "question": "Quel artiste a coupé une partie de son oreille ?",
-      "options": [
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Henri Matisse",
-        "Paul Klee"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1778295228650_3_aenqed",
-      "addedAt": "2026-05-09T02:53:48.650Z"
-    },
-    {
-      "question": "En quel siècle la Magna Carta a-t-elle été signée ?",
-      "options": [
-        "11e siècle",
-        "12e siècle",
-        "13e siècle",
-        "14e siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1778295228650_4_i09zhw",
-      "addedAt": "2026-05-09T02:53:48.650Z"
-    },
-    {
-      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Azote",
-        "Dioxyde de carbone",
-        "Argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778295228650_5_421iub",
-      "addedAt": "2026-05-09T02:53:48.650Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit la '9e Symphonie' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach",
-        "Richard Wagner"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1778295228650_6_6mf91u",
-      "addedAt": "2026-05-09T02:53:48.650Z"
-    },
-    {
-      "question": "Quel est l'élément chimique le plus léger ?",
-      "options": [
-        "Hélium",
-        "Hydrogène",
-        "Lithium",
-        "Béryllium"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778295228650_7_h8rs21",
-      "addedAt": "2026-05-09T02:53:48.650Z"
-    },
-    {
-      "question": "En quel pays la pizza Margherita est-elle originaire ?",
-      "options": [
-        "Grèce",
-        "Espagne",
-        "Italie",
-        "France"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1778295228650_8_v4exnd",
-      "addedAt": "2026-05-09T02:53:48.650Z"
     }
   ],
   "poolSize": 310
