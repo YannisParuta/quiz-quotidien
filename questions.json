@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel célèbre naturaliste a développé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Jean-Baptiste Lamarck",
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Alfred Russel Wallace"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779842515516_0_xtj8oh",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
+      "question": "En quelle année la Révolution française a-t-elle éclaté ?",
+      "options": [
+        "1776",
+        "1789",
+        "1801",
+        "1815"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1779842515516_1_d0hk7r",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
+      "question": "Quel océan borde le Pérou à l'ouest ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Pacifique",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1779842515516_2_87py6i",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
+      "question": "Quel poète français a écrit 'Les Fleurs du Mal' ?",
+      "options": [
+        "Victor Hugo",
+        "Charles Baudelaire",
+        "Arthur Rimbaud",
+        "Paul Verlaine"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1779842515516_3_jfaxz6",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
+      "question": "Quel élément chimique est le plus abondant dans l'univers ?",
+      "options": [
+        "Oxygène",
+        "Carbone",
+        "Hydrogène",
+        "Azote"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1779842515516_4_en01p9",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
+      "question": "Quel film réalisé par Steven Spielberg raconte l'histoire d'un extraterrestre ?",
+      "options": [
+        "Jaws",
+        "E.T. l'extraterrestre",
+        "Jurassic Park",
+        "Schindler's List"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1779842515516_5_epifb6",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
+      "question": "Quel réaction chimique produit l'énergie dans les étoiles ?",
+      "options": [
+        "Fission nucléaire",
+        "Fusion nucléaire",
+        "Combustion",
+        "Oxydation"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779842515516_6_utwvrh",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
+      "options": [
+        "XIIe siècle",
+        "XIVe-XVIe siècles",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1779842515516_7_kmi55x",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
+      "question": "Quel type de mammifère est le dauphin ?",
+      "options": [
+        "Poisson",
+        "Cétacé",
+        "Amphibien",
+        "Reptile"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1779842515516_8_b5np4c",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
+      "question": "Quel plat japonais traditionnel consiste en riz garni de poisson cru ?",
+      "options": [
+        "Tempura",
+        "Sushi",
+        "Ramen",
+        "Teriyaki"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1779842515516_9_lc2rks",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
+      "question": "Quel mathématicien a développé le système de coordonnées cartésiennes ?",
+      "options": [
+        "Isaac Newton",
+        "René Descartes",
+        "Leonhard Euler",
+        "Carl Friedrich Gauss"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1779842515516_10_t087lf",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
+      "question": "Quel sport de combat olympique combine la boxe et le karaté ?",
+      "options": [
+        "Judo",
+        "Taekwondo",
+        "Muay Thai",
+        "Kung-fu"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1779842515516_11_9krfz0",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
+      "question": "Quel célèbre compositeur autrichien a écrit 'Les Quatre Saisons' ?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Antonio Vivaldi",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1779842515516_12_whbqbk",
+      "addedAt": "2026-05-27T00:41:55.516Z"
+    },
+    {
       "question": "Quel architecte français a conçu la tour Eiffel pour l'Exposition universelle de 1889 ?",
       "options": [
         "Gustave Eiffel",
@@ -3860,7 +4029,12 @@
       "category": "Science",
       "id": "q_1778544955348_9_yu6nbz",
       "addedAt": "2026-05-12T00:15:55.348Z"
-    },
+    }
+  ],
+  "version": 221,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-27T00:41:55.516Z",
+  "archivedQuestions": [
     {
       "question": "Quel plat français consiste en une pâte feuilletée garnie de crème pâtissière ?",
       "options": [
@@ -4029,167 +4203,6 @@
       "category": "Histoire",
       "id": "q_1778470643012_1_rffk7b",
       "addedAt": "2026-05-11T03:37:23.012Z"
-    }
-  ],
-  "version": 220,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-26T03:39:07.581Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel élément chimique est noté 'Fe' dans le tableau périodique ?",
-      "options": [
-        "Fluor",
-        "Fer",
-        "Francium",
-        "Fermium"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778470643012_2_b5km10",
-      "addedAt": "2026-05-11T03:37:23.012Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit 'Le Clair de Lune' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Joseph Haydn",
-        "Ludwig van Beethoven",
-        "Felix Mendelssohn"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1778470643012_3_29mku7",
-      "addedAt": "2026-05-11T03:37:23.012Z"
-    },
-    {
-      "question": "Quel gaz représente environ 21% de l'atmosphère terrestre ?",
-      "options": [
-        "Dioxyde de carbone",
-        "Oxygène",
-        "Azote",
-        "Argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778470643012_4_m719iv",
-      "addedAt": "2026-05-11T03:37:23.012Z"
-    },
-    {
-      "question": "Quel légume est la graine développée d'une plante de la famille des légumineuses ?",
-      "options": [
-        "Tomate",
-        "Poivron",
-        "Pois",
-        "Carotte"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1778470643012_5_0ec79r",
-      "addedAt": "2026-05-11T03:37:23.012Z"
-    },
-    {
-      "question": "Quel pays d'Asie du Sud-Est est connu sous le nom de 'Pays du Sourire' ?",
-      "options": [
-        "Vietnam",
-        "Cambodge",
-        "Thaïlande",
-        "Laos"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1778470643012_6_36jvr2",
-      "addedAt": "2026-05-11T03:37:23.012Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique standard ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1778470643012_7_ab4nk9",
-      "addedAt": "2026-05-11T03:37:23.012Z"
-    },
-    {
-      "question": "Quel célèbre scientifique a développé la théorie de la relativité ?",
-      "options": [
-        "Isaac Newton",
-        "Marie Curie",
-        "Albert Einstein",
-        "Stephen Hawking"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1778470643012_8_0qm0rp",
-      "addedAt": "2026-05-11T03:37:23.012Z"
-    },
-    {
-      "question": "En quel année le premier site web a-t-il été créé par Tim Berners-Lee ?",
-      "options": [
-        "1989",
-        "1991",
-        "1995",
-        "1998"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1778470643012_9_htzh1q",
-      "addedAt": "2026-05-11T03:37:23.012Z"
-    },
-    {
-      "question": "Quel artiste du mouvement cubiste est né en Espagne et actif surtout à Paris ?",
-      "options": [
-        "Juan Gris",
-        "Pablo Picasso",
-        "Georges Braque",
-        "André Derain"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1778470643012_10_3vvfbx",
-      "addedAt": "2026-05-11T03:37:23.012Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Afrique ?",
-      "options": [
-        "Le Congo",
-        "Le Nil",
-        "Le Zambèze",
-        "Le Niger"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1778461098464_0_1r5d9p",
-      "addedAt": "2026-05-11T00:58:18.464Z"
-    },
-    {
-      "question": "Quel élément chimique a pour symbole 'Au' ?",
-      "options": [
-        "L'argent",
-        "L'or",
-        "L'aluminium",
-        "L'arsenic"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778461098464_1_7rhell",
-      "addedAt": "2026-05-11T00:58:18.464Z"
-    },
-    {
-      "question": "Quel cinéaste français a réalisé 'Amélie Poulain' ?",
-      "options": [
-        "Luc Besson",
-        "Jean-Pierre Jeunet",
-        "Claude Jadot",
-        "Christophe Honoré"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1778461098464_2_4pfhhb",
-      "addedAt": "2026-05-11T00:58:18.464Z"
     }
   ],
   "poolSize": 310
