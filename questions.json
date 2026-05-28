@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel peintre a coupé une partie de son oreille en 1888 ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Salvador Dalí",
+        "Wassily Kandinsky"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1779928640900_0_qpiypo",
+      "addedAt": "2026-05-28T00:37:20.901Z"
+    },
+    {
+      "question": "Quel roman de Victor Hugo a pour personnage principal Quasimodo ?",
+      "options": [
+        "Les Misérables",
+        "Notre-Dame de Paris",
+        "L'Homme qui rit",
+        "Bug-Jargal"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1779928640901_1_jggwi2",
+      "addedAt": "2026-05-28T00:37:20.901Z"
+    },
+    {
+      "question": "Combien de continents y a-t-il sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1779928640901_2_koepg9",
+      "addedAt": "2026-05-28T00:37:20.901Z"
+    },
+    {
+      "question": "Quel scientifique a formulé la théorie de la relativité ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Stephen Hawking",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779928640901_3_jspa3d",
+      "addedAt": "2026-05-28T00:37:20.901Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle eu lieu ?",
+      "options": [
+        "XIIIe siècle",
+        "XIVe-XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1779928640901_4_okii22",
+      "addedAt": "2026-05-28T00:37:20.901Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet d'Afrique ?",
+      "options": [
+        "Le Mont Kenya",
+        "Le Kilimandjaro",
+        "Le Mont Stanley",
+        "Le Mont Speke"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1779928640901_5_3lwgbs",
+      "addedAt": "2026-05-28T00:37:20.901Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'La Haine' en 1995 ?",
+      "options": [
+        "Claude Chabrol",
+        "Mathieu Kassovitz",
+        "Luc Besson",
+        "Catherine Breillat"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1779928640901_6_wk314q",
+      "addedAt": "2026-05-28T00:37:20.901Z"
+    },
+    {
+      "question": "Quel phénomène astronomique se produit quand la Lune passe devant le Soleil ?",
+      "options": [
+        "Une éclipse lunaire",
+        "Une éclipse solaire",
+        "Une conjonction",
+        "Une opposition"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779928640901_7_uu20fg",
+      "addedAt": "2026-05-28T00:37:20.901Z"
+    },
+    {
+      "question": "Quel sport français est également appelé 'sport noble' ou 'art de l'escrime' ?",
+      "options": [
+        "L'escrime",
+        "L'équitation",
+        "La boxe",
+        "Le judo"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1779928640901_8_5pr7rw",
+      "addedAt": "2026-05-28T00:37:20.901Z"
+    },
+    {
+      "question": "Quel célèbre tableau de Claude Monet représente des nymphéas ?",
+      "options": [
+        "Les Coquelicots",
+        "La Cathédrale de Rouen",
+        "Les Nymphéas",
+        "Impression, soleil levant"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1779928640901_9_u73io5",
+      "addedAt": "2026-05-28T00:37:20.901Z"
+    },
+    {
       "question": "Quel océan est le plus profond du monde ?",
       "options": [
         "Océan Atlantique",
@@ -3899,7 +4029,12 @@
       "category": "Science",
       "id": "q_1778631353975_3_muix2j",
       "addedAt": "2026-05-13T00:15:53.975Z"
-    },
+    }
+  ],
+  "version": 223,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-28T00:37:20.901Z",
+  "archivedQuestions": [
     {
       "question": "Quel compositeur autrichien est surnommé 'Wolfgang'? Quel est son nom complet ?",
       "options": [
@@ -4029,154 +4164,6 @@
       "category": "Géographie",
       "id": "q_1778556273964_4_p176bv",
       "addedAt": "2026-05-12T03:24:33.964Z"
-    }
-  ],
-  "version": 222,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-27T03:55:46.579Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mathématicien grec a découvert le principe de la poussée hydrostatique en prenant son bain ?",
-      "options": [
-        "Pythagore",
-        "Archimède",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1778556273964_5_bneuxb",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "Quel compositeur russe a écrit le ballet 'Le Lac des Cygnes' ?",
-      "options": [
-        "Igor Stravinski",
-        "Serge Prokofiev",
-        "Piotr Ilitch Tchaïkovski",
-        "Dimitri Chostakovitch"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1778556273964_6_nfwu84",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "Quel système de notation musicale a été inventé par une religieuse du Moyen Âge ?",
-      "options": [
-        "Les clés de sol",
-        "Le solfège",
-        "La notation neumatique",
-        "La portée musicale"
-      ],
-      "correctAnswer": 3,
-      "category": "Musique",
-      "id": "q_1778556273964_7_k6bnl1",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "Quel type de fromage français est produit dans les grottes naturelles de Roquefort ?",
-      "options": [
-        "Camembert",
-        "Brie",
-        "Roquefort",
-        "Comté"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1778556273964_8_1b5w5z",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "Quel insecte social construit des structures géométriques complexes appelées nids ?",
-      "options": [
-        "Les termites",
-        "Les fourmis",
-        "Les abeilles",
-        "Les guêpes"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1778556273964_9_zj4nmv",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "En quel siècle le télescope a-t-il été inventé ?",
-      "options": [
-        "XVe siècle",
-        "XVIe siècle",
-        "XVIIe siècle",
-        "XVIIIe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778556273964_10_xsexh0",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "Quel écrivain français a créé le détective Hercule Poirot ?",
-      "options": [
-        "Maurice Leblanc",
-        "Agatha Christie",
-        "Georges Simenon",
-        "Éric Reinhardt"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1778556273964_11_z3yn5s",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "Quel phénomène météorologique se produit lorsque la terre tourne plus rapidement que l'atmosphère ?",
-      "options": [
-        "Une tornade",
-        "Un ouragan",
-        "Un vent solaire",
-        "Un jet-stream"
-      ],
-      "correctAnswer": 3,
-      "category": "Science",
-      "id": "q_1778556273964_12_j3e4hp",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "Quel sport d'équipe mélange le rugby et le basketball et est populaire en Australie ?",
-      "options": [
-        "Le football australien",
-        "Le netball",
-        "Le hurling",
-        "Le lacrosse"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1778556273964_13_stxubr",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "Quel célèbre réalisateur britannique a créé 'Psycho' en 1960 ?",
-      "options": [
-        "David Lean",
-        "Alfred Hitchcock",
-        "Carol Reed",
-        "Terence Young"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1778544955347_8_3xbht7",
-      "addedAt": "2026-05-12T00:15:55.348Z"
-    },
-    {
-      "question": "Quel virus cause la rougeole ?",
-      "options": [
-        "Virus de la grippe",
-        "Virus de la rougeole",
-        "Virus de la varicelle",
-        "Coronavirus"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778544955348_9_yu6nbz",
-      "addedAt": "2026-05-12T00:15:55.348Z"
     }
   ],
   "poolSize": 310
