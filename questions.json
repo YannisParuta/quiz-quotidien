@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur autrichien a créé la symphonie 'Jupiter' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Franz Joseph Haydn",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1779939735020_0_nt57y8",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
+      "question": "Quel désert est le plus grand du monde en surface ?",
+      "options": [
+        "Le Sahara",
+        "Le désert de Gobi",
+        "Le désert de l'Antarctique",
+        "Le désert d'Arabie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1779939735020_1_7a7cyj",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
+      "question": "Quel processus biologique permet aux organismes de convertir les nutriments en énergie ?",
+      "options": [
+        "La respiration cellulaire",
+        "La mitose",
+        "L'osmose",
+        "La transcription"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1779939735020_2_wfvelx",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
+      "question": "Quel archipel volcanique du Pacifique compte 8 îles principales ?",
+      "options": [
+        "Les îles Galápagos",
+        "Les îles Hawaï",
+        "Les îles Fidji",
+        "Les îles Marquises"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1779939735020_3_2a6agy",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
+      "question": "Quel mathématicien italien a introduit les chiffres arabes en Europe au XIIe siècle ?",
+      "options": [
+        "Léonardo Fibonacci",
+        "Euclide",
+        "Archimède",
+        "Pythagore"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1779939735020_4_wim74y",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
+      "question": "Quel peintre espagnol du XXe siècle a développé le mouvement cubiste ?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Diego Rivera"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1779939735020_5_ftxssv",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
+      "question": "Quel traité international a mis fin à la Première Guerre mondiale ?",
+      "options": [
+        "Le Traité de Versailles",
+        "Le Traité de Trianon",
+        "Le Traité de Paris",
+        "Le Traité de Brest-Litovsk"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1779939735020_6_ae8vf4",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
+      "question": "Quel biologiste français a développé la technique de la pasteurisation ?",
+      "options": [
+        "Claude Bernard",
+        "Louis Pasteur",
+        "Jean-Baptiste Lamarck",
+        "François Magendie"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779939735020_7_2g7iro",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
+      "question": "Quel sport hivernal olympique consiste à descendre une piste gelée sur un traîneau ?",
+      "options": [
+        "Le skeleton",
+        "Le curling",
+        "Le patinage de vitesse",
+        "Le bobsleigh"
+      ],
+      "correctAnswer": 3,
+      "category": "Sport",
+      "id": "q_1779939735020_8_qem1wx",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
+      "question": "Quel régime alimentaire japonais traditionnel met l'accent sur les aliments fermentés et les sauces à base de soja ?",
+      "options": [
+        "La cuisine kaiseki",
+        "La cuisine washoku",
+        "La cuisine okonomiyaki",
+        "La cuisine ramen"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1779939735020_9_tfd97e",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
+      "question": "Quel réalisateur britannique a créé la trilogie 'Retour vers le futur' ?",
+      "options": [
+        "Steven Spielberg",
+        "Robert Zemeckis",
+        "James Cameron",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1779939735020_10_z121fr",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
+      "question": "Quel minéral transparent et cristallin est la forme la plus dure du carbone ?",
+      "options": [
+        "Le quartz",
+        "Le diamant",
+        "Le rubis",
+        "l'émeraude"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1779939735020_11_v5tpe8",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
+      "question": "Quel phénomène naturel décrit le mouvement de l'écorce terrestre causant les tremblements de terre ?",
+      "options": [
+        "La tectonique des plaques",
+        "L'érosion",
+        "La convection",
+        "Le volcanisme"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1779939735020_12_tonj2o",
+      "addedAt": "2026-05-28T03:42:15.020Z"
+    },
+    {
       "question": "Quel peintre a coupé une partie de son oreille en 1888 ?",
       "options": [
         "Pablo Picasso",
@@ -3860,7 +4029,12 @@
       "category": "Littérature",
       "id": "q_1778643141517_1_z7dh0c",
       "addedAt": "2026-05-13T03:32:21.517Z"
-    },
+    }
+  ],
+  "version": 224,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-28T03:42:15.021Z",
+  "archivedQuestions": [
     {
       "question": "Quel élément chimique a le symbole 'Au' ?",
       "options": [
@@ -4029,141 +4203,6 @@
       "category": "Science",
       "id": "q_1778631353975_3_muix2j",
       "addedAt": "2026-05-13T00:15:53.975Z"
-    }
-  ],
-  "version": 223,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-28T00:37:20.901Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel compositeur autrichien est surnommé 'Wolfgang'? Quel est son nom complet ?",
-      "options": [
-        "Wolfgang Strauss",
-        "Wolfgang Amadeus Mozart",
-        "Wolfgang Mahler",
-        "Wolfgang Salieri"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1778631353975_4_8arqrj",
-      "addedAt": "2026-05-13T00:15:53.975Z"
-    },
-    {
-      "question": "Quel film réalisé par James Cameron sort en 1997 et devient le plus grand succès au box-office de son époque ?",
-      "options": [
-        "Avatar",
-        "Titanic",
-        "Terminator 2",
-        "Aliens"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1778631353975_5_26zfyz",
-      "addedAt": "2026-05-13T00:15:53.975Z"
-    },
-    {
-      "question": "Quel fruit tropical contient une enzyme appelée bromélaïne ?",
-      "options": [
-        "La mangue",
-        "La banane",
-        "L'ananas",
-        "La papaye"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1778631353975_6_rlrnt2",
-      "addedAt": "2026-05-13T00:15:53.975Z"
-    },
-    {
-      "question": "Quel est le premier nombre premier ?",
-      "options": [
-        "0",
-        "1",
-        "2",
-        "3"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1778631353975_7_q8e8jd",
-      "addedAt": "2026-05-13T00:15:53.975Z"
-    },
-    {
-      "question": "Quel mouvement artistique des années 1960 utilise des images des médias de masse et de la culture populaire ?",
-      "options": [
-        "Le Dadaïsme",
-        "Le Pop Art",
-        "L'Art abstrait",
-        "L'Expressionnisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1778631353975_8_vxxd7c",
-      "addedAt": "2026-05-13T00:15:53.975Z"
-    },
-    {
-      "question": "Quel archéologue britannique a découvert le tombeau de Toutânkhamon en 1922 ?",
-      "options": [
-        "Howard Carter",
-        "Flinders Petrie",
-        "Auguste Mariette",
-        "Zahi Hawass"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1778556273964_0_peke0z",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "Quel gaz noble est utilisé dans les tubes luminescents et porte le symbole Ne ?",
-      "options": [
-        "Hélium",
-        "Néon",
-        "Argon",
-        "Krypton"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778556273964_1_x0zk5o",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "En quel année l'Everest a-t-il été gravi pour la première fois avec succès ?",
-      "options": [
-        "1950",
-        "1953",
-        "1960",
-        "1975"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1778556273964_2_0k6xl7",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "Quel cinéaste suédois a réalisé 'Le Septième Sceau' ?",
-      "options": [
-        "Ingrid Bergman",
-        "Ingmar Bergman",
-        "Lars von Trier",
-        "Andrei Tarkovski"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1778556273964_3_o0jk6i",
-      "addedAt": "2026-05-12T03:24:33.964Z"
-    },
-    {
-      "question": "Quel fleuve traverse la Suisse et se jette dans la Mer du Nord ?",
-      "options": [
-        "Le Danube",
-        "Le Rhin",
-        "La Meuse",
-        "La Volga"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1778556273964_4_p176bv",
-      "addedAt": "2026-05-12T03:24:33.964Z"
     }
   ],
   "poolSize": 310
