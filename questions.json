@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur autrichien a écrit la Symphonie n°40 en sol mineur ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert",
+        "Joseph Haydn"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1780026133884_0_tz1100",
+      "addedAt": "2026-05-29T03:42:13.884Z"
+    },
+    {
+      "question": "Quel artiste hollandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Vincent van Gogh",
+        "Jan Vermeer",
+        "Piet Mondrian"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780026133884_1_8p6i9m",
+      "addedAt": "2026-05-29T03:42:13.884Z"
+    },
+    {
+      "question": "Quel roman de Jane Austen met en scène Elizabeth Bennet ?",
+      "options": [
+        "Persuasion",
+        "Orgueil et Préjugés",
+        "Emma",
+        "Raison et Sentiments"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1780026133884_2_nivokj",
+      "addedAt": "2026-05-29T03:42:13.884Z"
+    },
+    {
+      "question": "Quel est le plus grand océan du monde en termes de surface ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Arctique",
+        "Océan Pacifique"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1780026133884_3_zpxf5m",
+      "addedAt": "2026-05-29T03:42:13.884Z"
+    },
+    {
+      "question": "Quel processus biologique permet aux plantes de transformer la lumière en énergie chimique ?",
+      "options": [
+        "Fermentation",
+        "Respiration cellulaire",
+        "Photosynthèse",
+        "Oxydation"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1780026133884_4_n68ff6",
+      "addedAt": "2026-05-29T03:42:13.884Z"
+    },
+    {
+      "question": "En quel siècle la Révolution Française a-t-elle éclaté ?",
+      "options": [
+        "XVIIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle",
+        "XXe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1780026133884_5_oigeau",
+      "addedAt": "2026-05-29T03:42:13.884Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Amérique du Sud ?",
+      "options": [
+        "Le Paraná",
+        "L'Amazone",
+        "L'Orénoque",
+        "Le Río de la Plata"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1780026133884_6_0h0ioe",
+      "addedAt": "2026-05-29T03:42:13.884Z"
+    },
+    {
+      "question": "Quel sushi japonais est roulé avec du riz à l'extérieur ?",
+      "options": [
+        "Nigiri",
+        "Sashimi",
+        "Uramaki",
+        "Temaki"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1780026133884_7_85n0c6",
+      "addedAt": "2026-05-29T03:42:13.884Z"
+    },
+    {
+      "question": "Quel réseau social a été fondé par Mark Zuckerberg en 2004 ?",
+      "options": [
+        "Twitter",
+        "Instagram",
+        "Facebook",
+        "TikTok"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1780026133884_8_oz7133",
+      "addedAt": "2026-05-29T03:42:13.884Z"
+    },
+    {
+      "question": "Quel animal se reproduit par parthénogenèse sans partenaire sexuel ?",
+      "options": [
+        "L'autruche",
+        "Le lézard whiptail",
+        "Le manchot",
+        "La girafe"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1780026133884_9_6e5dcg",
+      "addedAt": "2026-05-29T03:42:13.884Z"
+    },
+    {
       "question": "Quel biologiste britannique a formulé la théorie de l'évolution par sélection naturelle ?",
       "options": [
         "Isaac Newton",
@@ -3899,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1778729527995_0_x561a0",
       "addedAt": "2026-05-14T03:32:07.995Z"
-    },
+    }
+  ],
+  "version": 226,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-29T03:42:13.885Z",
+  "archivedQuestions": [
     {
       "question": "Quel musée parisien expose la Victoire de Samothrace ?",
       "options": [
@@ -4029,154 +4164,6 @@
       "category": "Science",
       "id": "q_1778717339389_0_9p5nt3",
       "addedAt": "2026-05-14T00:08:59.389Z"
-    }
-  ],
-  "version": 225,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-29T00:53:32.343Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel artiste néerlandais a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Paul Cézanne",
-        "Vincent van Gogh",
-        "Henri de Toulouse-Lautrec",
-        "Édouard Manet"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1778717339389_1_ml9hll",
-      "addedAt": "2026-05-14T00:08:59.389Z"
-    },
-    {
-      "question": "En quel siècle a été signé la Magna Carta en Angleterre ?",
-      "options": [
-        "XIe siècle",
-        "XIIe siècle",
-        "XIIIe siècle",
-        "XIVe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1778717339389_2_a7li9g",
-      "addedAt": "2026-05-14T00:08:59.389Z"
-    },
-    {
-      "question": "Quel est le nombre de côtés d'un hexagone régulier ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1778717339389_3_48dj4h",
-      "addedAt": "2026-05-14T00:08:59.389Z"
-    },
-    {
-      "question": "Quel sport nautique consiste à naviguer avec une planche et une voile ?",
-      "options": [
-        "Le surf",
-        "Le wakeboard",
-        "La planche à voile",
-        "Le kayak"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1778717339389_4_cpnzsl",
-      "addedAt": "2026-05-14T00:08:59.389Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Asie ?",
-      "options": [
-        "Le fleuve Jaune",
-        "Le Mékong",
-        "Le Yangzi",
-        "L'Indus"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1778717339389_5_dkd836",
-      "addedAt": "2026-05-14T00:08:59.389Z"
-    },
-    {
-      "question": "Quel type de cuisine utilise principalement du riz, du soja et des fruits de mer ?",
-      "options": [
-        "La cuisine méditerranéenne",
-        "La cuisine asiatique",
-        "La cuisine tex-mex",
-        "La cuisine scandinave"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1778717339389_6_xw0fa8",
-      "addedAt": "2026-05-14T00:08:59.389Z"
-    },
-    {
-      "question": "Quel animal terrestre possède la plus longue espérance de vie ?",
-      "options": [
-        "L'éléphant",
-        "La tortue géante",
-        "Le perroquet gris",
-        "La baleine"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1778717339389_7_jq15p2",
-      "addedAt": "2026-05-14T00:08:59.389Z"
-    },
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum en 1989 ?",
-      "options": [
-        "Java",
-        "Python",
-        "C++",
-        "JavaScript"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1778717339389_8_dlxdk9",
-      "addedAt": "2026-05-14T00:08:59.389Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le film 'Amélie' en 2001 ?",
-      "options": [
-        "Luc Besson",
-        "Jean-Pierre Jeunet",
-        "Claude Chabrol",
-        "François Truffaut"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1778717339389_9_te8rb8",
-      "addedAt": "2026-05-14T00:08:59.389Z"
-    },
-    {
-      "question": "Quel phénomène naturel provoque les aurores boréales dans le ciel arctique ?",
-      "options": [
-        "Les éruptions volcaniques",
-        "L'interaction du vent solaire avec la magnétosphère terrestre",
-        "Les réactions chimiques dans l'atmosphère",
-        "Les réflexions de la lumière lunaire"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778643141517_0_qyok6a",
-      "addedAt": "2026-05-13T03:32:21.517Z"
-    },
-    {
-      "question": "Quel écrivain français a créé le personnage du Comte de Monte-Cristo ?",
-      "options": [
-        "Victor Hugo",
-        "Alexandre Dumas",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1778643141517_1_z7dh0c",
-      "addedAt": "2026-05-13T03:32:21.517Z"
     }
   ],
   "poolSize": 310
