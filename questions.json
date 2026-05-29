@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel biologiste britannique a formulé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Isaac Newton",
+        "Charles Darwin",
+        "Stephen Hawking",
+        "Richard Dawkins"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1780016012342_9_5zvxm6",
+      "addedAt": "2026-05-29T00:53:32.343Z"
+    },
+    {
+      "question": "Quel style architectural caractérise les cathédrales du Moyen Âge avec arcs pointus et vitraux ?",
+      "options": [
+        "Roman",
+        "Gothique",
+        "Renaissance",
+        "Baroque"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780016012343_10_tr9g0v",
+      "addedAt": "2026-05-29T00:53:32.343Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit la symphonie 'Une petite musique de nuit' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Franz Joseph Haydn"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1780016012342_0_t0ukze",
+      "addedAt": "2026-05-29T00:53:32.342Z"
+    },
+    {
+      "question": "Quel élément chimique a pour symbole 'Au' ?",
+      "options": [
+        "Argent",
+        "Argon",
+        "Or",
+        "Aluminium"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1780016012342_1_iyza2p",
+      "addedAt": "2026-05-29T00:53:32.342Z"
+    },
+    {
+      "question": "Quel pays produit le plus de cacao au monde ?",
+      "options": [
+        "Ghana",
+        "Indonésie",
+        "Côte d'Ivoire",
+        "Cameroun"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1780016012342_2_loumyf",
+      "addedAt": "2026-05-29T00:53:32.342Z"
+    },
+    {
+      "question": "Combien de cordes possède un violon classique ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1780016012342_3_kcjvp9",
+      "addedAt": "2026-05-29T00:53:32.342Z"
+    },
+    {
+      "question": "Quel peintre espagnol est connu pour son style cubiste avec 'Les Demoiselles d'Avignon' ?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Juan Gris"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780016012342_4_rne85p",
+      "addedAt": "2026-05-29T00:53:32.342Z"
+    },
+    {
+      "question": "Quel roman de science-fiction de Jules Verne a pour titre 'Voyage au centre de la...' ?",
+      "options": [
+        "Terre",
+        "Lune",
+        "Galaxie",
+        "Planète"
+      ],
+      "correctAnswer": 0,
+      "category": "Littérature",
+      "id": "q_1780016012342_5_6bouwz",
+      "addedAt": "2026-05-29T00:53:32.342Z"
+    },
+    {
+      "question": "Quel insecte possède un exosquelette et représente environ 80% de tous les animaux ?",
+      "options": [
+        "Arachnide",
+        "Insecte",
+        "Crustacé",
+        "Mollusque"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1780016012342_6_q3vob9",
+      "addedAt": "2026-05-29T00:53:32.342Z"
+    },
+    {
+      "question": "Quel prix cinématographique international est remis au Festival de Cannes ?",
+      "options": [
+        "Golden Globe",
+        "Palme d'Or",
+        "BAFTA",
+        "César"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1780016012342_7_aafp8z",
+      "addedAt": "2026-05-29T00:53:32.342Z"
+    },
+    {
+      "question": "En mathématiques, quel est le résultat de 15² ?",
+      "options": [
+        "200",
+        "225",
+        "250",
+        "175"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1780016012342_8_df5k6e",
+      "addedAt": "2026-05-29T00:53:32.342Z"
+    },
+    {
       "question": "Quel compositeur autrichien a créé la symphonie 'Jupiter' ?",
       "options": [
         "Ludwig van Beethoven",
@@ -3886,7 +4029,12 @@
       "category": "Science",
       "id": "q_1778717339389_0_9p5nt3",
       "addedAt": "2026-05-14T00:08:59.389Z"
-    },
+    }
+  ],
+  "version": 225,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-29T00:53:32.343Z",
+  "archivedQuestions": [
     {
       "question": "Quel artiste néerlandais a peint 'La Nuit étoilée' ?",
       "options": [
@@ -4029,180 +4177,6 @@
       "category": "Littérature",
       "id": "q_1778643141517_1_z7dh0c",
       "addedAt": "2026-05-13T03:32:21.517Z"
-    }
-  ],
-  "version": 224,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-28T03:42:15.021Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel élément chimique a le symbole 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Azote"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1778643141517_2_4vcjlb",
-      "addedAt": "2026-05-13T03:32:21.517Z"
-    },
-    {
-      "question": "Quel artiste des années 1980 est connu pour ses peintures de boîtes de soupe Campbell ?",
-      "options": [
-        "Andy Warhol",
-        "Jackson Pollock",
-        "Roy Lichtenstein",
-        "Keith Haring"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1778643141517_3_opvmgc",
-      "addedAt": "2026-05-13T03:32:21.517Z"
-    },
-    {
-      "question": "Quel sport utilise un volant et se joue sur un terrain rectangulaire divisé par un filet ?",
-      "options": [
-        "Le tennis de table",
-        "Le badminton",
-        "Le squash",
-        "Le volleyball"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1778643141517_4_u2ehnb",
-      "addedAt": "2026-05-13T03:32:21.517Z"
-    },
-    {
-      "question": "Quel système d'exploitation a été créé par Linus Torvalds en 1991 ?",
-      "options": [
-        "Windows",
-        "macOS",
-        "Linux",
-        "Android"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1778643141517_5_cqyxij",
-      "addedAt": "2026-05-13T03:32:21.517Z"
-    },
-    {
-      "question": "Quel réalisateur italien a créé le mouvement cinématographique du néoréalisme après la Seconde Guerre mondiale ?",
-      "options": [
-        "Michelangelo Antonioni",
-        "Sergio Leone",
-        "Roberto Rossellini",
-        "Vittorio De Sica"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1778643141517_6_qqmzr6",
-      "addedAt": "2026-05-13T03:32:21.517Z"
-    },
-    {
-      "question": "Quel plat français traditionnel est préparé avec du foie gras ?",
-      "options": [
-        "La bouillabaisse",
-        "Le pâté de foie gras",
-        "L'escargot de Bourgogne",
-        "La cassoulet"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1778643141517_7_d9rsbg",
-      "addedAt": "2026-05-13T03:32:21.517Z"
-    },
-    {
-      "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles portant son nom ?",
-      "options": [
-        "Archimède",
-        "Pythagore",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1778643141517_8_akdaqa",
-      "addedAt": "2026-05-13T03:32:21.517Z"
-    },
-    {
-      "question": "Quel animal possède le cœur le plus grand du règne animal ?",
-      "options": [
-        "L'éléphant",
-        "Le cœlacanthe",
-        "La baleine bleue",
-        "L'autruche"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1778643141517_9_opicrm",
-      "addedAt": "2026-05-13T03:32:21.517Z"
-    },
-    {
-      "question": "Quel historien et philosophe français du XVIIIe siècle a écrit 'Candide' ?",
-      "options": [
-        "Jean-Jacques Rousseau",
-        "Denis Diderot",
-        "Voltaire",
-        "Montesquieu"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1778643141517_10_5wc44z",
-      "addedAt": "2026-05-13T03:32:21.517Z"
-    },
-    {
-      "question": "En quel année la Révolution française a-t-elle commencé ?",
-      "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1778631353975_0_gbxdaz",
-      "addedAt": "2026-05-13T00:15:53.975Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la pénicilline en 1928 ?",
-      "options": [
-        "Louis Pasteur",
-        "Alexander Fleming",
-        "Joseph Lister",
-        "Edward Jenner"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778631353975_1_rervly",
-      "addedAt": "2026-05-13T00:15:53.975Z"
-    },
-    {
-      "question": "Quel est le sport national du Japon ?",
-      "options": [
-        "Le karaté",
-        "Le sumo",
-        "Le judo",
-        "Le badminton"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1778631353975_2_ohjmec",
-      "addedAt": "2026-05-13T00:15:53.975Z"
-    },
-    {
-      "question": "Quel gaz constitue environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "L'oxygène",
-        "L'azote",
-        "L'argon",
-        "Le dioxyde de carbone"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778631353975_3_muix2j",
-      "addedAt": "2026-05-13T00:15:53.975Z"
     }
   ],
   "poolSize": 310
