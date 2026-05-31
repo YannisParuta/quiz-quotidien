@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel mathématicien grec a établi le théorème sur les triangles rectangles ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1780186817901_0_o0m69n",
+      "addedAt": "2026-05-31T00:20:17.901Z"
+    },
+    {
+      "question": "Quel compositeur a écrit la symphonie 'Jupiter' ?",
+      "options": [
+        "Beethoven",
+        "Mozart",
+        "Haydn",
+        "Bach"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1780186817901_1_wyfshr",
+      "addedAt": "2026-05-31T00:20:17.901Z"
+    },
+    {
+      "question": "Quel est le plus long système montagneux sous-marin ?",
+      "options": [
+        "Dorsale du Pacifique",
+        "Chaîne de la Sonde",
+        "Dorsale médio-océanique",
+        "Fosse des Mariannes"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1780186817901_2_dw2xt6",
+      "addedAt": "2026-05-31T00:20:17.901Z"
+    },
+    {
+      "question": "Quel sport olympique comprend l'épreuve du saut en hauteur ?",
+      "options": [
+        "Heptathlon",
+        "Athlétisme",
+        "Pentathlon moderne",
+        "Triathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1780186817901_3_aauftr",
+      "addedAt": "2026-05-31T00:20:17.901Z"
+    },
+    {
+      "question": "Quel peintre français du XVIIIe siècle est connu pour ses scènes galantes ?",
+      "options": [
+        "Boucher",
+        "Watteau",
+        "Fragonard",
+        "Greuze"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780186817901_4_welw83",
+      "addedAt": "2026-05-31T00:20:17.901Z"
+    },
+    {
+      "question": "Quel type de bactérie aide à la digestion dans l'intestin humain ?",
+      "options": [
+        "Bacille",
+        "Spirille",
+        "Microbiote intestinal",
+        "Staphylocoque"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1780186817901_5_oc4wvi",
+      "addedAt": "2026-05-31T00:20:17.901Z"
+    },
+    {
+      "question": "Quel est le plus vieux musée du monde ?",
+      "options": [
+        "Le Louvre",
+        "Le British Museum",
+        "L'Ashmolean Museum",
+        "Le Vatican"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1780186817901_6_wgz92d",
+      "addedAt": "2026-05-31T00:20:17.901Z"
+    },
+    {
+      "question": "Quel traité a mis fin à la Guerre de Cent Ans entre France et Angleterre ?",
+      "options": [
+        "Traité de Troyes",
+        "Traité de Paris",
+        "Traité d'Amiens",
+        "Traité de Picquigny"
+      ],
+      "correctAnswer": 3,
+      "category": "Histoire",
+      "id": "q_1780186817901_7_33neh4",
+      "addedAt": "2026-05-31T00:20:17.901Z"
+    },
+    {
+      "question": "Quel légume est techniquement une fleur non épanouie ?",
+      "options": [
+        "Tomate",
+        "Brocoli",
+        "Carotte",
+        "Épinard"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1780186817901_8_yfmezt",
+      "addedAt": "2026-05-31T00:20:17.901Z"
+    },
+    {
       "question": "En quel siècle la Grande Muraille de Chine a-t-elle été majorité construite ?",
       "options": [
         "XIe siècle",
@@ -3912,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1778890611978_6_1gg6ex",
       "addedAt": "2026-05-16T00:16:51.978Z"
-    },
+    }
+  ],
+  "version": 229,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-31T00:20:17.902Z",
+  "archivedQuestions": [
     {
       "question": "Quel réalisateur britannique a dirigé la saga 'Harry Potter' pour la majorité des films ?",
       "options": [
@@ -4028,128 +4150,6 @@
       "correctAnswer": 1,
       "category": "Littérature",
       "id": "q_1778816125835_3_65y9e9",
-      "addedAt": "2026-05-15T03:35:25.835Z"
-    }
-  ],
-  "version": 228,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-30T03:30:58.591Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mammifère marin est le plus grand animal ayant jamais existé sur Terre ?",
-      "options": [
-        "Baleine bleue",
-        "Éléphant de mer",
-        "Cachalot",
-        "Girafe"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1778816125835_4_7emznw",
-      "addedAt": "2026-05-15T03:35:25.835Z"
-    },
-    {
-      "question": "En quelle année le Titanic a-t-il coulé ?",
-      "options": [
-        "1910",
-        "1912",
-        "1915",
-        "1920"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1778816125835_5_fzv4fz",
-      "addedAt": "2026-05-15T03:35:25.835Z"
-    },
-    {
-      "question": "Quel réalisateur britannique est connu pour ses techniques de suspense cinématographique ?",
-      "options": [
-        "Stanley Kubrick",
-        "Alfred Hitchcock",
-        "David Lean",
-        "Ken Loach"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1778816125835_6_9di4qt",
-      "addedAt": "2026-05-15T03:35:25.835Z"
-    },
-    {
-      "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Archimède",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1778816125835_7_kaxa52",
-      "addedAt": "2026-05-15T03:35:25.835Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en bromélaïne, une enzyme digestive ?",
-      "options": [
-        "Banane",
-        "Ananas",
-        "Papaye",
-        "Mangue"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1778816125835_8_ebmfn6",
-      "addedAt": "2026-05-15T03:35:25.835Z"
-    },
-    {
-      "question": "Quel sport olympique combine le ski et le tir à la carabine ?",
-      "options": [
-        "Ski alpin",
-        "Biathlon",
-        "Ski de fond",
-        "Combiné nordique"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1778816125835_9_8eswrz",
-      "addedAt": "2026-05-15T03:35:25.835Z"
-    },
-    {
-      "question": "Quel processus permet aux humains de voir les couleurs grâce aux cônes de la rétine ?",
-      "options": [
-        "Accommodation",
-        "Vision photopique",
-        "Convergence",
-        "Diffraction"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778816125835_10_fau3m1",
-      "addedAt": "2026-05-15T03:35:25.835Z"
-    },
-    {
-      "question": "Quel archipel volcanique est situé en Nouvelle-Zélande et connu pour son activité géothermale ?",
-      "options": [
-        "Îles Galápagos",
-        "Rotorua",
-        "Îles Philippines",
-        "Japon"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1778816125835_11_piayw0",
-      "addedAt": "2026-05-15T03:35:25.835Z"
-    },
-    {
-      "question": "Quel poète français du XIXe siècle a écrit 'Le Corbeau' en 1845 ?",
-      "options": [
-        "Victor Hugo",
-        "Charles Baudelaire",
-        "Paul Verlaine",
-        "Stéphane Mallarmé"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1778816125835_12_kao4ar",
       "addedAt": "2026-05-15T03:35:25.835Z"
     }
   ],
