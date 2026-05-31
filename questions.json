@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique britannique a formulé les lois du mouvement et de la gravitation universelle ?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Stephen Hawking"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1780199851152_0_7wtl9i",
+      "addedAt": "2026-05-31T03:57:31.152Z"
+    },
+    {
+      "question": "En quelle année la construction de la Tour Eiffel a-t-elle été achevée ?",
+      "options": [
+        "1887",
+        "1889",
+        "1891",
+        "1893"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1780199851152_1_ykoa2c",
+      "addedAt": "2026-05-31T03:57:31.152Z"
+    },
+    {
+      "question": "Quel écrivain britannique a créé les aventures de Dracula ?",
+      "options": [
+        "Mary Shelley",
+        "Bram Stoker",
+        "Oscar Wilde",
+        "Robert Louis Stevenson"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1780199851152_2_w248n5",
+      "addedAt": "2026-05-31T03:57:31.152Z"
+    },
+    {
+      "question": "Quel est le plus grand désert chaud du monde ?",
+      "options": [
+        "Le désert de Gobi",
+        "Le désert du Sahara",
+        "Le désert d'Arabie",
+        "Le désert de Kalahari"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1780199851152_3_l5jzab",
+      "addedAt": "2026-05-31T03:57:31.152Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit les 'Quatre Saisons' ?",
+      "options": [
+        "Wolfgang Mozart",
+        "Ludwig van Beethoven",
+        "Antonio Vivaldi",
+        "Johann Strauss"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1780199851152_4_yi2kve",
+      "addedAt": "2026-05-31T03:57:31.152Z"
+    },
+    {
+      "question": "Quel est le nombre de cordes d'une guitare classique ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1780199851152_5_2vmhyq",
+      "addedAt": "2026-05-31T03:57:31.152Z"
+    },
+    {
+      "question": "Quel mathématicien grec a découvert le rapport entre la circonférence et le diamètre d'un cercle ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1780199851152_6_e9wiov",
+      "addedAt": "2026-05-31T03:57:31.152Z"
+    },
+    {
+      "question": "Quel peintre français est célèbre pour ses nymphéas et ses jardins ?",
+      "options": [
+        "Paul Cézanne",
+        "Claude Monet",
+        "Henri Matisse",
+        "Pierre-Auguste Renoir"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780199851152_7_7zrxwo",
+      "addedAt": "2026-05-31T03:57:31.152Z"
+    },
+    {
+      "question": "Quel sport nautique utilise une planche et des vagues ?",
+      "options": [
+        "Le water-polo",
+        "Le surf",
+        "Le kitesurf",
+        "Le wakeboard"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1780199851152_8_xlljg0",
+      "addedAt": "2026-05-31T03:57:31.152Z"
+    },
+    {
+      "question": "Quel fruit tropical contient une enzyme qui digère les protéines ?",
+      "options": [
+        "La mangue",
+        "La papaye",
+        "L'ananas",
+        "La banane"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1780199851152_9_gur3mu",
+      "addedAt": "2026-05-31T03:57:31.152Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été développé par Linus Torvalds ?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1780199851152_10_89mnkx",
+      "addedAt": "2026-05-31T03:57:31.152Z"
+    },
+    {
+      "question": "En quel siècle les grottes de Lascaux ont-elles été peintes ?",
+      "options": [
+        "Le XIIe siècle avant J.-C.",
+        "Le XXe siècle avant J.-C.",
+        "Le XXXe siècle avant J.-C.",
+        "Le Ve siècle avant J.-C."
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1780199851152_11_phuj1d",
+      "addedAt": "2026-05-31T03:57:31.152Z"
+    },
+    {
       "question": "Quel mathématicien grec a établi le théorème sur les triangles rectangles ?",
       "options": [
         "Archimède",
@@ -3873,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1778901593855_5_40idev",
       "addedAt": "2026-05-16T03:19:53.855Z"
-    },
+    }
+  ],
+  "version": 230,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-05-31T03:57:31.153Z",
+  "archivedQuestions": [
     {
       "question": "Quel instrument à vent est l'ancêtre du saxophone ?",
       "options": [
@@ -4029,128 +4190,6 @@
       "category": "Gastronomie",
       "id": "q_1778890611978_6_1gg6ex",
       "addedAt": "2026-05-16T00:16:51.978Z"
-    }
-  ],
-  "version": 229,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-05-31T00:20:17.902Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel réalisateur britannique a dirigé la saga 'Harry Potter' pour la majorité des films ?",
-      "options": [
-        "Alfonso Cuarón",
-        "David Yates",
-        "Chris Columbus",
-        "Mike Newell"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1778890611978_7_j0w40s",
-      "addedAt": "2026-05-16T00:16:51.978Z"
-    },
-    {
-      "question": "Quel élément chimique porte le symbole 'Au' ?",
-      "options": [
-        "L'argent",
-        "L'or",
-        "L'aluminium",
-        "L'arsenic"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778890611978_8_1novcu",
-      "addedAt": "2026-05-16T00:16:51.978Z"
-    },
-    {
-      "question": "Quel système de numération utilise uniquement les chiffres 0 et 1 ?",
-      "options": [
-        "Le système décimal",
-        "Le système hexadécimal",
-        "Le système binaire",
-        "Le système octal"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1778890611978_9_4vlnm8",
-      "addedAt": "2026-05-16T00:16:51.978Z"
-    },
-    {
-      "question": "Quel désert est le plus grand du monde après l'Antarctique ?",
-      "options": [
-        "Le désert du Sahara",
-        "Le désert de Gobi",
-        "Le désert de Kalahari",
-        "Le désert d'Arabie"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1778890611978_10_m341dn",
-      "addedAt": "2026-05-16T00:16:51.978Z"
-    },
-    {
-      "question": "Quel prix littéraire français est remis chaque année depuis 1926 ?",
-      "options": [
-        "Le Prix Goncourt",
-        "Le Prix Femina",
-        "Le Grand Prix du Roman",
-        "Le Prix Médicis"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1778890611978_11_wumucv",
-      "addedAt": "2026-05-16T00:16:51.978Z"
-    },
-    {
-      "question": "Quel artiste impressionniste français a peint la série des 'Nymphéas' ?",
-      "options": [
-        "Pierre-Auguste Renoir",
-        "Claude Monet",
-        "Edgar Degas",
-        "Camille Pissarro"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1778816125835_0_faezps",
-      "addedAt": "2026-05-15T03:35:25.835Z"
-    },
-    {
-      "question": "En quelle année la Bastille a-t-elle été prise lors de la Révolution française ?",
-      "options": [
-        "1789",
-        "1791",
-        "1792",
-        "1794"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1778816125835_1_ev7itj",
-      "addedAt": "2026-05-15T03:35:25.835Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde en termes de superficie ?",
-      "options": [
-        "Monaco",
-        "Liechtenstein",
-        "Vatican",
-        "Malte"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1778816125835_2_km9sin",
-      "addedAt": "2026-05-15T03:35:25.835Z"
-    },
-    {
-      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
-        "George Orwell",
-        "Charles Dickens"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1778816125835_3_65y9e9",
-      "addedAt": "2026-05-15T03:35:25.835Z"
     }
   ],
   "poolSize": 310
