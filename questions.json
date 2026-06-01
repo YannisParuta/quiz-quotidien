@@ -1,6 +1,84 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a écrit 'Le Seigneur des Anneaux' en version française et est connu pour ses adaptations fantastiques ?",
+      "options": [
+        "Jules Verne",
+        "Alexandre Dumas",
+        "J.R.R. Tolkien (adaptations)",
+        "George Sand"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1780287068127_0_q1slrw",
+      "addedAt": "2026-06-01T04:11:08.127Z"
+    },
+    {
+      "question": "Quel peintre hollandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Jan Vermeer",
+        "Vincent van Gogh",
+        "Pieter Bruegel"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1780287068127_1_fnpse8",
+      "addedAt": "2026-06-01T04:11:08.127Z"
+    },
+    {
+      "question": "Quel compositeur a écrit les 'Quatre Saisons' ?",
+      "options": [
+        "Jean-Sébastien Bach",
+        "Antonio Vivaldi",
+        "Wolfgang Amadeus Mozart",
+        "George Friedrich Haendel"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1780287068127_2_3o75zy",
+      "addedAt": "2026-06-01T04:11:08.127Z"
+    },
+    {
+      "question": "Quel est le plus grand désert froid du monde ?",
+      "options": [
+        "Antarctique",
+        "Désert de Gobi",
+        "Désert du Kara-Bogaz-Gol",
+        "Désert de Taklamakan"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1780287068127_3_fqv6fa",
+      "addedAt": "2026-06-01T04:11:08.127Z"
+    },
+    {
+      "question": "Quel aliment est la source principale de vitamine B12 pour les végétaliens ?",
+      "options": [
+        "Épinards",
+        "Pois chiches",
+        "Levure nutritionnelle",
+        "Carottes"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1780287068127_4_z1t5xm",
+      "addedAt": "2026-06-01T04:11:08.127Z"
+    },
+    {
+      "question": "Quel animal possède le cœur le plus volumineux par rapport à son corps ?",
+      "options": [
+        "Baleine bleue",
+        "Éléphant",
+        "Girafe",
+        "Hippopotame"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1780287068127_5_q7c2j9",
+      "addedAt": "2026-06-01T04:11:08.127Z"
+    },
+    {
       "question": "Quel mathématicien grec a énoncé le théorème sur les triangles rectangles ?",
       "options": [
         "Euclide",
@@ -3951,7 +4029,12 @@
       "category": "Art",
       "id": "q_1778988803652_8_ahvk0i",
       "addedAt": "2026-05-17T03:33:23.652Z"
-    },
+    }
+  ],
+  "version": 232,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-01T04:11:08.127Z",
+  "archivedQuestions": [
     {
       "question": "Quel virus cause la maladie COVID-19 ?",
       "options": [
@@ -4029,167 +4112,6 @@
       "category": "Musique",
       "id": "q_1778977972883_3_ztax0e",
       "addedAt": "2026-05-17T00:32:52.883Z"
-    }
-  ],
-  "version": 231,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-01T00:59:43.312Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel château français est célèbre pour sa galerie des Glaces ?",
-      "options": [
-        "Château de Chambord",
-        "Château de Versailles",
-        "Château de Chenonceau",
-        "Château de Fontainebleau"
-      ],
-      "correctAnswer": 1,
-      "category": "Architecture",
-      "id": "q_1778977972883_4_ypcly4",
-      "addedAt": "2026-05-17T00:32:52.883Z"
-    },
-    {
-      "question": "Quel sport utilise des quilles et une boule ?",
-      "options": [
-        "Le curling",
-        "Le bowling",
-        "La pétanque",
-        "Le billard"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1778977972883_5_9zas9c",
-      "addedAt": "2026-05-17T00:32:52.883Z"
-    },
-    {
-      "question": "Quel phénomène optique crée un arc coloré dans le ciel après la pluie ?",
-      "options": [
-        "Le mirage",
-        "L'arc-en-ciel",
-        "L'aurore boréale",
-        "Le halo"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778977972883_6_swr574",
-      "addedAt": "2026-05-17T00:32:52.883Z"
-    },
-    {
-      "question": "Quel artiste a peint 'La Nuit étoilée' en 1889 ?",
-      "options": [
-        "Paul Klee",
-        "Salvador Dalí",
-        "Vincent van Gogh",
-        "Pablo Picasso"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1778977972883_7_esrmc5",
-      "addedAt": "2026-05-17T00:32:52.883Z"
-    },
-    {
-      "question": "Quel alcool blanc est obtenu par la fermentation et la distillation de la canne à sucre ?",
-      "options": [
-        "Le rhum",
-        "La vodka",
-        "Le whisky",
-        "Le gin"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1778977972883_8_4gsjky",
-      "addedAt": "2026-05-17T00:32:52.883Z"
-    },
-    {
-      "question": "Quel est le langage de balisage fondamental pour créer des pages web ?",
-      "options": [
-        "Python",
-        "CSS",
-        "HTML",
-        "JavaScript"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1778977972883_9_iwqp8w",
-      "addedAt": "2026-05-17T00:32:52.883Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet du continent africain ?",
-      "options": [
-        "Mont Kenya",
-        "Kilimanjaro",
-        "Pic de Speke",
-        "Mont Stanley"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1778901593855_0_j2x9oy",
-      "addedAt": "2026-05-16T03:19:53.855Z"
-    },
-    {
-      "question": "En quelle année l'homme a-t-il marché pour la première fois sur la Lune ?",
-      "options": [
-        "1965",
-        "1967",
-        "1969",
-        "1971"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1778901593855_1_9sdpsn",
-      "addedAt": "2026-05-16T03:19:53.855Z"
-    },
-    {
-      "question": "Quel écrivain français a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Jules Verne",
-        "Arthur Conan Doyle",
-        "Émile Zola",
-        "Alexandre Dumas"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1778901593855_2_qeyabu",
-      "addedAt": "2026-05-16T03:19:53.855Z"
-    },
-    {
-      "question": "Quel sport se pratique sur une piste avec des bâtons et des portes ?",
-      "options": [
-        "Biathlon",
-        "Slalom",
-        "Skeleton",
-        "Curling"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1778901593855_3_u57lwy",
-      "addedAt": "2026-05-16T03:19:53.855Z"
-    },
-    {
-      "question": "Quel peintre hollandais est célèbre pour ses autoportraits ?",
-      "options": [
-        "Mondrian",
-        "Rembrandt",
-        "Vermeer",
-        "Van Gogh"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1778901593855_4_5s5sj0",
-      "addedAt": "2026-05-16T03:19:53.855Z"
-    },
-    {
-      "question": "Quel dinosaure est connu pour ses trois cornes et sa collerette osseuse ?",
-      "options": [
-        "Stégosaure",
-        "Tricératops",
-        "Ankylosaure",
-        "Brachiosaure"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1778901593855_5_40idev",
-      "addedAt": "2026-05-16T03:19:53.855Z"
     }
   ],
   "poolSize": 310
