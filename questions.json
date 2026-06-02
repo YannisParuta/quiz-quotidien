@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel élément chimique a le symbole 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1780373070488_0_vpwmwg",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
+      "question": "Quel musée abrite la 'Victoire de Samothrace' ?",
+      "options": [
+        "Musée de l'Ermitage",
+        "Louvre",
+        "Musée du Prado",
+        "Galerie Uffizi"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780373070488_1_t3anni",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
+      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Tolstoï",
+        "Dostoïevski",
+        "Tchékhov",
+        "Pouchkine"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1780373070488_2_a26zpm",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
+      "question": "Combien de cordes possède un violoncelle ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1780373070488_3_7om1a5",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
+      "question": "Quel pays produit la majorité du cacao mondial ?",
+      "options": [
+        "Brésil",
+        "Côte d'Ivoire",
+        "Ghana",
+        "Équateur"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1780373070488_4_lpw4hx",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet de l'Afrique ?",
+      "options": [
+        "Mont Kenya",
+        "Kilimandjaro",
+        "Mont Stanley",
+        "Pic Speke"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1780373070488_5_94cyk2",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
+      "question": "Quel dinosaure était le plus léger en poids ?",
+      "options": [
+        "Triceratops",
+        "Microraptor",
+        "Stégosaure",
+        "Iguanodon"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1780373070488_6_7fr868",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
+      "question": "Quel réalisateur a créé 'Blade Runner' en 1982 ?",
+      "options": [
+        "George Lucas",
+        "Ridley Scott",
+        "Stanley Kubrick",
+        "Steven Spielberg"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1780373070488_7_liyzzf",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
+      "question": "Quelle est la vitesse de propagation de la lumière dans le vide ?",
+      "options": [
+        "200 000 km/s",
+        "300 000 km/s",
+        "350 000 km/s",
+        "250 000 km/s"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1780373070488_8_g9xq95",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
+      "question": "En quel année le premier navigateur Web 'Mosaic' a-t-il été lancé ?",
+      "options": [
+        "1991",
+        "1993",
+        "1995",
+        "1997"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1780373070488_9_e1840c",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
+      "question": "Quel mathématicien a développé le calcul infinitésimal ?",
+      "options": [
+        "Isaac Newton",
+        "Leibniz",
+        "Fermat",
+        "Pascal"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1780373070488_10_rubxi4",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
+      "question": "Quel champion de tennis français a remporté 15 titres du Grand Chelem ?",
+      "options": [
+        "Yannick Noah",
+        "Pierre Barthès",
+        "Gilles Simon",
+        "Actualité - à vérifier"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1780373070488_11_c8d7a8",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
+      "question": "Quel peintre impressionniste était également un sculpteur important ?",
+      "options": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Camille Claudel",
+        "Mary Cassatt"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1780373070488_12_khgokm",
+      "addedAt": "2026-06-02T04:04:30.488Z"
+    },
+    {
       "question": "Quel océan est le plus profond de la planète ?",
       "options": [
         "Océan Atlantique",
@@ -3860,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1779076053923_0_96ikun",
       "addedAt": "2026-05-18T03:47:33.923Z"
-    },
+    }
+  ],
+  "version": 234,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-02T04:04:30.489Z",
+  "archivedQuestions": [
     {
       "question": "Combien de joueurs composent une équipe de rugby sur le terrain ?",
       "options": [
@@ -4029,167 +4203,6 @@
       "category": "Nature",
       "id": "q_1779062812718_7_bmowqq",
       "addedAt": "2026-05-18T00:06:52.718Z"
-    }
-  ],
-  "version": 233,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-02T00:32:37.295Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus grand organe du corps humain ?",
-      "options": [
-        "Le cœur",
-        "Le cerveau",
-        "La peau",
-        "Le foie"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1779062812717_0_hle4fh",
-      "addedAt": "2026-05-18T00:06:52.717Z"
-    },
-    {
-      "question": "Qui a écrit 'Les Misérables' ?",
-      "options": [
-        "Gustave Flaubert",
-        "Victor Hugo",
-        "Alexandre Dumas",
-        "Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1779062812717_1_4ixkkl",
-      "addedAt": "2026-05-18T00:06:52.717Z"
-    },
-    {
-      "question": "Quel artiste a peint le plafond de la Chapelle Sixtine ?",
-      "options": [
-        "Léonard de Vinci",
-        "Michel-Ange",
-        "Raphael",
-        "Donatello"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1779062812717_2_5wczay",
-      "addedAt": "2026-05-18T00:06:52.717Z"
-    },
-    {
-      "question": "Quel scientifique a développé la théorie de la relativité générale ?",
-      "options": [
-        "Niels Bohr",
-        "Albert Einstein",
-        "Max Planck",
-        "Werner Heisenberg"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778988803652_0_5wamgu",
-      "addedAt": "2026-05-17T03:33:23.652Z"
-    },
-    {
-      "question": "Quel capital est situé à la confluence du Danube et de la Vltava ?",
-      "options": [
-        "Budapest",
-        "Prague",
-        "Bratislava",
-        "Vienne"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1778988803652_1_zqonem",
-      "addedAt": "2026-05-17T03:33:23.652Z"
-    },
-    {
-      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
-      "options": [
-        "Léon Tolstoï",
-        "Fiodor Dostoïevski",
-        "Ivan Tourgueniev",
-        "Nikolaï Gogol"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1778988803652_2_dv0jrl",
-      "addedAt": "2026-05-17T03:33:23.652Z"
-    },
-    {
-      "question": "Quel instrument de musique possède 88 touches ?",
-      "options": [
-        "Harpe",
-        "Violon",
-        "Piano",
-        "Saxophone"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1778988803652_3_81art0",
-      "addedAt": "2026-05-17T03:33:23.652Z"
-    },
-    {
-      "question": "Quel processus biologique transforme la lumière en énergie chimique chez les plantes ?",
-      "options": [
-        "Respiration cellulaire",
-        "Photosynthèse",
-        "Fermentation",
-        "Transpiration"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778988803652_4_kq5j13",
-      "addedAt": "2026-05-17T03:33:23.652Z"
-    },
-    {
-      "question": "Quel empire antique a construit le Colosseum à Rome ?",
-      "options": [
-        "Empire romain",
-        "République romaine",
-        "Empire byzantin",
-        "Empire ottoman"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1778988803652_5_b71sbt",
-      "addedAt": "2026-05-17T03:33:23.652Z"
-    },
-    {
-      "question": "Quel sport olympique combine la natation, le cyclisme et la course à pied ?",
-      "options": [
-        "Pentathlon moderne",
-        "Triathlon",
-        "Décathlon",
-        "Biathlon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1778988803652_6_ueek4j",
-      "addedAt": "2026-05-17T03:33:23.652Z"
-    },
-    {
-      "question": "Quel type de roche se forme par refroidissement du magma ?",
-      "options": [
-        "Roche sédimentaire",
-        "Roche métamorphique",
-        "Roche ignée",
-        "Roche calcaire"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1778988803652_7_uxxtc3",
-      "addedAt": "2026-05-17T03:33:23.652Z"
-    },
-    {
-      "question": "Quel artiste flamand a peint 'L'Homme vitruve' célèbre ?",
-      "options": [
-        "Jan van Eyck",
-        "Léonard de Vinci",
-        "Albrecht Dürer",
-        "Peter Bruegel"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1778988803652_8_ahvk0i",
-      "addedAt": "2026-05-17T03:33:23.652Z"
     }
   ],
   "poolSize": 310
