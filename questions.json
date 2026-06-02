@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel océan est le plus profond de la planète ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1780360357294_0_0rgxsu",
+      "addedAt": "2026-06-02T00:32:37.294Z"
+    },
+    {
+      "question": "En quel année la Révolution française a-t-elle commencé ?",
+      "options": [
+        "1776",
+        "1789",
+        "1799",
+        "1815"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1780360357294_1_zhp66x",
+      "addedAt": "2026-06-02T00:32:37.294Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet du continent africain ?",
+      "options": [
+        "Mont Kenya",
+        "Kilimandjaro",
+        "Mont Stanley",
+        "Mont Speke"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1780360357294_2_7t5vjn",
+      "addedAt": "2026-06-02T00:32:37.294Z"
+    },
+    {
+      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1780360357294_3_d686b3",
+      "addedAt": "2026-06-02T00:32:37.294Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Vincent van Gogh",
+        "Peter Bruegel"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1780360357294_4_ix6bvn",
+      "addedAt": "2026-06-02T00:32:37.294Z"
+    },
+    {
+      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Oscar Wilde",
+        "Charles Dickens"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1780360357294_5_uh59j6",
+      "addedAt": "2026-06-02T00:32:37.294Z"
+    },
+    {
+      "question": "Combien de continents existent sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1780360357294_6_s00cyf",
+      "addedAt": "2026-06-02T00:32:37.294Z"
+    },
+    {
+      "question": "Quel animal est le plus rapide sur terre en vitesse de pointe ?",
+      "options": [
+        "Lion",
+        "Guépard",
+        "Antilope pronghorn",
+        "Cheval"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1780360357294_7_uuyr30",
+      "addedAt": "2026-06-02T00:32:37.294Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé 'La Haine' en 1995 ?",
+      "options": [
+        "Claude Godard",
+        "Mathieu Kassovitz",
+        "Luc Besson",
+        "Jean-Luc Godard"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1780360357294_8_ontpp6",
+      "addedAt": "2026-06-02T00:32:37.294Z"
+    },
+    {
+      "question": "Quel plat français traditionnel est à base de chou fermenté ?",
+      "options": [
+        "Coq au vin",
+        "Choucroute",
+        "Cassoulet",
+        "Bouillabaisse"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1780360357294_9_fpmtmh",
+      "addedAt": "2026-06-02T00:32:37.294Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été lancé par Apple en 2001 ?",
+      "options": [
+        "Windows XP",
+        "Mac OS X",
+        "Linux",
+        "Android"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1780360357294_10_171ho6",
+      "addedAt": "2026-06-02T00:32:37.294Z"
+    },
+    {
+      "question": "Quel roi français est connu comme 'Le Roi Soleil' ?",
+      "options": [
+        "Louis XIII",
+        "Louis XIV",
+        "Louis XV",
+        "Louis XVI"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1780360357294_11_h41ox0",
+      "addedAt": "2026-06-02T00:32:37.294Z"
+    },
+    {
       "question": "Quel écrivain français a écrit 'Le Seigneur des Anneaux' en version française et est connu pour ses adaptations fantastiques ?",
       "options": [
         "Jules Verne",
@@ -3873,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1779062812718_7_bmowqq",
       "addedAt": "2026-05-18T00:06:52.718Z"
-    },
+    }
+  ],
+  "version": 233,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-02T00:32:37.295Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le plus grand organe du corps humain ?",
       "options": [
@@ -4029,89 +4190,6 @@
       "category": "Art",
       "id": "q_1778988803652_8_ahvk0i",
       "addedAt": "2026-05-17T03:33:23.652Z"
-    }
-  ],
-  "version": 232,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-01T04:11:08.127Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel virus cause la maladie COVID-19 ?",
-      "options": [
-        "SARS-CoV-1",
-        "SARS-CoV-2",
-        "MERS-CoV",
-        "Coronavirus HKU1"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778988803652_9_gor3wu",
-      "addedAt": "2026-05-17T03:33:23.652Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le mouvement du Nouvelle Vague au cinéma ?",
-      "options": [
-        "François Truffaut",
-        "Jean-Luc Godard",
-        "Claude Chabrol",
-        "Les trois à la fois"
-      ],
-      "correctAnswer": 3,
-      "category": "Cinéma",
-      "id": "q_1778988803652_10_5sobud",
-      "addedAt": "2026-05-17T03:33:23.652Z"
-    },
-    {
-      "question": "Quel élément chimique a le symbole 'Au' sur le tableau périodique ?",
-      "options": [
-        "L'argent",
-        "L'or",
-        "L'aluminium",
-        "L'arsenic"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1778977972883_0_i7qdr8",
-      "addedAt": "2026-05-17T00:32:52.883Z"
-    },
-    {
-      "question": "Quel cinéaste français a réalisé 'Amélie' en 2001 ?",
-      "options": [
-        "Luc Besson",
-        "Jean-Pierre Jeunet",
-        "Michel Gondry",
-        "Mathieu Kassovitz"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1778977972883_1_nd40h8",
-      "addedAt": "2026-05-17T00:32:52.883Z"
-    },
-    {
-      "question": "Quel insecte butine les fleurs et produit du miel ?",
-      "options": [
-        "La guêpe",
-        "Le papillon",
-        "L'abeille",
-        "La libellule"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1778977972883_2_nicx8w",
-      "addedAt": "2026-05-17T00:32:52.883Z"
-    },
-    {
-      "question": "Quel musicien suédois a dominé les charts avec le groupe ABBA dans les années 1970 ?",
-      "options": [
-        "Benny Andersson",
-        "Björn Ulvaeus",
-        "Les deux",
-        "Aucun des deux"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1778977972883_3_ztax0e",
-      "addedAt": "2026-05-17T00:32:52.883Z"
     }
   ],
   "poolSize": 310
