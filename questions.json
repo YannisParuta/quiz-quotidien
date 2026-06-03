@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a découvert la pénicilline ?",
+      "options": [
+        "Marie Curie",
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Jonas Salk"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1780446427196_0_bopbep",
+      "addedAt": "2026-06-03T00:27:07.196Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique standard ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1780446427196_1_alyk24",
+      "addedAt": "2026-06-03T00:27:07.196Z"
+    },
+    {
+      "question": "Quel célèbre écrivain russe a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Tolstoï",
+        "Pouchkine",
+        "Dostoïevski",
+        "Tchékhov"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1780446427196_2_a2lcac",
+      "addedAt": "2026-06-03T00:27:07.196Z"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde ?",
+      "options": [
+        "Monaco",
+        "Liechtenstein",
+        "Cité du Vatican",
+        "San Marin"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1780446427196_3_hritaq",
+      "addedAt": "2026-06-03T00:27:07.196Z"
+    },
+    {
+      "question": "Quel peintre français est connu pour ses nymphéas ?",
+      "options": [
+        "Paul Cézanne",
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780446427196_4_44p9zn",
+      "addedAt": "2026-06-03T00:27:07.196Z"
+    },
+    {
+      "question": "Combien de chromosomes possède un être humain ?",
+      "options": [
+        "23",
+        "46",
+        "48",
+        "52"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1780446427196_5_h5yw4f",
+      "addedAt": "2026-06-03T00:27:07.196Z"
+    },
+    {
+      "question": "Quel réalisateur a créé 'Forrest Gump' ?",
+      "options": [
+        "Steven Spielberg",
+        "Robert Zemeckis",
+        "Martin Scorsese",
+        "James Cameron"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1780446427196_6_mru0bu",
+      "addedAt": "2026-06-03T00:27:07.196Z"
+    },
+    {
+      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Oscar Wilde",
+        "Arthur Conan Doyle",
+        "Thomas Hardy",
+        "Rudyard Kipling"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1780446427196_7_lw9ja2",
+      "addedAt": "2026-06-03T00:27:07.196Z"
+    },
+    {
+      "question": "Quel est le plus profond océan du monde en moyenne ?",
+      "options": [
+        "Fosse des Mariannes",
+        "Fosse de Tonga",
+        "Fosse de Kuril-Kamtchatka",
+        "Fosse de Philipp"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1780446427196_8_8rbvbv",
+      "addedAt": "2026-06-03T00:27:07.196Z"
+    },
+    {
+      "question": "En quelle année Netflix a-t-il été fondé ?",
+      "options": [
+        "1995",
+        "1997",
+        "1999",
+        "2001"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1780446427196_9_v153ga",
+      "addedAt": "2026-06-03T00:27:07.196Z"
+    },
+    {
       "question": "Quel élément chimique a le symbole 'Au' ?",
       "options": [
         "Argent",
@@ -3899,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1779149336769_1_fd0w6y",
       "addedAt": "2026-05-19T00:08:56.769Z"
-    },
+    }
+  ],
+  "version": 235,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-03T00:27:07.198Z",
+  "archivedQuestions": [
     {
       "question": "Combien de fois le cœur humain bat-il en moyenne par minute au repos ?",
       "options": [
@@ -4029,180 +4164,6 @@
       "category": "Histoire",
       "id": "q_1779076053923_0_96ikun",
       "addedAt": "2026-05-18T03:47:33.923Z"
-    }
-  ],
-  "version": 234,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-02T04:04:30.489Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de joueurs composent une équipe de rugby sur le terrain ?",
-      "options": [
-        "13 joueurs",
-        "15 joueurs",
-        "11 joueurs",
-        "14 joueurs"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1779076053923_1_2kryar",
-      "addedAt": "2026-05-18T03:47:33.923Z"
-    },
-    {
-      "question": "Quel chef d'orchestre britannique a composé 'La Marche de Pomp and Circumstance' ?",
-      "options": [
-        "Edward Elgar",
-        "Gustav Holst",
-        "William Walton",
-        "Ralph Vaughan Williams"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1779076053923_2_2uyzrt",
-      "addedAt": "2026-05-18T03:47:33.923Z"
-    },
-    {
-      "question": "Quel réalisateur italien a créé 'Cinéma Paradiso' ?",
-      "options": [
-        "Federico Fellini",
-        "Giuseppe Tornatore",
-        "Sergio Leone",
-        "Vittorio De Sica"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1779076053923_3_7do9kz",
-      "addedAt": "2026-05-18T03:47:33.923Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Europe ?",
-      "options": [
-        "Danube",
-        "Volga",
-        "Rhin",
-        "Loire"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1779076053923_4_zxuxug",
-      "addedAt": "2026-05-18T03:47:33.923Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en vitamine C et en enzymes digestives ?",
-      "options": [
-        "Mangue",
-        "Papaye",
-        "Noix de coco",
-        "Goyave"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1779076053923_5_za77ix",
-      "addedAt": "2026-05-18T03:47:33.923Z"
-    },
-    {
-      "question": "Quel scientifique russe a remporté deux prix Nobel dans différents domaines ?",
-      "options": [
-        "Dmitri Mendeleïev",
-        "Linus Pauling",
-        "Marie Curie",
-        "Ivan Pavlov"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1779076053923_6_rgm3ft",
-      "addedAt": "2026-05-18T03:47:33.923Z"
-    },
-    {
-      "question": "Quel protocole internet est utilisé pour transférer des fichiers de manière sécurisée ?",
-      "options": [
-        "FTP",
-        "HTTPS",
-        "SMTP",
-        "POP3"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1779076053923_7_7idltu",
-      "addedAt": "2026-05-18T03:47:33.923Z"
-    },
-    {
-      "question": "Quel animal est le plus grand herbivore terrestre actuel ?",
-      "options": [
-        "Girafe",
-        "Rhinocéros",
-        "Éléphant africain",
-        "Hippopotame"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1779076053923_8_eaata6",
-      "addedAt": "2026-05-18T03:47:33.923Z"
-    },
-    {
-      "question": "Qui a composé la 'Marche des Prisonniers' du Nabucco ?",
-      "options": [
-        "Mozart",
-        "Verdi",
-        "Puccini",
-        "Rossini"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1779062812718_3_ld1uv9",
-      "addedAt": "2026-05-18T00:06:52.718Z"
-    },
-    {
-      "question": "Quel sport est connu pour être pratiqué sur un tatami ?",
-      "options": [
-        "Karaté",
-        "Judo",
-        "Taekwondo",
-        "Kung Fu"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1779062812718_4_0xkvmn",
-      "addedAt": "2026-05-18T00:06:52.718Z"
-    },
-    {
-      "question": "Quel cinéaste a réalisé 'Mulholland Drive' ?",
-      "options": [
-        "Quentin Tarantino",
-        "David Lynch",
-        "Martin Scorsese",
-        "Darren Aronofsky"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1779062812718_5_i7mb5f",
-      "addedAt": "2026-05-18T00:06:52.718Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en vitamine C et contient des bromélaïnes ?",
-      "options": [
-        "Mangue",
-        "Papaye",
-        "Ananas",
-        "Goyave"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1779062812718_6_gsm7ru",
-      "addedAt": "2026-05-18T00:06:52.718Z"
-    },
-    {
-      "question": "Quel type de photosynthèse les cactus utilisent-ils pour économiser l'eau ?",
-      "options": [
-        "Photosynthèse C3",
-        "Photosynthèse C4",
-        "Métabolisme acide crassulacéen",
-        "Photosynthèse CAM"
-      ],
-      "correctAnswer": 3,
-      "category": "Nature",
-      "id": "q_1779062812718_7_bmowqq",
-      "addedAt": "2026-05-18T00:06:52.718Z"
     }
   ],
   "poolSize": 310
