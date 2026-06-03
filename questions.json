@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel pays est le plus grand producteur de cacao au monde ?",
+      "options": [
+        "Ghana",
+        "Côte d'Ivoire",
+        "Équateur",
+        "Cameroun"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1780460030024_0_iajw8x",
+      "addedAt": "2026-06-03T04:13:50.024Z"
+    },
+    {
+      "question": "En quelle année la photographie a-t-elle été inventée ?",
+      "options": [
+        "1822",
+        "1839",
+        "1851",
+        "1876"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1780460030024_1_t03bq0",
+      "addedAt": "2026-06-03T04:13:50.024Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Europe ?",
+      "options": [
+        "Le Danube",
+        "La Volga",
+        "Le Rhin",
+        "La Loire"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1780460030024_2_0cl729",
+      "addedAt": "2026-06-03T04:13:50.024Z"
+    },
+    {
+      "question": "Quel peintre impressionniste a peint 'Les Nymphéas' ?",
+      "options": [
+        "Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780460030024_3_7h2i3n",
+      "addedAt": "2026-06-03T04:13:50.024Z"
+    },
+    {
+      "question": "Combien de cordes a un violoncelle ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1780460030024_4_094965",
+      "addedAt": "2026-06-03T04:13:50.024Z"
+    },
+    {
+      "question": "Quel mammifère terrestre est le plus rapide ?",
+      "options": [
+        "Le lion",
+        "Le guépard",
+        "L'antilope",
+        "Le cheval"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1780460030024_5_mjh6vj",
+      "addedAt": "2026-06-03T04:13:50.024Z"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": [
+        "Honoré de Balzac",
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1780460030024_6_rkvq7a",
+      "addedAt": "2026-06-03T04:13:50.024Z"
+    },
+    {
+      "question": "En géométrie, combien de degrés mesure un angle droit ?",
+      "options": [
+        "60°",
+        "90°",
+        "120°",
+        "180°"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1780460030024_7_qzzurk",
+      "addedAt": "2026-06-03T04:13:50.024Z"
+    },
+    {
+      "question": "Quel réalisateur britannique a créé 'Trainspotting' ?",
+      "options": [
+        "Ken Loach",
+        "Danny Boyle",
+        "Guy Ritchie",
+        "Mike Leigh"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1780460030024_8_goybn2",
+      "addedAt": "2026-06-03T04:13:50.024Z"
+    },
+    {
+      "question": "Quel champignon est comestible et très apprécié en cuisine ?",
+      "options": [
+        "L'amanite tue-mouches",
+        "La truffe",
+        "Le clitocybe fusain",
+        "La fausse oronge"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1780460030024_9_rvyb49",
+      "addedAt": "2026-06-03T04:13:50.024Z"
+    },
+    {
+      "question": "En quel année l'ONU a-t-elle été fondée ?",
+      "options": [
+        "1941",
+        "1945",
+        "1947",
+        "1950"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1780460030024_10_lzk3of",
+      "addedAt": "2026-06-03T04:13:50.024Z"
+    },
+    {
       "question": "Quel scientifique a découvert la pénicilline ?",
       "options": [
         "Marie Curie",
@@ -3886,7 +4029,12 @@
       "category": "Sport",
       "id": "q_1779238617758_9_42ldao",
       "addedAt": "2026-05-20T00:56:57.758Z"
-    },
+    }
+  ],
+  "version": 236,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-03T04:13:50.025Z",
+  "archivedQuestions": [
     {
       "question": "En quel année la Tour Eiffel a-t-elle été construite ?",
       "options": [
@@ -4029,141 +4177,6 @@
       "category": "Cinéma",
       "id": "q_1779149336769_1_fd0w6y",
       "addedAt": "2026-05-19T00:08:56.769Z"
-    }
-  ],
-  "version": 235,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-03T00:27:07.198Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de fois le cœur humain bat-il en moyenne par minute au repos ?",
-      "options": [
-        "60 à 100 battements",
-        "40 à 60 battements",
-        "100 à 120 battements",
-        "20 à 40 battements"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1779149336769_2_jgiz88",
-      "addedAt": "2026-05-19T00:08:56.769Z"
-    },
-    {
-      "question": "Quel musicien a composé les 'Quatre Saisons' ?",
-      "options": [
-        "Antonio Vivaldi",
-        "Georg Friedrich Händel",
-        "Jean-Sébastien Bach",
-        "Wolfgang Amadeus Mozart"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1779149336769_3_dkppvg",
-      "addedAt": "2026-05-19T00:08:56.769Z"
-    },
-    {
-      "question": "En quel continent se trouve le désert du Kalahari ?",
-      "options": [
-        "Asie",
-        "Afrique",
-        "Amérique du Sud",
-        "Australie"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1779149336769_4_6pmgjj",
-      "addedAt": "2026-05-19T00:08:56.769Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'Les Trois Mousquetaires' ?",
-      "options": [
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Alexandre Dumas",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1779149336769_5_4eoof1",
-      "addedAt": "2026-05-19T00:08:56.769Z"
-    },
-    {
-      "question": "Quel type de cellule du système immunitaire est responsable de la production d'anticorps ?",
-      "options": [
-        "Les globules rouges",
-        "Les cellules B",
-        "Les neutrophiles",
-        "Les macrophages"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1779149336769_6_bphrdx",
-      "addedAt": "2026-05-19T00:08:56.769Z"
-    },
-    {
-      "question": "Quel sport de raquette se joue sur un court avec un filet bas ?",
-      "options": [
-        "Le badminton",
-        "Le squash",
-        "Le tennis de table",
-        "Le volleyball"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1779149336769_7_57uqo8",
-      "addedAt": "2026-05-19T00:08:56.769Z"
-    },
-    {
-      "question": "Quel architecte a conçu la Tour Eiffel ?",
-      "options": [
-        "Gustave Eiffel",
-        "Tony Garnier",
-        "Le Corbusier",
-        "Eugène Viollet-le-Duc"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1779149336769_8_fdbwfu",
-      "addedAt": "2026-05-19T00:08:56.769Z"
-    },
-    {
-      "question": "Quel était le nom de scène de Marshall Bruce Mathers III ?",
-      "options": [
-        "50 Cent",
-        "Eminem",
-        "Dr. Dre",
-        "Snoop Dogg"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1779149336769_9_4z2s8u",
-      "addedAt": "2026-05-19T00:08:56.769Z"
-    },
-    {
-      "question": "En quel année l'Empire romain d'Occident a-t-il officiellement disparu ?",
-      "options": [
-        "312",
-        "476",
-        "800",
-        "1204"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779149336769_10_3uuvn0",
-      "addedAt": "2026-05-19T00:08:56.769Z"
-    },
-    {
-      "question": "En quelle année l'Homme a-t-il inventé l'ampoule électrique ?",
-      "options": [
-        "1879",
-        "1859",
-        "1899",
-        "1839"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1779076053923_0_96ikun",
-      "addedAt": "2026-05-18T03:47:33.923Z"
     }
   ],
   "poolSize": 310
