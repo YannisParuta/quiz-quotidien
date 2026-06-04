@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1780546028707_0_n8i74j",
+      "addedAt": "2026-06-04T04:07:08.707Z"
+    },
+    {
+      "question": "Quel pays asiatique est le plus peuplé du monde ?",
+      "options": [
+        "L'Inde",
+        "L'Indonésie",
+        "La Chine",
+        "Le Japon"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1780546028707_1_trp9nn",
+      "addedAt": "2026-06-04T04:07:08.707Z"
+    },
+    {
+      "question": "Quel type de cuisine française est caractérisé par des sauces élaborées et raffinées ?",
+      "options": [
+        "La cuisine paysanne",
+        "La haute cuisine",
+        "La cuisine rustique",
+        "La cuisine régionale"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1780546028707_2_n3qzyg",
+      "addedAt": "2026-06-04T04:07:08.707Z"
+    },
+    {
+      "question": "Quel célèbre peintre impressionniste français était atteint de cécité partielle ?",
+      "options": [
+        "Edgar Degas",
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Frédéric Bazille"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780546028707_3_jnsnlo",
+      "addedAt": "2026-06-04T04:07:08.707Z"
+    },
+    {
+      "question": "En musique classique, combien de cordes possède un violoncelle standard ?",
+      "options": [
+        "4 cordes",
+        "5 cordes",
+        "6 cordes",
+        "8 cordes"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1780546028707_4_1f0y0k",
+      "addedAt": "2026-06-04T04:07:08.707Z"
+    },
+    {
+      "question": "Quel sport olympique combine l'équitation et le tir à la carabine ?",
+      "options": [
+        "Le pentathlon moderne",
+        "Le triathlon",
+        "Le biathlon",
+        "Le décathlon"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1780546028707_5_nrb6nw",
+      "addedAt": "2026-06-04T04:07:08.707Z"
+    },
+    {
+      "question": "Quel réalisateur coréen a remporté l'Oscar du meilleur film en 2020 pour 'Parasite' ?",
+      "options": [
+        "Lee Ang",
+        "Bong Joon-ho",
+        "Park Chan-wook",
+        "Kim Jee-woon"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1780546028707_6_5lgkl1",
+      "addedAt": "2026-06-04T04:07:08.707Z"
+    },
+    {
+      "question": "Quel protocole de sécurité garantit l'authenticité des sites web modernes ?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "SSL/TLS",
+        "SMTP"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1780546028707_7_4upsq2",
+      "addedAt": "2026-06-04T04:07:08.707Z"
+    },
+    {
+      "question": "Quel est le plus petit pays indépendant du monde en termes de superficie ?",
+      "options": [
+        "Monaco",
+        "San Marin",
+        "Vatican",
+        "Liechtenstein"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1780546028707_8_yuap8b",
+      "addedAt": "2026-06-04T04:07:08.707Z"
+    },
+    {
+      "question": "Quel animal est connu pour son extraordinaire capacité à imiter les sons des autres animaux ?",
+      "options": [
+        "Le perroquet",
+        "La pie",
+        "Le corbeau",
+        "Le cacatoès"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1780546028707_9_63y4aw",
+      "addedAt": "2026-06-04T04:07:08.707Z"
+    },
+    {
+      "question": "Quel traité historique a marqué la fin de la Première Guerre mondiale en 1918 ?",
+      "options": [
+        "Le traité de Versailles",
+        "L'armistice de Compiègne",
+        "Le traité de Trianon",
+        "Le traité de Paris"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1780546028707_10_90jawm",
+      "addedAt": "2026-06-04T04:07:08.707Z"
+    },
+    {
       "question": "En quelle année l'Empire romain s'est-il officiellement divisé en deux parties ?",
       "options": [
         "285",
@@ -3886,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1779323187622_3_hhi9m3",
       "addedAt": "2026-05-21T00:26:27.622Z"
-    },
+    }
+  ],
+  "version": 238,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-04T04:07:08.709Z",
+  "archivedQuestions": [
     {
       "question": "Quel océan borde la côte ouest des États-Unis ?",
       "options": [
@@ -4029,193 +4177,6 @@
       "category": "Culture",
       "id": "q_1779248362111_2_358ckm",
       "addedAt": "2026-05-20T03:39:22.111Z"
-    }
-  ],
-  "version": 237,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-04T00:49:40.666Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel type de technologie utilise les ondes radio pour localiser des objets ?",
-      "options": [
-        "GPS",
-        "Radar",
-        "Sonar",
-        "Lidar"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1779248362111_3_81fhmt",
-      "addedAt": "2026-05-20T03:39:22.111Z"
-    },
-    {
-      "question": "Quel sport olympique d'été a été introduit en 2020 pour la première fois ?",
-      "options": [
-        "Skateboard",
-        "Karaté",
-        "Badminton",
-        "Surf"
-      ],
-      "correctAnswer": 3,
-      "category": "Sport",
-      "id": "q_1779248362111_4_m58gvp",
-      "addedAt": "2026-05-20T03:39:22.111Z"
-    },
-    {
-      "question": "Quel était le titre du premier album de The Beatles ?",
-      "options": [
-        "Please Please Me",
-        "With The Beatles",
-        "A Hard Day's Night",
-        "Beatles For Sale"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1779248362111_5_z2u902",
-      "addedAt": "2026-05-20T03:39:22.111Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé 'Pulp Fiction' en 1994 ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Steven Spielberg",
-        "David Fincher"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1779248362111_6_6mk1d3",
-      "addedAt": "2026-05-20T03:39:22.111Z"
-    },
-    {
-      "question": "En quel année l'homme a-t-il marché sur la Lune pour la première fois ?",
-      "options": [
-        "1965",
-        "1969",
-        "1971",
-        "1973"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779238617758_0_pwm81z",
-      "addedAt": "2026-05-20T00:56:57.758Z"
-    },
-    {
-      "question": "Quel élément chimique est représenté par le symbole 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Arsenic"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1779238617758_1_0sqyp4",
-      "addedAt": "2026-05-20T00:56:57.758Z"
-    },
-    {
-      "question": "Qui a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Henri Matisse",
-        "Wassily Kandinsky"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1779238617758_2_1mlplq",
-      "addedAt": "2026-05-20T00:56:57.758Z"
-    },
-    {
-      "question": "En quel année a eu lieu la chute du Mur de Berlin ?",
-      "options": [
-        "1987",
-        "1988",
-        "1989",
-        "1990"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1779238617758_3_ju6y9b",
-      "addedAt": "2026-05-20T00:56:57.758Z"
-    },
-    {
-      "question": "Quel gaz constitue environ 78% de notre atmosphère ?",
-      "options": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Azote",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1779238617758_4_n8id6f",
-      "addedAt": "2026-05-20T00:56:57.758Z"
-    },
-    {
-      "question": "Quel animal peut tourner sa tête à 270 degrés ?",
-      "options": [
-        "Le renard",
-        "La chouette",
-        "Le caméléon",
-        "L'autruche"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1779238617758_5_5fi2zd",
-      "addedAt": "2026-05-20T00:56:57.758Z"
-    },
-    {
-      "question": "En quel année l'Imprimerie a-t-elle été inventée par Gutenberg ?",
-      "options": [
-        "1440",
-        "1450",
-        "1460",
-        "1470"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1779238617758_6_ax030u",
-      "addedAt": "2026-05-20T00:56:57.758Z"
-    },
-    {
-      "question": "Quel plat italien à base de riz est typique de la région de Lombardie ?",
-      "options": [
-        "Carbonara",
-        "Risotto",
-        "Polenta",
-        "Pâtes al dente"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1779238617758_7_qrv3h1",
-      "addedAt": "2026-05-20T00:56:57.758Z"
-    },
-    {
-      "question": "Quel compositeur classique était sourd lorsqu'il a composé sa Neuvième Symphonie ?",
-      "options": [
-        "Wolfgang Mozart",
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach",
-        "Georg Friedrich Händel"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1779238617758_8_pr2is0",
-      "addedAt": "2026-05-20T00:56:57.758Z"
-    },
-    {
-      "question": "Quel sport utilise des termes comme 'love', 'deuce' et 'advantage' ?",
-      "options": [
-        "Le badminton",
-        "Le squash",
-        "Le tennis",
-        "Le cricket"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1779238617758_9_42ldao",
-      "addedAt": "2026-05-20T00:56:57.758Z"
     }
   ],
   "poolSize": 310
