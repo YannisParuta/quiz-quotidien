@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel mathématicien italien a introduit la suite numérique portant son nom au XIIIe siècle ?",
+      "options": [
+        "Léonard de Fibonacci",
+        "Gerolamo Cardano",
+        "Niccolò Tartaglia",
+        "Paolo Ruffini"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1780619231177_0_b1blru",
+      "addedAt": "2026-06-05T00:27:11.177Z"
+    },
+    {
+      "question": "En quelle année le Titanic a-t-il coulé dans l'Atlantique Nord ?",
+      "options": [
+        "1910",
+        "1912",
+        "1915",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1780619231177_1_tjhwue",
+      "addedAt": "2026-06-05T00:27:11.177Z"
+    },
+    {
+      "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Edward Jenner",
+        "Joseph Lister"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1780619231177_2_hd6f7z",
+      "addedAt": "2026-06-05T00:27:11.177Z"
+    },
+    {
+      "question": "Quel poète français a écrit 'Les Fleurs du Mal' en 1857 ?",
+      "options": [
+        "Victor Hugo",
+        "Charles Baudelaire",
+        "Arthur Rimbaud",
+        "Stéphane Mallarmé"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1780619231177_3_jiniwz",
+      "addedAt": "2026-06-05T00:27:11.177Z"
+    },
+    {
+      "question": "Quel architecte a conçu la Sagrada Família à Barcelone ?",
+      "options": [
+        "Pablo Picasso",
+        "Joan Miró",
+        "Antoni Gaudí",
+        "Salvador Dalí"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1780619231177_4_q3g6h5",
+      "addedAt": "2026-06-05T00:27:11.177Z"
+    },
+    {
+      "question": "Quel aliment est traditionnellement utilisé pour préparer le risotto à l'italienne ?",
+      "options": [
+        "L'orge",
+        "Le riz Arborio",
+        "Le blé dur",
+        "L'avoine"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1780619231177_5_82phjl",
+      "addedAt": "2026-06-05T00:27:11.177Z"
+    },
+    {
+      "question": "Quel cyclone tropical est appelé 'typhon' en Asie du Sud-Est ?",
+      "options": [
+        "Un tremblement de terre",
+        "Un ouragan tropical",
+        "Un cyclone tropical",
+        "Un tornado"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1780619231177_6_uge0hq",
+      "addedAt": "2026-06-05T00:27:11.177Z"
+    },
+    {
+      "question": "Quel cinéaste américain a réalisé 'Jaws' en 1975 ?",
+      "options": [
+        "Martin Scorsese",
+        "Steven Spielberg",
+        "Francis Ford Coppola",
+        "George Lucas"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1780619231177_7_ax44d0",
+      "addedAt": "2026-06-05T00:27:11.177Z"
+    },
+    {
+      "question": "Quel protocole de communication permet l'envoi de courriers électroniques sur internet ?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "DNS"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1780619231177_8_4w8h5h",
+      "addedAt": "2026-06-05T00:27:11.177Z"
+    },
+    {
+      "question": "Quel animal terrestre possède le cœur le plus grand en proportion de sa taille ?",
+      "options": [
+        "L'éléphant",
+        "La baleine",
+        "L'hippopotame",
+        "Le giraffe"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1780619231177_9_xhr1zc",
+      "addedAt": "2026-06-05T00:27:11.177Z"
+    },
+    {
+      "question": "Quel peintre espagnol a créé le mouvement artistique du Cubisme avec Georges Braque ?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Juan Gris"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780619231177_10_atgi6k",
+      "addedAt": "2026-06-05T00:27:11.177Z"
+    },
+    {
+      "question": "Quel sport olympique combine le saut en longueur, le saut en hauteur et le lancer du poids ?",
+      "options": [
+        "Le pentathlon moderne",
+        "Le décathlon",
+        "Le triathlon",
+        "L'heptathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1780619231177_11_a9sxxq",
+      "addedAt": "2026-06-05T00:27:11.177Z"
+    },
+    {
       "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles ?",
       "options": [
         "Euclide",
@@ -3873,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1779411559526_7_r3r1w4",
       "addedAt": "2026-05-22T00:59:19.526Z"
-    },
+    }
+  ],
+  "version": 239,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-05T00:27:11.177Z",
+  "archivedQuestions": [
     {
       "question": "Quel protocole informatique sécurisé est utilisé pour les transactions en ligne ?",
       "options": [
@@ -4029,154 +4190,6 @@
       "category": "Musique",
       "id": "q_1779323187622_3_hhi9m3",
       "addedAt": "2026-05-21T00:26:27.622Z"
-    }
-  ],
-  "version": 238,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-04T04:07:08.709Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel océan borde la côte ouest des États-Unis ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1779323187622_4_ubwz7b",
-      "addedAt": "2026-05-21T00:26:27.622Z"
-    },
-    {
-      "question": "Quel film de Christopher Nolan explore les mondes des rêves ?",
-      "options": [
-        "The Dark Knight",
-        "Inception",
-        "Interstellar",
-        "Dunkirk"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1779323187622_5_6h7fe0",
-      "addedAt": "2026-05-21T00:26:27.622Z"
-    },
-    {
-      "question": "Quel type d'énergie renouvelable est produit par les moulins à vent ?",
-      "options": [
-        "Énergie solaire",
-        "Énergie éolienne",
-        "Énergie géothermique",
-        "Énergie marémotrice"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1779323187622_6_h8bog5",
-      "addedAt": "2026-05-21T00:26:27.622Z"
-    },
-    {
-      "question": "En quel année la Bastille a-t-elle été prise pendant la Révolution française ?",
-      "options": [
-        "1788",
-        "1789",
-        "1790",
-        "1791"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779323187622_7_q6nf32",
-      "addedAt": "2026-05-21T00:26:27.622Z"
-    },
-    {
-      "question": "Quel type de pâte italienne a la forme de petits tubes ?",
-      "options": [
-        "Penne",
-        "Rigatoni",
-        "Macaroni",
-        "Fusilli"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1779323187622_8_340aaj",
-      "addedAt": "2026-05-21T00:26:27.622Z"
-    },
-    {
-      "question": "Quel animal peut changer de couleur en fonction de son environnement ?",
-      "options": [
-        "Caméléon",
-        "Iguane",
-        "Lézard bleu",
-        "Gecko"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1779323187622_9_b1ohh6",
-      "addedAt": "2026-05-21T00:26:27.622Z"
-    },
-    {
-      "question": "Quel architecte français a conçu la Tour Eiffel ?",
-      "options": [
-        "Auguste Perret",
-        "Gustave Eiffel",
-        "Le Corbusier",
-        "Victor Lustig"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_1779323187622_10_5d4o79",
-      "addedAt": "2026-05-21T00:26:27.622Z"
-    },
-    {
-      "question": "Quel écrivain russe a écrit le roman 'Crime et Châtiment' ?",
-      "options": [
-        "Léon Tolstoï",
-        "Fiodor Dostoïevski",
-        "Anton Tchekhov",
-        "Ivan Tourgueniev"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1779323187621_0_tvr7gb",
-      "addedAt": "2026-05-21T00:26:27.621Z"
-    },
-    {
-      "question": "Quel pays produit le plus de café au monde ?",
-      "options": [
-        "Colombie",
-        "Viêtnam",
-        "Brésil",
-        "Indonésie"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1779248362111_0_ndndxc",
-      "addedAt": "2026-05-20T03:39:22.111Z"
-    },
-    {
-      "question": "Quel mammifère marin peut retenir sa respiration le plus longtemps ?",
-      "options": [
-        "Baleine bleue",
-        "Dauphin",
-        "Cachalot",
-        "Phoque"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1779248362111_1_zctw72",
-      "addedAt": "2026-05-20T03:39:22.111Z"
-    },
-    {
-      "question": "Quel est le plus grand musée du monde en surface ?",
-      "options": [
-        "Le Louvre",
-        "Hermitage",
-        "Musée britannique",
-        "Musée du Vaticain"
-      ],
-      "correctAnswer": 0,
-      "category": "Culture",
-      "id": "q_1779248362111_2_358ckm",
-      "addedAt": "2026-05-20T03:39:22.111Z"
     }
   ],
   "poolSize": 310
