@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel continent est le plus peuplé du monde ?",
+      "options": [
+        "Afrique",
+        "Amérique",
+        "Europe",
+        "Asie"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1780704821469_0_g1emph",
+      "addedAt": "2026-06-06T00:13:41.469Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit la symphonie 'Ode à la joie' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Richard Wagner",
+        "Johannes Brahms"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1780704821469_1_fdhnjt",
+      "addedAt": "2026-06-06T00:13:41.469Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet du monde ?",
+      "options": [
+        "K2",
+        "Mont Everest",
+        "Kangchenjunga",
+        "Lhotse"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1780704821469_2_p2pxgt",
+      "addedAt": "2026-06-06T00:13:41.469Z"
+    },
+    {
+      "question": "Quel artiste espagnol a fondé le mouvement cubiste avec Georges Braque ?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Juan Gris"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780704821469_3_j7awd5",
+      "addedAt": "2026-06-06T00:13:41.469Z"
+    },
+    {
+      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+      "options": [
+        "1917",
+        "Parasite",
+        "Once Upon a Time in Hollywood",
+        "Joker"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1780704821469_4_udi5ds",
+      "addedAt": "2026-06-06T00:13:41.469Z"
+    },
+    {
+      "question": "Quel type de cellule du corps humain produit les anticorps ?",
+      "options": [
+        "Cellule musculaire",
+        "Cellule B",
+        "Cellule nerveuse",
+        "Cellule épithéliale"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1780704821469_5_4pusdc",
+      "addedAt": "2026-06-06T00:13:41.469Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en potassium et en vitamines B ?",
+      "options": [
+        "Mangue",
+        "Ananas",
+        "Banane",
+        "Papaye"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1780704821469_6_xct1vb",
+      "addedAt": "2026-06-06T00:13:41.469Z"
+    },
+    {
+      "question": "Quel mathématicien italien a introduit la séquence de Fibonacci en Europe ?",
+      "options": [
+        "Léonard de Vinci",
+        "Léonard de Pise",
+        "Niccolò Tartaglia",
+        "Girolamo Cardano"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1780704821469_7_to0e5y",
+      "addedAt": "2026-06-06T00:13:41.469Z"
+    },
+    {
+      "question": "Quel pays est le principal producteur de cacao au monde ?",
+      "options": [
+        "Ghana",
+        "Brésil",
+        "Côte d'Ivoire",
+        "Cameroun"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1780704821469_8_5ylswu",
+      "addedAt": "2026-06-06T00:13:41.469Z"
+    },
+    {
+      "question": "Quel navigateur web a été le premier à introduire les onglets de navigation ?",
+      "options": [
+        "Internet Explorer",
+        "Firefox",
+        "Opera",
+        "Chrome"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1780704821469_9_ftju19",
+      "addedAt": "2026-06-06T00:13:41.469Z"
+    },
+    {
       "question": "Quel animal est le mammifère le plus rapide sur terre ?",
       "options": [
         "Lion",
@@ -3899,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1779495454983_8_6u307w",
       "addedAt": "2026-05-23T00:17:34.983Z"
-    },
+    }
+  ],
+  "version": 241,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-06T00:13:41.470Z",
+  "archivedQuestions": [
     {
       "question": "Quel gâteau français caractéristique est composé de couches de pâte à choux et de crème pâtissière ?",
       "options": [
@@ -4029,167 +4164,6 @@
       "category": "Sport",
       "id": "q_1779421530611_5_0aylra",
       "addedAt": "2026-05-22T03:45:30.611Z"
-    }
-  ],
-  "version": 240,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-05T03:53:30.828Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel philosophe grec a écrit 'La République' ?",
-      "options": [
-        "Socrate",
-        "Aristote",
-        "Platon",
-        "Héraclite"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1779421530611_6_y9rf5w",
-      "addedAt": "2026-05-22T03:45:30.611Z"
-    },
-    {
-      "question": "Quel cinéaste français a réalisé 'Blade Runner 2049' en 2017 ?",
-      "options": [
-        "Jean-Luc Godard",
-        "Denis Villeneuve",
-        "Luc Besson",
-        "Claude Chabrol"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1779421530611_7_u6eag4",
-      "addedAt": "2026-05-22T03:45:30.611Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet d'Amérique du Sud ?",
-      "options": [
-        "Le Mont Blanc",
-        "L'Aconcagua",
-        "Le Chimborazo",
-        "Le Cotopaxi"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1779421530611_8_8qh03e",
-      "addedAt": "2026-05-22T03:45:30.611Z"
-    },
-    {
-      "question": "Quel oiseau est le plus rapide en piqué parmi tous les animaux ?",
-      "options": [
-        "L'aigle royal",
-        "Le faucon pèlerin",
-        "L'autruche",
-        "L'albatros"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1779421530611_9_qep4iz",
-      "addedAt": "2026-05-22T03:45:30.611Z"
-    },
-    {
-      "question": "Quel écrivain français a remporté le Prix Nobel de littérature en 1947 ?",
-      "options": [
-        "André Gide",
-        "François Mauriac",
-        "Albert Camus",
-        "Jean-Paul Sartre"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1779411559526_0_0fdtj9",
-      "addedAt": "2026-05-22T00:59:19.526Z"
-    },
-    {
-      "question": "Quel footballeur brésilien a remporté le Ballon d'Or trois fois ?",
-      "options": [
-        "Ronaldo",
-        "Pelé",
-        "Ronaldinho",
-        "Neymar"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1779411559526_1_9olt01",
-      "addedAt": "2026-05-22T00:59:19.526Z"
-    },
-    {
-      "question": "Quel musée londonien expose la pierre de Rosette ?",
-      "options": [
-        "National Gallery",
-        "Musée britannique",
-        "Victoria and Albert Museum",
-        "Tate Modern"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1779411559526_2_483s08",
-      "addedAt": "2026-05-22T00:59:19.526Z"
-    },
-    {
-      "question": "Quel pays a remporté la Coupe du monde de rugby en 2015 ?",
-      "options": [
-        "Nouvelle-Zélande",
-        "Australie",
-        "Afrique du Sud",
-        "Angleterre"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1779411559526_3_m9pxnf",
-      "addedAt": "2026-05-22T00:59:19.526Z"
-    },
-    {
-      "question": "Quel type de roche est formé par le refroidissement du magma ?",
-      "options": [
-        "Roche sédimentaire",
-        "Roche métamorphique",
-        "Roche magmatique",
-        "Roche calcaire"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1779411559526_4_hkzy2i",
-      "addedAt": "2026-05-22T00:59:19.526Z"
-    },
-    {
-      "question": "Quel artiste français a créé le mouvement artistique du Symbolisme ?",
-      "options": [
-        "Gustave Moreau",
-        "Édouard Manet",
-        "Claude Monet",
-        "Pierre-Auguste Renoir"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1779411559526_5_s2snc5",
-      "addedAt": "2026-05-22T00:59:19.526Z"
-    },
-    {
-      "question": "Quel insecte produit la soie utilisée dans le textile ?",
-      "options": [
-        "Abeille",
-        "Ver à soie",
-        "Papillon nocturne",
-        "Scarabée"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1779411559526_6_1yob1u",
-      "addedAt": "2026-05-22T00:59:19.526Z"
-    },
-    {
-      "question": "Quel instrument de musique traditionnel japonais a des cordes en soie ?",
-      "options": [
-        "Shamisen",
-        "Koto",
-        "Shakuhachi",
-        "Taiko"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1779411559526_7_r3r1w4",
-      "addedAt": "2026-05-22T00:59:19.526Z"
     }
   ],
   "poolSize": 310
