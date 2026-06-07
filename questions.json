@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a écrit le roman 'Les Misérables' ?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1780791114893_0_8pnubc",
+      "addedAt": "2026-06-07T00:11:54.893Z"
+    },
+    {
+      "question": "Quel gaz les plantes absorbent-elles principalement lors de la photosynthèse ?",
+      "options": [
+        "L'oxygène",
+        "L'azote",
+        "Le dioxyde de carbone",
+        "L'hydrogène"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1780791114893_1_x8bul6",
+      "addedAt": "2026-06-07T00:11:54.893Z"
+    },
+    {
+      "question": "Quel instrument de musique a 88 touches ?",
+      "options": [
+        "La guitare",
+        "Le violon",
+        "Le piano",
+        "La harpe"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1780791114893_2_5fewfn",
+      "addedAt": "2026-06-07T00:11:54.893Z"
+    },
+    {
+      "question": "Quel empire antique a construit le Colosseum à Rome ?",
+      "options": [
+        "L'empire perse",
+        "L'empire grec",
+        "L'empire romain",
+        "L'empire égyptien"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1780791114893_3_zb85mk",
+      "addedAt": "2026-06-07T00:11:54.893Z"
+    },
+    {
+      "question": "Quel artiste néerlandais a coupé une partie de son oreille ?",
+      "options": [
+        "Paul Gauguin",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Henri Matisse"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780791114893_4_uv0rez",
+      "addedAt": "2026-06-07T00:11:54.893Z"
+    },
+    {
+      "question": "Quel pays produit le plus de café au monde ?",
+      "options": [
+        "La Colombie",
+        "L'Indonésie",
+        "Le Brésil",
+        "L'Éthiopie"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1780791114893_5_cit7ux",
+      "addedAt": "2026-06-07T00:11:54.893Z"
+    },
+    {
+      "question": "Quel sport de raquette se joue sur une table avec des balles légères ?",
+      "options": [
+        "Le badminton",
+        "Le tennis de table",
+        "Le squash",
+        "Le racquetball"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1780791114893_6_l5d6ix",
+      "addedAt": "2026-06-07T00:11:54.893Z"
+    },
+    {
+      "question": "Quel processus naturel transforme les raisins en vin ?",
+      "options": [
+        "L'oxydation",
+        "La fermentation",
+        "La distillation",
+        "La cristallisation"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1780791114893_7_or8nnf",
+      "addedAt": "2026-06-07T00:11:54.893Z"
+    },
+    {
+      "question": "Quel célèbre compositeur allemand était sourd à la fin de sa vie ?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "George Friedrich Haendel"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1780791114893_8_qhjx5m",
+      "addedAt": "2026-06-07T00:11:54.893Z"
+    },
+    {
+      "question": "Quel animal marin est le plus grand carnivore terrestre vivant ?",
+      "options": [
+        "L'éléphant de mer",
+        "L'ours polaire",
+        "Le crocodile marin",
+        "L'hippopotame"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1780791114893_9_lkwhxq",
+      "addedAt": "2026-06-07T00:11:54.893Z"
+    },
+    {
+      "question": "Quel navigateur web a été développé par Google ?",
+      "options": [
+        "Mozilla Firefox",
+        "Google Chrome",
+        "Safari",
+        "Edge"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1780791114893_10_udffvw",
+      "addedAt": "2026-06-07T00:11:54.893Z"
+    },
+    {
       "question": "Quel gaz est le plus abondant dans l'atmosphère terrestre ?",
       "options": [
         "L'oxygène",
@@ -3886,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1779581955152_6_9rnz0j",
       "addedAt": "2026-05-24T00:19:15.152Z"
-    },
+    }
+  ],
+  "version": 243,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-07T00:11:54.894Z",
+  "archivedQuestions": [
     {
       "question": "Quel philosophe grec antique a fondé l'Académie à Athènes ?",
       "options": [
@@ -4029,141 +4177,6 @@
       "category": "Technologie",
       "id": "q_1779506549461_8_rh2i3r",
       "addedAt": "2026-05-23T03:22:29.461Z"
-    }
-  ],
-  "version": 242,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-06T03:35:25.488Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel légume est techniquement un fruit du point de vue botanique ?",
-      "options": [
-        "Carotte",
-        "Tomate",
-        "Betterave",
-        "Pomme de terre"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1779506549461_9_ykscek",
-      "addedAt": "2026-05-23T03:22:29.461Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le film 'Le Cinquième Élément' ?",
-      "options": [
-        "François Truffaut",
-        "Luc Besson",
-        "Claude Godard",
-        "Jean-Luc Godard"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1779506549461_10_6hc63g",
-      "addedAt": "2026-05-23T03:22:29.461Z"
-    },
-    {
-      "question": "Quel pays d'Afrique du Nord est connu pour ses arganiers et l'huile d'argan ?",
-      "options": [
-        "La Tunisie",
-        "L'Algérie",
-        "Le Maroc",
-        "La Libye"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1779495454982_1_6yz1ml",
-      "addedAt": "2026-05-23T00:17:34.983Z"
-    },
-    {
-      "question": "Quel artiste a peint la série 'Les Nymphéas' dans son jardin de Giverny ?",
-      "options": [
-        "Pablo Picasso",
-        "Claude Monet",
-        "Auguste Renoir",
-        "Paul Cézanne"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1779495454983_2_xj86ke",
-      "addedAt": "2026-05-23T00:17:34.983Z"
-    },
-    {
-      "question": "Quel est le plus petit os du corps humain ?",
-      "options": [
-        "Le péroné",
-        "L'étrier",
-        "Le pouce",
-        "La côte"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1779495454983_3_q7cjzy",
-      "addedAt": "2026-05-23T00:17:34.983Z"
-    },
-    {
-      "question": "Quel réalisateur britannique a créé la série de films d'espionnage James Bond avec Sean Connery ?",
-      "options": [
-        "Guy Hamilton",
-        "Terence Young",
-        "Peter Hunt",
-        "John Glen"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1779495454983_4_3i20ip",
-      "addedAt": "2026-05-23T00:17:34.983Z"
-    },
-    {
-      "question": "Quelle ville est connue comme la 'Venise du Nord' en raison de ses nombreux canaux ?",
-      "options": [
-        "Amsterdam",
-        "Bruges",
-        "Copenhague",
-        "Stockholm"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1779495454983_5_xaltwc",
-      "addedAt": "2026-05-23T00:17:34.983Z"
-    },
-    {
-      "question": "Quel philosophe grec antique a fondé le Lycée et a été précepteur d'Alexandre le Grand ?",
-      "options": [
-        "Platon",
-        "Socrate",
-        "Aristote",
-        "Diogène"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1779495454983_6_1rrqeq",
-      "addedAt": "2026-05-23T00:17:34.983Z"
-    },
-    {
-      "question": "Quel sport aquatique combine la natation, le cyclisme et la course à pied ?",
-      "options": [
-        "Le pentathlon moderne",
-        "Le triathlon",
-        "Le biathlon",
-        "L'aquathlon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1779495454983_7_paflo6",
-      "addedAt": "2026-05-23T00:17:34.983Z"
-    },
-    {
-      "question": "Quel instrument de musique à cordes a 88 touches et est le plus grand de sa catégorie ?",
-      "options": [
-        "La harpe",
-        "Le piano",
-        "La guitare",
-        "Le violoncelle"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1779495454983_8_6u307w",
-      "addedAt": "2026-05-23T00:17:34.983Z"
     }
   ],
   "poolSize": 310
