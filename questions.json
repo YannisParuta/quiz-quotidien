@@ -1,6 +1,188 @@
 {
   "questions": [
     {
+      "question": "Quel phénomène naturel provoque les aurores boréales ?",
+      "options": [
+        "Les éruptions volcaniques",
+        "Les particules solaires interagissant avec le champ magnétique terrestre",
+        "Les tremblements de terre",
+        "Les tempêtes de poussière"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1780879470455_0_eb4824",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "Quel architecte moderne a conçu le musée Guggenheim de New York ?",
+      "options": [
+        "I.M. Pei",
+        "Frank Lloyd Wright",
+        "Norman Foster",
+        "Zaha Hadid"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1780879470455_1_iiaek9",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "En quel sport se disputent les Jeux Olympiques d'hiver 'le curling' ?",
+      "options": [
+        "Hockey sur glace",
+        "Patinage de vitesse",
+        "Curling",
+        "Ski alpin"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1780879470455_2_6mfbo5",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "Quel est le plus grand désert du monde ?",
+      "options": [
+        "Le désert du Sahara",
+        "Le désert de Gobi",
+        "Le désert d'Atacama",
+        "L'Antarctique"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1780879470455_3_m3eppk",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "Quel peintre impressionniste français est connu pour ses autoportraits aux oreilles coupées ?",
+      "options": [
+        "Claude Monet",
+        "Paul Cézanne",
+        "Vincent van Gogh",
+        "Pierre-Auguste Renoir"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1780879470455_4_vzvxt5",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "Quel événement historique a marqué le début de la Révolution française ?",
+      "options": [
+        "Le sacre de Louis XVI",
+        "La prise de la Bastille",
+        "Le traité de Versailles",
+        "L'appel du 18 juin"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1780879470455_5_dddegm",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "Quel élément chimique porte le symbole 'Au' sur le tableau périodique ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "L'aluminium",
+        "L'arsenic"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1780879470455_6_t1i0iy",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "Quel compositeur italien est l'auteur de l'opéra 'La Traviata' ?",
+      "options": [
+        "Gioachino Rossini",
+        "Giuseppe Verdi",
+        "Georges Bizet",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1780879470455_7_reforl",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "Quel fleuve traverse le plus grand nombre de pays en Europe ?",
+      "options": [
+        "Le Rhin",
+        "Le Danube",
+        "La Volga",
+        "La Loire"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1780879470455_8_5z6id6",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "Quel scientifique a énoncé la théorie de l'évolution des espèces ?",
+      "options": [
+        "Jean-Baptiste Lamarck",
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1780879470455_9_nbyuv6",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "Quel film d'animation Pixar raconte l'histoire d'un poisson rouge cherchant son fils ?",
+      "options": [
+        "Raiponce",
+        "Monstres & Cie",
+        "Le Monde de Nemo",
+        "Vice-Versa"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1780879470455_10_pj75v5",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "Quel ingrédient traditionnel donne sa saveur caractéristique aux pâtes à la carbonara ?",
+      "options": [
+        "Le bacon",
+        "Le guanciale",
+        "Le jambon de Parme",
+        "Le lard fumé"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1780879470455_11_f1rcsv",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "Quel mathématicien grec ancien a proposé un système pour compter les grains de sable ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1780879470455_12_840f0s",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
+      "question": "Quel roi français a été surnommé 'le Roi Soleil' ?",
+      "options": [
+        "Louis XIV",
+        "Louis XV",
+        "Louis XVI",
+        "Louis XIII"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1780879470455_13_ytg1ix",
+      "addedAt": "2026-06-08T00:44:30.455Z"
+    },
+    {
       "question": "Quel élément chimique est le plus abondant dans l'atmosphère terrestre ?",
       "options": [
         "L'oxygène",
@@ -3847,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1779668642425_5_ygu60h",
       "addedAt": "2026-05-25T00:24:02.425Z"
-    },
+    }
+  ],
+  "version": 245,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-08T00:44:30.456Z",
+  "archivedQuestions": [
     {
       "question": "Quel animal terrestre est le plus rapide ?",
       "options": [
@@ -4029,115 +4216,6 @@
       "category": "Gastronomie",
       "id": "q_1779594079830_9_p5d04l",
       "addedAt": "2026-05-24T03:41:19.830Z"
-    }
-  ],
-  "version": 244,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-07T04:02:09.669Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus grand océan du monde ?",
-      "options": [
-        "L'océan Atlantique",
-        "L'océan Indien",
-        "L'océan Pacifique",
-        "L'océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1779594079830_10_0mqadz",
-      "addedAt": "2026-05-24T03:41:19.830Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle débuté ?",
-      "options": [
-        "1776",
-        "1789",
-        "1799",
-        "1815"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779581955152_0_auca4e",
-      "addedAt": "2026-05-24T00:19:15.152Z"
-    },
-    {
-      "question": "Qui a peint la Chapelle Sixtine au Vatican ?",
-      "options": [
-        "Léonard de Vinci",
-        "Raphaël",
-        "Michel-Ange",
-        "Botticelli"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1779581955152_1_k92wjj",
-      "addedAt": "2026-05-24T00:19:15.152Z"
-    },
-    {
-      "question": "Combien de continents existe-t-il sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1779581955152_2_o65ptu",
-      "addedAt": "2026-05-24T00:19:15.152Z"
-    },
-    {
-      "question": "Quel célèbre réalisateur italien a créé le film 'La Dolce Vita' ?",
-      "options": [
-        "Vittorio De Sica",
-        "Federico Fellini",
-        "Sergio Leone",
-        "Pier Paolo Pasolini"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1779581955152_3_9imxqi",
-      "addedAt": "2026-05-24T00:19:15.152Z"
-    },
-    {
-      "question": "Quel élément chimique est symbolisé par Au ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Arsenic"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1779581955152_4_zjqjn7",
-      "addedAt": "2026-05-24T00:19:15.152Z"
-    },
-    {
-      "question": "En quel siècle la Grande Muraille de Chine a-t-elle principalement été construite ?",
-      "options": [
-        "IIIe siècle",
-        "VIIe siècle",
-        "XVe siècle",
-        "XIXe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1779581955152_5_ecfs28",
-      "addedAt": "2026-05-24T00:19:15.152Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en potassium et jaune à maturité ?",
-      "options": [
-        "La papaye",
-        "La banane",
-        "La mangue",
-        "L'ananas"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1779581955152_6_9rnz0j",
-      "addedAt": "2026-05-24T00:19:15.152Z"
     }
   ],
   "poolSize": 310
