@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a découvert la radioactivité en étudiant l'uranium ?",
+      "options": [
+        "Marie Curie",
+        "Henri Becquerel",
+        "Ernest Rutherford",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1780976174038_0_a4ra6g",
+      "addedAt": "2026-06-09T03:36:14.038Z"
+    },
+    {
+      "question": "Quel fleuve est le plus long d'Afrique ?",
+      "options": [
+        "Le Zambèze",
+        "Le Congo",
+        "Le Nil",
+        "Le Niger"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1780976174038_1_xyibjc",
+      "addedAt": "2026-06-09T03:36:14.038Z"
+    },
+    {
+      "question": "Quel scientifique a formé la loi de la gravitation universelle ?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Tycho Brahe"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1780976174038_2_vxpcmj",
+      "addedAt": "2026-06-09T03:36:14.038Z"
+    },
+    {
+      "question": "Quel compositeur russe a créé le ballet 'Le Lac des Cygnes' ?",
+      "options": [
+        "Igor Stravinski",
+        "Sergei Prokofiev",
+        "Piotr Illitch Tchaïkovski",
+        "Dmitri Chostakovitch"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1780976174038_3_6bluqy",
+      "addedAt": "2026-06-09T03:36:14.038Z"
+    },
+    {
+      "question": "Quel processus chimique transforme les raisins en vin ?",
+      "options": [
+        "Distillation",
+        "Fermentation",
+        "Osmose",
+        "Oxydation"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1780976174038_4_suyna6",
+      "addedAt": "2026-06-09T03:36:14.038Z"
+    },
+    {
+      "question": "Quel gymnaste américain est célèbre pour ses exploits aux Jeux Olympiques de Tokyo 2020 ?",
+      "options": [
+        "Simone Biles",
+        "McKayla Maroney",
+        "Aly Raisman",
+        "Jordan Chiles"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1780976174038_5_w70tdp",
+      "addedAt": "2026-06-09T03:36:14.038Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère marin de la Terre ?",
+      "options": [
+        "Le grand requin blanc",
+        "L'orque",
+        "La baleine bleue",
+        "Le marsouin"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1780976174038_6_djldsc",
+      "addedAt": "2026-06-09T03:36:14.038Z"
+    },
+    {
+      "question": "Quel mathématicien grec a énoncé le célèbre théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thales"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1780976174038_7_0s7dq8",
+      "addedAt": "2026-06-09T03:36:14.038Z"
+    },
+    {
+      "question": "Quel protocole Internet est utilisé pour le transfert sécurisé de données sur le web ?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1780976174038_8_fangid",
+      "addedAt": "2026-06-09T03:36:14.038Z"
+    },
+    {
       "question": "Quel est le plus grand musée du monde en termes de collection ?",
       "options": [
         "Le Louvre",
@@ -3912,7 +4029,12 @@
       "category": "Art",
       "id": "q_1779766747580_7_ag9wh0",
       "addedAt": "2026-05-26T03:39:07.580Z"
-    },
+    }
+  ],
+  "version": 248,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-09T03:36:14.039Z",
+  "archivedQuestions": [
     {
       "question": "Quel système endocrinien produit l'insuline pour réguler le taux de glucose ?",
       "options": [
@@ -4029,141 +4151,6 @@
       "category": "Histoire",
       "id": "q_1779756957561_4_kbt6qv",
       "addedAt": "2026-05-26T00:55:57.561Z"
-    }
-  ],
-  "version": 247,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-09T00:50:37.439Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus rapide des animaux terrestres ?",
-      "options": [
-        "Lion",
-        "Antilope",
-        "Guépard",
-        "Autruche"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1779756957561_5_xkr4gd",
-      "addedAt": "2026-05-26T00:55:57.561Z"
-    },
-    {
-      "question": "Quel mathématicien a inventé le calcul infinitésimal ?",
-      "options": [
-        "Isaac Newton",
-        "Gottfried Leibniz",
-        "Les deux",
-        "Leonhard Euler"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1779756957561_6_0xqvmf",
-      "addedAt": "2026-05-26T00:55:57.561Z"
-    },
-    {
-      "question": "Quel plat italien traditionnel signifie 'tirer la pâte' ?",
-      "options": [
-        "Risotto",
-        "Pasta alla carbonara",
-        "Tiramisu",
-        "Pizza"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1779756957561_7_gj9imz",
-      "addedAt": "2026-05-26T00:55:57.561Z"
-    },
-    {
-      "question": "Quel élément chimique est le plus léger du tableau périodique ?",
-      "options": [
-        "Hélium",
-        "Lithium",
-        "Hydrogène",
-        "Néon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1779756957561_8_5kk410",
-      "addedAt": "2026-05-26T00:55:57.561Z"
-    },
-    {
-      "question": "Quel pays a accueilli l'Exposition universelle de 1889 où a été construite la Tour Eiffel ?",
-      "options": [
-        "Belgique",
-        "France",
-        "Suisse",
-        "Allemagne"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779756957561_9_u65srx",
-      "addedAt": "2026-05-26T00:55:57.561Z"
-    },
-    {
-      "question": "Quel instrument à vent est traditionnellement utilisé en Écosse ?",
-      "options": [
-        "La trompette",
-        "Le cor",
-        "La cornemuse",
-        "Le trombone"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1779681369739_0_n5s4si",
-      "addedAt": "2026-05-25T03:56:09.739Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la saga 'Le Seigneur des anneaux' ?",
-      "options": [
-        "Steven Spielberg",
-        "Peter Jackson",
-        "Christopher Nolan",
-        "Ridley Scott"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1779681369739_1_cb6b9z",
-      "addedAt": "2026-05-25T03:56:09.739Z"
-    },
-    {
-      "question": "Quel type de fromage français est protégé par une Appellation d'Origine Contrôlée (AOC) ?",
-      "options": [
-        "Le fromage blanc",
-        "Le Roquefort",
-        "Le fromage frais",
-        "Le fromage fumé"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1779681369739_2_45b38f",
-      "addedAt": "2026-05-25T03:56:09.739Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide sur terre ?",
-      "options": [
-        "La gazelle",
-        "Le guépard",
-        "L'antilope",
-        "Le lièvre"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1779681369739_3_edm9ga",
-      "addedAt": "2026-05-25T03:56:09.739Z"
-    },
-    {
-      "question": "En quel année l'Union Européenne a-t-elle été créée initialement (comme CECA) ?",
-      "options": [
-        "1945",
-        "1950",
-        "1957",
-        "1992"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779681369739_4_jq1c9v",
-      "addedAt": "2026-05-25T03:56:09.739Z"
     }
   ],
   "poolSize": 310
