@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel physicien français a découvert la radioactivité en 1896 ?",
+      "options": [
+        "Pierre Curie",
+        "Henri Becquerel",
+        "Marie Curie",
+        "Ernest Rutherford"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781052107984_0_s0retx",
+      "addedAt": "2026-06-10T00:41:47.984Z"
+    },
+    {
+      "question": "En quelle année l'homme a-t-il marché pour la première fois sur la Lune ?",
+      "options": [
+        "1965",
+        "1968",
+        "1969",
+        "1971"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1781052107984_1_2pkcvk",
+      "addedAt": "2026-06-10T00:41:47.984Z"
+    },
+    {
+      "question": "Quel fleuve est le plus long du monde ?",
+      "options": [
+        "L'Amazone",
+        "Le Nil",
+        "Le Yangtsé",
+        "Le Mississippi"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1781052107984_2_5l8dc5",
+      "addedAt": "2026-06-10T00:41:47.984Z"
+    },
+    {
+      "question": "Quel romancier russe a écrit 'Les Frères Karamazov' ?",
+      "options": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Mikhaïl Bulgakov",
+        "Ivan Tourguéniev"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1781052107984_3_1wnasd",
+      "addedAt": "2026-06-10T00:41:47.984Z"
+    },
+    {
+      "question": "Quel type de tissu conjonctif relie les muscles aux os ?",
+      "options": [
+        "Les ligaments",
+        "Les tendons",
+        "Le cartilage",
+        "Les articulations"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781052107984_4_9tqvkh",
+      "addedAt": "2026-06-10T00:41:47.984Z"
+    },
+    {
+      "question": "En quel année la Chute du Mur de Berlin s'est-elle produite ?",
+      "options": [
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1781052107984_5_h63kby",
+      "addedAt": "2026-06-10T00:41:47.984Z"
+    },
+    {
+      "question": "Quel gaz est responsable du changement climatique global ?",
+      "options": [
+        "L'oxyde d'azote",
+        "Le dioxyde de carbone",
+        "L'ozone",
+        "Le méthane"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781052107984_6_k3190o",
+      "addedAt": "2026-06-10T00:41:47.984Z"
+    },
+    {
+      "question": "Quel athlète jamaïcain détient le record du monde du 100 mètres ?",
+      "options": [
+        "Asafa Powell",
+        "Yohan Blake",
+        "Usain Bolt",
+        "Leroy Burrell"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1781052107984_7_by079y",
+      "addedAt": "2026-06-10T00:41:47.984Z"
+    },
+    {
+      "question": "Quel mouvement artistique du XXe siècle était caractérisé par l'utilisation de formes géométriques ?",
+      "options": [
+        "Le Dadaïsme",
+        "Le Surréalisme",
+        "Le Cubisme",
+        "L'Expressionnisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1781052107984_8_5l6shb",
+      "addedAt": "2026-06-10T00:41:47.984Z"
+    },
+    {
+      "question": "Quelle est la plus grande barrière de corail du monde ?",
+      "options": [
+        "La Grande Barrière de corail australienne",
+        "La barrière de Belize",
+        "La barrière des Maldives",
+        "La barrière de Palau"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1781052107984_9_vt4j6d",
+      "addedAt": "2026-06-10T00:41:47.984Z"
+    },
+    {
+      "question": "Quel mathématicien suisse a inventé la notation du calcul infinitésimal ?",
+      "options": [
+        "Isaac Newton",
+        "Gottfried Leibniz",
+        "Leonhard Euler",
+        "Joseph-Louis Lagrange"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1781052107984_10_ofigaf",
+      "addedAt": "2026-06-10T00:41:47.984Z"
+    },
+    {
+      "question": "Quel volcan de Nouvelle-Zélande est un site géothermique célèbre ?",
+      "options": [
+        "Le Mont Ruapehu",
+        "Rotorua",
+        "Le Tongariro",
+        "Le Taranaki"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1781052107984_11_5ryb1t",
+      "addedAt": "2026-06-10T00:41:47.984Z"
+    },
+    {
       "question": "Quel scientifique a découvert la radioactivité en étudiant l'uranium ?",
       "options": [
         "Marie Curie",
@@ -3873,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1779842515516_8_b5np4c",
       "addedAt": "2026-05-27T00:41:55.516Z"
-    },
+    }
+  ],
+  "version": 249,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-10T00:41:47.984Z",
+  "archivedQuestions": [
     {
       "question": "Quel plat japonais traditionnel consiste en riz garni de poisson cru ?",
       "options": [
@@ -4029,128 +4190,6 @@
       "category": "Art",
       "id": "q_1779766747580_7_ag9wh0",
       "addedAt": "2026-05-26T03:39:07.580Z"
-    }
-  ],
-  "version": 248,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-09T03:36:14.039Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel système endocrinien produit l'insuline pour réguler le taux de glucose ?",
-      "options": [
-        "Le foie",
-        "Les glandes surrénales",
-        "Le pancréas",
-        "La thyroïde"
-      ],
-      "correctAnswer": 2,
-      "category": "Biologie",
-      "id": "q_1779766747580_8_7tg7ms",
-      "addedAt": "2026-05-26T03:39:07.580Z"
-    },
-    {
-      "question": "Quel est le plus petit os du squelette humain ?",
-      "options": [
-        "L'étrier",
-        "L'os du poignet",
-        "La rotule",
-        "La côte"
-      ],
-      "correctAnswer": 0,
-      "category": "Anatomie",
-      "id": "q_1779766747580_9_prkbt0",
-      "addedAt": "2026-05-26T03:39:07.580Z"
-    },
-    {
-      "question": "Quel philosophe grec ancien a fondé l'Académie à Athènes ?",
-      "options": [
-        "Socrate",
-        "Aristote",
-        "Platon",
-        "Pythagore"
-      ],
-      "correctAnswer": 2,
-      "category": "Philosophie",
-      "id": "q_1779766747580_10_6082e6",
-      "addedAt": "2026-05-26T03:39:07.580Z"
-    },
-    {
-      "question": "Quel type de technologie utilise la modulation de lumière pour transmettre des données à haut débit ?",
-      "options": [
-        "Fibre optique",
-        "Câble coaxial",
-        "Paire torsadée",
-        "Onde radio"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1779766747580_11_hd1nml",
-      "addedAt": "2026-05-26T03:39:07.580Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet des Alpes ?",
-      "options": [
-        "Mont Rose",
-        "Mont-Blanc",
-        "Cervin",
-        "Gran Paradiso"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1779756957561_0_nua4a4",
-      "addedAt": "2026-05-26T00:55:57.561Z"
-    },
-    {
-      "question": "Combien de valves possède le cœur humain ?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1779756957561_1_wl4e2l",
-      "addedAt": "2026-05-26T00:55:57.561Z"
-    },
-    {
-      "question": "Quel peintre hollandais a créé 'La Nuit étoilée' ?",
-      "options": [
-        "Rembrandt",
-        "Vincent van Gogh",
-        "Johannes Vermeer",
-        "Pieter Bruegel"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1779756957561_2_6reb2v",
-      "addedAt": "2026-05-26T00:55:57.561Z"
-    },
-    {
-      "question": "Quel fruit est techniquement une baie botaniquement parlant ?",
-      "options": [
-        "Fraise",
-        "Banane",
-        "Myrtille",
-        "Mûre"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1779756957561_3_kaqpsw",
-      "addedAt": "2026-05-26T00:55:57.561Z"
-    },
-    {
-      "question": "En quelle année la Bastille a-t-elle été prise ?",
-      "options": [
-        "1788",
-        "1789",
-        "1790",
-        "1791"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779756957561_4_kbt6qv",
-      "addedAt": "2026-05-26T00:55:57.561Z"
     }
   ],
   "poolSize": 310
