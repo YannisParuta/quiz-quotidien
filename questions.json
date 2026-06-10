@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "En quelle année l'imprimerie à caractères mobiles a-t-elle été inventée par Gutenberg ?",
+      "options": [
+        "1440",
+        "1380",
+        "1500",
+        "1520"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1781063436485_1_zt24wa",
+      "addedAt": "2026-06-10T03:50:36.486Z"
+    },
+    {
+      "question": "Quel est le gaz responsable de l'effet de serre le plus abondant dans l'atmosphère terrestre ?",
+      "options": [
+        "Le méthane",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'oxyde nitreux"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781063436486_2_3lufuv",
+      "addedAt": "2026-06-10T03:50:36.486Z"
+    },
+    {
+      "question": "Quel artiste moderne a fondé le mouvement du Cubisme aux côtés de Braque ?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Marc Chagall"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1781063436486_3_nd9ok2",
+      "addedAt": "2026-06-10T03:50:36.486Z"
+    },
+    {
+      "question": "Quel roman de Mary Shelley publié en 1818 met en scène une créature monstrueuse ?",
+      "options": [
+        "Dracula",
+        "Frankenstein",
+        "Le Château de Frankenstein",
+        "Les Misérables"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1781063436486_4_leumls",
+      "addedAt": "2026-06-10T03:50:36.486Z"
+    },
+    {
+      "question": "Quel sport olympique français combine le tir à la carabine et la course à pied ?",
+      "options": [
+        "Le pentathlon moderne",
+        "Le biathlon",
+        "Le triathlon",
+        "Le décathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1781063436486_5_ztwju8",
+      "addedAt": "2026-06-10T03:50:36.486Z"
+    },
+    {
+      "question": "Combien de pattes possède une araignée adulte ?",
+      "options": [
+        "6 pattes",
+        "8 pattes",
+        "10 pattes",
+        "12 pattes"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1781063436486_6_vr6s4x",
+      "addedAt": "2026-06-10T03:50:36.486Z"
+    },
+    {
+      "question": "Quel mathématicien grec a énoncé le théorème des triangles rectangles portant son nom ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1781063436486_7_05tz5d",
+      "addedAt": "2026-06-10T03:50:36.486Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le personnage de Monsieur Hulot ?",
+      "options": [
+        "Jean-Luc Godard",
+        "Jacques Tati",
+        "François Truffaut",
+        "Claude Chabrol"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1781063436486_8_1lgeyw",
+      "addedAt": "2026-06-10T03:50:36.486Z"
+    },
+    {
+      "question": "Quel alcool blanc à base de raisin est traditionnellement produit en Italie du Nord ?",
+      "options": [
+        "Le prosecco",
+        "Le grappa",
+        "L'Amaretto",
+        "le Limoncello"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1781063436486_9_pt4ivl",
+      "addedAt": "2026-06-10T03:50:36.486Z"
+    },
+    {
+      "question": "Quel système d'exploitation mobile a été créé par Google en 2008 ?",
+      "options": [
+        "iOS",
+        "Android",
+        "Windows Phone",
+        "BlackBerry OS"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1781063436486_10_dr19kv",
+      "addedAt": "2026-06-10T03:50:36.486Z"
+    },
+    {
+      "question": "En quel siècle la Grande Muraille de Chine a-t-elle été principalement construite ?",
+      "options": [
+        "IIIe siècle avant J.C.",
+        "Xe siècle",
+        "XVIe siècle",
+        "XVIIe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1781063436486_11_of5fdj",
+      "addedAt": "2026-06-10T03:50:36.486Z"
+    },
+    {
+      "question": "Quel minéral transparent est la forme cristalline du carbone pur et le plus dur ?",
+      "options": [
+        "Le rubis",
+        "Le diamant",
+        "L'émeraude",
+        "Le saphir"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781063436486_12_g77gn1",
+      "addedAt": "2026-06-10T03:50:36.486Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit la 9ème symphonie contenant l'Hymne à la Joie ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "George Friedrich Haendel"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1781063436485_0_ogi1dx",
+      "addedAt": "2026-06-10T03:50:36.485Z"
+    },
+    {
       "question": "Quel physicien français a découvert la radioactivité en 1896 ?",
       "options": [
         "Pierre Curie",
@@ -3860,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1779854146578_6_8chozo",
       "addedAt": "2026-05-27T03:55:46.578Z"
-    },
+    }
+  ],
+  "version": 250,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-10T03:50:36.486Z",
+  "archivedQuestions": [
     {
       "question": "Quel animal est connu pour sa capacité à changer de couleur rapidement ?",
       "options": [
@@ -4029,167 +4203,6 @@
       "category": "Nature",
       "id": "q_1779842515516_8_b5np4c",
       "addedAt": "2026-05-27T00:41:55.516Z"
-    }
-  ],
-  "version": 249,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-10T00:41:47.984Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel plat japonais traditionnel consiste en riz garni de poisson cru ?",
-      "options": [
-        "Tempura",
-        "Sushi",
-        "Ramen",
-        "Teriyaki"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1779842515516_9_lc2rks",
-      "addedAt": "2026-05-27T00:41:55.516Z"
-    },
-    {
-      "question": "Quel mathématicien a développé le système de coordonnées cartésiennes ?",
-      "options": [
-        "Isaac Newton",
-        "René Descartes",
-        "Leonhard Euler",
-        "Carl Friedrich Gauss"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1779842515516_10_t087lf",
-      "addedAt": "2026-05-27T00:41:55.516Z"
-    },
-    {
-      "question": "Quel sport de combat olympique combine la boxe et le karaté ?",
-      "options": [
-        "Judo",
-        "Taekwondo",
-        "Muay Thai",
-        "Kung-fu"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1779842515516_11_9krfz0",
-      "addedAt": "2026-05-27T00:41:55.516Z"
-    },
-    {
-      "question": "Quel célèbre compositeur autrichien a écrit 'Les Quatre Saisons' ?",
-      "options": [
-        "Johann Sebastian Bach",
-        "Antonio Vivaldi",
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1779842515516_12_whbqbk",
-      "addedAt": "2026-05-27T00:41:55.516Z"
-    },
-    {
-      "question": "Quel architecte français a conçu la tour Eiffel pour l'Exposition universelle de 1889 ?",
-      "options": [
-        "Gustave Eiffel",
-        "Le Corbusier",
-        "I.M. Pei",
-        "Frank Lloyd Wright"
-      ],
-      "correctAnswer": 0,
-      "category": "Architecture",
-      "id": "q_1779766747580_0_hk6ol2",
-      "addedAt": "2026-05-26T03:39:07.580Z"
-    },
-    {
-      "question": "En quel siècle l'imprimerie a-t-elle été inventée par Gutenberg ?",
-      "options": [
-        "XIIe siècle",
-        "XVe siècle",
-        "XVIIe siècle",
-        "XIXe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779766747580_1_yhczpl",
-      "addedAt": "2026-05-26T03:39:07.580Z"
-    },
-    {
-      "question": "Quel processus biologique permet aux plantes de convertir la lumière en énergie chimique ?",
-      "options": [
-        "La respiration cellulaire",
-        "La photosynthèse",
-        "La transpiration",
-        "La fermentation"
-      ],
-      "correctAnswer": 1,
-      "category": "Biologie",
-      "id": "q_1779766747580_2_uw5dxa",
-      "addedAt": "2026-05-26T03:39:07.580Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet de la chaîne des Andes ?",
-      "options": [
-        "Mont Blanc",
-        "Aconcagua",
-        "Chimborazo",
-        "Nevado Sajama"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1779766747580_3_nz2ma5",
-      "addedAt": "2026-05-26T03:39:07.580Z"
-    },
-    {
-      "question": "Quel compositeur allemand a composé la Neuvième Symphonie contenant l'Hymne à la Joie ?",
-      "options": [
-        "Johann Sebastian Bach",
-        "Ludwig van Beethoven",
-        "Wolfgang Amadeus Mozart",
-        "Richard Wagner"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1779766747580_4_vde0ea",
-      "addedAt": "2026-05-26T03:39:07.580Z"
-    },
-    {
-      "question": "En quel année la Tour de Pise a-t-elle commencé sa construction ?",
-      "options": [
-        "1072",
-        "1173",
-        "1250",
-        "1350"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779766747580_5_deb81i",
-      "addedAt": "2026-05-26T03:39:07.580Z"
-    },
-    {
-      "question": "Quel type de roche se forme par le refroidissement de la lave volcanique ?",
-      "options": [
-        "Roche sédimentaire",
-        "Roche magmatique",
-        "Roche métamorphique",
-        "Roche calcaire"
-      ],
-      "correctAnswer": 1,
-      "category": "Géologie",
-      "id": "q_1779766747580_6_cetzbe",
-      "addedAt": "2026-05-26T03:39:07.580Z"
-    },
-    {
-      "question": "Quel peintre français post-impressionniste a créé 'La Nuit Étoilée' ?",
-      "options": [
-        "Claude Monet",
-        "Paul Cézanne",
-        "Vincent van Gogh",
-        "Paul Gauguin"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1779766747580_7_ag9wh0",
-      "addedAt": "2026-05-26T03:39:07.580Z"
     }
   ],
   "poolSize": 310
