@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel type de pâte italienne a la forme d'un petit tube courbé ?",
+      "options": [
+        "Les tagliatelles",
+        "Les rigatoni",
+        "Les tortellini",
+        "Les ravioli"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1781136898306_9_oxh3hn",
+      "addedAt": "2026-06-11T00:14:58.307Z"
+    },
+    {
+      "question": "Quel système informatique open-source a été créé par Linus Torvalds en 1991 ?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Unix"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1781136898307_10_147rtp",
+      "addedAt": "2026-06-11T00:14:58.307Z"
+    },
+    {
+      "question": "Quel chimiste polonais a découvert le polonium et le radium ?",
+      "options": [
+        "Marie Curie",
+        "Pierre Curie",
+        "Ernest Rutherford",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1781136898306_0_5mpiop",
+      "addedAt": "2026-06-11T00:14:58.306Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1781136898306_1_yephs0",
+      "addedAt": "2026-06-11T00:14:58.306Z"
+    },
+    {
+      "question": "Quel artiste mexicain est connu pour ses autoportraits expressionnistes ?",
+      "options": [
+        "Diego Rivera",
+        "Frida Kahlo",
+        "David Alfaro Siqueiros",
+        "Remedios Varo"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1781136898306_2_wch1zn",
+      "addedAt": "2026-06-11T00:14:58.306Z"
+    },
+    {
+      "question": "Quel est le plus grand lac d'eau douce du monde par superficie ?",
+      "options": [
+        "Lac Tanganyika",
+        "Lac Baïkal",
+        "Lac Supérieur",
+        "Lac Victoria"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1781136898306_3_ba83n4",
+      "addedAt": "2026-06-11T00:14:58.306Z"
+    },
+    {
+      "question": "En mathématiques, quel est le nom du symbole '∞' ?",
+      "options": [
+        "L'infini",
+        "L'éternity",
+        "L'infinité",
+        "Le lemniscate"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1781136898306_4_dhg3rw",
+      "addedAt": "2026-06-11T00:14:58.306Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit '9 Symphonies' dont la dernière contient l'Ode à la Joie ?",
+      "options": [
+        "Richard Wagner",
+        "Ludwig van Beethoven",
+        "Johannes Brahms",
+        "Georges Friedrich Händel"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1781136898306_5_gb2gtx",
+      "addedAt": "2026-06-11T00:14:58.306Z"
+    },
+    {
+      "question": "Quel réalisateur a créé les films 'Inception' et 'Interstellar' ?",
+      "options": [
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Christopher Nolan",
+        "Denis Villeneuve"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1781136898306_6_f8bpyb",
+      "addedAt": "2026-06-11T00:14:58.306Z"
+    },
+    {
+      "question": "Quel est le plus haut volcan actif du monde ?",
+      "options": [
+        "Le Krakatoa",
+        "Le Sakura-jima",
+        "L'Ojos del Salado",
+        "Le Popocatépetl"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1781136898306_7_2v8tq4",
+      "addedAt": "2026-06-11T00:14:58.306Z"
+    },
+    {
+      "question": "Quel sport d'équipe se joue avec un ballon de forme ovale et fut inventé en Angleterre ?",
+      "options": [
+        "Le cricket",
+        "Le rugby",
+        "Le football américain",
+        "Le hurling"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1781136898306_8_itbxh0",
+      "addedAt": "2026-06-11T00:14:58.306Z"
+    },
+    {
       "question": "En quelle année l'imprimerie à caractères mobiles a-t-elle été inventée par Gutenberg ?",
       "options": [
         "1440",
@@ -3886,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1779928640901_5_3lwgbs",
       "addedAt": "2026-05-28T00:37:20.901Z"
-    },
+    }
+  ],
+  "version": 251,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-11T00:14:58.307Z",
+  "archivedQuestions": [
     {
       "question": "Quel cinéaste français a réalisé 'La Haine' en 1995 ?",
       "options": [
@@ -4029,180 +4177,6 @@
       "category": "Histoire",
       "id": "q_1779854146578_6_8chozo",
       "addedAt": "2026-05-27T03:55:46.578Z"
-    }
-  ],
-  "version": 250,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-10T03:50:36.486Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel animal est connu pour sa capacité à changer de couleur rapidement ?",
-      "options": [
-        "Gecko",
-        "Caméléon",
-        "Iguane",
-        "Lézard à cornes"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1779854146578_7_1e92oz",
-      "addedAt": "2026-05-27T03:55:46.578Z"
-    },
-    {
-      "question": "En géométrie, combien de degrés mesure la somme des angles d'un triangle ?",
-      "options": [
-        "90°",
-        "180°",
-        "270°",
-        "360°"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1779854146578_8_ki6j5c",
-      "addedAt": "2026-05-27T03:55:46.578Z"
-    },
-    {
-      "question": "Quel plat italien à base de pâtes et fromage est traditionnellement préparé avec des œufs ?",
-      "options": [
-        "Lasagne",
-        "Carbonara",
-        "Bolognaise",
-        "Alfredo"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1779854146578_9_2zlezg",
-      "addedAt": "2026-05-27T03:55:46.578Z"
-    },
-    {
-      "question": "Quel logiciel d'exploitation du système informatique a été créé par Microsoft ?",
-      "options": [
-        "macOS",
-        "Linux",
-        "Windows",
-        "Android"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1779854146578_10_ru6prx",
-      "addedAt": "2026-05-27T03:55:46.578Z"
-    },
-    {
-      "question": "Quel célèbre naturaliste a développé la théorie de l'évolution par sélection naturelle ?",
-      "options": [
-        "Jean-Baptiste Lamarck",
-        "Charles Darwin",
-        "Gregor Mendel",
-        "Alfred Russel Wallace"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1779842515516_0_xtj8oh",
-      "addedAt": "2026-05-27T00:41:55.516Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle éclaté ?",
-      "options": [
-        "1776",
-        "1789",
-        "1801",
-        "1815"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779842515516_1_d0hk7r",
-      "addedAt": "2026-05-27T00:41:55.516Z"
-    },
-    {
-      "question": "Quel océan borde le Pérou à l'ouest ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Indien",
-        "Océan Pacifique",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1779842515516_2_87py6i",
-      "addedAt": "2026-05-27T00:41:55.516Z"
-    },
-    {
-      "question": "Quel poète français a écrit 'Les Fleurs du Mal' ?",
-      "options": [
-        "Victor Hugo",
-        "Charles Baudelaire",
-        "Arthur Rimbaud",
-        "Paul Verlaine"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1779842515516_3_jfaxz6",
-      "addedAt": "2026-05-27T00:41:55.516Z"
-    },
-    {
-      "question": "Quel élément chimique est le plus abondant dans l'univers ?",
-      "options": [
-        "Oxygène",
-        "Carbone",
-        "Hydrogène",
-        "Azote"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1779842515516_4_en01p9",
-      "addedAt": "2026-05-27T00:41:55.516Z"
-    },
-    {
-      "question": "Quel film réalisé par Steven Spielberg raconte l'histoire d'un extraterrestre ?",
-      "options": [
-        "Jaws",
-        "E.T. l'extraterrestre",
-        "Jurassic Park",
-        "Schindler's List"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1779842515516_5_epifb6",
-      "addedAt": "2026-05-27T00:41:55.516Z"
-    },
-    {
-      "question": "Quel réaction chimique produit l'énergie dans les étoiles ?",
-      "options": [
-        "Fission nucléaire",
-        "Fusion nucléaire",
-        "Combustion",
-        "Oxydation"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1779842515516_6_utwvrh",
-      "addedAt": "2026-05-27T00:41:55.516Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
-      "options": [
-        "XIIe siècle",
-        "XIVe-XVIe siècles",
-        "XVIIe siècle",
-        "XVIIIe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779842515516_7_kmi55x",
-      "addedAt": "2026-05-27T00:41:55.516Z"
-    },
-    {
-      "question": "Quel type de mammifère est le dauphin ?",
-      "options": [
-        "Poisson",
-        "Cétacé",
-        "Amphibien",
-        "Reptile"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1779842515516_8_b5np4c",
-      "addedAt": "2026-05-27T00:41:55.516Z"
     }
   ],
   "poolSize": 310
