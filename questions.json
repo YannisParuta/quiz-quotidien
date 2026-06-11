@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel courant artistique du XXe siècle est caractérisé par l'abstraction totale et la négation de la forme ?",
+      "options": [
+        "L'expressionnisme",
+        "L'art abstrait",
+        "Le dadaïsme",
+        "Le surréalisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1781150618274_0_t3ihga",
+      "addedAt": "2026-06-11T04:03:38.275Z"
+    },
+    {
+      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1965",
+        "1969",
+        "1971",
+        "1973"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1781150618275_1_tad7za",
+      "addedAt": "2026-06-11T04:03:38.275Z"
+    },
+    {
+      "question": "Quel océan est le plus profond du monde ?",
+      "options": [
+        "L'océan Atlantique",
+        "L'océan Indien",
+        "L'océan Pacifique",
+        "L'océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1781150618275_2_hatih0",
+      "addedAt": "2026-06-11T04:03:38.275Z"
+    },
+    {
+      "question": "Quel dramaturge français a écrit 'Cyrano de Bergerac' ?",
+      "options": [
+        "Molière",
+        "Edmond Rostand",
+        "Pierre Corneille",
+        "Jean Racine"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1781150618275_3_ca5s45",
+      "addedAt": "2026-06-11T04:03:38.275Z"
+    },
+    {
+      "question": "Quel phénomène météorologique est caractérisé par une colonne d'air qui tourne rapidement ?",
+      "options": [
+        "Une tornade",
+        "Un cyclone",
+        "Une tempête",
+        "Une dépression"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1781150618275_4_pv52e9",
+      "addedAt": "2026-06-11T04:03:38.275Z"
+    },
+    {
+      "question": "Quel philosophe grec antique a été le maître d'Alexandre le Grand ?",
+      "options": [
+        "Platon",
+        "Socrate",
+        "Aristote",
+        "Diogène"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1781150618275_5_n1dlks",
+      "addedAt": "2026-06-11T04:03:38.275Z"
+    },
+    {
+      "question": "Quel instrument musical à vent est le plus grave de la famille des saxophones ?",
+      "options": [
+        "Le saxophone alto",
+        "Le saxophone ténor",
+        "Le saxophone basse",
+        "Le saxophone soprano"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1781150618275_6_c8q4o9",
+      "addedAt": "2026-06-11T04:03:38.275Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'La Haine' en 1995 ?",
+      "options": [
+        "Luc Besson",
+        "Mathieu Kassovitz",
+        "Claire Denis",
+        "Jacques Audiard"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1781150618275_7_dzcdgx",
+      "addedAt": "2026-06-11T04:03:38.275Z"
+    },
+    {
+      "question": "Quel type de cuisine française est basée sur des portions raffinées et des techniques précises ?",
+      "options": [
+        "La cuisine régionale",
+        "La gastronomie moléculaire",
+        "La haute cuisine",
+        "La cuisine paysanne"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1781150618275_8_b8vhpo",
+      "addedAt": "2026-06-11T04:03:38.275Z"
+    },
+    {
+      "question": "En géométrie, combien de degrés mesure chaque angle d'un hexagone régulier ?",
+      "options": [
+        "90°",
+        "120°",
+        "108°",
+        "135°"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1781150618275_9_fb4dfu",
+      "addedAt": "2026-06-11T04:03:38.275Z"
+    },
+    {
       "question": "Quel type de pâte italienne a la forme d'un petit tube courbé ?",
       "options": [
         "Les tagliatelles",
@@ -3899,7 +4029,12 @@
       "category": "Sport",
       "id": "q_1779939735020_8_qem1wx",
       "addedAt": "2026-05-28T03:42:15.020Z"
-    },
+    }
+  ],
+  "version": 252,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-11T04:03:38.275Z",
+  "archivedQuestions": [
     {
       "question": "Quel régime alimentaire japonais traditionnel met l'accent sur les aliments fermentés et les sauces à base de soja ?",
       "options": [
@@ -4029,154 +4164,6 @@
       "category": "Géographie",
       "id": "q_1779928640901_5_3lwgbs",
       "addedAt": "2026-05-28T00:37:20.901Z"
-    }
-  ],
-  "version": 251,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-11T00:14:58.307Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel cinéaste français a réalisé 'La Haine' en 1995 ?",
-      "options": [
-        "Claude Chabrol",
-        "Mathieu Kassovitz",
-        "Luc Besson",
-        "Catherine Breillat"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1779928640901_6_wk314q",
-      "addedAt": "2026-05-28T00:37:20.901Z"
-    },
-    {
-      "question": "Quel phénomène astronomique se produit quand la Lune passe devant le Soleil ?",
-      "options": [
-        "Une éclipse lunaire",
-        "Une éclipse solaire",
-        "Une conjonction",
-        "Une opposition"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1779928640901_7_uu20fg",
-      "addedAt": "2026-05-28T00:37:20.901Z"
-    },
-    {
-      "question": "Quel sport français est également appelé 'sport noble' ou 'art de l'escrime' ?",
-      "options": [
-        "L'escrime",
-        "L'équitation",
-        "La boxe",
-        "Le judo"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1779928640901_8_5pr7rw",
-      "addedAt": "2026-05-28T00:37:20.901Z"
-    },
-    {
-      "question": "Quel célèbre tableau de Claude Monet représente des nymphéas ?",
-      "options": [
-        "Les Coquelicots",
-        "La Cathédrale de Rouen",
-        "Les Nymphéas",
-        "Impression, soleil levant"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1779928640901_9_u73io5",
-      "addedAt": "2026-05-28T00:37:20.901Z"
-    },
-    {
-      "question": "Quel océan est le plus profond du monde ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1779854146578_0_0qplly",
-      "addedAt": "2026-05-27T03:55:46.578Z"
-    },
-    {
-      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
-      "options": [
-        "1965",
-        "1967",
-        "1969",
-        "1971"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1779854146578_1_subslp",
-      "addedAt": "2026-05-27T03:55:46.578Z"
-    },
-    {
-      "question": "Quel écrivain britannique a écrit la série de romans 'Harry Potter' ?",
-      "options": [
-        "J.R.R. Tolkien",
-        "J.K. Rowling",
-        "C.S. Lewis",
-        "George R.R. Martin"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1779854146578_2_exv4ql",
-      "addedAt": "2026-05-27T03:55:46.578Z"
-    },
-    {
-      "question": "Quel phénomène naturel se produit lors d'une éclipse lunaire totale ?",
-      "options": [
-        "La Lune passe devant le Soleil",
-        "La Terre passe entre le Soleil et la Lune",
-        "Le Soleil passe devant la Terre",
-        "La Lune se rapproche de la Terre"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1779854146578_3_m7jydk",
-      "addedAt": "2026-05-27T03:55:46.578Z"
-    },
-    {
-      "question": "Quel instrument de musique à cordes est traditionnellement utilisé dans la musique classique indienne ?",
-      "options": [
-        "Sitar",
-        "Oud",
-        "Shamisen",
-        "Banjo"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1779854146578_4_zt4ski",
-      "addedAt": "2026-05-27T03:55:46.578Z"
-    },
-    {
-      "question": "Quel continent est le moins densément peuplé du monde ?",
-      "options": [
-        "Australie",
-        "Asie",
-        "Antarctique",
-        "Amérique du Sud"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1779854146578_5_03yjny",
-      "addedAt": "2026-05-27T03:55:46.578Z"
-    },
-    {
-      "question": "Quel roi d'Angleterre a rompu avec l'Église catholique au XVIe siècle ?",
-      "options": [
-        "Édouard Ier",
-        "Henri VIII",
-        "Charles Ier",
-        "Georges III"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779854146578_6_8chozo",
-      "addedAt": "2026-05-27T03:55:46.578Z"
     }
   ],
   "poolSize": 310
