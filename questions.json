@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel physicien français a découvert le polonium et le radium ?",
+      "options": [
+        "Louis Pasteur",
+        "Marie Curie",
+        "Henri Becquerel",
+        "Pierre Joliot"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781237079979_0_8g4jdb",
+      "addedAt": "2026-06-12T04:04:39.979Z"
+    },
+    {
+      "question": "Quel film d'animation Pixar raconte l'histoire d'un poisson qui cherche son fils ?",
+      "options": [
+        "Vaiana",
+        "Le Monde de Nemo",
+        "Toy Story",
+        "Monstres & Cie"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1781237079979_1_ensnco",
+      "addedAt": "2026-06-12T04:04:39.979Z"
+    },
+    {
+      "question": "Quel instrument de musique traditionnelle indienne possède des cordes sympathiques ?",
+      "options": [
+        "Tabla",
+        "Sitar",
+        "Sarod",
+        "Bansuri"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1781237079979_2_xdzr4r",
+      "addedAt": "2026-06-12T04:04:39.979Z"
+    },
+    {
+      "question": "Quel botaniste suédois a créé la classification binomiale des espèces ?",
+      "options": [
+        "Jean-Baptiste Lamarck",
+        "Carl von Linné",
+        "Georges Cuvier",
+        "Gregor Mendel"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1781237079979_3_ytj1ep",
+      "addedAt": "2026-06-12T04:04:39.979Z"
+    },
+    {
+      "question": "Quel empire romain a été fondé par Auguste en 27 avant J.-C. ?",
+      "options": [
+        "République romaine",
+        "Empire romain d'Occident",
+        "Principat",
+        "Domina"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1781237079979_4_10jouf",
+      "addedAt": "2026-06-12T04:04:39.979Z"
+    },
+    {
+      "question": "Quel fruit tropical est composé à 89% d'eau et aide à l'hydratation ?",
+      "options": [
+        "Papaye",
+        "Noix de coco",
+        "Pastèque",
+        "Mangue"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1781237079979_5_2l3vob",
+      "addedAt": "2026-06-12T04:04:39.979Z"
+    },
+    {
+      "question": "Quel mouvement littéraire était centré sur l'expression des émotions au XIXe siècle ?",
+      "options": [
+        "Classicisme",
+        "Romantisme",
+        "Réalisme",
+        "Naturalisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1781237079979_6_s382p7",
+      "addedAt": "2026-06-12T04:04:39.979Z"
+    },
+    {
+      "question": "Quel sport d'hiver utilise un bâton et un palet sur la glace ?",
+      "options": [
+        "Patinage de vitesse",
+        "Hockey sur glace",
+        "Curling",
+        "Bobsleigh"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1781237079979_7_1tuvmv",
+      "addedAt": "2026-06-12T04:04:39.979Z"
+    },
+    {
+      "question": "Quel architecte catalan a conçu la Sagrada Familia à Barcelone ?",
+      "options": [
+        "Pablo Picasso",
+        "Joan Miró",
+        "Antoni Gaudí",
+        "Salvador Dalí"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1781237079979_8_7y9nfo",
+      "addedAt": "2026-06-12T04:04:39.979Z"
+    },
+    {
+      "question": "Quel pays est le plus grand producteur de riz au monde ?",
+      "options": [
+        "Thaïlande",
+        "Vietnam",
+        "Chine",
+        "Inde"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1781237079979_9_tfysk8",
+      "addedAt": "2026-06-12T04:04:39.979Z"
+    },
+    {
+      "question": "Quel langage de programmation a été créé par Guido van Rossum en 1989 ?",
+      "options": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "Ruby"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1781237079979_10_maptuj",
+      "addedAt": "2026-06-12T04:04:39.979Z"
+    },
+    {
       "question": "Combien de dents possède un adulte humain sain ?",
       "options": [
         "28",
@@ -3886,7 +4029,12 @@
       "category": "Science",
       "id": "q_1780026133884_4_n68ff6",
       "addedAt": "2026-05-29T03:42:13.884Z"
-    },
+    }
+  ],
+  "version": 254,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-12T04:04:39.980Z",
+  "archivedQuestions": [
     {
       "question": "En quel siècle la Révolution Française a-t-elle éclaté ?",
       "options": [
@@ -4029,193 +4177,6 @@
       "category": "Musique",
       "id": "q_1780016012342_3_kcjvp9",
       "addedAt": "2026-05-29T00:53:32.342Z"
-    }
-  ],
-  "version": 253,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-12T00:43:14.456Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel peintre espagnol est connu pour son style cubiste avec 'Les Demoiselles d'Avignon' ?",
-      "options": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Joan Miró",
-        "Juan Gris"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1780016012342_4_rne85p",
-      "addedAt": "2026-05-29T00:53:32.342Z"
-    },
-    {
-      "question": "Quel roman de science-fiction de Jules Verne a pour titre 'Voyage au centre de la...' ?",
-      "options": [
-        "Terre",
-        "Lune",
-        "Galaxie",
-        "Planète"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1780016012342_5_6bouwz",
-      "addedAt": "2026-05-29T00:53:32.342Z"
-    },
-    {
-      "question": "Quel insecte possède un exosquelette et représente environ 80% de tous les animaux ?",
-      "options": [
-        "Arachnide",
-        "Insecte",
-        "Crustacé",
-        "Mollusque"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1780016012342_6_q3vob9",
-      "addedAt": "2026-05-29T00:53:32.342Z"
-    },
-    {
-      "question": "Quel prix cinématographique international est remis au Festival de Cannes ?",
-      "options": [
-        "Golden Globe",
-        "Palme d'Or",
-        "BAFTA",
-        "César"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1780016012342_7_aafp8z",
-      "addedAt": "2026-05-29T00:53:32.342Z"
-    },
-    {
-      "question": "En mathématiques, quel est le résultat de 15² ?",
-      "options": [
-        "200",
-        "225",
-        "250",
-        "175"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1780016012342_8_df5k6e",
-      "addedAt": "2026-05-29T00:53:32.342Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a créé la symphonie 'Jupiter' ?",
-      "options": [
-        "Ludwig van Beethoven",
-        "Wolfgang Amadeus Mozart",
-        "Franz Joseph Haydn",
-        "Antonio Vivaldi"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1779939735020_0_nt57y8",
-      "addedAt": "2026-05-28T03:42:15.020Z"
-    },
-    {
-      "question": "Quel désert est le plus grand du monde en surface ?",
-      "options": [
-        "Le Sahara",
-        "Le désert de Gobi",
-        "Le désert de l'Antarctique",
-        "Le désert d'Arabie"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1779939735020_1_7a7cyj",
-      "addedAt": "2026-05-28T03:42:15.020Z"
-    },
-    {
-      "question": "Quel processus biologique permet aux organismes de convertir les nutriments en énergie ?",
-      "options": [
-        "La respiration cellulaire",
-        "La mitose",
-        "L'osmose",
-        "La transcription"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1779939735020_2_wfvelx",
-      "addedAt": "2026-05-28T03:42:15.020Z"
-    },
-    {
-      "question": "Quel archipel volcanique du Pacifique compte 8 îles principales ?",
-      "options": [
-        "Les îles Galápagos",
-        "Les îles Hawaï",
-        "Les îles Fidji",
-        "Les îles Marquises"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1779939735020_3_2a6agy",
-      "addedAt": "2026-05-28T03:42:15.020Z"
-    },
-    {
-      "question": "Quel mathématicien italien a introduit les chiffres arabes en Europe au XIIe siècle ?",
-      "options": [
-        "Léonardo Fibonacci",
-        "Euclide",
-        "Archimède",
-        "Pythagore"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1779939735020_4_wim74y",
-      "addedAt": "2026-05-28T03:42:15.020Z"
-    },
-    {
-      "question": "Quel peintre espagnol du XXe siècle a développé le mouvement cubiste ?",
-      "options": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Joan Miró",
-        "Diego Rivera"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1779939735020_5_ftxssv",
-      "addedAt": "2026-05-28T03:42:15.020Z"
-    },
-    {
-      "question": "Quel traité international a mis fin à la Première Guerre mondiale ?",
-      "options": [
-        "Le Traité de Versailles",
-        "Le Traité de Trianon",
-        "Le Traité de Paris",
-        "Le Traité de Brest-Litovsk"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1779939735020_6_ae8vf4",
-      "addedAt": "2026-05-28T03:42:15.020Z"
-    },
-    {
-      "question": "Quel biologiste français a développé la technique de la pasteurisation ?",
-      "options": [
-        "Claude Bernard",
-        "Louis Pasteur",
-        "Jean-Baptiste Lamarck",
-        "François Magendie"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1779939735020_7_2g7iro",
-      "addedAt": "2026-05-28T03:42:15.020Z"
-    },
-    {
-      "question": "Quel sport hivernal olympique consiste à descendre une piste gelée sur un traîneau ?",
-      "options": [
-        "Le skeleton",
-        "Le curling",
-        "Le patinage de vitesse",
-        "Le bobsleigh"
-      ],
-      "correctAnswer": 3,
-      "category": "Sport",
-      "id": "q_1779939735020_8_qem1wx",
-      "addedAt": "2026-05-28T03:42:15.020Z"
     }
   ],
   "poolSize": 310
