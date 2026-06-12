@@ -1,6 +1,188 @@
 {
   "questions": [
     {
+      "question": "Combien de dents possède un adulte humain sain ?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1781224994455_3_crw11x",
+      "addedAt": "2026-06-12T00:43:14.456Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'Amélie' en 2001 ?",
+      "options": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Michel Gondry",
+        "Cédric Klapisch"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1781224994456_4_js581g",
+      "addedAt": "2026-06-12T00:43:14.456Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet d'Afrique ?",
+      "options": [
+        "Le Mont Kenya",
+        "Le Kilimandjaro",
+        "Le Mont Stanley",
+        "Le Mont Speke"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1781224994456_5_kf89k7",
+      "addedAt": "2026-06-12T00:43:14.456Z"
+    },
+    {
+      "question": "Quel artiste français du XXe siècle est connu pour ses sculptures abstraites monumentales ?",
+      "options": [
+        "Henry Moore",
+        "Constantin Brancusi",
+        "Henry Laurens",
+        "Alexander Calder"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1781224994456_6_gd3gs4",
+      "addedAt": "2026-06-12T00:43:14.456Z"
+    },
+    {
+      "question": "En quel siècle s'est déroulée la Renaissance italienne ?",
+      "options": [
+        "XIIIe siècle",
+        "XIVe-XVIe siècles",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1781224994456_7_qf58e1",
+      "addedAt": "2026-06-12T00:43:14.456Z"
+    },
+    {
+      "question": "Quel gaz atmosphérique est responsable de l'effet de serre primaire ?",
+      "options": [
+        "L'oxyde d'azote",
+        "Le dioxyde de carbone",
+        "L'ozone",
+        "Le méthane"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781224994456_8_4cyx0d",
+      "addedAt": "2026-06-12T00:43:14.456Z"
+    },
+    {
+      "question": "Quel sport aquatique olympique combine la natation, le cyclisme et la course à pied ?",
+      "options": [
+        "Le biathlon aquatique",
+        "Le triathlon",
+        "Le pentathlon moderne",
+        "Le duathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1781224994456_9_fbhia2",
+      "addedAt": "2026-06-12T00:43:14.456Z"
+    },
+    {
+      "question": "Quel type de cuisine utilise principalement le wok comme ustensile de cuisson ?",
+      "options": [
+        "La cuisine indienne",
+        "La cuisine thaïlandaise",
+        "La cuisine chinoise",
+        "La cuisine vietnamienne"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1781224994456_10_aqd60f",
+      "addedAt": "2026-06-12T00:43:14.456Z"
+    },
+    {
+      "question": "Quel pionnier du cinéma a créé le Cinématographe, appareil de projection ?",
+      "options": [
+        "Thomas Edison",
+        "Les frères Lumière",
+        "Georges Méliès",
+        "Émile Reynaud"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1781224994456_11_gpx33y",
+      "addedAt": "2026-06-12T00:43:14.456Z"
+    },
+    {
+      "question": "Quel élément chimique est le plus abondant de l'univers ?",
+      "options": [
+        "L'hélium",
+        "L'hydrogène",
+        "Le carbone",
+        "L'oxygène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781224994456_12_n4wr0e",
+      "addedAt": "2026-06-12T00:43:14.456Z"
+    },
+    {
+      "question": "Quel système informatique d'exploitation a été créé par Linus Torvalds en 1991 ?",
+      "options": [
+        "Windows",
+        "MacOS",
+        "Linux",
+        "Unix"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1781224994456_13_pl6dsi",
+      "addedAt": "2026-06-12T00:43:14.456Z"
+    },
+    {
+      "question": "Quel physicien allemand a développé la théorie de la relativité générale ?",
+      "options": [
+        "Max Planck",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Werner Heisenberg"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781224994455_0_jet9ny",
+      "addedAt": "2026-06-12T00:43:14.455Z"
+    },
+    {
+      "question": "En quel année l'homme a-t-il marché pour la première fois sur la Lune ?",
+      "options": [
+        "1965",
+        "1969",
+        "1971",
+        "1973"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1781224994455_1_ym7b16",
+      "addedAt": "2026-06-12T00:43:14.455Z"
+    },
+    {
+      "question": "Quel volcan italien est entré en éruption en 79 après J.-C. et a détruit Pompéi ?",
+      "options": [
+        "L'Etna",
+        "Le Vésuve",
+        "Le Stromboli",
+        "Le Campi Flegrei"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1781224994455_2_picoxt",
+      "addedAt": "2026-06-12T00:43:14.455Z"
+    },
+    {
       "question": "Quel courant artistique du XXe siècle est caractérisé par l'abstraction totale et la négation de la forme ?",
       "options": [
         "L'expressionnisme",
@@ -3847,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1780016012342_3_kcjvp9",
       "addedAt": "2026-05-29T00:53:32.342Z"
-    },
+    }
+  ],
+  "version": 253,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-12T00:43:14.456Z",
+  "archivedQuestions": [
     {
       "question": "Quel peintre espagnol est connu pour son style cubiste avec 'Les Demoiselles d'Avignon' ?",
       "options": [
@@ -4029,141 +4216,6 @@
       "category": "Sport",
       "id": "q_1779939735020_8_qem1wx",
       "addedAt": "2026-05-28T03:42:15.020Z"
-    }
-  ],
-  "version": 252,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-11T04:03:38.275Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel régime alimentaire japonais traditionnel met l'accent sur les aliments fermentés et les sauces à base de soja ?",
-      "options": [
-        "La cuisine kaiseki",
-        "La cuisine washoku",
-        "La cuisine okonomiyaki",
-        "La cuisine ramen"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1779939735020_9_tfd97e",
-      "addedAt": "2026-05-28T03:42:15.020Z"
-    },
-    {
-      "question": "Quel réalisateur britannique a créé la trilogie 'Retour vers le futur' ?",
-      "options": [
-        "Steven Spielberg",
-        "Robert Zemeckis",
-        "James Cameron",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1779939735020_10_z121fr",
-      "addedAt": "2026-05-28T03:42:15.020Z"
-    },
-    {
-      "question": "Quel minéral transparent et cristallin est la forme la plus dure du carbone ?",
-      "options": [
-        "Le quartz",
-        "Le diamant",
-        "Le rubis",
-        "l'émeraude"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1779939735020_11_v5tpe8",
-      "addedAt": "2026-05-28T03:42:15.020Z"
-    },
-    {
-      "question": "Quel phénomène naturel décrit le mouvement de l'écorce terrestre causant les tremblements de terre ?",
-      "options": [
-        "La tectonique des plaques",
-        "L'érosion",
-        "La convection",
-        "Le volcanisme"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1779939735020_12_tonj2o",
-      "addedAt": "2026-05-28T03:42:15.020Z"
-    },
-    {
-      "question": "Quel peintre a coupé une partie de son oreille en 1888 ?",
-      "options": [
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Salvador Dalí",
-        "Wassily Kandinsky"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1779928640900_0_qpiypo",
-      "addedAt": "2026-05-28T00:37:20.901Z"
-    },
-    {
-      "question": "Quel roman de Victor Hugo a pour personnage principal Quasimodo ?",
-      "options": [
-        "Les Misérables",
-        "Notre-Dame de Paris",
-        "L'Homme qui rit",
-        "Bug-Jargal"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1779928640901_1_jggwi2",
-      "addedAt": "2026-05-28T00:37:20.901Z"
-    },
-    {
-      "question": "Combien de continents y a-t-il sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1779928640901_2_koepg9",
-      "addedAt": "2026-05-28T00:37:20.901Z"
-    },
-    {
-      "question": "Quel scientifique a formulé la théorie de la relativité ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Stephen Hawking",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1779928640901_3_jspa3d",
-      "addedAt": "2026-05-28T00:37:20.901Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle eu lieu ?",
-      "options": [
-        "XIIIe siècle",
-        "XIVe-XVIe siècle",
-        "XVIIe siècle",
-        "XVIIIe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1779928640901_4_okii22",
-      "addedAt": "2026-05-28T00:37:20.901Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet d'Afrique ?",
-      "options": [
-        "Le Mont Kenya",
-        "Le Kilimandjaro",
-        "Le Mont Stanley",
-        "Le Mont Speke"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1779928640901_5_3lwgbs",
-      "addedAt": "2026-05-28T00:37:20.901Z"
     }
   ],
   "poolSize": 310
