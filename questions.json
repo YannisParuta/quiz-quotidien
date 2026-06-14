@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "Quel musique est le genre musical caractérisé par l'improvisation et le swing ?",
+      "options": [
+        "Blues",
+        "Jazz",
+        "Reggae",
+        "Folk"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1781396937947_0_jtbbwv",
+      "addedAt": "2026-06-14T00:28:57.948Z"
+    },
+    {
+      "question": "Quel roman de Jane Austen raconte l'histoire d'Elizabeth Bennet ?",
+      "options": [
+        "Raison et Sentiments",
+        "Orgueil et Préjugés",
+        "Persuasion",
+        "Emma"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1781396937948_1_v005ok",
+      "addedAt": "2026-06-14T00:28:57.948Z"
+    },
+    {
+      "question": "Combien de joueurs compose une équipe de volleyball sur le terrain ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1781396937948_2_i9tgbc",
+      "addedAt": "2026-06-14T00:28:57.948Z"
+    },
+    {
+      "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+      "options": [
+        "Auckland",
+        "Christchurch",
+        "Wellington",
+        "Dunedin"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1781396937948_3_l6ilcm",
+      "addedAt": "2026-06-14T00:28:57.948Z"
+    },
+    {
+      "question": "En mathématiques, quel est le nombre de Fibonacci qui suit 5 et 8 ?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1781396937948_4_1r4aon",
+      "addedAt": "2026-06-14T00:28:57.948Z"
+    },
+    {
+      "question": "Quel animal est le plus rapide sur terre ?",
+      "options": [
+        "Antilope",
+        "Guépard",
+        "Autruche",
+        "Lièvre"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1781396937948_5_act0i7",
+      "addedAt": "2026-06-14T00:28:57.948Z"
+    },
+    {
+      "question": "Quel protocole web sécurisé utilise le chiffrement pour protéger les données ?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1781396937948_6_v5qhsi",
+      "addedAt": "2026-06-14T00:28:57.948Z"
+    },
+    {
       "question": "Quel pays produit le plus de cacao au monde ?",
       "options": [
         "Cameroun",
@@ -3938,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1780111858591_1_1a9qri",
       "addedAt": "2026-05-30T03:30:58.591Z"
-    },
+    }
+  ],
+  "version": 257,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-14T00:28:57.948Z",
+  "archivedQuestions": [
     {
       "question": "Combien de côtés possède un hexagone régulier ?",
       "options": [
@@ -4029,89 +4125,6 @@
       "category": "Technologie",
       "id": "q_1780111858591_8_3cgn3y",
       "addedAt": "2026-05-30T03:30:58.591Z"
-    }
-  ],
-  "version": 256,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-13T03:52:34.835Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel gaz est produit par les plantes lors de la photosynthèse ?",
-      "options": [
-        "L'azote",
-        "Le dioxyde de carbone",
-        "L'oxygène",
-        "L'hydrogène"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1780101624153_0_a1aggt",
-      "addedAt": "2026-05-30T00:40:24.153Z"
-    },
-    {
-      "question": "Quel auteur a écrit 'Les Misérables' ?",
-      "options": [
-        "Alexandre Dumas",
-        "Victor Hugo",
-        "Honoré de Balzac",
-        "Gustave Flaubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1780101624153_1_iy6far",
-      "addedAt": "2026-05-30T00:40:24.153Z"
-    },
-    {
-      "question": "Quel mouvement artistique Frida Kahlo est-elle principalement associée ?",
-      "options": [
-        "Le surréalisme",
-        "Le dadaïsme",
-        "Le cubisme",
-        "L'expressionnisme"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1780101624153_2_2lsq2l",
-      "addedAt": "2026-05-30T00:40:24.153Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la radioactivité ?",
-      "options": [
-        "Marie Curie",
-        "Pierre Curie",
-        "Henri Becquerel",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1780101624153_3_fqj1wp",
-      "addedAt": "2026-05-30T00:40:24.153Z"
-    },
-    {
-      "question": "En quel siècle la Magna Carta a-t-elle été signée en Angleterre ?",
-      "options": [
-        "XIIe siècle",
-        "XIIIe siècle",
-        "XIVe siècle",
-        "XVe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1780101624153_4_wn7s5v",
-      "addedAt": "2026-05-30T00:40:24.153Z"
-    },
-    {
-      "question": "Quel type de musique jazz a été créé à la Nouvelle-Orléans au début du XXe siècle ?",
-      "options": [
-        "Le bebop",
-        "Le swing",
-        "Le dixieland",
-        "Le cool jazz"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1780101624153_5_63ul3f",
-      "addedAt": "2026-05-30T00:40:24.153Z"
     }
   ],
   "poolSize": 310
