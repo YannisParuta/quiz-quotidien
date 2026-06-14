@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus profond océan du monde ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1781410270180_0_kztr4y",
+      "addedAt": "2026-06-14T04:11:10.181Z"
+    },
+    {
+      "question": "Combien de cordes possède un violon classique ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1781410270181_1_mhluoz",
+      "addedAt": "2026-06-14T04:11:10.181Z"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de rugby à XV ?",
+      "options": [
+        "13",
+        "15",
+        "17",
+        "20"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1781410270181_2_6dzwfa",
+      "addedAt": "2026-06-14T04:11:10.181Z"
+    },
+    {
+      "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Dioxyde de carbone",
+        "Hydrogène"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1781410270181_3_8umn9b",
+      "addedAt": "2026-06-14T04:11:10.181Z"
+    },
+    {
+      "question": "En quel siècle la Révolution française s'est-elle déroulée ?",
+      "options": [
+        "XVIIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle",
+        "XXe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1781410270181_4_v6kw9o",
+      "addedAt": "2026-06-14T04:11:10.181Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'La Règle du jeu', considéré comme un chef-d'œuvre du cinéma ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Jean Renoir",
+        "Claude Chabrol"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1781410270181_5_qkdq8s",
+      "addedAt": "2026-06-14T04:11:10.181Z"
+    },
+    {
+      "question": "Quel type de cuisine est caractérisé par l'utilisation du five-spice (cinq-épices) ?",
+      "options": [
+        "Cuisine indienne",
+        "Cuisine thaïlandaise",
+        "Cuisine chinoise",
+        "Cuisine vietnamienne"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1781410270181_6_11a0kj",
+      "addedAt": "2026-06-14T04:11:10.181Z"
+    },
+    {
+      "question": "Quel mammifère marin est le plus rapide ?",
+      "options": [
+        "Dauphin",
+        "Otarie",
+        "Épaulard",
+        "Marsouin"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1781410270181_7_e81f1b",
+      "addedAt": "2026-06-14T04:11:10.181Z"
+    },
+    {
+      "question": "Quel mathématicien suisse a travaillé sur la théorie des graphes et les ponts de Königsberg ?",
+      "options": [
+        "Carl Friedrich Gauss",
+        "Leonhard Euler",
+        "Jacob Bernoulli",
+        "Daniel Bernoulli"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1781410270181_8_hm2o2g",
+      "addedAt": "2026-06-14T04:11:10.181Z"
+    },
+    {
+      "question": "Quel est le langage de programmation créé par Guido van Rossum en 1991 ?",
+      "options": [
+        "Ruby",
+        "Python",
+        "Perl",
+        "JavaScript"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1781410270181_9_03yllx",
+      "addedAt": "2026-06-14T04:11:10.181Z"
+    },
+    {
       "question": "Quel musique est le genre musical caractérisé par l'improvisation et le swing ?",
       "options": [
         "Blues",
@@ -3899,7 +4029,12 @@
       "category": "Mathématiques",
       "id": "q_1780186817901_0_o0m69n",
       "addedAt": "2026-05-31T00:20:17.901Z"
-    },
+    }
+  ],
+  "version": 258,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-14T04:11:10.181Z",
+  "archivedQuestions": [
     {
       "question": "Quel compositeur a écrit la symphonie 'Jupiter' ?",
       "options": [
@@ -4028,102 +4163,6 @@
       "correctAnswer": 0,
       "category": "Géographie",
       "id": "q_1780111858591_1_1a9qri",
-      "addedAt": "2026-05-30T03:30:58.591Z"
-    }
-  ],
-  "version": 257,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-14T00:28:57.948Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de côtés possède un hexagone régulier ?",
-      "options": [
-        "Quatre",
-        "Cinq",
-        "Six",
-        "Huit"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1780111858591_2_f3kxsd",
-      "addedAt": "2026-05-30T03:30:58.591Z"
-    },
-    {
-      "question": "Quel cinéaste français a créé le cinéma avec son frère ?",
-      "options": [
-        "Orson Welles",
-        "Frères Lumière",
-        "Georges Méliès",
-        "Abel Gance"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1780111858591_3_b2lsor",
-      "addedAt": "2026-05-30T03:30:58.591Z"
-    },
-    {
-      "question": "Quel légume est la racine de la betterave sucrière ?",
-      "options": [
-        "La carotte",
-        "La navette",
-        "La betterave",
-        "Le navet"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1780111858591_4_cf3f12",
-      "addedAt": "2026-05-30T03:30:58.591Z"
-    },
-    {
-      "question": "Quel sport national est pratiqué au Bhoutan avec un arc ?",
-      "options": [
-        "Tir à la carabine",
-        "Tir à l'arc",
-        "Badminton",
-        "Archerie traditionnelle"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1780111858591_5_zmuv68",
-      "addedAt": "2026-05-30T03:30:58.591Z"
-    },
-    {
-      "question": "Quel artiste italien a peint la Chapelle Sixtine ?",
-      "options": [
-        "Léonard de Vinci",
-        "Raphaël",
-        "Michel-Ange",
-        "Donatello"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1780111858591_6_72sydf",
-      "addedAt": "2026-05-30T03:30:58.591Z"
-    },
-    {
-      "question": "Quel est le plus grand animal terrestre actuellement vivant ?",
-      "options": [
-        "Girafe",
-        "Rhinocéros",
-        "Éléphant d'Afrique",
-        "Hippopotame"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1780111858591_7_0mh2t6",
-      "addedAt": "2026-05-30T03:30:58.591Z"
-    },
-    {
-      "question": "Quel protocole informatique est utilisé pour sécuriser les connexions Internet ?",
-      "options": [
-        "HTTP",
-        "HTTPS",
-        "FTP",
-        "SMTP"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1780111858591_8_3cgn3y",
       "addedAt": "2026-05-30T03:30:58.591Z"
     }
   ],
