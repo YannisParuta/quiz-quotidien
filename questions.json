@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel chimiste français a découvert la radioactivité ?",
+      "options": [
+        "Marie Curie",
+        "Antoine Lavoisier",
+        "Henri Becquerel",
+        "Pierre Curie"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1781497336586_0_eq3oqb",
+      "addedAt": "2026-06-15T04:22:16.586Z"
+    },
+    {
+      "question": "Quel est le plus grand lac d'eau douce du monde ?",
+      "options": [
+        "Lac Baïkal",
+        "Lac Supérieur",
+        "Lac Victoria",
+        "Lac Tanganyika"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1781497336586_1_q9v4du",
+      "addedAt": "2026-06-15T04:22:16.586Z"
+    },
+    {
+      "question": "Quel artiste français a fondé le mouvement du Fauvisme ?",
+      "options": [
+        "Pablo Picasso",
+        "Henri Matisse",
+        "Georges Braque",
+        "Maurice de Vlaminck"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1781497336586_2_5ogmv2",
+      "addedAt": "2026-06-15T04:22:16.586Z"
+    },
+    {
+      "question": "En quelle année la Première Guerre mondiale s'est-elle terminée ?",
+      "options": [
+        "1917",
+        "1918",
+        "1919",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1781497336586_3_sjipmg",
+      "addedAt": "2026-06-15T04:22:16.586Z"
+    },
+    {
+      "question": "Quel est l'os le plus long du corps humain ?",
+      "options": [
+        "Le fémur",
+        "Le tibia",
+        "L'humérus",
+        "Le péroné"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1781497336586_4_2am5y8",
+      "addedAt": "2026-06-15T04:22:16.586Z"
+    },
+    {
+      "question": "Quel réalisateur italien a créé 'La Vita è bella' (La Vie est belle) ?",
+      "options": [
+        "Sergio Leone",
+        "Roberto Benigni",
+        "Federico Fellini",
+        "Pier Paolo Pasolini"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1781497336586_5_pl3dh4",
+      "addedAt": "2026-06-15T04:22:16.586Z"
+    },
+    {
+      "question": "Quel est le plus grand pays du monde par superficie ?",
+      "options": [
+        "Canada",
+        "Chine",
+        "Russie",
+        "États-Unis"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1781497336586_6_dkjho2",
+      "addedAt": "2026-06-15T04:22:16.586Z"
+    },
+    {
+      "question": "Quel légume est traditionnellement utilisé pour Halloween ?",
+      "options": [
+        "La courge butternut",
+        "La citrouille",
+        "Le potimarron",
+        "Le potiron"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1781497336586_7_tvwdo9",
+      "addedAt": "2026-06-15T04:22:16.586Z"
+    },
+    {
+      "question": "Quel mathématicien suisse a inventé les logarithmes ?",
+      "options": [
+        "Leonhard Euler",
+        "Daniel Bernoulli",
+        "John Napier",
+        "Jacob Bernoulli"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1781497336586_8_u2sbte",
+      "addedAt": "2026-06-15T04:22:16.586Z"
+    },
+    {
+      "question": "Quel animal marin peut voir en ultraviolet ?",
+      "options": [
+        "La baleine bleue",
+        "La pieuvre",
+        "Le dauphin",
+        "La raie manta"
+      ],
+      "correctAnswer": 3,
+      "category": "Nature",
+      "id": "q_1781497336586_9_lubji9",
+      "addedAt": "2026-06-15T04:22:16.586Z"
+    },
+    {
+      "question": "Quel footballeur a remporté le Ballon d'Or en 2023 ?",
+      "options": [
+        "Kylian Mbappé",
+        "Vinícius Júnior",
+        "Erling Haaland",
+        "Rodri Hernández"
+      ],
+      "correctAnswer": 3,
+      "category": "Sport",
+      "id": "q_1781497336586_10_hzf7le",
+      "addedAt": "2026-06-15T04:22:16.586Z"
+    },
+    {
       "question": "Quel cinéaste français a réalisé 'Amélie Poulain' ?",
       "options": [
         "Luc Besson",
@@ -3886,7 +4029,12 @@
       "category": "Science",
       "id": "q_1780275583311_5_aipkz2",
       "addedAt": "2026-06-01T00:59:43.311Z"
-    },
+    }
+  ],
+  "version": 260,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-15T04:22:16.587Z",
+  "archivedQuestions": [
     {
       "question": "Quel artiste surréaliste espagnol est célèbre pour ses montres molles ?",
       "options": [
@@ -4029,115 +4177,6 @@
       "category": "Musique",
       "id": "q_1780199851152_4_yi2kve",
       "addedAt": "2026-05-31T03:57:31.152Z"
-    }
-  ],
-  "version": 259,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-15T00:29:37.669Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le nombre de cordes d'une guitare classique ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1780199851152_5_2vmhyq",
-      "addedAt": "2026-05-31T03:57:31.152Z"
-    },
-    {
-      "question": "Quel mathématicien grec a découvert le rapport entre la circonférence et le diamètre d'un cercle ?",
-      "options": [
-        "Euclide",
-        "Archimède",
-        "Pythagore",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1780199851152_6_e9wiov",
-      "addedAt": "2026-05-31T03:57:31.152Z"
-    },
-    {
-      "question": "Quel peintre français est célèbre pour ses nymphéas et ses jardins ?",
-      "options": [
-        "Paul Cézanne",
-        "Claude Monet",
-        "Henri Matisse",
-        "Pierre-Auguste Renoir"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1780199851152_7_7zrxwo",
-      "addedAt": "2026-05-31T03:57:31.152Z"
-    },
-    {
-      "question": "Quel sport nautique utilise une planche et des vagues ?",
-      "options": [
-        "Le water-polo",
-        "Le surf",
-        "Le kitesurf",
-        "Le wakeboard"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1780199851152_8_xlljg0",
-      "addedAt": "2026-05-31T03:57:31.152Z"
-    },
-    {
-      "question": "Quel fruit tropical contient une enzyme qui digère les protéines ?",
-      "options": [
-        "La mangue",
-        "La papaye",
-        "L'ananas",
-        "La banane"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1780199851152_9_gur3mu",
-      "addedAt": "2026-05-31T03:57:31.152Z"
-    },
-    {
-      "question": "Quel système d'exploitation a été développé par Linus Torvalds ?",
-      "options": [
-        "Windows",
-        "macOS",
-        "Linux",
-        "Android"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1780199851152_10_89mnkx",
-      "addedAt": "2026-05-31T03:57:31.152Z"
-    },
-    {
-      "question": "En quel siècle les grottes de Lascaux ont-elles été peintes ?",
-      "options": [
-        "Le XIIe siècle avant J.-C.",
-        "Le XXe siècle avant J.-C.",
-        "Le XXXe siècle avant J.-C.",
-        "Le Ve siècle avant J.-C."
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1780199851152_11_phuj1d",
-      "addedAt": "2026-05-31T03:57:31.152Z"
-    },
-    {
-      "question": "Quel mathématicien grec a établi le théorème sur les triangles rectangles ?",
-      "options": [
-        "Archimède",
-        "Pythagore",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1780186817901_0_o0m69n",
-      "addedAt": "2026-05-31T00:20:17.901Z"
     }
   ],
   "poolSize": 310
