@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut sommet de l'Afrique ?",
+      "options": [
+        "Le Mont Kenya",
+        "Le Kilimandjaro",
+        "Le Mont Cameroun",
+        "Le Mont Stanley"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1781669587887_0_xm5mnx",
+      "addedAt": "2026-06-17T04:13:07.887Z"
+    },
+    {
+      "question": "En quelle année la Révolution française a-t-elle commencé ?",
+      "options": [
+        "1776",
+        "1789",
+        "1804",
+        "1815"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1781669587887_1_onktkk",
+      "addedAt": "2026-06-17T04:13:07.887Z"
+    },
+    {
+      "question": "Quel est le plus grand organe du corps humain ?",
+      "options": [
+        "Le cœur",
+        "Le foie",
+        "La peau",
+        "Le cerveau"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1781669587887_2_c8p8ei",
+      "addedAt": "2026-06-17T04:13:07.887Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit la Symphonie n°9 ?",
+      "options": [
+        "Wolfgang Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "George Friedrich Händel"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1781669587887_3_54egpt",
+      "addedAt": "2026-06-17T04:13:07.887Z"
+    },
+    {
+      "question": "En quel année l'impressionnisme a-t-il officiellement émergé en tant que mouvement artistique ?",
+      "options": [
+        "1872",
+        "1874",
+        "1876",
+        "1878"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1781669587887_4_0m60w8",
+      "addedAt": "2026-06-17T04:13:07.887Z"
+    },
+    {
+      "question": "Quel sport olympique consiste à lancer un disque en métal ?",
+      "options": [
+        "Le lancer de poids",
+        "Le lancer de marteau",
+        "Le lancer de disque",
+        "Le lancer de javelot"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1781669587887_5_i11o1y",
+      "addedAt": "2026-06-17T04:13:07.887Z"
+    },
+    {
+      "question": "Quel est le plus grand reef de corail du monde ?",
+      "options": [
+        "La Grande Barrière de corail",
+        "Le Récif de Belize",
+        "Les Îles Galápagos",
+        "La Mer Rouge"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1781669587887_6_4ji9j4",
+      "addedAt": "2026-06-17T04:13:07.887Z"
+    },
+    {
+      "question": "Quel réalisateur américain a créé 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "David Fincher"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1781669587887_7_u3hd1s",
+      "addedAt": "2026-06-17T04:13:07.887Z"
+    },
+    {
+      "question": "Quel plat italien traditionnel est composé de nouilles, œuf, fromage et lard ?",
+      "options": [
+        "Risotto",
+        "Carbonara",
+        "Lasagne",
+        "Ravioli"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1781669587887_8_s29h63",
+      "addedAt": "2026-06-17T04:13:07.887Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été développé par Linus Torvalds ?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1781669587887_9_0iwoup",
+      "addedAt": "2026-06-17T04:13:07.887Z"
+    },
+    {
+      "question": "Quel animal terrestre a la gestation la plus longue ?",
+      "options": [
+        "L'éléphant",
+        "La girafe",
+        "L'hippopotame",
+        "Le rhinocéros"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1781669587887_10_5dcnej",
+      "addedAt": "2026-06-17T04:13:07.887Z"
+    },
+    {
+      "question": "Quel écrivain américain a écrit 'Le Seigneur des anneaux' adapté au cinéma ?",
+      "options": [
+        "J.R.R. Tolkien",
+        "Stephen King",
+        "George R.R. Martin",
+        "Aldous Huxley"
+      ],
+      "correctAnswer": 0,
+      "category": "Littérature",
+      "id": "q_1781669587887_11_9ypt82",
+      "addedAt": "2026-06-17T04:13:07.887Z"
+    },
+    {
       "question": "Quel compositeur autrichien a écrit la symphonie 'Surprise' ?",
       "options": [
         "Wolfgang Amadeus Mozart",
@@ -3873,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1780446427196_1_alyk24",
       "addedAt": "2026-06-03T00:27:07.196Z"
-    },
+    }
+  ],
+  "version": 264,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-17T04:13:07.887Z",
+  "archivedQuestions": [
     {
       "question": "Quel célèbre écrivain russe a écrit 'Crime et Châtiment' ?",
       "options": [
@@ -4029,180 +4190,6 @@
       "category": "Musique",
       "id": "q_1780373070488_3_7om1a5",
       "addedAt": "2026-06-02T04:04:30.488Z"
-    }
-  ],
-  "version": 263,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-17T00:15:46.850Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel pays produit la majorité du cacao mondial ?",
-      "options": [
-        "Brésil",
-        "Côte d'Ivoire",
-        "Ghana",
-        "Équateur"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1780373070488_4_lpw4hx",
-      "addedAt": "2026-06-02T04:04:30.488Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet de l'Afrique ?",
-      "options": [
-        "Mont Kenya",
-        "Kilimandjaro",
-        "Mont Stanley",
-        "Pic Speke"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1780373070488_5_94cyk2",
-      "addedAt": "2026-06-02T04:04:30.488Z"
-    },
-    {
-      "question": "Quel dinosaure était le plus léger en poids ?",
-      "options": [
-        "Triceratops",
-        "Microraptor",
-        "Stégosaure",
-        "Iguanodon"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1780373070488_6_7fr868",
-      "addedAt": "2026-06-02T04:04:30.488Z"
-    },
-    {
-      "question": "Quel réalisateur a créé 'Blade Runner' en 1982 ?",
-      "options": [
-        "George Lucas",
-        "Ridley Scott",
-        "Stanley Kubrick",
-        "Steven Spielberg"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1780373070488_7_liyzzf",
-      "addedAt": "2026-06-02T04:04:30.488Z"
-    },
-    {
-      "question": "Quelle est la vitesse de propagation de la lumière dans le vide ?",
-      "options": [
-        "200 000 km/s",
-        "300 000 km/s",
-        "350 000 km/s",
-        "250 000 km/s"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1780373070488_8_g9xq95",
-      "addedAt": "2026-06-02T04:04:30.488Z"
-    },
-    {
-      "question": "En quel année le premier navigateur Web 'Mosaic' a-t-il été lancé ?",
-      "options": [
-        "1991",
-        "1993",
-        "1995",
-        "1997"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1780373070488_9_e1840c",
-      "addedAt": "2026-06-02T04:04:30.488Z"
-    },
-    {
-      "question": "Quel mathématicien a développé le calcul infinitésimal ?",
-      "options": [
-        "Isaac Newton",
-        "Leibniz",
-        "Fermat",
-        "Pascal"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1780373070488_10_rubxi4",
-      "addedAt": "2026-06-02T04:04:30.488Z"
-    },
-    {
-      "question": "Quel champion de tennis français a remporté 15 titres du Grand Chelem ?",
-      "options": [
-        "Yannick Noah",
-        "Pierre Barthès",
-        "Gilles Simon",
-        "Actualité - à vérifier"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1780373070488_11_c8d7a8",
-      "addedAt": "2026-06-02T04:04:30.488Z"
-    },
-    {
-      "question": "Quel peintre impressionniste était également un sculpteur important ?",
-      "options": [
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Camille Claudel",
-        "Mary Cassatt"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1780373070488_12_khgokm",
-      "addedAt": "2026-06-02T04:04:30.488Z"
-    },
-    {
-      "question": "Quel océan est le plus profond de la planète ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1780360357294_0_0rgxsu",
-      "addedAt": "2026-06-02T00:32:37.294Z"
-    },
-    {
-      "question": "En quel année la Révolution française a-t-elle commencé ?",
-      "options": [
-        "1776",
-        "1789",
-        "1799",
-        "1815"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1780360357294_1_zhp66x",
-      "addedAt": "2026-06-02T00:32:37.294Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet du continent africain ?",
-      "options": [
-        "Mont Kenya",
-        "Kilimandjaro",
-        "Mont Stanley",
-        "Mont Speke"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1780360357294_2_7t5vjn",
-      "addedAt": "2026-06-02T00:32:37.294Z"
-    },
-    {
-      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Azote",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1780360357294_3_d686b3",
-      "addedAt": "2026-06-02T00:32:37.294Z"
     }
   ],
   "poolSize": 310
