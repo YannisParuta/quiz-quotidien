@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur autrichien a écrit la symphonie 'Surprise' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Joseph Haydn",
+        "Ludwig van Beethoven",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1781655346849_0_q9sy4f",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
+      "question": "Quel artiste cubiste a peint 'Les Demoiselles d'Avignon' ?",
+      "options": [
+        "Juan Gris",
+        "Pablo Picasso",
+        "Georges Braque",
+        "Henri Laurens"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1781655346849_1_h1m08g",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
+      "question": "Quel gaz toxique est produit lors d'une combustion incomplète ?",
+      "options": [
+        "Dioxyde de carbone",
+        "Monoxyde de carbone",
+        "Dioxyde d'azote",
+        "Ozone"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781655346849_2_9iu68i",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
+      "question": "Quel est le plus grand fleuve d'Afrique par le débit d'eau ?",
+      "options": [
+        "Le Nil",
+        "Le Niger",
+        "Le Congo",
+        "Le Zambèze"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1781655346849_3_npmq3a",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
+      "question": "Quel philosophe grec était un élève de Platon ?",
+      "options": [
+        "Socrate",
+        "Aristote",
+        "Pythagore",
+        "Héraclite"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1781655346849_4_7l0g8s",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
+      "question": "Combien de valves possède le cœur humain ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1781655346849_5_q5l3dd",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
+      "question": "Quel roman de Jules Verne raconte un voyage au centre de la Terre ?",
+      "options": [
+        "Vingt mille lieues sous les mers",
+        "Voyage au centre de la Terre",
+        "L'Île mystérieuse",
+        "De la Terre à la Lune"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1781655346849_6_9jin3b",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
+      "question": "Quel fruit tropical est la source principale de la vitamine C dans les pays tropicaux ?",
+      "options": [
+        "La mangue",
+        "L'ananas",
+        "La goyave",
+        "La papaye"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1781655346849_7_lpi681",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
+      "question": "Quel footballeur français a remporté le Ballon d'Or en 2018 ?",
+      "options": [
+        "Zinédine Zidane",
+        "Thierry Henry",
+        "Luka Modrić",
+        "Pas de footballeur français"
+      ],
+      "correctAnswer": 3,
+      "category": "Sport",
+      "id": "q_1781655346849_8_n1lpr0",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
+      "question": "Quel type de roche est formé par le refroidissement de la lave volcanique ?",
+      "options": [
+        "Roche sédimentaire",
+        "Roche ignée",
+        "Roche métamorphique",
+        "Roche cristalline"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781655346849_9_ruidsq",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'Amélie' ?",
+      "options": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Christophe Honoré",
+        "Michel Gondry"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1781655346849_10_up5kzi",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
+      "question": "Quelle protéine présente dans le lait est responsable des allergies chez certaines personnes ?",
+      "options": [
+        "La lactose",
+        "La caséine",
+        "L'albumine",
+        "La lactalbumine"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781655346849_11_1bwy97",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
+      "question": "Quel empire antique a construit Machu Picchu au Pérou ?",
+      "options": [
+        "L'empire aztèque",
+        "L'empire inca",
+        "L'empire maya",
+        "L'empire toltèque"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1781655346849_12_9809ti",
+      "addedAt": "2026-06-17T00:15:46.849Z"
+    },
+    {
       "question": "Quel est le plus grand désert chaud du monde ?",
       "options": [
         "Le Sahara",
@@ -3860,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1780373070488_3_7om1a5",
       "addedAt": "2026-06-02T04:04:30.488Z"
-    },
+    }
+  ],
+  "version": 263,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-17T00:15:46.850Z",
+  "archivedQuestions": [
     {
       "question": "Quel pays produit la majorité du cacao mondial ?",
       "options": [
@@ -4029,128 +4203,6 @@
       "category": "Science",
       "id": "q_1780360357294_3_d686b3",
       "addedAt": "2026-06-02T00:32:37.294Z"
-    }
-  ],
-  "version": 262,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-16T04:16:25.656Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel peintre néerlandais a coupé une partie de son oreille ?",
-      "options": [
-        "Rembrandt",
-        "Johannes Vermeer",
-        "Vincent van Gogh",
-        "Peter Bruegel"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1780360357294_4_ix6bvn",
-      "addedAt": "2026-06-02T00:32:37.294Z"
-    },
-    {
-      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
-        "Oscar Wilde",
-        "Charles Dickens"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1780360357294_5_uh59j6",
-      "addedAt": "2026-06-02T00:32:37.294Z"
-    },
-    {
-      "question": "Combien de continents existent sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1780360357294_6_s00cyf",
-      "addedAt": "2026-06-02T00:32:37.294Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide sur terre en vitesse de pointe ?",
-      "options": [
-        "Lion",
-        "Guépard",
-        "Antilope pronghorn",
-        "Cheval"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1780360357294_7_uuyr30",
-      "addedAt": "2026-06-02T00:32:37.294Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé 'La Haine' en 1995 ?",
-      "options": [
-        "Claude Godard",
-        "Mathieu Kassovitz",
-        "Luc Besson",
-        "Jean-Luc Godard"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1780360357294_8_ontpp6",
-      "addedAt": "2026-06-02T00:32:37.294Z"
-    },
-    {
-      "question": "Quel plat français traditionnel est à base de chou fermenté ?",
-      "options": [
-        "Coq au vin",
-        "Choucroute",
-        "Cassoulet",
-        "Bouillabaisse"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1780360357294_9_fpmtmh",
-      "addedAt": "2026-06-02T00:32:37.294Z"
-    },
-    {
-      "question": "Quel système d'exploitation a été lancé par Apple en 2001 ?",
-      "options": [
-        "Windows XP",
-        "Mac OS X",
-        "Linux",
-        "Android"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1780360357294_10_171ho6",
-      "addedAt": "2026-06-02T00:32:37.294Z"
-    },
-    {
-      "question": "Quel roi français est connu comme 'Le Roi Soleil' ?",
-      "options": [
-        "Louis XIII",
-        "Louis XIV",
-        "Louis XV",
-        "Louis XVI"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1780360357294_11_h41ox0",
-      "addedAt": "2026-06-02T00:32:37.294Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'Le Seigneur des Anneaux' en version française et est connu pour ses adaptations fantastiques ?",
-      "options": [
-        "Jules Verne",
-        "Alexandre Dumas",
-        "J.R.R. Tolkien (adaptations)",
-        "George Sand"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1780287068127_0_q1slrw",
-      "addedAt": "2026-06-01T04:11:08.127Z"
     }
   ],
   "poolSize": 310
