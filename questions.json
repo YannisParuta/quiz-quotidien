@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel biologiste a formulé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Jean-Baptiste Lamarck",
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781742503094_0_k1b4ch",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
+      "question": "Qui a peint le célèbre tableau 'La Nuit étoilée' ?",
+      "options": [
+        "Paul Cézanne",
+        "Henri Matisse",
+        "Vincent van Gogh",
+        "Pablo Picasso"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1781742503094_1_7yma4k",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
+      "question": "Quel élément chimique a le symbole 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1781742503094_2_0zmr81",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
+      "question": "En quel siècle le château de Versailles a-t-il été construit ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1781742503094_3_hpllul",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
+      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Anton Tchekhov",
+        "Nikolaï Gogol"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1781742503094_4_sgyy60",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
+      "question": "Combien de continents existe-t-il sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1781742503094_5_v3qjfn",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
+      "question": "Quel sport olympique d'hiver combine le ski et le tir à la carabine ?",
+      "options": [
+        "Ski acrobatique",
+        "Biathlon",
+        "Ski de fond",
+        "Curling"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1781742503094_6_cohz4z",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
+      "question": "Quel célèbre physicien a formulé l'équation E=mc² ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Stephen Hawking"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781742503094_7_7k5iyc",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
+      "question": "En mathématiques, que représente la lettre 'π' (pi) ?",
+      "options": [
+        "Un nombre entier",
+        "Le rapport entre la circonférence et le diamètre d'un cercle",
+        "Une fonction exponentielle",
+        "Une racine carrée"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1781742503094_8_hybpkb",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
+      "question": "Quel cinéaste a réalisé 'Pulp Fiction' en 1994 ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "David Fincher",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1781742503094_9_zeax82",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en vitamine C et en bromélaïne ?",
+      "options": [
+        "Mangue",
+        "Papaye",
+        "Ananas",
+        "Goyave"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1781742503094_10_cepx5l",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
+      "question": "Quel océan est le plus vaste du monde ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Pacifique",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1781742503094_11_to4vt9",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
+      "question": "Quel protocole de communication est utilisé pour envoyer des courriers électroniques ?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "DNS"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1781742503094_12_ue44yo",
+      "addedAt": "2026-06-18T00:28:23.094Z"
+    },
+    {
       "question": "Quel est le plus haut sommet de l'Afrique ?",
       "options": [
         "Le Mont Kenya",
@@ -3860,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1780534180665_13_brd2m1",
       "addedAt": "2026-06-04T00:49:40.665Z"
-    },
+    }
+  ],
+  "version": 265,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-18T00:28:23.095Z",
+  "archivedQuestions": [
     {
       "question": "Quel pays est le plus grand producteur de cacao au monde ?",
       "options": [
@@ -4029,167 +4203,6 @@
       "category": "Musique",
       "id": "q_1780446427196_1_alyk24",
       "addedAt": "2026-06-03T00:27:07.196Z"
-    }
-  ],
-  "version": 264,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-17T04:13:07.887Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel célèbre écrivain russe a écrit 'Crime et Châtiment' ?",
-      "options": [
-        "Tolstoï",
-        "Pouchkine",
-        "Dostoïevski",
-        "Tchékhov"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1780446427196_2_a2lcac",
-      "addedAt": "2026-06-03T00:27:07.196Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde ?",
-      "options": [
-        "Monaco",
-        "Liechtenstein",
-        "Cité du Vatican",
-        "San Marin"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1780446427196_3_hritaq",
-      "addedAt": "2026-06-03T00:27:07.196Z"
-    },
-    {
-      "question": "Quel peintre français est connu pour ses nymphéas ?",
-      "options": [
-        "Paul Cézanne",
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Edgar Degas"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1780446427196_4_44p9zn",
-      "addedAt": "2026-06-03T00:27:07.196Z"
-    },
-    {
-      "question": "Combien de chromosomes possède un être humain ?",
-      "options": [
-        "23",
-        "46",
-        "48",
-        "52"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1780446427196_5_h5yw4f",
-      "addedAt": "2026-06-03T00:27:07.196Z"
-    },
-    {
-      "question": "Quel réalisateur a créé 'Forrest Gump' ?",
-      "options": [
-        "Steven Spielberg",
-        "Robert Zemeckis",
-        "Martin Scorsese",
-        "James Cameron"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1780446427196_6_mru0bu",
-      "addedAt": "2026-06-03T00:27:07.196Z"
-    },
-    {
-      "question": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Oscar Wilde",
-        "Arthur Conan Doyle",
-        "Thomas Hardy",
-        "Rudyard Kipling"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1780446427196_7_lw9ja2",
-      "addedAt": "2026-06-03T00:27:07.196Z"
-    },
-    {
-      "question": "Quel est le plus profond océan du monde en moyenne ?",
-      "options": [
-        "Fosse des Mariannes",
-        "Fosse de Tonga",
-        "Fosse de Kuril-Kamtchatka",
-        "Fosse de Philipp"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1780446427196_8_8rbvbv",
-      "addedAt": "2026-06-03T00:27:07.196Z"
-    },
-    {
-      "question": "En quelle année Netflix a-t-il été fondé ?",
-      "options": [
-        "1995",
-        "1997",
-        "1999",
-        "2001"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1780446427196_9_v153ga",
-      "addedAt": "2026-06-03T00:27:07.196Z"
-    },
-    {
-      "question": "Quel élément chimique a le symbole 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1780373070488_0_vpwmwg",
-      "addedAt": "2026-06-02T04:04:30.488Z"
-    },
-    {
-      "question": "Quel musée abrite la 'Victoire de Samothrace' ?",
-      "options": [
-        "Musée de l'Ermitage",
-        "Louvre",
-        "Musée du Prado",
-        "Galerie Uffizi"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1780373070488_1_t3anni",
-      "addedAt": "2026-06-02T04:04:30.488Z"
-    },
-    {
-      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
-      "options": [
-        "Tolstoï",
-        "Dostoïevski",
-        "Tchékhov",
-        "Pouchkine"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1780373070488_2_a26zpm",
-      "addedAt": "2026-06-02T04:04:30.488Z"
-    },
-    {
-      "question": "Combien de cordes possède un violoncelle ?",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1780373070488_3_7om1a5",
-      "addedAt": "2026-06-02T04:04:30.488Z"
     }
   ],
   "poolSize": 310
