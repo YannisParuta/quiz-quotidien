@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel sport utilise un ballon ovale et se joue avec deux équipes de 15 joueurs ?",
+      "options": [
+        "Football américain",
+        "Rugby",
+        "Hockey sur glace",
+        "Handball"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1781843007311_1_26bnyw",
+      "addedAt": "2026-06-19T04:23:27.312Z"
+    },
+    {
+      "question": "Quel auteur français a écrit 'Le Comte de Monte-Cristo' ?",
+      "options": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1781843007312_2_apihru",
+      "addedAt": "2026-06-19T04:23:27.312Z"
+    },
+    {
+      "question": "Quel instrument de musique possède 88 touches ?",
+      "options": [
+        "Guitare",
+        "Violon",
+        "Piano",
+        "Saxophone"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1781843007312_3_mgp6gz",
+      "addedAt": "2026-06-19T04:23:27.312Z"
+    },
+    {
+      "question": "Quel réalisateur américain a créé l'univers cinématographique Marvel ?",
+      "options": [
+        "Christopher Nolan",
+        "Martin Scorsese",
+        "Kevin Feige",
+        "Quentin Tarantino"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1781843007312_4_a4b5my",
+      "addedAt": "2026-06-19T04:23:27.312Z"
+    },
+    {
+      "question": "Quelle est la capitale de la Suisse ?",
+      "options": [
+        "Zurich",
+        "Genève",
+        "Berne",
+        "Lausanne"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1781843007312_5_xsz2im",
+      "addedAt": "2026-06-19T04:23:27.312Z"
+    },
+    {
+      "question": "Quel type de technologie permet la communication sans fil à courte distance appelée 'Bluetooth' ?",
+      "options": [
+        "Wi-Fi",
+        "Ondes radio",
+        "Lumière infrarouge",
+        "Radiofréquence"
+      ],
+      "correctAnswer": 3,
+      "category": "Technologie",
+      "id": "q_1781843007312_6_yre31l",
+      "addedAt": "2026-06-19T04:23:27.312Z"
+    },
+    {
+      "question": "Quel plat italien traditionnel est composé de pâtes et de sauce à base de tomates et basilic ?",
+      "options": [
+        "Lasagne",
+        "Spaghetti à la carbonara",
+        "Pesto genovese",
+        "Pasta al pomodoro"
+      ],
+      "correctAnswer": 3,
+      "category": "Gastronomie",
+      "id": "q_1781843007312_7_txb5p7",
+      "addedAt": "2026-06-19T04:23:27.312Z"
+    },
+    {
+      "question": "Quel gaz les plantes absorbent-elles pour la photosynthèse ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781843007312_8_a0iqgm",
+      "addedAt": "2026-06-19T04:23:27.312Z"
+    },
+    {
+      "question": "Quel peintre impressionniste français a coupé une partie de son oreille ?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1781843007311_0_1gbjos",
+      "addedAt": "2026-06-19T04:23:27.311Z"
+    },
+    {
       "question": "Quel philosophe grec antique a fondé l'Académie et écrit sur la théorie des Formes ?",
       "options": [
         "Aristote",
@@ -3912,7 +4029,12 @@
       "category": "Mathématiques",
       "id": "q_1780619231177_0_b1blru",
       "addedAt": "2026-06-05T00:27:11.177Z"
-    },
+    }
+  ],
+  "version": 268,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-19T04:23:27.312Z",
+  "archivedQuestions": [
     {
       "question": "En quelle année le Titanic a-t-il coulé dans l'Atlantique Nord ?",
       "options": [
@@ -4029,167 +4151,6 @@
       "category": "Nature",
       "id": "q_1780619231177_9_xhr1zc",
       "addedAt": "2026-06-05T00:27:11.177Z"
-    }
-  ],
-  "version": 267,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-19T00:39:32.981Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel peintre espagnol a créé le mouvement artistique du Cubisme avec Georges Braque ?",
-      "options": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Joan Miró",
-        "Juan Gris"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1780619231177_10_atgi6k",
-      "addedAt": "2026-06-05T00:27:11.177Z"
-    },
-    {
-      "question": "Quel sport olympique combine le saut en longueur, le saut en hauteur et le lancer du poids ?",
-      "options": [
-        "Le pentathlon moderne",
-        "Le décathlon",
-        "Le triathlon",
-        "L'heptathlon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1780619231177_11_a9sxxq",
-      "addedAt": "2026-06-05T00:27:11.177Z"
-    },
-    {
-      "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Archimède",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1780546028707_0_n8i74j",
-      "addedAt": "2026-06-04T04:07:08.707Z"
-    },
-    {
-      "question": "Quel pays asiatique est le plus peuplé du monde ?",
-      "options": [
-        "L'Inde",
-        "L'Indonésie",
-        "La Chine",
-        "Le Japon"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1780546028707_1_trp9nn",
-      "addedAt": "2026-06-04T04:07:08.707Z"
-    },
-    {
-      "question": "Quel type de cuisine française est caractérisé par des sauces élaborées et raffinées ?",
-      "options": [
-        "La cuisine paysanne",
-        "La haute cuisine",
-        "La cuisine rustique",
-        "La cuisine régionale"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1780546028707_2_n3qzyg",
-      "addedAt": "2026-06-04T04:07:08.707Z"
-    },
-    {
-      "question": "Quel célèbre peintre impressionniste français était atteint de cécité partielle ?",
-      "options": [
-        "Edgar Degas",
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Frédéric Bazille"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1780546028707_3_jnsnlo",
-      "addedAt": "2026-06-04T04:07:08.707Z"
-    },
-    {
-      "question": "En musique classique, combien de cordes possède un violoncelle standard ?",
-      "options": [
-        "4 cordes",
-        "5 cordes",
-        "6 cordes",
-        "8 cordes"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1780546028707_4_1f0y0k",
-      "addedAt": "2026-06-04T04:07:08.707Z"
-    },
-    {
-      "question": "Quel sport olympique combine l'équitation et le tir à la carabine ?",
-      "options": [
-        "Le pentathlon moderne",
-        "Le triathlon",
-        "Le biathlon",
-        "Le décathlon"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1780546028707_5_nrb6nw",
-      "addedAt": "2026-06-04T04:07:08.707Z"
-    },
-    {
-      "question": "Quel réalisateur coréen a remporté l'Oscar du meilleur film en 2020 pour 'Parasite' ?",
-      "options": [
-        "Lee Ang",
-        "Bong Joon-ho",
-        "Park Chan-wook",
-        "Kim Jee-woon"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1780546028707_6_5lgkl1",
-      "addedAt": "2026-06-04T04:07:08.707Z"
-    },
-    {
-      "question": "Quel protocole de sécurité garantit l'authenticité des sites web modernes ?",
-      "options": [
-        "HTTP",
-        "FTP",
-        "SSL/TLS",
-        "SMTP"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1780546028707_7_4upsq2",
-      "addedAt": "2026-06-04T04:07:08.707Z"
-    },
-    {
-      "question": "Quel est le plus petit pays indépendant du monde en termes de superficie ?",
-      "options": [
-        "Monaco",
-        "San Marin",
-        "Vatican",
-        "Liechtenstein"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1780546028707_8_yuap8b",
-      "addedAt": "2026-06-04T04:07:08.707Z"
-    },
-    {
-      "question": "Quel animal est connu pour son extraordinaire capacité à imiter les sons des autres animaux ?",
-      "options": [
-        "Le perroquet",
-        "La pie",
-        "Le corbeau",
-        "Le cacatoès"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1780546028707_9_63y4aw",
-      "addedAt": "2026-06-04T04:07:08.707Z"
     }
   ],
   "poolSize": 310
