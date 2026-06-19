@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel philosophe grec antique a fondé l'Académie et écrit sur la théorie des Formes ?",
+      "options": [
+        "Aristote",
+        "Platon",
+        "Socrate",
+        "Pythagore"
+      ],
+      "correctAnswer": 1,
+      "category": "Philosophie",
+      "id": "q_1781829572980_0_31e7ue",
+      "addedAt": "2026-06-19T00:39:32.980Z"
+    },
+    {
+      "question": "Quel gaz représente approximativement 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1781829572980_1_1aatzi",
+      "addedAt": "2026-06-19T00:39:32.980Z"
+    },
+    {
+      "question": "Quel peintre hollandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Jan Vermeer",
+        "Vincent van Gogh",
+        "Pieter Bruegel"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1781829572980_2_y9cu7w",
+      "addedAt": "2026-06-19T00:39:32.980Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance a-t-elle principalement eu lieu en Europe ?",
+      "options": [
+        "XIIe siècle",
+        "XIVe-XVIe siècles",
+        "XVIIe siècle",
+        "XIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1781829572980_3_2nhfyc",
+      "addedAt": "2026-06-19T00:39:32.980Z"
+    },
+    {
+      "question": "Quel sport utilise des épées émoussées et des masques de protection ?",
+      "options": [
+        "Escrime",
+        "Kendo",
+        "Taekwondo",
+        "Judo"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1781829572980_4_susua2",
+      "addedAt": "2026-06-19T00:39:32.980Z"
+    },
+    {
+      "question": "Quel élément chimique est représenté par le symbole 'Au' ?",
+      "options": [
+        "Argent",
+        "Argon",
+        "Or",
+        "Aluminium"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1781829572980_5_wrcpqj",
+      "addedAt": "2026-06-19T00:39:32.980Z"
+    },
+    {
+      "question": "Quel océan est le plus profond de tous les océans ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1781829572980_6_aba3zv",
+      "addedAt": "2026-06-19T00:39:32.980Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit 'Une petite musique de nuit' ?",
+      "options": [
+        "Franz Schubert",
+        "Wolfgang Amadeus Mozart",
+        "Joseph Haydn",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1781829572980_7_acuksa",
+      "addedAt": "2026-06-19T00:39:32.980Z"
+    },
+    {
+      "question": "Quel romancier russe a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Ivan Tourguéniev",
+        "Anton Tchékhov"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1781829572980_8_9062hw",
+      "addedAt": "2026-06-19T00:39:32.980Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet du continent africain ?",
+      "options": [
+        "Mont Kenya",
+        "Mont Kilimandjaro",
+        "Chaîne de l'Atlas",
+        "Monts Drakensberg"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1781829572980_9_d5nl0r",
+      "addedAt": "2026-06-19T00:39:32.980Z"
+    },
+    {
+      "question": "Quel type de fromage français est fabriqué à partir de lait de brebis dans le Pays basque ?",
+      "options": [
+        "Camembert",
+        "Ossau-Iraty",
+        "Comté",
+        "Roquefort"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1781829572980_10_b3vckf",
+      "addedAt": "2026-06-19T00:39:32.980Z"
+    },
+    {
+      "question": "Quel physicien danois a proposé le modèle atomique avec orbites électroniques ?",
+      "options": [
+        "Max Planck",
+        "Niels Bohr",
+        "Erwin Schrödinger",
+        "Werner Heisenberg"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781829572980_11_wvkqnu",
+      "addedAt": "2026-06-19T00:39:32.980Z"
+    },
+    {
       "question": "Quel chimiste français a développé le procédé de pasteurisation au XIXe siècle ?",
       "options": [
         "Claude Bernard",
@@ -3873,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1780619231177_9_xhr1zc",
       "addedAt": "2026-06-05T00:27:11.177Z"
-    },
+    }
+  ],
+  "version": 267,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-19T00:39:32.981Z",
+  "archivedQuestions": [
     {
       "question": "Quel peintre espagnol a créé le mouvement artistique du Cubisme avec Georges Braque ?",
       "options": [
@@ -4029,206 +4190,6 @@
       "category": "Nature",
       "id": "q_1780546028707_9_63y4aw",
       "addedAt": "2026-06-04T04:07:08.707Z"
-    }
-  ],
-  "version": 266,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-18T04:04:25.619Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel traité historique a marqué la fin de la Première Guerre mondiale en 1918 ?",
-      "options": [
-        "Le traité de Versailles",
-        "L'armistice de Compiègne",
-        "Le traité de Trianon",
-        "Le traité de Paris"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1780546028707_10_90jawm",
-      "addedAt": "2026-06-04T04:07:08.707Z"
-    },
-    {
-      "question": "En quelle année l'Empire romain s'est-il officiellement divisé en deux parties ?",
-      "options": [
-        "285",
-        "395",
-        "476",
-        "312"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1780534180665_0_o407km",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la radioactivité naturelle ?",
-      "options": [
-        "Marie Curie",
-        "Henri Becquerel",
-        "Ernest Rutherford",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1780534180665_1_xs0ut2",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "Quel musée brésilien abrite la plus grande collection d'art précolombien des Amériques ?",
-      "options": [
-        "Musée d'Art de São Paulo",
-        "Musée National du Brésil",
-        "Musée de l'Homme",
-        "Pinacothèque de l'État"
-      ],
-      "correctAnswer": 0,
-      "category": "Culture",
-      "id": "q_1780534180665_2_rzjqa7",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "Quel athlète détient le record du monde du 100 mètres en sprint ?",
-      "options": [
-        "Usain Bolt",
-        "Tyson Gay",
-        "Yohan Blake",
-        "Christian Coleman"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1780534180665_3_ce9neq",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "Qui a sculté la célèbre statue du 'David' ?",
-      "options": [
-        "Léonard de Vinci",
-        "Michelange",
-        "Donatello",
-        "Raphaël"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1780534180665_4_h2w56p",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "Quel écrivain français a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Maurice Leblanc",
-        "Émile Zola",
-        "Arthur Conan Doyle",
-        "Georges Simenon"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1780534180665_5_crwzyw",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "Quel insecte produit le plus de miel en quantité ?",
-      "options": [
-        "La guêpe",
-        "L'abeille domestique",
-        "Le bourdon",
-        "L'abeille charpentière"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1780534180665_6_0gz81k",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "Combien de côtés possède un dodécagone ?",
-      "options": [
-        "10",
-        "12",
-        "14",
-        "16"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1780534180665_7_f81xy4",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "Quel musicien a composé les 'Quatre Saisons' ?",
-      "options": [
-        "Antonio Vivaldi",
-        "Georg Friedrich Händel",
-        "Jean-Sébastien Bach",
-        "Wolfgang Amadeus Mozart"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1780534180665_8_htpv8c",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "Quel film d'animation Pixar raconte l'histoire d'un robot qui ramasse des déchets ?",
-      "options": [
-        "Ratatouille",
-        "WALL-E",
-        "Vice-Versa",
-        "Monstres & Cie"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1780534180665_9_bbqcuf",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "Quel protocole Internet permet le transfert sécurisé de données via le web ?",
-      "options": [
-        "FTP",
-        "HTTPS",
-        "SMTP",
-        "DNS"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1780534180665_10_m30x1u",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "Quel fromage français est originaire de la région de Normandie et possède une croûte blanche ?",
-      "options": [
-        "Comté",
-        "Camembert",
-        "Roquefort",
-        "Émmental"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1780534180665_11_3r75si",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "Quel désert est le plus grand du monde en termes de superficie ?",
-      "options": [
-        "Le Sahara",
-        "L'Antarctique",
-        "Le Kalahari",
-        "Le Gobi"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1780534180665_12_kq4bfv",
-      "addedAt": "2026-06-04T00:49:40.665Z"
-    },
-    {
-      "question": "En quelle année le Titanic a-t-il coulé dans l'océan Atlantique ?",
-      "options": [
-        "1910",
-        "1912",
-        "1915",
-        "1920"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1780534180665_13_brd2m1",
-      "addedAt": "2026-06-04T00:49:40.665Z"
     }
   ],
   "poolSize": 310
