@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a écrit 'Le Comte de Monte-Cristo' ?",
+      "options": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1781914792451_0_qopdwj",
+      "addedAt": "2026-06-20T00:19:52.451Z"
+    },
+    {
+      "question": "Quel élément chimique a pour symbole 'Au' ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "L'aluminium",
+        "L'argon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781914792451_1_wa38l2",
+      "addedAt": "2026-06-20T00:19:52.451Z"
+    },
+    {
+      "question": "Quel phénomène naturel se produit lorsque la Lune passe entre le Soleil et la Terre ?",
+      "options": [
+        "Une éclipse lunaire",
+        "Une éclipse solaire",
+        "Un équinoxe",
+        "Un solstice"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1781914792451_2_glwvf7",
+      "addedAt": "2026-06-20T00:19:52.451Z"
+    },
+    {
+      "question": "Quel architecte a conçu la tour Eiffel ?",
+      "options": [
+        "Gustave Eiffel",
+        "Le Corbusier",
+        "I.M. Pei",
+        "Frank Lloyd Wright"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1781914792451_3_xsfck9",
+      "addedAt": "2026-06-20T00:19:52.451Z"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de football sur le terrain ?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1781914792451_4_21hlq7",
+      "addedAt": "2026-06-20T00:19:52.451Z"
+    },
+    {
+      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'hélium"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1781914792451_5_fl9xy1",
+      "addedAt": "2026-06-20T00:19:52.451Z"
+    },
+    {
+      "question": "Quel pays est la patrie originelle du sushi ?",
+      "options": [
+        "La Thaïlande",
+        "La Corée du Sud",
+        "Le Japon",
+        "la Chine"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1781914792451_6_z1bhtq",
+      "addedAt": "2026-06-20T00:19:52.451Z"
+    },
+    {
+      "question": "Quel scientifique a formulé la théorie de la relativité ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Max Planck",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781914792451_7_e7hd8k",
+      "addedAt": "2026-06-20T00:19:52.451Z"
+    },
+    {
+      "question": "Quel langage de programmation est le plus utilisé pour développer des sites web côté serveur ?",
+      "options": [
+        "Python",
+        "JavaScript",
+        "PHP",
+        "Java"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1781914792451_8_67dl96",
+      "addedAt": "2026-06-20T00:19:52.451Z"
+    },
+    {
       "question": "Quel sport utilise un ballon ovale et se joue avec deux équipes de 15 joueurs ?",
       "options": [
         "Football américain",
@@ -3912,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1780631610828_10_4qo42x",
       "addedAt": "2026-06-05T03:53:30.828Z"
-    },
+    }
+  ],
+  "version": 269,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-20T00:19:52.452Z",
+  "archivedQuestions": [
     {
       "question": "Quel compositeur allemand a écrit la Symphonie n°9 avec l'Ode à la Joie ?",
       "options": [
@@ -4028,128 +4150,6 @@
       "correctAnswer": 0,
       "category": "Mathématiques",
       "id": "q_1780619231177_0_b1blru",
-      "addedAt": "2026-06-05T00:27:11.177Z"
-    }
-  ],
-  "version": 268,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-19T04:23:27.312Z",
-  "archivedQuestions": [
-    {
-      "question": "En quelle année le Titanic a-t-il coulé dans l'Atlantique Nord ?",
-      "options": [
-        "1910",
-        "1912",
-        "1915",
-        "1920"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1780619231177_1_tjhwue",
-      "addedAt": "2026-06-05T00:27:11.177Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
-      "options": [
-        "Louis Pasteur",
-        "Alexander Fleming",
-        "Edward Jenner",
-        "Joseph Lister"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1780619231177_2_hd6f7z",
-      "addedAt": "2026-06-05T00:27:11.177Z"
-    },
-    {
-      "question": "Quel poète français a écrit 'Les Fleurs du Mal' en 1857 ?",
-      "options": [
-        "Victor Hugo",
-        "Charles Baudelaire",
-        "Arthur Rimbaud",
-        "Stéphane Mallarmé"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1780619231177_3_jiniwz",
-      "addedAt": "2026-06-05T00:27:11.177Z"
-    },
-    {
-      "question": "Quel architecte a conçu la Sagrada Família à Barcelone ?",
-      "options": [
-        "Pablo Picasso",
-        "Joan Miró",
-        "Antoni Gaudí",
-        "Salvador Dalí"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1780619231177_4_q3g6h5",
-      "addedAt": "2026-06-05T00:27:11.177Z"
-    },
-    {
-      "question": "Quel aliment est traditionnellement utilisé pour préparer le risotto à l'italienne ?",
-      "options": [
-        "L'orge",
-        "Le riz Arborio",
-        "Le blé dur",
-        "L'avoine"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1780619231177_5_82phjl",
-      "addedAt": "2026-06-05T00:27:11.177Z"
-    },
-    {
-      "question": "Quel cyclone tropical est appelé 'typhon' en Asie du Sud-Est ?",
-      "options": [
-        "Un tremblement de terre",
-        "Un ouragan tropical",
-        "Un cyclone tropical",
-        "Un tornado"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1780619231177_6_uge0hq",
-      "addedAt": "2026-06-05T00:27:11.177Z"
-    },
-    {
-      "question": "Quel cinéaste américain a réalisé 'Jaws' en 1975 ?",
-      "options": [
-        "Martin Scorsese",
-        "Steven Spielberg",
-        "Francis Ford Coppola",
-        "George Lucas"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1780619231177_7_ax44d0",
-      "addedAt": "2026-06-05T00:27:11.177Z"
-    },
-    {
-      "question": "Quel protocole de communication permet l'envoi de courriers électroniques sur internet ?",
-      "options": [
-        "HTTP",
-        "FTP",
-        "SMTP",
-        "DNS"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1780619231177_8_4w8h5h",
-      "addedAt": "2026-06-05T00:27:11.177Z"
-    },
-    {
-      "question": "Quel animal terrestre possède le cœur le plus grand en proportion de sa taille ?",
-      "options": [
-        "L'éléphant",
-        "La baleine",
-        "L'hippopotame",
-        "Le giraffe"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1780619231177_9_xhr1zc",
       "addedAt": "2026-06-05T00:27:11.177Z"
     }
   ],
