@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Oscar Wilde",
+        "George Bernard Shaw"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1781927189961_0_zijury",
+      "addedAt": "2026-06-20T03:46:29.961Z"
+    },
+    {
+      "question": "Quel type de roche se forme par refroidissement du magma ?",
+      "options": [
+        "Roche sédimentaire",
+        "Roche métamorphique",
+        "Roche volcanique",
+        "Roche calcaire"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1781927189961_1_tskdu2",
+      "addedAt": "2026-06-20T03:46:29.961Z"
+    },
+    {
+      "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
+      "options": [
+        "Antoni Gaudí",
+        "Frank Lloyd Wright",
+        "Le Corbusier",
+        "Zaha Hadid"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1781927189961_2_tpuz1i",
+      "addedAt": "2026-06-20T03:46:29.961Z"
+    },
+    {
+      "question": "En quelle année la Première Guerre mondiale a-t-elle commencé ?",
+      "options": [
+        "1912",
+        "1914",
+        "1916",
+        "1918"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1781927189961_3_n4ler8",
+      "addedAt": "2026-06-20T03:46:29.961Z"
+    },
+    {
+      "question": "Quel peintre français impressionniste a peint 'Les Nymphéas' ?",
+      "options": [
+        "Paul Cézanne",
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1781927189961_4_w087k6",
+      "addedAt": "2026-06-20T03:46:29.961Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé 'Inception' en 2010 ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Martin Scorsese"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1781927189961_5_55taoq",
+      "addedAt": "2026-06-20T03:46:29.961Z"
+    },
+    {
+      "question": "Quel est le plus petit os du squelette humain ?",
+      "options": [
+        "Le péroné",
+        "L'étrier",
+        "La clavicule",
+        "Le cubitus"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1781927189961_6_78byxc",
+      "addedAt": "2026-06-20T03:46:29.961Z"
+    },
+    {
+      "question": "Quel type de cuisine caractérise principalement la Thaïlande ?",
+      "options": [
+        "Cuisine épicée avec sauce de poisson",
+        "Cuisine douce avec curry blanc",
+        "Cuisine sans épices",
+        "Cuisine basée uniquement sur le riz"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1781927189961_7_opgca8",
+      "addedAt": "2026-06-20T03:46:29.961Z"
+    },
+    {
+      "question": "Quel économiste écossais a écrit 'La Richesse des nations' en 1776 ?",
+      "options": [
+        "David Ricardo",
+        "Adam Smith",
+        "John Stuart Mill",
+        "Thomas Malthus"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1781927189961_8_de0zjn",
+      "addedAt": "2026-06-20T03:46:29.961Z"
+    },
+    {
       "question": "Quel écrivain français a écrit 'Le Comte de Monte-Cristo' ?",
       "options": [
         "Victor Hugo",
@@ -3912,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1780704821469_4_udi5ds",
       "addedAt": "2026-06-06T00:13:41.469Z"
-    },
+    }
+  ],
+  "version": 270,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-20T03:46:29.962Z",
+  "archivedQuestions": [
     {
       "question": "Quel type de cellule du corps humain produit les anticorps ?",
       "options": [
@@ -4029,128 +4151,6 @@
       "category": "Histoire",
       "id": "q_1780631610828_10_4qo42x",
       "addedAt": "2026-06-05T03:53:30.828Z"
-    }
-  ],
-  "version": 269,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-20T00:19:52.452Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel compositeur allemand a écrit la Symphonie n°9 avec l'Ode à la Joie ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach",
-        "George Friedrich Handel"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1780631610828_11_ryg3pk",
-      "addedAt": "2026-06-05T03:53:30.828Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la radioactivité en 1896 ?",
-      "options": [
-        "Marie Curie",
-        "Henri Becquerel",
-        "Ernest Rutherford",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1780631610827_0_erwxty",
-      "addedAt": "2026-06-05T03:53:30.827Z"
-    },
-    {
-      "question": "Quel sculpteur italien a créé la statue du David ?",
-      "options": [
-        "Leonardo da Vinci",
-        "Michelangelo",
-        "Donatello",
-        "Raffaello"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1780631610827_1_xwbh6l",
-      "addedAt": "2026-06-05T03:53:30.827Z"
-    },
-    {
-      "question": "Quel écrivain britannique a créé le personnage de Harry Potter ?",
-      "options": [
-        "Agatha Christie",
-        "J.K. Rowling",
-        "George R.R. Martin",
-        "Stephen King"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1780631610827_2_jxx3tj",
-      "addedAt": "2026-06-05T03:53:30.827Z"
-    },
-    {
-      "question": "Combien de cordes possède un violoncelle standard ?",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1780631610827_3_9m7ewi",
-      "addedAt": "2026-06-05T03:53:30.827Z"
-    },
-    {
-      "question": "Quel mathématicien a développé le calcul infinitésimal indépendamment de Newton ?",
-      "options": [
-        "Leibniz",
-        "Gauss",
-        "Euler",
-        "Lagrange"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1780631610827_4_82rht0",
-      "addedAt": "2026-06-05T03:53:30.827Z"
-    },
-    {
-      "question": "Quel est le principal ingrédient de la sauce béarnaise ?",
-      "options": [
-        "Crème fraîche",
-        "Beurre et vinaigre",
-        "Moutarde",
-        "Jus de citron"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1780631610827_5_qg5h4z",
-      "addedAt": "2026-06-05T03:53:30.827Z"
-    },
-    {
-      "question": "Quel réalisateur français a dirigé 'La haine' en 1995 ?",
-      "options": [
-        "Jean-Luc Godard",
-        "Mathieu Kassovitz",
-        "Claire Denis",
-        "Gaspar Noé"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1780631610827_6_gi123i",
-      "addedAt": "2026-06-05T03:53:30.827Z"
-    },
-    {
-      "question": "Quel mathématicien italien a introduit la suite numérique portant son nom au XIIIe siècle ?",
-      "options": [
-        "Léonard de Fibonacci",
-        "Gerolamo Cardano",
-        "Niccolò Tartaglia",
-        "Paolo Ruffini"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1780619231177_0_b1blru",
-      "addedAt": "2026-06-05T00:27:11.177Z"
     }
   ],
   "poolSize": 310
