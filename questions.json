@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel organite cellulaire est responsable de la production d'énergie dans les cellules ?",
+      "options": [
+        "Le noyau",
+        "La mitochondrie",
+        "Le réticulum endoplasmique",
+        "L'appareil de Golgi"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782015512971_0_hr6a4j",
+      "addedAt": "2026-06-21T04:18:32.971Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle commencé ?",
+      "options": [
+        "XIIe siècle",
+        "XIVe siècle",
+        "XVIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782015512971_1_xwc4qh",
+      "addedAt": "2026-06-21T04:18:32.971Z"
+    },
+    {
+      "question": "Quel animal terrestre possède le cœur le plus gros en proportion de sa taille ?",
+      "options": [
+        "L'éléphant",
+        "La girafe",
+        "L'hippopotame",
+        "Le rhinocéros"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1782015512971_2_fs45tw",
+      "addedAt": "2026-06-21T04:18:32.971Z"
+    },
+    {
+      "question": "Quel célèbre film de 1977 a révolutionné les effets spéciaux au cinéma ?",
+      "options": [
+        "Rencontre du troisième type",
+        "La Guerre des étoiles",
+        "Metropolis",
+        "2001 : L'Odyssée de l'espace"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1782015512971_3_as2clu",
+      "addedAt": "2026-06-21T04:18:32.971Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique traditionnelle ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782015512971_4_86cngt",
+      "addedAt": "2026-06-21T04:18:32.971Z"
+    },
+    {
+      "question": "Quel pays a inventé les sushis à l'époque médiévale ?",
+      "options": [
+        "La Thaïlande",
+        "Le Japon",
+        "La Chine",
+        "La Corée"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1782015512971_5_7bs816",
+      "addedAt": "2026-06-21T04:18:32.971Z"
+    },
+    {
+      "question": "Quel mathématicien grec ancien est connu pour son théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1782015512971_6_o9m6pt",
+      "addedAt": "2026-06-21T04:18:32.971Z"
+    },
+    {
+      "question": "En quel année la première page web a-t-elle été créée par Tim Berners-Lee ?",
+      "options": [
+        "1989",
+        "1991",
+        "1993",
+        "1995"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1782015512971_7_s8lt9i",
+      "addedAt": "2026-06-21T04:18:32.971Z"
+    },
+    {
+      "question": "Dans quel sport l'olympiade est-elle la compétition la plus prestigieuse ?",
+      "options": [
+        "L'escrime",
+        "Les échecs",
+        "La natation",
+        "L'athlétisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1782015512971_8_fr3wrv",
+      "addedAt": "2026-06-21T04:18:32.971Z"
+    },
+    {
       "question": "Quel scientifique a découvert la structure en double hélice de l'ADN ?",
       "options": [
         "Linus Pauling",
@@ -3912,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1780791114893_5_cit7ux",
       "addedAt": "2026-06-07T00:11:54.893Z"
-    },
+    }
+  ],
+  "version": 272,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-21T04:18:32.972Z",
+  "archivedQuestions": [
     {
       "question": "Quel sport de raquette se joue sur une table avec des balles légères ?",
       "options": [
@@ -4029,154 +4151,6 @@
       "category": "Littérature",
       "id": "q_1780716925487_3_x87sq4",
       "addedAt": "2026-06-06T03:35:25.487Z"
-    }
-  ],
-  "version": 271,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-21T00:54:58.186Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le point culminant du continent asiatique ?",
-      "options": [
-        "Le K2",
-        "L'Everest",
-        "Le Kangchenjunga",
-        "Le Lhotse"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1780716925487_4_ferm23",
-      "addedAt": "2026-06-06T03:35:25.487Z"
-    },
-    {
-      "question": "En quelle année la Déclaration des droits de l'homme a-t-elle été adoptée ?",
-      "options": [
-        "1776",
-        "1789",
-        "1791",
-        "1848"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1780716925487_5_wnz51g",
-      "addedAt": "2026-06-06T03:35:25.487Z"
-    },
-    {
-      "question": "Quel artiste hollandais est célèbre pour ses autoportraits ?",
-      "options": [
-        "Vincent van Gogh",
-        "Rembrandt",
-        "Johannes Vermeer",
-        "Hieronymus Bosch"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1780716925487_6_my6fvn",
-      "addedAt": "2026-06-06T03:35:25.487Z"
-    },
-    {
-      "question": "Quel sport national de la Thaïlande se pratique avec les poings, les pieds et les coudes ?",
-      "options": [
-        "Le Kung Fu",
-        "Le Muay Thaï",
-        "Le Taekwondo",
-        "Le Karaté"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1780716925487_7_h4yya7",
-      "addedAt": "2026-06-06T03:35:25.487Z"
-    },
-    {
-      "question": "Quel type de champignon pousse généralement en cercles dans les prairies ?",
-      "options": [
-        "Le Cèpe",
-        "L'Amanite tue-mouches",
-        "Le Rond de sorcière",
-        "La Truffe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1780716925487_8_jh1czm",
-      "addedAt": "2026-06-06T03:35:25.487Z"
-    },
-    {
-      "question": "Quel peintre espagnol est connu pour son style cubiste et la toile 'Guernica' ?",
-      "options": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Joan Miró",
-        "Juan Gris"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1780716925487_9_kjyq3q",
-      "addedAt": "2026-06-06T03:35:25.487Z"
-    },
-    {
-      "question": "Quel continent est le plus peuplé du monde ?",
-      "options": [
-        "Afrique",
-        "Amérique",
-        "Europe",
-        "Asie"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1780704821469_0_g1emph",
-      "addedAt": "2026-06-06T00:13:41.469Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit la symphonie 'Ode à la joie' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Richard Wagner",
-        "Johannes Brahms"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1780704821469_1_fdhnjt",
-      "addedAt": "2026-06-06T00:13:41.469Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet du monde ?",
-      "options": [
-        "K2",
-        "Mont Everest",
-        "Kangchenjunga",
-        "Lhotse"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1780704821469_2_p2pxgt",
-      "addedAt": "2026-06-06T00:13:41.469Z"
-    },
-    {
-      "question": "Quel artiste espagnol a fondé le mouvement cubiste avec Georges Braque ?",
-      "options": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Joan Miró",
-        "Juan Gris"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1780704821469_3_j7awd5",
-      "addedAt": "2026-06-06T00:13:41.469Z"
-    },
-    {
-      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
-      "options": [
-        "1917",
-        "Parasite",
-        "Once Upon a Time in Hollywood",
-        "Joker"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1780704821469_4_udi5ds",
-      "addedAt": "2026-06-06T00:13:41.469Z"
     }
   ],
   "poolSize": 310
