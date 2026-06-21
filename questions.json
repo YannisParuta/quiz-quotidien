@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a découvert la structure en double hélice de l'ADN ?",
+      "options": [
+        "Linus Pauling",
+        "James Watson et Francis Crick",
+        "Rosalind Franklin",
+        "Maurice Wilkins"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782003298185_0_066b22",
+      "addedAt": "2026-06-21T00:54:58.185Z"
+    },
+    {
+      "question": "Quel peintre français est connu pour ses nymphéas et ses jardins aquatiques ?",
+      "options": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Alfred Sisley",
+        "Frédéric Bazille"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1782003298185_1_5s4q4x",
+      "addedAt": "2026-06-21T00:54:58.185Z"
+    },
+    {
+      "question": "Combien de cordes possède généralement une guitare classique ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782003298185_2_ss3cny",
+      "addedAt": "2026-06-21T00:54:58.185Z"
+    },
+    {
+      "question": "Quel est le plus grand océan de la Terre ?",
+      "options": [
+        "L'océan Atlantique",
+        "L'océan Indien",
+        "L'océan Pacifique",
+        "L'océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1782003298185_3_2u7f6p",
+      "addedAt": "2026-06-21T00:54:58.185Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle débuté ?",
+      "options": [
+        "XII siècle",
+        "XIV siècle",
+        "XVI siècle",
+        "XVIII siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782003298185_4_nupba1",
+      "addedAt": "2026-06-21T00:54:58.185Z"
+    },
+    {
+      "question": "Quel sport olympique combine le tir à l'arc et la course à pied ?",
+      "options": [
+        "Le biathlon",
+        "Le pentathlon moderne",
+        "Le triathlon",
+        "Le décathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1782003298185_5_f1pglh",
+      "addedAt": "2026-06-21T00:54:58.185Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en vitamine C et originaire d'Asie du Sud-Est ?",
+      "options": [
+        "La mangue",
+        "La noix de coco",
+        "Le durian",
+        "Le ramboutane"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1782003298185_6_1obeiv",
+      "addedAt": "2026-06-21T00:54:58.185Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la saga cinématographique 'The Lord of the Rings' ?",
+      "options": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Peter Jackson",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1782003298185_7_tyt7gy",
+      "addedAt": "2026-06-21T00:54:58.185Z"
+    },
+    {
+      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
+      "options": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "Ruby"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1782003298185_8_h72yux",
+      "addedAt": "2026-06-21T00:54:58.185Z"
+    },
+    {
+      "question": "Quel animal est le plus rapide du règne animal sur terre ?",
+      "options": [
+        "L'autruche",
+        "L'antilope",
+        "Le guépard",
+        "Le lièvre"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1782003298185_9_78yhz0",
+      "addedAt": "2026-06-21T00:54:58.185Z"
+    },
+    {
+      "question": "Quel royaume a signé la Magna Carta en 1215 ?",
+      "options": [
+        "La France",
+        "L'Angleterre",
+        "L'Écosse",
+        "L'Irlande"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782003298185_10_4m0ljx",
+      "addedAt": "2026-06-21T00:54:58.185Z"
+    },
+    {
       "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
       "options": [
         "Agatha Christie",
@@ -3886,7 +4029,12 @@
       "category": "Littérature",
       "id": "q_1780716925487_3_x87sq4",
       "addedAt": "2026-06-06T03:35:25.487Z"
-    },
+    }
+  ],
+  "version": 271,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-21T00:54:58.186Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le point culminant du continent asiatique ?",
       "options": [
@@ -4029,128 +4177,6 @@
       "category": "Cinéma",
       "id": "q_1780704821469_4_udi5ds",
       "addedAt": "2026-06-06T00:13:41.469Z"
-    }
-  ],
-  "version": 270,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-20T03:46:29.962Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel type de cellule du corps humain produit les anticorps ?",
-      "options": [
-        "Cellule musculaire",
-        "Cellule B",
-        "Cellule nerveuse",
-        "Cellule épithéliale"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1780704821469_5_4pusdc",
-      "addedAt": "2026-06-06T00:13:41.469Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en potassium et en vitamines B ?",
-      "options": [
-        "Mangue",
-        "Ananas",
-        "Banane",
-        "Papaye"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1780704821469_6_xct1vb",
-      "addedAt": "2026-06-06T00:13:41.469Z"
-    },
-    {
-      "question": "Quel mathématicien italien a introduit la séquence de Fibonacci en Europe ?",
-      "options": [
-        "Léonard de Vinci",
-        "Léonard de Pise",
-        "Niccolò Tartaglia",
-        "Girolamo Cardano"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1780704821469_7_to0e5y",
-      "addedAt": "2026-06-06T00:13:41.469Z"
-    },
-    {
-      "question": "Quel pays est le principal producteur de cacao au monde ?",
-      "options": [
-        "Ghana",
-        "Brésil",
-        "Côte d'Ivoire",
-        "Cameroun"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1780704821469_8_5ylswu",
-      "addedAt": "2026-06-06T00:13:41.469Z"
-    },
-    {
-      "question": "Quel navigateur web a été le premier à introduire les onglets de navigation ?",
-      "options": [
-        "Internet Explorer",
-        "Firefox",
-        "Opera",
-        "Chrome"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1780704821469_9_ftju19",
-      "addedAt": "2026-06-06T00:13:41.469Z"
-    },
-    {
-      "question": "Quel animal est le mammifère le plus rapide sur terre ?",
-      "options": [
-        "Lion",
-        "Antilope",
-        "Guépard",
-        "Cheval"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1780631610828_7_pd07gp",
-      "addedAt": "2026-06-05T03:53:30.828Z"
-    },
-    {
-      "question": "En quelle année la Bastille a-t-elle été prise lors de la Révolution française ?",
-      "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1780631610828_8_0niex6",
-      "addedAt": "2026-06-05T03:53:30.828Z"
-    },
-    {
-      "question": "Quel protocole informatique est utilisé pour le courrier électronique sécurisé ?",
-      "options": [
-        "FTP",
-        "SMTP",
-        "HTTP",
-        "DNS"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1780631610828_9_6hgxzt",
-      "addedAt": "2026-06-05T03:53:30.828Z"
-    },
-    {
-      "question": "Quel empire romain a été divisé en Empire d'Orient et Empire d'Occident en 395 ?",
-      "options": [
-        "Empire Romain",
-        "Empire Byzantin",
-        "Empire Perse",
-        "Empire Hittite"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1780631610828_10_4qo42x",
-      "addedAt": "2026-06-05T03:53:30.828Z"
     }
   ],
   "poolSize": 310
