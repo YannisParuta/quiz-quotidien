@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel célèbre roman de science-fiction a été écrit par Jules Verne en 1870 ?",
+      "options": [
+        "Vingt mille lieues sous les mers",
+        "De la Terre à la Lune",
+        "Le Tour du monde en 80 jours",
+        "L'Île mystérieuse"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1782086703433_0_m4mipd",
+      "addedAt": "2026-06-22T00:05:03.434Z"
+    },
+    {
+      "question": "Quel gaz les animaux rejettent-ils principalement lors de la respiration ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782086703434_1_ii4vcx",
+      "addedAt": "2026-06-22T00:05:03.434Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Asie ?",
+      "options": [
+        "Le Gange",
+        "Le Yang-Tsé",
+        "L'Amour",
+        "L'Indus"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1782086703434_2_shcvcy",
+      "addedAt": "2026-06-22T00:05:03.434Z"
+    },
+    {
+      "question": "Quel artiste impressionniste français a peint 'Les Nymphéas' ?",
+      "options": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas",
+        "Frédéric Bazille"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1782086703434_3_1bh5g4",
+      "addedAt": "2026-06-22T00:05:03.434Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
+      "options": [
+        "XVe siècle",
+        "XIVe siècle",
+        "XVIe siècle",
+        "XVIIe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1782086703434_4_73osxp",
+      "addedAt": "2026-06-22T00:05:03.434Z"
+    },
+    {
+      "question": "Combien de chromosomes possède un être humain ?",
+      "options": [
+        "23",
+        "46",
+        "48",
+        "52"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782086703434_5_ug4x15",
+      "addedAt": "2026-06-22T00:05:03.434Z"
+    },
+    {
+      "question": "Quel réalisateur a créé le film 'Inception' en 2010 ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Quentin Tarantino"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1782086703434_6_dxgnwq",
+      "addedAt": "2026-06-22T00:05:03.434Z"
+    },
+    {
+      "question": "Quel minéral dur et transparent est utilisé pour fabriquer des bijoux ?",
+      "options": [
+        "Le quartz",
+        "Le diamant",
+        "Le mica",
+        "Le feldspath"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1782086703434_7_b37tc6",
+      "addedAt": "2026-06-22T00:05:03.434Z"
+    },
+    {
+      "question": "Quel protocole de communication est à la base d'Internet ?",
+      "options": [
+        "FTP",
+        "TCP/IP",
+        "HTTP",
+        "SMTP"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1782086703434_8_9td7lv",
+      "addedAt": "2026-06-22T00:05:03.434Z"
+    },
+    {
+      "question": "Quel type de cuisine est traditionnellement associé au Japon et utilise les baguettes ?",
+      "options": [
+        "La cuisine thaïlandaise",
+        "La cuisine coréenne",
+        "La cuisine japonaise",
+        "La cuisine vietnamienne"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1782086703434_9_87kmvw",
+      "addedAt": "2026-06-22T00:05:03.434Z"
+    },
+    {
       "question": "Quel organite cellulaire est responsable de la production d'énergie dans les cellules ?",
       "options": [
         "Le noyau",
@@ -3899,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1780804929668_3_kqj9a3",
       "addedAt": "2026-06-07T04:02:09.668Z"
-    },
+    }
+  ],
+  "version": 273,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-22T00:05:03.434Z",
+  "archivedQuestions": [
     {
       "question": "Quel mathématicien a formalisé la théorie de la relativité générale ?",
       "options": [
@@ -4029,128 +4164,6 @@
       "category": "Gastronomie",
       "id": "q_1780791114893_5_cit7ux",
       "addedAt": "2026-06-07T00:11:54.893Z"
-    }
-  ],
-  "version": 272,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-21T04:18:32.972Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel sport de raquette se joue sur une table avec des balles légères ?",
-      "options": [
-        "Le badminton",
-        "Le tennis de table",
-        "Le squash",
-        "Le racquetball"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1780791114893_6_l5d6ix",
-      "addedAt": "2026-06-07T00:11:54.893Z"
-    },
-    {
-      "question": "Quel processus naturel transforme les raisins en vin ?",
-      "options": [
-        "L'oxydation",
-        "La fermentation",
-        "La distillation",
-        "La cristallisation"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1780791114893_7_or8nnf",
-      "addedAt": "2026-06-07T00:11:54.893Z"
-    },
-    {
-      "question": "Quel célèbre compositeur allemand était sourd à la fin de sa vie ?",
-      "options": [
-        "Johann Sebastian Bach",
-        "Ludwig van Beethoven",
-        "Wolfgang Amadeus Mozart",
-        "George Friedrich Haendel"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1780791114893_8_qhjx5m",
-      "addedAt": "2026-06-07T00:11:54.893Z"
-    },
-    {
-      "question": "Quel animal marin est le plus grand carnivore terrestre vivant ?",
-      "options": [
-        "L'éléphant de mer",
-        "L'ours polaire",
-        "Le crocodile marin",
-        "L'hippopotame"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1780791114893_9_lkwhxq",
-      "addedAt": "2026-06-07T00:11:54.893Z"
-    },
-    {
-      "question": "Quel navigateur web a été développé par Google ?",
-      "options": [
-        "Mozilla Firefox",
-        "Google Chrome",
-        "Safari",
-        "Edge"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1780791114893_10_udffvw",
-      "addedAt": "2026-06-07T00:11:54.893Z"
-    },
-    {
-      "question": "Quel gaz est le plus abondant dans l'atmosphère terrestre ?",
-      "options": [
-        "L'oxygène",
-        "L'azote",
-        "Le dioxyde de carbone",
-        "L'argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1780716925487_0_f0nuyz",
-      "addedAt": "2026-06-06T03:35:25.487Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit la Neuvième Symphonie ?",
-      "options": [
-        "Wolfgang Mozart",
-        "Johann Bach",
-        "Ludwig van Beethoven",
-        "Johannes Brahms"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1780716925487_1_7tuzp9",
-      "addedAt": "2026-06-06T03:35:25.487Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Afrique ?",
-      "options": [
-        "Le Congo",
-        "Le Nil",
-        "Le Niger",
-        "Le Zambèze"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1780716925487_2_78n4oa",
-      "addedAt": "2026-06-06T03:35:25.487Z"
-    },
-    {
-      "question": "Quel auteur français a écrit 'Les Trois Mousquetaires' ?",
-      "options": [
-        "Victor Hugo",
-        "Alexandre Dumas",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1780716925487_3_x87sq4",
-      "addedAt": "2026-06-06T03:35:25.487Z"
     }
   ],
   "poolSize": 310
