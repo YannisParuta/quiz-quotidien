@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel musicien baroque allemand a composé les Variations Goldberg ?",
+      "options": [
+        "Georg Friedrich Händel",
+        "Jean-Sébastien Bach",
+        "Antonio Vivaldi",
+        "Claudio Monteverdi"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782102030976_4_gs5h4c",
+      "addedAt": "2026-06-22T04:20:30.976Z"
+    },
+    {
+      "question": "Quel type de particule subatomique a été découvert par James Chadwick en 1932 ?",
+      "options": [
+        "Proton",
+        "Électron",
+        "Neutron",
+        "Quark"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1782102030976_5_ie6b3m",
+      "addedAt": "2026-06-22T04:20:30.976Z"
+    },
+    {
+      "question": "En quel siècle a eu lieu la construction de la Grande Muraille de Chine ?",
+      "options": [
+        "7ème siècle avant J.-C.",
+        "3ème siècle avant J.-C.",
+        "1er siècle après J.-C.",
+        "10ème siècle après J.-C."
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782102030976_6_lrpuvb",
+      "addedAt": "2026-06-22T04:20:30.976Z"
+    },
+    {
+      "question": "Quel peintre hollandais a peint la série des Nymphéas ?",
+      "options": [
+        "Vincent Van Gogh",
+        "Claude Monet",
+        "Rembrandt",
+        "Johannes Vermeer"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1782102030976_7_4y0fun",
+      "addedAt": "2026-06-22T04:20:30.976Z"
+    },
+    {
+      "question": "Quel type de mammifère prédateur possède une crinière épaisse autour du cou ?",
+      "options": [
+        "Hyène",
+        "Lion",
+        "Léopard",
+        "Tigre"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1782102030976_8_xbdl8a",
+      "addedAt": "2026-06-22T04:20:30.976Z"
+    },
+    {
+      "question": "Quel mathématicien suisse a résolu le problème des sept ponts de Königsberg ?",
+      "options": [
+        "Carl Friedrich Gauss",
+        "Leonhard Euler",
+        "Pierre Laplace",
+        "Joseph-Louis Lagrange"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1782102030976_9_a6sz2p",
+      "addedAt": "2026-06-22T04:20:30.976Z"
+    },
+    {
+      "question": "Quel film réalisé par Quentin Tarantino est sorti en 2009 et traite de la Seconde Guerre mondiale ?",
+      "options": [
+        "Inglourious Basterds",
+        "Pulp Fiction",
+        "Kill Bill",
+        "Django Unchained"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1782102030976_10_xtp5t6",
+      "addedAt": "2026-06-22T04:20:30.976Z"
+    },
+    {
+      "question": "Quel fromage français appellation d'origine contrôlée provient de la région de Roquefort ?",
+      "options": [
+        "Camembert",
+        "Roquefort",
+        "Comté",
+        "Brie"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1782102030976_11_wzddvn",
+      "addedAt": "2026-06-22T04:20:30.976Z"
+    },
+    {
+      "question": "Quel philosophe grec a fondé l'Académie d'Athènes en 387 avant J.-C. ?",
+      "options": [
+        "Aristote",
+        "Platon",
+        "Socrate",
+        "Pythagore"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782102030975_0_tai6a9",
+      "addedAt": "2026-06-22T04:20:30.975Z"
+    },
+    {
+      "question": "Quel processus biologique permet aux plantes de convertir la lumière en énergie chimique ?",
+      "options": [
+        "Respiration cellulaire",
+        "Photosynthèse",
+        "Fermentation",
+        "Osmose"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782102030975_1_jvlaoq",
+      "addedAt": "2026-06-22T04:20:30.975Z"
+    },
+    {
+      "question": "Quel château de la Loire a été résidence royale de François Ier ?",
+      "options": [
+        "Chambord",
+        "Versailles",
+        "Fontainebleau",
+        "Amboise"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1782102030975_2_gnl69o",
+      "addedAt": "2026-06-22T04:20:30.975Z"
+    },
+    {
+      "question": "Quel roman de Jane Austen a pour héroïne une jeune femme nommée Elizabeth Bennet ?",
+      "options": [
+        "Sense and Sensibility",
+        "Orgueil et Préjugés",
+        "Emma",
+        "Persuasion"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1782102030975_3_2qpagh",
+      "addedAt": "2026-06-22T04:20:30.975Z"
+    },
+    {
       "question": "Quel célèbre roman de science-fiction a été écrit par Jules Verne en 1870 ?",
       "options": [
         "Vingt mille lieues sous les mers",
@@ -3873,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1780879470455_5_dddegm",
       "addedAt": "2026-06-08T00:44:30.455Z"
-    },
+    }
+  ],
+  "version": 274,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-22T04:20:30.976Z",
+  "archivedQuestions": [
     {
       "question": "Quel élément chimique porte le symbole 'Au' sur le tableau périodique ?",
       "options": [
@@ -4029,141 +4190,6 @@
       "category": "Gastronomie",
       "id": "q_1780804929668_3_kqj9a3",
       "addedAt": "2026-06-07T04:02:09.668Z"
-    }
-  ],
-  "version": 273,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-22T00:05:03.434Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mathématicien a formalisé la théorie de la relativité générale ?",
-      "options": [
-        "Newton",
-        "Einstein",
-        "Heisenberg",
-        "Planck"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1780804929668_4_lciz81",
-      "addedAt": "2026-06-07T04:02:09.668Z"
-    },
-    {
-      "question": "Quel écosystème terrestre contient la plus grande biodiversité ?",
-      "options": [
-        "La savane",
-        "La toundra",
-        "La forêt tropicale humide",
-        "La taïga"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1780804929668_5_1ijx5i",
-      "addedAt": "2026-06-07T04:02:09.668Z"
-    },
-    {
-      "question": "Quel est le temps réglementaire d'un match de rugby à XV ?",
-      "options": [
-        "80 minutes",
-        "90 minutes",
-        "100 minutes",
-        "120 minutes"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1780804929668_6_49dri7",
-      "addedAt": "2026-06-07T04:02:09.668Z"
-    },
-    {
-      "question": "Quel compositeur italien a écrit l'opéra 'La Traviata' ?",
-      "options": [
-        "Rossini",
-        "Donizetti",
-        "Verdi",
-        "Puccini"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1780804929668_7_zvcw75",
-      "addedAt": "2026-06-07T04:02:09.668Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit le roman 'Les Misérables' ?",
-      "options": [
-        "Alexandre Dumas",
-        "Victor Hugo",
-        "Gustave Flaubert",
-        "Honoré de Balzac"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1780791114893_0_8pnubc",
-      "addedAt": "2026-06-07T00:11:54.893Z"
-    },
-    {
-      "question": "Quel gaz les plantes absorbent-elles principalement lors de la photosynthèse ?",
-      "options": [
-        "L'oxygène",
-        "L'azote",
-        "Le dioxyde de carbone",
-        "L'hydrogène"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1780791114893_1_x8bul6",
-      "addedAt": "2026-06-07T00:11:54.893Z"
-    },
-    {
-      "question": "Quel instrument de musique a 88 touches ?",
-      "options": [
-        "La guitare",
-        "Le violon",
-        "Le piano",
-        "La harpe"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1780791114893_2_5fewfn",
-      "addedAt": "2026-06-07T00:11:54.893Z"
-    },
-    {
-      "question": "Quel empire antique a construit le Colosseum à Rome ?",
-      "options": [
-        "L'empire perse",
-        "L'empire grec",
-        "L'empire romain",
-        "L'empire égyptien"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1780791114893_3_zb85mk",
-      "addedAt": "2026-06-07T00:11:54.893Z"
-    },
-    {
-      "question": "Quel artiste néerlandais a coupé une partie de son oreille ?",
-      "options": [
-        "Paul Gauguin",
-        "Vincent van Gogh",
-        "Pablo Picasso",
-        "Henri Matisse"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1780791114893_4_uv0rez",
-      "addedAt": "2026-06-07T00:11:54.893Z"
-    },
-    {
-      "question": "Quel pays produit le plus de café au monde ?",
-      "options": [
-        "La Colombie",
-        "L'Indonésie",
-        "Le Brésil",
-        "L'Éthiopie"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1780791114893_5_cit7ux",
-      "addedAt": "2026-06-07T00:11:54.893Z"
     }
   ],
   "poolSize": 310
