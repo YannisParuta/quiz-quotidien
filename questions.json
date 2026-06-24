@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a écrit 'Le Seigneur des Anneaux' ?",
+      "options": [
+        "J.R.R. Tolkien",
+        "C.S. Lewis",
+        "George R.R. Martin",
+        "Stephen King"
+      ],
+      "correctAnswer": 0,
+      "category": "Littérature",
+      "id": "q_1782272368823_0_a6z8z1",
+      "addedAt": "2026-06-24T03:39:28.823Z"
+    },
+    {
+      "question": "En quelle année l'Homme a-t-il inventé l'ampoule électrique ?",
+      "options": [
+        "1879",
+        "1895",
+        "1905",
+        "1920"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie",
+      "id": "q_1782272368823_1_mgx7sv",
+      "addedAt": "2026-06-24T03:39:28.823Z"
+    },
+    {
+      "question": "Quel organe du corps humain produit l'insuline ?",
+      "options": [
+        "Le foie",
+        "Le pancréas",
+        "Les reins",
+        "L'estomac"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782272368823_2_7lcocc",
+      "addedAt": "2026-06-24T03:39:28.823Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Vincent van Gogh",
+        "Jan Vermeer",
+        "Peter Brueghel"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1782272368823_3_h9czmg",
+      "addedAt": "2026-06-24T03:39:28.823Z"
+    },
+    {
+      "question": "Quel était le nom de jeune fille de Diana, princesse de Galles ?",
+      "options": [
+        "Spencer",
+        "Windsor",
+        "Tudor",
+        "Mountbatten"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1782272368823_4_efgpqx",
+      "addedAt": "2026-06-24T03:39:28.823Z"
+    },
+    {
+      "question": "Combien de continents y a-t-il sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1782272368823_5_l99xxn",
+      "addedAt": "2026-06-24T03:39:28.823Z"
+    },
+    {
+      "question": "Quel mathématicien italien a introduit le système des chiffres arabes en Europe ?",
+      "options": [
+        "Leonardo Fibonacci",
+        "Gerolamo Cardano",
+        "Tartaglia",
+        "Paolo Ruffini"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1782272368823_6_drwe6l",
+      "addedAt": "2026-06-24T03:39:28.823Z"
+    },
+    {
+      "question": "Quel type de danse traditionnelle est originaire de l'Argentine ?",
+      "options": [
+        "La Samba",
+        "Le Tango",
+        "La Cumbia",
+        "Le Flamenco"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1782272368823_7_jez6eu",
+      "addedAt": "2026-06-24T03:39:28.823Z"
+    },
+    {
+      "question": "Quel champion de tennis a remporté le plus de Grand Chelem ?",
+      "options": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Pete Sampras"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1782272368823_8_otqcv5",
+      "addedAt": "2026-06-24T03:39:28.823Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la trilogie 'Back to the Future' ?",
+      "options": [
+        "Steven Spielberg",
+        "Robert Zemeckis",
+        "James Cameron",
+        "John Hughes"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1782272368823_9_gp2m2b",
+      "addedAt": "2026-06-24T03:39:28.823Z"
+    },
+    {
+      "question": "Quel musicien britannique a fondé le groupe Queen ?",
+      "options": [
+        "David Bowie",
+        "Freddie Mercury",
+        "Mick Jagger",
+        "Robert Plant"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782272368823_10_2rzwxp",
+      "addedAt": "2026-06-24T03:39:28.823Z"
+    },
+    {
+      "question": "Quel désert est le plus grand du monde ?",
+      "options": [
+        "Le désert du Sahara",
+        "Le désert de Kalahari",
+        "Le désert de l'Antarctique",
+        "Le désert de Gobi"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1782272368823_11_sx2xpk",
+      "addedAt": "2026-06-24T03:39:28.823Z"
+    },
+    {
       "question": "Quel artiste surréaliste espagnol est connu pour ses montres molles ?",
       "options": [
         "Joan Miró",
@@ -3873,7 +4029,12 @@
       "category": "Science",
       "id": "q_1781052107984_6_k3190o",
       "addedAt": "2026-06-10T00:41:47.984Z"
-    },
+    }
+  ],
+  "version": 278,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-24T03:39:28.824Z",
+  "archivedQuestions": [
     {
       "question": "Quel athlète jamaïcain détient le record du monde du 100 mètres ?",
       "options": [
@@ -4029,115 +4190,6 @@
       "category": "Nature",
       "id": "q_1780976174038_6_djldsc",
       "addedAt": "2026-06-09T03:36:14.038Z"
-    }
-  ],
-  "version": 277,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-24T00:56:52.499Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mathématicien grec a énoncé le célèbre théorème sur les triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Archimède",
-        "Thales"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1780976174038_7_0s7dq8",
-      "addedAt": "2026-06-09T03:36:14.038Z"
-    },
-    {
-      "question": "Quel protocole Internet est utilisé pour le transfert sécurisé de données sur le web ?",
-      "options": [
-        "HTTP",
-        "FTP",
-        "HTTPS",
-        "SMTP"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1780976174038_8_fangid",
-      "addedAt": "2026-06-09T03:36:14.038Z"
-    },
-    {
-      "question": "Quel est le plus grand musée du monde en termes de collection ?",
-      "options": [
-        "Le Louvre",
-        "Le Musée métropolitain",
-        "L'Ermitage",
-        "Le Musée britannique"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1780966237438_0_jdzkx7",
-      "addedAt": "2026-06-09T00:50:37.438Z"
-    },
-    {
-      "question": "Quel pays a remporté le plus de médailles d'or aux Jeux Olympiques d'été 2020 ?",
-      "options": [
-        "La Chine",
-        "Le Japon",
-        "Les États-Unis",
-        "La Russie"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1780966237438_1_z0i37r",
-      "addedAt": "2026-06-09T00:50:37.438Z"
-    },
-    {
-      "question": "Quel artiste a peint la Chapelle Sixtine au Vatican ?",
-      "options": [
-        "Raphaël",
-        "Léonard de Vinci",
-        "Michel-Ange",
-        "Botticelli"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1780966237438_2_x4okwd",
-      "addedAt": "2026-06-09T00:50:37.438Z"
-    },
-    {
-      "question": "Quel processus chimique permet aux animaux de produire de l'énergie à partir de la nourriture ?",
-      "options": [
-        "La photosynthèse",
-        "La respiration cellulaire",
-        "La fermentation",
-        "L'oxydation"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1780966237438_3_nmneys",
-      "addedAt": "2026-06-09T00:50:37.438Z"
-    },
-    {
-      "question": "Quel est le plus haut plateau du monde ?",
-      "options": [
-        "Le plateau du Tibét",
-        "Le plateau d'Éthiopie",
-        "Le plateau du Colorado",
-        "Le plateau du Deccan"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1780966237438_4_fyp2ot",
-      "addedAt": "2026-06-09T00:50:37.438Z"
-    },
-    {
-      "question": "Quel chimiste a développé la théorie de la structure atomique moderne ?",
-      "options": [
-        "John Dalton",
-        "Niels Bohr",
-        "Ernest Rutherford",
-        "Marie Curie"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1780966237438_5_efodry",
-      "addedAt": "2026-06-09T00:50:37.438Z"
     }
   ],
   "poolSize": 310
