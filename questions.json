@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Quel artiste surréaliste espagnol est connu pour ses montres molles ?",
+      "options": [
+        "Joan Miró",
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Juan Gris"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1782262612499_1_p5110q",
+      "addedAt": "2026-06-24T00:56:52.499Z"
+    },
+    {
+      "question": "Quel musicien autrichien a composé plus de 600 œuvres musicales ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert",
+        "Joseph Haydn",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782262612499_2_92s7fj",
+      "addedAt": "2026-06-24T00:56:52.499Z"
+    },
+    {
+      "question": "Quel sport est connu comme 'le sport roi' en France ?",
+      "options": [
+        "Le tennis",
+        "Le rugby",
+        "Le cyclisme",
+        "L'escrime"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1782262612499_3_9e1n2h",
+      "addedAt": "2026-06-24T00:56:52.499Z"
+    },
+    {
+      "question": "Quel mathématicien italien a introduit la série de nombres portant son nom ?",
+      "options": [
+        "Léonard de Fibonacci",
+        "Blaise Pascal",
+        "René Descartes",
+        "Isaac Newton"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1782262612499_4_wr9fqs",
+      "addedAt": "2026-06-24T00:56:52.499Z"
+    },
+    {
+      "question": "Quel prédateur marin est connu pour ses attaques coordonnées en meute ?",
+      "options": [
+        "Le requin blanc",
+        "L'orque",
+        "Le barracuda",
+        "Le piranha"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1782262612499_5_9epgh9",
+      "addedAt": "2026-06-24T00:56:52.499Z"
+    },
+    {
+      "question": "Quel protocole de sécurité est représenté par le cadenas dans la barre d'adresse des navigateurs ?",
+      "options": [
+        "HTTP",
+        "HTTPS",
+        "FTP",
+        "SMTP"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1782262612499_6_pl54on",
+      "addedAt": "2026-06-24T00:56:52.499Z"
+    },
+    {
+      "question": "Quel roi français est surnommé 'le Roi Soleil' ?",
+      "options": [
+        "Louis XIII",
+        "Louis XIV",
+        "Louis XV",
+        "Louis XVI"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782262612499_7_vhtb5r",
+      "addedAt": "2026-06-24T00:56:52.499Z"
+    },
+    {
+      "question": "En chimie, quel est le numéro atomique de l'oxygène ?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782262612498_0_4w3zbu",
+      "addedAt": "2026-06-24T00:56:52.498Z"
+    },
+    {
       "question": "Combien de cordes possède un violoncelle ?",
       "options": [
         "4",
@@ -3925,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1780976174038_6_djldsc",
       "addedAt": "2026-06-09T03:36:14.038Z"
-    },
+    }
+  ],
+  "version": 277,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-24T00:56:52.499Z",
+  "archivedQuestions": [
     {
       "question": "Quel mathématicien grec a énoncé le célèbre théorème sur les triangles rectangles ?",
       "options": [
@@ -4029,141 +4138,6 @@
       "category": "Mathématiques",
       "id": "q_1780966237438_5_efodry",
       "addedAt": "2026-06-09T00:50:37.438Z"
-    }
-  ],
-  "version": 276,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-23T03:38:32.498Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel instrument à cordes est l'ancêtre du piano moderne ?",
-      "options": [
-        "Le clavecin",
-        "Le luth",
-        "La harpe",
-        "Le clavichord"
-      ],
-      "correctAnswer": 3,
-      "category": "Musique",
-      "id": "q_1780966237438_6_gqenty",
-      "addedAt": "2026-06-09T00:50:37.438Z"
-    },
-    {
-      "question": "Quel animal est le seul mammifère capable de voler ?",
-      "options": [
-        "L'écureuil volant",
-        "La chauve-souris",
-        "L'opossum volant",
-        "Le lémur volant"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1780966237438_7_o2tseu",
-      "addedAt": "2026-06-09T00:50:37.438Z"
-    },
-    {
-      "question": "Quel type de technologie utilise des ondes radio pour identifier et localiser les objets ?",
-      "options": [
-        "Le GPS",
-        "Le RFID",
-        "Le radar",
-        "Le sonar"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1780966237438_8_xbgtqf",
-      "addedAt": "2026-06-09T00:50:37.438Z"
-    },
-    {
-      "question": "Quel plat espagnol traditionnel est préparé avec du riz, du safran et des fruits de mer ?",
-      "options": [
-        "La paella",
-        "Le gazpacho",
-        "Les croquetas",
-        "La tortilla"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1780966237438_9_kukowg",
-      "addedAt": "2026-06-09T00:50:37.438Z"
-    },
-    {
-      "question": "Quel scientifique a formulé la théorie de la relativité restreinte en 1905 ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Marie Curie"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1780891583255_0_dbokym",
-      "addedAt": "2026-06-08T04:06:23.255Z"
-    },
-    {
-      "question": "Quel océan est le plus profond de la Terre ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Indien",
-        "Océan Arctique",
-        "Océan Pacifique"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1780891583255_1_e1w4wa",
-      "addedAt": "2026-06-08T04:06:23.255Z"
-    },
-    {
-      "question": "Quel organe du corps humain produit la bile ?",
-      "options": [
-        "Le pancréas",
-        "L'estomac",
-        "Le foie",
-        "Les reins"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1780891583255_2_m1bwrd",
-      "addedAt": "2026-06-08T04:06:23.255Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère marin du monde ?",
-      "options": [
-        "Le dauphin",
-        "Le requin blanc",
-        "La baleine bleue",
-        "L'otarie"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1780891583255_3_46jwg0",
-      "addedAt": "2026-06-08T04:06:23.255Z"
-    },
-    {
-      "question": "Quel réalisateur a créé le film 'Inception' ?",
-      "options": [
-        "Steven Spielberg",
-        "Christopher Nolan",
-        "David Fincher",
-        "Denis Villeneuve"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1780891583255_4_kc71on",
-      "addedAt": "2026-06-08T04:06:23.255Z"
-    },
-    {
-      "question": "Quel nombre premier vient immédiatement après 97 ?",
-      "options": [
-        "98",
-        "101",
-        "99",
-        "103"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1780891583255_5_m5k9fl",
-      "addedAt": "2026-06-08T04:06:23.255Z"
     }
   ],
   "poolSize": 310
