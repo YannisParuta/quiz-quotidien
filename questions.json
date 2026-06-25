@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel explorateur portugais a été le premier à contourner le cap de Bonne-Espérance en 1488 ?",
+      "options": [
+        "Vasco de Gama",
+        "Bartolomeu Dias",
+        "Ferdinand Magellan",
+        "Christophe Colomb"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782358737132_0_mbw8z2",
+      "addedAt": "2026-06-25T03:38:57.132Z"
+    },
+    {
+      "question": "Quel biologiste britannique a développé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Alfred Russel Wallace",
+        "Charles Darwin",
+        "Thomas Huxley",
+        "Jean-Baptiste Lamarck"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782358737132_1_g2130o",
+      "addedAt": "2026-06-25T03:38:57.132Z"
+    },
+    {
+      "question": "En quelle année la Bastille a-t-elle été prise lors de la Révolution française ?",
+      "options": [
+        "1787",
+        "1789",
+        "1791",
+        "1793"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782358737132_2_ru6gy2",
+      "addedAt": "2026-06-25T03:38:57.132Z"
+    },
+    {
+      "question": "Quel est le nombre de cordes d'une guitare classique standard ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782358737132_3_oe3byb",
+      "addedAt": "2026-06-25T03:38:57.132Z"
+    },
+    {
+      "question": "Quel pays produit environ 80% du cacao mondial ?",
+      "options": [
+        "La Malaisie",
+        "La Côte d'Ivoire",
+        "Le Brésil",
+        "L'Équateur"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1782358737132_4_rktndf",
+      "addedAt": "2026-06-25T03:38:57.132Z"
+    },
+    {
+      "question": "Quel est le nom du mouvement artistique caractérisé par des traits épais et des couleurs vives, fondé par Matisse ?",
+      "options": [
+        "L'expressionnisme",
+        "Le Fauvisme",
+        "Le Surréalisme",
+        "Le Dadaïsme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1782358737132_5_t3fssv",
+      "addedAt": "2026-06-25T03:38:57.132Z"
+    },
+    {
+      "question": "En quelle année l'Irlande a-t-elle obtenu son indépendance du Royaume-Uni ?",
+      "options": [
+        "1916",
+        "1922",
+        "1949",
+        "1973"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782358737132_6_rn4vs1",
+      "addedAt": "2026-06-25T03:38:57.132Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Europe ?",
+      "options": [
+        "Le Danube",
+        "Le Rhin",
+        "La Volga",
+        "La Tamise"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1782358737132_7_98bp87",
+      "addedAt": "2026-06-25T03:38:57.132Z"
+    },
+    {
+      "question": "Quel célèbre peintre post-impressionniste s'est coupé une partie de l'oreille ?",
+      "options": [
+        "Paul Cézanne",
+        "Paul Gauguin",
+        "Vincent van Gogh",
+        "Henri de Toulouse-Lautrec"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1782358737132_8_4gwdif",
+      "addedAt": "2026-06-25T03:38:57.132Z"
+    },
+    {
+      "question": "Combien de joueurs une équipe de basketball compte-t-elle sur le terrain ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1782358737132_9_w3zfvp",
+      "addedAt": "2026-06-25T03:38:57.132Z"
+    },
+    {
       "question": "Quel est le plus grand désert du monde ?",
       "options": [
         "Le désert du Sahara",
@@ -3899,7 +4029,12 @@
       "category": "Sport",
       "id": "q_1781136898306_8_itbxh0",
       "addedAt": "2026-06-11T00:14:58.306Z"
-    },
+    }
+  ],
+  "version": 280,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-25T03:38:57.133Z",
+  "archivedQuestions": [
     {
       "question": "En quelle année l'imprimerie à caractères mobiles a-t-elle été inventée par Gutenberg ?",
       "options": [
@@ -4029,141 +4164,6 @@
       "category": "Technologie",
       "id": "q_1781063436486_10_dr19kv",
       "addedAt": "2026-06-10T03:50:36.486Z"
-    }
-  ],
-  "version": 279,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-25T00:50:43.354Z",
-  "archivedQuestions": [
-    {
-      "question": "En quel siècle la Grande Muraille de Chine a-t-elle été principalement construite ?",
-      "options": [
-        "IIIe siècle avant J.C.",
-        "Xe siècle",
-        "XVIe siècle",
-        "XVIIe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1781063436486_11_of5fdj",
-      "addedAt": "2026-06-10T03:50:36.486Z"
-    },
-    {
-      "question": "Quel minéral transparent est la forme cristalline du carbone pur et le plus dur ?",
-      "options": [
-        "Le rubis",
-        "Le diamant",
-        "L'émeraude",
-        "Le saphir"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781063436486_12_g77gn1",
-      "addedAt": "2026-06-10T03:50:36.486Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit la 9ème symphonie contenant l'Hymne à la Joie ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach",
-        "George Friedrich Haendel"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1781063436485_0_ogi1dx",
-      "addedAt": "2026-06-10T03:50:36.485Z"
-    },
-    {
-      "question": "Quel physicien français a découvert la radioactivité en 1896 ?",
-      "options": [
-        "Pierre Curie",
-        "Henri Becquerel",
-        "Marie Curie",
-        "Ernest Rutherford"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781052107984_0_s0retx",
-      "addedAt": "2026-06-10T00:41:47.984Z"
-    },
-    {
-      "question": "En quelle année l'homme a-t-il marché pour la première fois sur la Lune ?",
-      "options": [
-        "1965",
-        "1968",
-        "1969",
-        "1971"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1781052107984_1_2pkcvk",
-      "addedAt": "2026-06-10T00:41:47.984Z"
-    },
-    {
-      "question": "Quel fleuve est le plus long du monde ?",
-      "options": [
-        "L'Amazone",
-        "Le Nil",
-        "Le Yangtsé",
-        "Le Mississippi"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1781052107984_2_5l8dc5",
-      "addedAt": "2026-06-10T00:41:47.984Z"
-    },
-    {
-      "question": "Quel romancier russe a écrit 'Les Frères Karamazov' ?",
-      "options": [
-        "Léon Tolstoï",
-        "Fiodor Dostoïevski",
-        "Mikhaïl Bulgakov",
-        "Ivan Tourguéniev"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1781052107984_3_1wnasd",
-      "addedAt": "2026-06-10T00:41:47.984Z"
-    },
-    {
-      "question": "Quel type de tissu conjonctif relie les muscles aux os ?",
-      "options": [
-        "Les ligaments",
-        "Les tendons",
-        "Le cartilage",
-        "Les articulations"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781052107984_4_9tqvkh",
-      "addedAt": "2026-06-10T00:41:47.984Z"
-    },
-    {
-      "question": "En quel année la Chute du Mur de Berlin s'est-elle produite ?",
-      "options": [
-        "1987",
-        "1988",
-        "1989",
-        "1990"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1781052107984_5_h63kby",
-      "addedAt": "2026-06-10T00:41:47.984Z"
-    },
-    {
-      "question": "Quel gaz est responsable du changement climatique global ?",
-      "options": [
-        "L'oxyde d'azote",
-        "Le dioxyde de carbone",
-        "L'ozone",
-        "Le méthane"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781052107984_6_k3190o",
-      "addedAt": "2026-06-10T00:41:47.984Z"
     }
   ],
   "poolSize": 310
