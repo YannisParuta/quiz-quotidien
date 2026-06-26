@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel économiste britannique a théorisé la 'main invisible' du marché ?",
+      "options": [
+        "David Ricardo",
+        "Adam Smith",
+        "John Maynard Keynes",
+        "Thomas Malthus"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782435495479_0_lb13ci",
+      "addedAt": "2026-06-26T00:58:15.479Z"
+    },
+    {
+      "question": "En quel année a eu lieu la Révolution française ?",
+      "options": [
+        "1787",
+        "1789",
+        "1791",
+        "1793"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782435495479_1_uvoxts",
+      "addedAt": "2026-06-26T00:58:15.479Z"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde en superficie ?",
+      "options": [
+        "Monaco",
+        "Andorre",
+        "Cité du Vatican",
+        "Malte"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1782435495479_2_ltadn9",
+      "addedAt": "2026-06-26T00:58:15.479Z"
+    },
+    {
+      "question": "Quel est le point le plus profond des océans terrestres ?",
+      "options": [
+        "La fosse de Mariana",
+        "La fosse des Kouriles",
+        "La fosse de Tonga",
+        "La fosse du Japon"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1782435495479_3_gm8wbf",
+      "addedAt": "2026-06-26T00:58:15.479Z"
+    },
+    {
+      "question": "Quel botaniste suédois a développé la nomenclature binomiale pour classifier les espèces ?",
+      "options": [
+        "Charles Darwin",
+        "Carl von Linné",
+        "Jean-Baptiste Lamarck",
+        "Gregor Mendel"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782435495479_4_rcbluk",
+      "addedAt": "2026-06-26T00:58:15.479Z"
+    },
+    {
+      "question": "Quel mouvement artistique du XIXe siècle privilégiait la lumière et les couleurs pures ?",
+      "options": [
+        "Le Cubisme",
+        "L'Impressionnisme",
+        "Le Dadaïsme",
+        "L'Expressionnisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1782435495479_5_eq8qud",
+      "addedAt": "2026-06-26T00:58:15.479Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Afrique ?",
+      "options": [
+        "Le Niger",
+        "Le Zambèze",
+        "Le Nil",
+        "Le Congo"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1782435495479_6_gtcsfr",
+      "addedAt": "2026-06-26T00:58:15.479Z"
+    },
+    {
+      "question": "Quel mathématicien grec antique a énoncé le théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1782435495479_7_0u3qtp",
+      "addedAt": "2026-06-26T00:58:15.479Z"
+    },
+    {
+      "question": "Quel danseur russe a révolutionné le ballet au XXe siècle ?",
+      "options": [
+        "George Balanchine",
+        "Vaslav Nijinski",
+        "Sergei Diaghilev",
+        "Mikhaïl Barychnikov"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1782435495479_8_fr7ipg",
+      "addedAt": "2026-06-26T00:58:15.479Z"
+    },
+    {
+      "question": "Quel type de roche se forme par le refroidissement du magma ?",
+      "options": [
+        "Roche métamorphique",
+        "Roche sédimentaire",
+        "Roche ignée",
+        "Roche calcaire"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1782435495479_9_qpi90n",
+      "addedAt": "2026-06-26T00:58:15.479Z"
+    },
+    {
+      "question": "Quel réalisateur britannique a créé la saga 'James Bond' pour le cinéma ?",
+      "options": [
+        "Terence Young",
+        "Peter Hunt",
+        "Guy Hamilton",
+        "Albert R. Broccoli"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1782435495479_10_n6wha5",
+      "addedAt": "2026-06-26T00:58:15.479Z"
+    },
+    {
+      "question": "Quel est le fruit du noyer qui contient une graine riche en oméga-3 ?",
+      "options": [
+        "L'amande",
+        "La noix",
+        "La noisette",
+        "La pistache"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1782435495479_11_k0y0qs",
+      "addedAt": "2026-06-26T00:58:15.479Z"
+    },
+    {
       "question": "Quel explorateur portugais a été le premier à contourner le cap de Bonne-Espérance en 1488 ?",
       "options": [
         "Vasco de Gama",
@@ -3873,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1781150618275_8_b8vhpo",
       "addedAt": "2026-06-11T04:03:38.275Z"
-    },
+    }
+  ],
+  "version": 281,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-26T00:58:15.480Z",
+  "archivedQuestions": [
     {
       "question": "En géométrie, combien de degrés mesure chaque angle d'un hexagone régulier ?",
       "options": [
@@ -4029,141 +4190,6 @@
       "category": "Sport",
       "id": "q_1781136898306_8_itbxh0",
       "addedAt": "2026-06-11T00:14:58.306Z"
-    }
-  ],
-  "version": 280,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-25T03:38:57.133Z",
-  "archivedQuestions": [
-    {
-      "question": "En quelle année l'imprimerie à caractères mobiles a-t-elle été inventée par Gutenberg ?",
-      "options": [
-        "1440",
-        "1380",
-        "1500",
-        "1520"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1781063436485_1_zt24wa",
-      "addedAt": "2026-06-10T03:50:36.486Z"
-    },
-    {
-      "question": "Quel est le gaz responsable de l'effet de serre le plus abondant dans l'atmosphère terrestre ?",
-      "options": [
-        "Le méthane",
-        "Le dioxyde de carbone",
-        "L'azote",
-        "L'oxyde nitreux"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781063436486_2_3lufuv",
-      "addedAt": "2026-06-10T03:50:36.486Z"
-    },
-    {
-      "question": "Quel artiste moderne a fondé le mouvement du Cubisme aux côtés de Braque ?",
-      "options": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Joan Miró",
-        "Marc Chagall"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1781063436486_3_nd9ok2",
-      "addedAt": "2026-06-10T03:50:36.486Z"
-    },
-    {
-      "question": "Quel roman de Mary Shelley publié en 1818 met en scène une créature monstrueuse ?",
-      "options": [
-        "Dracula",
-        "Frankenstein",
-        "Le Château de Frankenstein",
-        "Les Misérables"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1781063436486_4_leumls",
-      "addedAt": "2026-06-10T03:50:36.486Z"
-    },
-    {
-      "question": "Quel sport olympique français combine le tir à la carabine et la course à pied ?",
-      "options": [
-        "Le pentathlon moderne",
-        "Le biathlon",
-        "Le triathlon",
-        "Le décathlon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1781063436486_5_ztwju8",
-      "addedAt": "2026-06-10T03:50:36.486Z"
-    },
-    {
-      "question": "Combien de pattes possède une araignée adulte ?",
-      "options": [
-        "6 pattes",
-        "8 pattes",
-        "10 pattes",
-        "12 pattes"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1781063436486_6_vr6s4x",
-      "addedAt": "2026-06-10T03:50:36.486Z"
-    },
-    {
-      "question": "Quel mathématicien grec a énoncé le théorème des triangles rectangles portant son nom ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Archimède",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1781063436486_7_05tz5d",
-      "addedAt": "2026-06-10T03:50:36.486Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le personnage de Monsieur Hulot ?",
-      "options": [
-        "Jean-Luc Godard",
-        "Jacques Tati",
-        "François Truffaut",
-        "Claude Chabrol"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1781063436486_8_1lgeyw",
-      "addedAt": "2026-06-10T03:50:36.486Z"
-    },
-    {
-      "question": "Quel alcool blanc à base de raisin est traditionnellement produit en Italie du Nord ?",
-      "options": [
-        "Le prosecco",
-        "Le grappa",
-        "L'Amaretto",
-        "le Limoncello"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1781063436486_9_pt4ivl",
-      "addedAt": "2026-06-10T03:50:36.486Z"
-    },
-    {
-      "question": "Quel système d'exploitation mobile a été créé par Google en 2008 ?",
-      "options": [
-        "iOS",
-        "Android",
-        "Windows Phone",
-        "BlackBerry OS"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1781063436486_10_dr19kv",
-      "addedAt": "2026-06-10T03:50:36.486Z"
     }
   ],
   "poolSize": 310
