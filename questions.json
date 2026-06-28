@@ -1,6 +1,84 @@
 {
   "questions": [
     {
+      "question": "Quel peintre français est célèbre pour ses Nymphéas ?",
+      "options": [
+        "Paul Cézanne",
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Vincent van Gogh"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1782607011004_0_0n6nuv",
+      "addedAt": "2026-06-28T00:36:51.004Z"
+    },
+    {
+      "question": "En quelle année l'Titanic a-t-il coulé ?",
+      "options": [
+        "1910",
+        "1912",
+        "1915",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782607011004_1_uc0dp1",
+      "addedAt": "2026-06-28T00:36:51.004Z"
+    },
+    {
+      "question": "Quel animal possède le plus grand cerveau du règne animal ?",
+      "options": [
+        "L'éléphant",
+        "La baleine bleue",
+        "Le dauphin",
+        "Le chimpanzé"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1782607011004_2_e6152k",
+      "addedAt": "2026-06-28T00:36:51.004Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "David Fincher",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1782607011004_3_7q3sth",
+      "addedAt": "2026-06-28T00:36:51.004Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en bromélaïne, une enzyme digestive ?",
+      "options": [
+        "La mangue",
+        "L'ananas",
+        "La papaye",
+        "La goyave"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1782607011004_4_w8kt6y",
+      "addedAt": "2026-06-28T00:36:51.004Z"
+    },
+    {
+      "question": "Quel est le plus vieil établissement universitaire en France ?",
+      "options": [
+        "L'Université de Toulouse",
+        "L'Université de la Sorbonne",
+        "L'Université d'Orléans",
+        "L'Université de Montpellier"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1782607011004_5_s9oklh",
+      "addedAt": "2026-06-28T00:36:51.004Z"
+    },
+    {
       "question": "Quel gaz représente environ 21% de l'atmosphère terrestre ?",
       "options": [
         "L'azote",
@@ -3951,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1781310269537_0_s9a5uz",
       "addedAt": "2026-06-13T00:24:29.537Z"
-    },
+    }
+  ],
+  "version": 285,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-28T00:36:51.005Z",
+  "archivedQuestions": [
     {
       "question": "En quel année l'homme a-t-il marché sur la Lune pour la première fois ?",
       "options": [
@@ -4029,167 +4112,6 @@
       "category": "Gastronomie",
       "id": "q_1781310269537_6_j4ft65",
       "addedAt": "2026-06-13T00:24:29.537Z"
-    }
-  ],
-  "version": 284,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-27T03:32:25.096Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel virus cause la varicelle chez l'enfant ?",
-      "options": [
-        "Virus de la rougeole",
-        "Virus varicelle-zona",
-        "Virus d'Epstein-Barr",
-        "Virus du papillome"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781310269537_7_fookrd",
-      "addedAt": "2026-06-13T00:24:29.537Z"
-    },
-    {
-      "question": "Quel instrument de musique classique possède 88 touches ?",
-      "options": [
-        "Violon",
-        "Flûte",
-        "Piano",
-        "Clarinette"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1781310269537_8_u3tnpd",
-      "addedAt": "2026-06-13T00:24:29.537Z"
-    },
-    {
-      "question": "Quel physicien français a découvert le polonium et le radium ?",
-      "options": [
-        "Louis Pasteur",
-        "Marie Curie",
-        "Henri Becquerel",
-        "Pierre Joliot"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781237079979_0_8g4jdb",
-      "addedAt": "2026-06-12T04:04:39.979Z"
-    },
-    {
-      "question": "Quel film d'animation Pixar raconte l'histoire d'un poisson qui cherche son fils ?",
-      "options": [
-        "Vaiana",
-        "Le Monde de Nemo",
-        "Toy Story",
-        "Monstres & Cie"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1781237079979_1_ensnco",
-      "addedAt": "2026-06-12T04:04:39.979Z"
-    },
-    {
-      "question": "Quel instrument de musique traditionnelle indienne possède des cordes sympathiques ?",
-      "options": [
-        "Tabla",
-        "Sitar",
-        "Sarod",
-        "Bansuri"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1781237079979_2_xdzr4r",
-      "addedAt": "2026-06-12T04:04:39.979Z"
-    },
-    {
-      "question": "Quel botaniste suédois a créé la classification binomiale des espèces ?",
-      "options": [
-        "Jean-Baptiste Lamarck",
-        "Carl von Linné",
-        "Georges Cuvier",
-        "Gregor Mendel"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1781237079979_3_ytj1ep",
-      "addedAt": "2026-06-12T04:04:39.979Z"
-    },
-    {
-      "question": "Quel empire romain a été fondé par Auguste en 27 avant J.-C. ?",
-      "options": [
-        "République romaine",
-        "Empire romain d'Occident",
-        "Principat",
-        "Domina"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1781237079979_4_10jouf",
-      "addedAt": "2026-06-12T04:04:39.979Z"
-    },
-    {
-      "question": "Quel fruit tropical est composé à 89% d'eau et aide à l'hydratation ?",
-      "options": [
-        "Papaye",
-        "Noix de coco",
-        "Pastèque",
-        "Mangue"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1781237079979_5_2l3vob",
-      "addedAt": "2026-06-12T04:04:39.979Z"
-    },
-    {
-      "question": "Quel mouvement littéraire était centré sur l'expression des émotions au XIXe siècle ?",
-      "options": [
-        "Classicisme",
-        "Romantisme",
-        "Réalisme",
-        "Naturalisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1781237079979_6_s382p7",
-      "addedAt": "2026-06-12T04:04:39.979Z"
-    },
-    {
-      "question": "Quel sport d'hiver utilise un bâton et un palet sur la glace ?",
-      "options": [
-        "Patinage de vitesse",
-        "Hockey sur glace",
-        "Curling",
-        "Bobsleigh"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1781237079979_7_1tuvmv",
-      "addedAt": "2026-06-12T04:04:39.979Z"
-    },
-    {
-      "question": "Quel architecte catalan a conçu la Sagrada Familia à Barcelone ?",
-      "options": [
-        "Pablo Picasso",
-        "Joan Miró",
-        "Antoni Gaudí",
-        "Salvador Dalí"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1781237079979_8_7y9nfo",
-      "addedAt": "2026-06-12T04:04:39.979Z"
-    },
-    {
-      "question": "Quel pays est le plus grand producteur de riz au monde ?",
-      "options": [
-        "Thaïlande",
-        "Vietnam",
-        "Chine",
-        "Inde"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1781237079979_9_tfysk8",
-      "addedAt": "2026-06-12T04:04:39.979Z"
     }
   ],
   "poolSize": 310
