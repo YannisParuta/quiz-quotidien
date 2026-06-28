@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur autrichien a écrit les symphonies 'Jupiter' et 'Linz' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Franz Joseph Haydn",
+        "Johann Sebastian Bach"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782618942929_0_vj5clg",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
+      "question": "En quel année la Muraille de Chine a-t-elle été inscrite au patrimoine mondial de l'UNESCO ?",
+      "options": [
+        "1987",
+        "1992",
+        "1995",
+        "2001"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1782618942929_1_4m86z6",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
+      "question": "Quel célèbre tableau de Salvador Dalí dépeint des montres molles ?",
+      "options": [
+        "Le Rêve",
+        "La Persistance de la mémoire",
+        "Métamorphose de Narcisse",
+        "L'Éléphant aux pattes longues"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1782618942929_2_pnuuiq",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
+      "question": "Combien de tentacules possède une pieuvre adulte ?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1782618942929_3_88bxw2",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
+      "question": "Quel sportif français a remporté 7 titres de champion du monde en Formule 1 ?",
+      "options": [
+        "Alain Prost",
+        "Jules Bianchi",
+        "Patrick Tambay",
+        "Autres"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1782618942929_4_1izj2w",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
+      "question": "Quel est le seul continent sans pays indépendant ?",
+      "options": [
+        "Groenland",
+        "Antarctique",
+        "Océanie",
+        "Micronésie"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1782618942929_5_bn13sa",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
+      "question": "Quel réalisateur a tourné 'Inception' et 'Interstellar' ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "James Cameron"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1782618942929_6_oe752u",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
+      "question": "Quel empire antique a construit le Colosseum de Rome ?",
+      "options": [
+        "Empire romain tardif",
+        "République romaine",
+        "Empire romain classique",
+        "Royaume de Rome"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1782618942929_7_t6dgss",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
+      "question": "Quelle est la plus haute montagne d'Afrique ?",
+      "options": [
+        "Mont Kenya",
+        "Kilimandjaro",
+        "Pic de Ras Dashen",
+        "Mont Stanley"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1782618942929_8_6ulgx6",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
+      "question": "Quel langage de balisage est utilisé pour structurer les pages web ?",
+      "options": [
+        "CSS",
+        "Python",
+        "HTML",
+        "JavaScript"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1782618942929_9_07hsjx",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
+      "question": "Quel type de piment est utilisé pour préparer le piment d'Espelette en France ?",
+      "options": [
+        "Piment jalapeño",
+        "Piment Espelette",
+        "Piment habanero",
+        "Piment oiseau"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1782618942929_10_23o829",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
+      "question": "En géométrie, combien de degrés mesure la somme des angles d'un triangle ?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1782618942929_11_tbr1zv",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
+      "question": "Quel impressionniste français a peint une série de 'Nymphéas' ?",
+      "options": [
+        "Paul Cézanne",
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Camille Pissarro"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1782618942929_12_jhpu6q",
+      "addedAt": "2026-06-28T03:55:42.929Z"
+    },
+    {
       "question": "Quel peintre français est célèbre pour ses Nymphéas ?",
       "options": [
         "Paul Cézanne",
@@ -3860,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1781396937947_0_jtbbwv",
       "addedAt": "2026-06-14T00:28:57.948Z"
-    },
+    }
+  ],
+  "version": 286,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-28T03:55:42.930Z",
+  "archivedQuestions": [
     {
       "question": "Quel roman de Jane Austen raconte l'histoire d'Elizabeth Bennet ?",
       "options": [
@@ -4028,89 +4202,6 @@
       "correctAnswer": 1,
       "category": "Histoire",
       "id": "q_1781310269537_0_s9a5uz",
-      "addedAt": "2026-06-13T00:24:29.537Z"
-    }
-  ],
-  "version": 285,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-28T00:36:51.005Z",
-  "archivedQuestions": [
-    {
-      "question": "En quel année l'homme a-t-il marché sur la Lune pour la première fois ?",
-      "options": [
-        "1965",
-        "1967",
-        "1969",
-        "1971"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1781310269537_1_ym4e20",
-      "addedAt": "2026-06-13T00:24:29.537Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde en termes de superficie ?",
-      "options": [
-        "Monaco",
-        "San Marin",
-        "Cité du Vatican",
-        "Liechtenstein"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1781310269537_2_a7lwu4",
-      "addedAt": "2026-06-13T00:24:29.537Z"
-    },
-    {
-      "question": "Quel célèbre architect espagnol a conçu la Sagrada Familia ?",
-      "options": [
-        "Pablo Picasso",
-        "Antoni Gaudí",
-        "Salvador Dalí",
-        "Joan Miró"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1781310269537_3_qkokm0",
-      "addedAt": "2026-06-13T00:24:29.537Z"
-    },
-    {
-      "question": "Quel sport est désigné par le terme 'football américain' ?",
-      "options": [
-        "Soccer",
-        "Rugby américain",
-        "Football",
-        "Gridiron"
-      ],
-      "correctAnswer": 3,
-      "category": "Sport",
-      "id": "q_1781310269537_4_m9rvnq",
-      "addedAt": "2026-06-13T00:24:29.537Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé le film 'Inception' ?",
-      "options": [
-        "Steven Spielberg",
-        "Christopher Nolan",
-        "Martin Scorsese",
-        "Denis Villeneuve"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1781310269537_5_bz9dog",
-      "addedAt": "2026-06-13T00:24:29.537Z"
-    },
-    {
-      "question": "Quel pays est le plus grand producteur de café au monde ?",
-      "options": [
-        "Colombie",
-        "Indonésie",
-        "Brésil",
-        "Vietnam"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1781310269537_6_j4ft65",
       "addedAt": "2026-06-13T00:24:29.537Z"
     }
   ],
