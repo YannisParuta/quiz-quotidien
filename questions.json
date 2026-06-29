@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "En quelle année l'homme a-t-il marché pour la première fois sur la Lune ?",
+      "options": [
+        "1965",
+        "1969",
+        "1971",
+        "1973"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782705680886_0_hjqp8l",
+      "addedAt": "2026-06-29T04:01:20.887Z"
+    },
+    {
+      "question": "Quel gaz constitue environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1782705680887_1_hvuirg",
+      "addedAt": "2026-06-29T04:01:20.887Z"
+    },
+    {
+      "question": "Quel composant électronique a été inventé par le Britannique John Logie Baird ?",
+      "options": [
+        "L'ampoule électrique",
+        "La télévision",
+        "La radio",
+        "Le téléphone"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1782705680887_2_8fureh",
+      "addedAt": "2026-06-29T04:01:20.887Z"
+    },
+    {
+      "question": "En médecine, comment appelle-t-on l'inflammation des articulations ?",
+      "options": [
+        "Arthrose",
+        "Arthrite",
+        "Ostéoporose",
+        "Tendinite"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782705680887_3_v8o7os",
+      "addedAt": "2026-06-29T04:01:20.887Z"
+    },
+    {
+      "question": "Quel mathématicien grec ancien a établi le théorème sur les triangles rectangles ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1782705680887_4_qx5j41",
+      "addedAt": "2026-06-29T04:01:20.887Z"
+    },
+    {
+      "question": "Quel instrument à vent est typique de la musique jazz ?",
+      "options": [
+        "Violon",
+        "Saxophone",
+        "Flûte traversière",
+        "Cor français"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782705680887_5_no7kuv",
+      "addedAt": "2026-06-29T04:01:20.887Z"
+    },
+    {
+      "question": "Quel animal est le plus rapide sur terre en vitesse de pointe ?",
+      "options": [
+        "Cheval",
+        "Lièvre",
+        "Guépard",
+        "Antilope pronghorn"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1782705680887_6_oxztjy",
+      "addedAt": "2026-06-29T04:01:20.887Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la saga 'The Lord of the Rings' au cinéma ?",
+      "options": [
+        "Steven Spielberg",
+        "Peter Jackson",
+        "Christopher Nolan",
+        "James Cameron"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1782705680887_7_88ixgu",
+      "addedAt": "2026-06-29T04:01:20.887Z"
+    },
+    {
       "question": "Quel compositeur autrichien a écrit la symphonie 'Ainsi parlait Zarathoustra' ?",
       "options": [
         "Wolfgang Amadeus Mozart",
@@ -3925,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1781497336586_9_lubji9",
       "addedAt": "2026-06-15T04:22:16.586Z"
-    },
+    }
+  ],
+  "version": 288,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-29T04:01:20.887Z",
+  "archivedQuestions": [
     {
       "question": "Quel footballeur a remporté le Ballon d'Or en 2023 ?",
       "options": [
@@ -4029,167 +4138,6 @@
       "category": "Art",
       "id": "q_1781483377669_6_ps050u",
       "addedAt": "2026-06-15T00:29:37.669Z"
-    }
-  ],
-  "version": 287,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-29T00:37:22.985Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel virus informatique a été découvert en 2010 et affectait les systèmes nucléaires ?",
-      "options": [
-        "WannaCry",
-        "Stuxnet",
-        "Conficker",
-        "ILOVEYOU"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1781483377669_7_bv1lt8",
-      "addedAt": "2026-06-15T00:29:37.669Z"
-    },
-    {
-      "question": "Quel est le plus profond océan du monde ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1781410270180_0_kztr4y",
-      "addedAt": "2026-06-14T04:11:10.181Z"
-    },
-    {
-      "question": "Combien de cordes possède un violon classique ?",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1781410270181_1_mhluoz",
-      "addedAt": "2026-06-14T04:11:10.181Z"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de rugby à XV ?",
-      "options": [
-        "13",
-        "15",
-        "17",
-        "20"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1781410270181_2_6dzwfa",
-      "addedAt": "2026-06-14T04:11:10.181Z"
-    },
-    {
-      "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
-      "options": [
-        "Oxygène",
-        "Azote",
-        "Dioxyde de carbone",
-        "Hydrogène"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1781410270181_3_8umn9b",
-      "addedAt": "2026-06-14T04:11:10.181Z"
-    },
-    {
-      "question": "En quel siècle la Révolution française s'est-elle déroulée ?",
-      "options": [
-        "XVIIe siècle",
-        "XVIIIe siècle",
-        "XIXe siècle",
-        "XXe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1781410270181_4_v6kw9o",
-      "addedAt": "2026-06-14T04:11:10.181Z"
-    },
-    {
-      "question": "Quel cinéaste français a réalisé 'La Règle du jeu', considéré comme un chef-d'œuvre du cinéma ?",
-      "options": [
-        "François Truffaut",
-        "Jean-Luc Godard",
-        "Jean Renoir",
-        "Claude Chabrol"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1781410270181_5_qkdq8s",
-      "addedAt": "2026-06-14T04:11:10.181Z"
-    },
-    {
-      "question": "Quel type de cuisine est caractérisé par l'utilisation du five-spice (cinq-épices) ?",
-      "options": [
-        "Cuisine indienne",
-        "Cuisine thaïlandaise",
-        "Cuisine chinoise",
-        "Cuisine vietnamienne"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1781410270181_6_11a0kj",
-      "addedAt": "2026-06-14T04:11:10.181Z"
-    },
-    {
-      "question": "Quel mammifère marin est le plus rapide ?",
-      "options": [
-        "Dauphin",
-        "Otarie",
-        "Épaulard",
-        "Marsouin"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1781410270181_7_e81f1b",
-      "addedAt": "2026-06-14T04:11:10.181Z"
-    },
-    {
-      "question": "Quel mathématicien suisse a travaillé sur la théorie des graphes et les ponts de Königsberg ?",
-      "options": [
-        "Carl Friedrich Gauss",
-        "Leonhard Euler",
-        "Jacob Bernoulli",
-        "Daniel Bernoulli"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1781410270181_8_hm2o2g",
-      "addedAt": "2026-06-14T04:11:10.181Z"
-    },
-    {
-      "question": "Quel est le langage de programmation créé par Guido van Rossum en 1991 ?",
-      "options": [
-        "Ruby",
-        "Python",
-        "Perl",
-        "JavaScript"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1781410270181_9_03yllx",
-      "addedAt": "2026-06-14T04:11:10.181Z"
-    },
-    {
-      "question": "Quel musique est le genre musical caractérisé par l'improvisation et le swing ?",
-      "options": [
-        "Blues",
-        "Jazz",
-        "Reggae",
-        "Folk"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1781396937947_0_jtbbwv",
-      "addedAt": "2026-06-14T00:28:57.948Z"
     }
   ],
   "poolSize": 310
