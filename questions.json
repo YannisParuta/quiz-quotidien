@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur autrichien a écrit la symphonie 'Ainsi parlait Zarathoustra' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Richard Strauss",
+        "Gustav Mahler",
+        "Anton Bruckner"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782693442984_0_yxvd1q",
+      "addedAt": "2026-06-29T00:37:22.984Z"
+    },
+    {
+      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1965",
+        "1969",
+        "1971",
+        "1968"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782693442984_1_byxlvs",
+      "addedAt": "2026-06-29T00:37:22.984Z"
+    },
+    {
+      "question": "Quelle est la vitesse du son dans l'air à température ambiante ?",
+      "options": [
+        "200 m/s",
+        "340 m/s",
+        "500 m/s",
+        "100 m/s"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782693442984_2_xsfjrk",
+      "addedAt": "2026-06-29T00:37:22.984Z"
+    },
+    {
+      "question": "Quel artiste espagnol a fondé le mouvement du Cubisme ?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Juan Gris"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1782693442984_3_rl1nu8",
+      "addedAt": "2026-06-29T00:37:22.984Z"
+    },
+    {
+      "question": "En quel année l'Afrique du Sud a-t-elle aboli l'apartheid ?",
+      "options": [
+        "1990",
+        "1994",
+        "1992",
+        "1996"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782693442984_4_iborfd",
+      "addedAt": "2026-06-29T00:37:22.984Z"
+    },
+    {
+      "question": "Quel type d'animal est un axolotl ?",
+      "options": [
+        "Un reptile",
+        "Un amphibien",
+        "Un poisson",
+        "Un mammifère"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1782693442984_5_ri8dyf",
+      "addedAt": "2026-06-29T00:37:22.984Z"
+    },
+    {
+      "question": "Quel algorithme de tri est en moyenne O(n log n) ?",
+      "options": [
+        "Tri à bulles",
+        "Quicksort",
+        "Tri par insertion",
+        "Tri par sélection"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1782693442984_6_w4bzz3",
+      "addedAt": "2026-06-29T00:37:22.984Z"
+    },
+    {
+      "question": "Quel chef pâtissier français a inventé le macaron en forme actuelle ?",
+      "options": [
+        "Pierre Hermé",
+        "Ladurée",
+        "Jacques Genin",
+        "Christophe Adam"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1782693442984_7_bvx6e8",
+      "addedAt": "2026-06-29T00:37:22.984Z"
+    },
+    {
+      "question": "Quel dramatique grec antique a écrit 'Antigone' ?",
+      "options": [
+        "Sophocle",
+        "Eschyle",
+        "Euripide",
+        "Aristophane"
+      ],
+      "correctAnswer": 0,
+      "category": "Littérature",
+      "id": "q_1782693442984_8_egh5d1",
+      "addedAt": "2026-06-29T00:37:22.984Z"
+    },
+    {
+      "question": "Quel nombre prime suit immédiatement 97 ?",
+      "options": [
+        "99",
+        "101",
+        "103",
+        "107"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1782693442984_9_7g812o",
+      "addedAt": "2026-06-29T00:37:22.984Z"
+    },
+    {
+      "question": "Quel réalisateur coréen a remporté la Palme d'Or à Cannes en 2019 pour 'Parasite' ?",
+      "options": [
+        "Lee Chang-dong",
+        "Bong Joon-ho",
+        "Park Chan-wook",
+        "Kim Ki-duk"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1782693442984_10_e7pdez",
+      "addedAt": "2026-06-29T00:37:22.984Z"
+    },
+    {
+      "question": "Quel est le seul animal mammifère capable de voler naturellement ?",
+      "options": [
+        "L'écureuil volant",
+        "La chauve-souris",
+        "Le polatouche",
+        "L'engoulevent"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1782693442984_11_w72g6m",
+      "addedAt": "2026-06-29T00:37:22.984Z"
+    },
+    {
       "question": "Quel compositeur autrichien a écrit les symphonies 'Jupiter' et 'Linz' ?",
       "options": [
         "Ludwig van Beethoven",
@@ -3873,7 +4029,12 @@
       "category": "Art",
       "id": "q_1781483377669_6_ps050u",
       "addedAt": "2026-06-15T00:29:37.669Z"
-    },
+    }
+  ],
+  "version": 287,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-29T00:37:22.985Z",
+  "archivedQuestions": [
     {
       "question": "Quel virus informatique a été découvert en 2010 et affectait les systèmes nucléaires ?",
       "options": [
@@ -4029,180 +4190,6 @@
       "category": "Musique",
       "id": "q_1781396937947_0_jtbbwv",
       "addedAt": "2026-06-14T00:28:57.948Z"
-    }
-  ],
-  "version": 286,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-28T03:55:42.930Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel roman de Jane Austen raconte l'histoire d'Elizabeth Bennet ?",
-      "options": [
-        "Raison et Sentiments",
-        "Orgueil et Préjugés",
-        "Persuasion",
-        "Emma"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1781396937948_1_v005ok",
-      "addedAt": "2026-06-14T00:28:57.948Z"
-    },
-    {
-      "question": "Combien de joueurs compose une équipe de volleyball sur le terrain ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "9"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1781396937948_2_i9tgbc",
-      "addedAt": "2026-06-14T00:28:57.948Z"
-    },
-    {
-      "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
-      "options": [
-        "Auckland",
-        "Christchurch",
-        "Wellington",
-        "Dunedin"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1781396937948_3_l6ilcm",
-      "addedAt": "2026-06-14T00:28:57.948Z"
-    },
-    {
-      "question": "En mathématiques, quel est le nombre de Fibonacci qui suit 5 et 8 ?",
-      "options": [
-        "11",
-        "12",
-        "13",
-        "14"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1781396937948_4_1r4aon",
-      "addedAt": "2026-06-14T00:28:57.948Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide sur terre ?",
-      "options": [
-        "Antilope",
-        "Guépard",
-        "Autruche",
-        "Lièvre"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1781396937948_5_act0i7",
-      "addedAt": "2026-06-14T00:28:57.948Z"
-    },
-    {
-      "question": "Quel protocole web sécurisé utilise le chiffrement pour protéger les données ?",
-      "options": [
-        "HTTP",
-        "FTP",
-        "HTTPS",
-        "SMTP"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1781396937948_6_v5qhsi",
-      "addedAt": "2026-06-14T00:28:57.948Z"
-    },
-    {
-      "question": "Quel pays produit le plus de cacao au monde ?",
-      "options": [
-        "Cameroun",
-        "Côte d'Ivoire",
-        "Ghana",
-        "Équateur"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1781322754833_0_11jbel",
-      "addedAt": "2026-06-13T03:52:34.834Z"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de volley-ball sur le terrain ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1781322754834_1_yojj0k",
-      "addedAt": "2026-06-13T03:52:34.834Z"
-    },
-    {
-      "question": "Quel animal marin est le plus rapide du monde ?",
-      "options": [
-        "Baleine bleue",
-        "Dauphin",
-        "Espadon voilier",
-        "Requin blanc"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1781322754834_2_jsbxxl",
-      "addedAt": "2026-06-13T03:52:34.834Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la franchise 'Matrix' ?",
-      "options": [
-        "James Cameron",
-        "Les Wachowski",
-        "Steven Spielberg",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1781322754834_3_lwijkk",
-      "addedAt": "2026-06-13T03:52:34.834Z"
-    },
-    {
-      "question": "Quel protocole de transfert de fichiers est l'ancêtre d'HTTP ?",
-      "options": [
-        "SMTP",
-        "FTP",
-        "DNS",
-        "DHCP"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1781322754834_4_kkejkn",
-      "addedAt": "2026-06-13T03:52:34.834Z"
-    },
-    {
-      "question": "Combien de continents compte notre planète ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1781322754834_5_9s6v2e",
-      "addedAt": "2026-06-13T03:52:34.834Z"
-    },
-    {
-      "question": "Quel philosophe grec ancien a fondé l'Académie à Athènes ?",
-      "options": [
-        "Socrate",
-        "Platon",
-        "Aristote",
-        "Épicure"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1781310269537_0_s9a5uz",
-      "addedAt": "2026-06-13T00:24:29.537Z"
     }
   ],
   "poolSize": 310
