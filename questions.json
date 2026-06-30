@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel mathématicien suisse a introduit la notation moderne de l'intégrale ?",
+      "options": [
+        "Leonhard Euler",
+        "Gottfried Leibniz",
+        "Isaac Newton",
+        "Carl Friedrich Gauss"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1782790972985_0_90lew8",
+      "addedAt": "2026-06-30T03:42:52.985Z"
+    },
+    {
+      "question": "Quel peintre français connu pour ses nymphéas a créé une série de 250 toiles ?",
+      "options": [
+        "Auguste Renoir",
+        "Paul Cézanne",
+        "Claude Monet",
+        "Henri Matisse"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1782790972985_1_z6n1fc",
+      "addedAt": "2026-06-30T03:42:52.985Z"
+    },
+    {
+      "question": "Combien de cordes possède traditionnellement une guitare classique ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782790972985_2_srfi7l",
+      "addedAt": "2026-06-30T03:42:52.985Z"
+    },
+    {
+      "question": "Quel élément chimique a le numéro atomique 79 ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "Le cuivre",
+        "Le platine"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782790972985_3_7jeqj1",
+      "addedAt": "2026-06-30T03:42:52.985Z"
+    },
+    {
+      "question": "En quelle année a été inventé le télescope par Galilée ?",
+      "options": [
+        "1590",
+        "1608",
+        "1610",
+        "1620"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1782790972985_4_2xt18v",
+      "addedAt": "2026-06-30T03:42:52.985Z"
+    },
+    {
+      "question": "Quel animal est le plus rapide sur terre ?",
+      "options": [
+        "La gazelle",
+        "Le guépard",
+        "L'antilope",
+        "Le lièvre"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1782790972985_5_44rbai",
+      "addedAt": "2026-06-30T03:42:52.985Z"
+    },
+    {
+      "question": "Combien de pyramides principales composent le complexe de Gizeh ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782790972985_6_lm6ymb",
+      "addedAt": "2026-06-30T03:42:52.985Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'Pulp Fiction' - attendez, c'est incorrect. Qui a réalisé 'Léon : l'enfant' ?",
+      "options": [
+        "Jean-Luc Godard",
+        "Luc Besson",
+        "François Truffaut",
+        "Jacques Tati"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1782790972985_7_jw6whh",
+      "addedAt": "2026-06-30T03:42:52.985Z"
+    },
+    {
+      "question": "Quel sport de raquette est joué sur un terrain de 17 mètres de longueur et 8,2 mètres de largeur ?",
+      "options": [
+        "Le squash",
+        "Le badminton",
+        "Le tennis",
+        "Le tennis de table"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1782790972985_8_zu3yru",
+      "addedAt": "2026-06-30T03:42:52.985Z"
+    },
+    {
+      "question": "Quel fromage français à pâte persillée provient de la région de Roquefort ?",
+      "options": [
+        "Le Camembert",
+        "Le Roquefort",
+        "L'Époisses",
+        "Le Comté"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1782790972985_9_twjq5f",
+      "addedAt": "2026-06-30T03:42:52.985Z"
+    },
+    {
+      "question": "Quel continent est le plus élevé en altitude moyenne ?",
+      "options": [
+        "L'Asie",
+        "L'Afrique",
+        "L'Antarctique",
+        "L'Amérique du Sud"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1782790972985_10_qadtva",
+      "addedAt": "2026-06-30T03:42:52.985Z"
+    },
+    {
+      "question": "Quel scientifique a développé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Jean-Baptiste Lamarck",
+        "Charles Darwin",
+        "Thomas Huxley",
+        "Ernst Haeckel"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782790972985_11_y56g1q",
+      "addedAt": "2026-06-30T03:42:52.985Z"
+    },
+    {
       "question": "Quel est le plus petit pays du monde en termes de population ?",
       "options": [
         "Monaco",
@@ -3873,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1781583385655_8_25tg5a",
       "addedAt": "2026-06-16T04:16:25.655Z"
-    },
+    }
+  ],
+  "version": 290,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-06-30T03:42:52.986Z",
+  "archivedQuestions": [
     {
       "question": "Quel écrivain français a rédigé 'Les Misérables' ?",
       "options": [
@@ -4028,128 +4189,6 @@
       "correctAnswer": 2,
       "category": "Science",
       "id": "q_1781497336586_0_eq3oqb",
-      "addedAt": "2026-06-15T04:22:16.586Z"
-    }
-  ],
-  "version": 289,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-06-30T00:23:11.089Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus grand lac d'eau douce du monde ?",
-      "options": [
-        "Lac Baïkal",
-        "Lac Supérieur",
-        "Lac Victoria",
-        "Lac Tanganyika"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1781497336586_1_q9v4du",
-      "addedAt": "2026-06-15T04:22:16.586Z"
-    },
-    {
-      "question": "Quel artiste français a fondé le mouvement du Fauvisme ?",
-      "options": [
-        "Pablo Picasso",
-        "Henri Matisse",
-        "Georges Braque",
-        "Maurice de Vlaminck"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1781497336586_2_5ogmv2",
-      "addedAt": "2026-06-15T04:22:16.586Z"
-    },
-    {
-      "question": "En quelle année la Première Guerre mondiale s'est-elle terminée ?",
-      "options": [
-        "1917",
-        "1918",
-        "1919",
-        "1920"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1781497336586_3_sjipmg",
-      "addedAt": "2026-06-15T04:22:16.586Z"
-    },
-    {
-      "question": "Quel est l'os le plus long du corps humain ?",
-      "options": [
-        "Le fémur",
-        "Le tibia",
-        "L'humérus",
-        "Le péroné"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1781497336586_4_2am5y8",
-      "addedAt": "2026-06-15T04:22:16.586Z"
-    },
-    {
-      "question": "Quel réalisateur italien a créé 'La Vita è bella' (La Vie est belle) ?",
-      "options": [
-        "Sergio Leone",
-        "Roberto Benigni",
-        "Federico Fellini",
-        "Pier Paolo Pasolini"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1781497336586_5_pl3dh4",
-      "addedAt": "2026-06-15T04:22:16.586Z"
-    },
-    {
-      "question": "Quel est le plus grand pays du monde par superficie ?",
-      "options": [
-        "Canada",
-        "Chine",
-        "Russie",
-        "États-Unis"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1781497336586_6_dkjho2",
-      "addedAt": "2026-06-15T04:22:16.586Z"
-    },
-    {
-      "question": "Quel légume est traditionnellement utilisé pour Halloween ?",
-      "options": [
-        "La courge butternut",
-        "La citrouille",
-        "Le potimarron",
-        "Le potiron"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1781497336586_7_tvwdo9",
-      "addedAt": "2026-06-15T04:22:16.586Z"
-    },
-    {
-      "question": "Quel mathématicien suisse a inventé les logarithmes ?",
-      "options": [
-        "Leonhard Euler",
-        "Daniel Bernoulli",
-        "John Napier",
-        "Jacob Bernoulli"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1781497336586_8_u2sbte",
-      "addedAt": "2026-06-15T04:22:16.586Z"
-    },
-    {
-      "question": "Quel animal marin peut voir en ultraviolet ?",
-      "options": [
-        "La baleine bleue",
-        "La pieuvre",
-        "Le dauphin",
-        "La raie manta"
-      ],
-      "correctAnswer": 3,
-      "category": "Nature",
-      "id": "q_1781497336586_9_lubji9",
       "addedAt": "2026-06-15T04:22:16.586Z"
     }
   ],
