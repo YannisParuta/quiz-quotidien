@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel mathématicien a développé le système de coordonnées cartésiennes ?",
+      "options": [
+        "Isaac Newton",
+        "René Descartes",
+        "Gottfried Leibniz",
+        "Pierre de Fermat"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1782878352440_0_5pfvnp",
+      "addedAt": "2026-07-01T03:59:12.440Z"
+    },
+    {
+      "question": "Quel type de cellule produit les anticorps dans le système immunitaire ?",
+      "options": [
+        "Lymphocyte T",
+        "Lymphocyte B",
+        "Neutrophile",
+        "Globule rouge"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782878352440_1_ctbpp3",
+      "addedAt": "2026-07-01T03:59:12.440Z"
+    },
+    {
+      "question": "Quel musée parisien abrite la Victoire de Samothrace ?",
+      "options": [
+        "Musée de Montmartre",
+        "Musée du Louvre",
+        "Musée d'Orsay",
+        "Musée Rodin"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1782878352440_2_d09fb4",
+      "addedAt": "2026-07-01T03:59:12.440Z"
+    },
+    {
+      "question": "Quel athlète jamaïcain est considéré comme le plus rapide du monde ?",
+      "options": [
+        "Yohan Blake",
+        "Usain Bolt",
+        "Asafa Powell",
+        "Nesta Carter"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1782878352440_3_or75mt",
+      "addedAt": "2026-07-01T03:59:12.440Z"
+    },
+    {
+      "question": "Quel cinéaste suédois a réalisé 'Le Septième Sceau' en 1957 ?",
+      "options": [
+        "Ingmar Bergman",
+        "Carl Theodor Dreyer",
+        "Mikael Håfström",
+        "Lukas Moodysson"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1782878352440_4_3dt0mz",
+      "addedAt": "2026-07-01T03:59:12.440Z"
+    },
+    {
+      "question": "Quel système de classification des êtres vivants a été créé par Carl Linné ?",
+      "options": [
+        "Classification périodique",
+        "Taxonomie binomiale",
+        "Arbre phylogénétique",
+        "Nomenclature chimique"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1782878352440_5_vekeh3",
+      "addedAt": "2026-07-01T03:59:12.440Z"
+    },
+    {
+      "question": "Quel instrument de musique est caractéristique de la musique grecque traditionnelle ?",
+      "options": [
+        "Bouzouki",
+        "Oud",
+        "Sitar",
+        "Didgeridoo"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1782878352440_6_2is3v4",
+      "addedAt": "2026-07-01T03:59:12.440Z"
+    },
+    {
+      "question": "Quel plat français est préparé avec des escargots comme ingrédient principal ?",
+      "options": [
+        "Ratatouille",
+        "Escargots à la bourguignonne",
+        "Bouillabaisse",
+        "Cassoulet"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1782878352440_7_5rakzj",
+      "addedAt": "2026-07-01T03:59:12.440Z"
+    },
+    {
+      "question": "En quelle année la chute du Mur de Berlin s'est-elle produite ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782878352440_8_72oqw4",
+      "addedAt": "2026-07-01T03:59:12.440Z"
+    },
+    {
+      "question": "Quel est le plus grand lac d'eau douce du monde ?",
+      "options": [
+        "Lac Baïkal",
+        "Lac Supérieur",
+        "Lac Victoria",
+        "Lac Tanganyika"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1782878352440_9_xoxf5v",
+      "addedAt": "2026-07-01T03:59:12.440Z"
+    },
+    {
+      "question": "Quel navigateur internet a été le plus populaire dans les années 1990 et 2000 ?",
+      "options": [
+        "Firefox",
+        "Internet Explorer",
+        "Google Chrome",
+        "Safari"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1782878352440_10_839g4h",
+      "addedAt": "2026-07-01T03:59:12.440Z"
+    },
+    {
       "question": "Quel peintre impressionniste est connu pour ses tableaux de nénuphars ?",
       "options": [
         "Claude Monet",
@@ -3886,7 +4029,12 @@
       "category": "Science",
       "id": "q_1781655346849_2_9iu68i",
       "addedAt": "2026-06-17T00:15:46.849Z"
-    },
+    }
+  ],
+  "version": 292,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-01T03:59:12.441Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le plus grand fleuve d'Afrique par le débit d'eau ?",
       "options": [
@@ -4028,115 +4176,6 @@
       "correctAnswer": 0,
       "category": "Géographie",
       "id": "q_1781583385655_0_7qu2wr",
-      "addedAt": "2026-06-16T04:16:25.655Z"
-    }
-  ],
-  "version": 291,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-01T00:58:50.865Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel gaz est produit par les plantes lors de la photosynthèse ?",
-      "options": [
-        "Le dioxyde de carbone",
-        "L'oxygène",
-        "L'azote",
-        "L'hydrogène"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781583385655_1_eh61jq",
-      "addedAt": "2026-06-16T04:16:25.655Z"
-    },
-    {
-      "question": "Combien de livres composent la série 'Harry Potter' ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1781583385655_2_s5idsp",
-      "addedAt": "2026-06-16T04:16:25.655Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre actuellement vivant ?",
-      "options": [
-        "Le rhinocéros",
-        "L'hippopotame",
-        "L'éléphant d'Afrique",
-        "La girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1781583385655_3_oc1zyh",
-      "addedAt": "2026-06-16T04:16:25.655Z"
-    },
-    {
-      "question": "Qui a composé la symphonie 'Ode à la Joie' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Johannes Brahms",
-        "Franz Schubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1781583385655_4_egqql5",
-      "addedAt": "2026-06-16T04:16:25.655Z"
-    },
-    {
-      "question": "En quelle année la Muraille de Berlin a-t-elle été construite ?",
-      "options": [
-        "1956",
-        "1959",
-        "1961",
-        "1963"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1781583385655_5_nk1uwl",
-      "addedAt": "2026-06-16T04:16:25.655Z"
-    },
-    {
-      "question": "Quel est le plus grand récif corallien du monde ?",
-      "options": [
-        "La Grande Barrière de Corail",
-        "Le récif de Mesoamerican",
-        "Le Triangle de Corail",
-        "Le récif de Palau"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1781583385655_6_xpgqsj",
-      "addedAt": "2026-06-16T04:16:25.655Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé 'Le Parrain' en 1972 ?",
-      "options": [
-        "Steven Spielberg",
-        "Francis Ford Coppola",
-        "Martin Scorsese",
-        "Alfred Hitchcock"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1781583385655_7_44peu1",
-      "addedAt": "2026-06-16T04:16:25.655Z"
-    },
-    {
-      "question": "Quel micro-organisme cause la fermentation du vin ?",
-      "options": [
-        "Les bactéries",
-        "Les levures",
-        "Les moisissures",
-        "Les virus"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1781583385655_8_25tg5a",
       "addedAt": "2026-06-16T04:16:25.655Z"
     }
   ],
