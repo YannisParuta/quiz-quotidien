@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Émile Zola",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1782950616937_0_2lfwrh",
+      "addedAt": "2026-07-02T00:03:36.937Z"
+    },
+    {
+      "question": "En quel année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1965",
+        "1969",
+        "1971",
+        "1973"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782950616937_1_yk59z6",
+      "addedAt": "2026-07-02T00:03:36.937Z"
+    },
+    {
+      "question": "Quel scientifique a découvert la pénicilline ?",
+      "options": [
+        "Marie Curie",
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Joseph Lister"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1782950616937_2_be4mft",
+      "addedAt": "2026-07-02T00:03:36.937Z"
+    },
+    {
+      "question": "Quel instrument de musique a été inventé par Adolphe Sax ?",
+      "options": [
+        "Le xylophone",
+        "Le saxophone",
+        "L'accordéon",
+        "L'harmonica"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782950616937_3_gvkav6",
+      "addedAt": "2026-07-02T00:03:36.937Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'Le Cinquième Élément' ?",
+      "options": [
+        "Luc Besson",
+        "Michel Gondry",
+        "Denis Villeneuve",
+        "Jacques Tati"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1782950616937_4_3qiyoj",
+      "addedAt": "2026-07-02T00:03:36.937Z"
+    },
+    {
+      "question": "Combien de cordes possède un violon classique ?",
+      "options": [
+        "3 cordes",
+        "4 cordes",
+        "5 cordes",
+        "6 cordes"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782950616937_5_fbih69",
+      "addedAt": "2026-07-02T00:03:36.937Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère marin du monde ?",
+      "options": [
+        "Le requin blanc",
+        "Le dauphin",
+        "La baleine bleue",
+        "L'orque"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1782950616937_6_bfunn8",
+      "addedAt": "2026-07-02T00:03:36.937Z"
+    },
+    {
+      "question": "En quelle année la Grande Muraille de Chine a-t-elle été construite ?",
+      "options": [
+        "500 avant J.C.",
+        "1000 après J.C.",
+        "1500 après J.C.",
+        "1800 après J.C."
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1782950616937_7_b0lotd",
+      "addedAt": "2026-07-02T00:03:36.937Z"
+    },
+    {
+      "question": "Quel est le plus haut building du monde ?",
+      "options": [
+        "La Tour CN",
+        "Le Burj Khalifa",
+        "La Tour de Shanghai",
+        "One World Trade Center"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1782950616937_8_1nqpxy",
+      "addedAt": "2026-07-02T00:03:36.937Z"
+    },
+    {
+      "question": "Quel artiste impressionniste français est connu pour ses nymphéas ?",
+      "options": [
+        "Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1782950616937_9_dog596",
+      "addedAt": "2026-07-02T00:03:36.937Z"
+    },
+    {
+      "question": "Quel type de sport pratique Rafael Nadal professionnellement ?",
+      "options": [
+        "Le golf",
+        "Le tennis",
+        "Le badminton",
+        "Le squash"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1782950616937_10_i9foz5",
+      "addedAt": "2026-07-02T00:03:36.937Z"
+    },
+    {
+      "question": "Quel pays est le plus grand producteur de café au monde ?",
+      "options": [
+        "La Colombie",
+        "Le Brésil",
+        "L'Éthiopie",
+        "L'Indonésie"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1782950616937_11_fdevnf",
+      "addedAt": "2026-07-02T00:03:36.937Z"
+    },
+    {
       "question": "Quel mathématicien a développé le système de coordonnées cartésiennes ?",
       "options": [
         "Isaac Newton",
@@ -3873,7 +4029,12 @@
       "category": "Science",
       "id": "q_1781669587887_2_c8p8ei",
       "addedAt": "2026-06-17T04:13:07.887Z"
-    },
+    }
+  ],
+  "version": 293,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-02T00:03:36.938Z",
+  "archivedQuestions": [
     {
       "question": "Quel compositeur allemand a écrit la Symphonie n°9 ?",
       "options": [
@@ -4029,154 +4190,6 @@
       "category": "Science",
       "id": "q_1781655346849_2_9iu68i",
       "addedAt": "2026-06-17T00:15:46.849Z"
-    }
-  ],
-  "version": 292,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-01T03:59:12.441Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus grand fleuve d'Afrique par le débit d'eau ?",
-      "options": [
-        "Le Nil",
-        "Le Niger",
-        "Le Congo",
-        "Le Zambèze"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1781655346849_3_npmq3a",
-      "addedAt": "2026-06-17T00:15:46.849Z"
-    },
-    {
-      "question": "Quel philosophe grec était un élève de Platon ?",
-      "options": [
-        "Socrate",
-        "Aristote",
-        "Pythagore",
-        "Héraclite"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1781655346849_4_7l0g8s",
-      "addedAt": "2026-06-17T00:15:46.849Z"
-    },
-    {
-      "question": "Combien de valves possède le cœur humain ?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1781655346849_5_q5l3dd",
-      "addedAt": "2026-06-17T00:15:46.849Z"
-    },
-    {
-      "question": "Quel roman de Jules Verne raconte un voyage au centre de la Terre ?",
-      "options": [
-        "Vingt mille lieues sous les mers",
-        "Voyage au centre de la Terre",
-        "L'Île mystérieuse",
-        "De la Terre à la Lune"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1781655346849_6_9jin3b",
-      "addedAt": "2026-06-17T00:15:46.849Z"
-    },
-    {
-      "question": "Quel fruit tropical est la source principale de la vitamine C dans les pays tropicaux ?",
-      "options": [
-        "La mangue",
-        "L'ananas",
-        "La goyave",
-        "La papaye"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1781655346849_7_lpi681",
-      "addedAt": "2026-06-17T00:15:46.849Z"
-    },
-    {
-      "question": "Quel footballeur français a remporté le Ballon d'Or en 2018 ?",
-      "options": [
-        "Zinédine Zidane",
-        "Thierry Henry",
-        "Luka Modrić",
-        "Pas de footballeur français"
-      ],
-      "correctAnswer": 3,
-      "category": "Sport",
-      "id": "q_1781655346849_8_n1lpr0",
-      "addedAt": "2026-06-17T00:15:46.849Z"
-    },
-    {
-      "question": "Quel type de roche est formé par le refroidissement de la lave volcanique ?",
-      "options": [
-        "Roche sédimentaire",
-        "Roche ignée",
-        "Roche métamorphique",
-        "Roche cristalline"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781655346849_9_ruidsq",
-      "addedAt": "2026-06-17T00:15:46.849Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le film 'Amélie' ?",
-      "options": [
-        "Luc Besson",
-        "Jean-Pierre Jeunet",
-        "Christophe Honoré",
-        "Michel Gondry"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1781655346849_10_up5kzi",
-      "addedAt": "2026-06-17T00:15:46.849Z"
-    },
-    {
-      "question": "Quelle protéine présente dans le lait est responsable des allergies chez certaines personnes ?",
-      "options": [
-        "La lactose",
-        "La caséine",
-        "L'albumine",
-        "La lactalbumine"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781655346849_11_1bwy97",
-      "addedAt": "2026-06-17T00:15:46.849Z"
-    },
-    {
-      "question": "Quel empire antique a construit Machu Picchu au Pérou ?",
-      "options": [
-        "L'empire aztèque",
-        "L'empire inca",
-        "L'empire maya",
-        "L'empire toltèque"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1781655346849_12_9809ti",
-      "addedAt": "2026-06-17T00:15:46.849Z"
-    },
-    {
-      "question": "Quel est le plus grand désert chaud du monde ?",
-      "options": [
-        "Le Sahara",
-        "Le Kalahari",
-        "Le désert d'Arabie",
-        "Le désert de Gobi"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1781583385655_0_7qu2wr",
-      "addedAt": "2026-06-16T04:16:25.655Z"
     }
   ],
   "poolSize": 310
