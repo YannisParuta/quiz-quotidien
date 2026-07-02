@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel philosophe grec antique a fondé l'Académie et enseigné à Platon ?",
+      "options": [
+        "Socrate",
+        "Aristote",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782963582016_0_3j467k",
+      "addedAt": "2026-07-02T03:39:42.016Z"
+    },
+    {
+      "question": "En quel année l'homme a-t-il marché pour la première fois sur la Lune ?",
+      "options": [
+        "1965",
+        "1969",
+        "1972",
+        "1975"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782963582016_1_o1z46h",
+      "addedAt": "2026-07-02T03:39:42.016Z"
+    },
+    {
+      "question": "Quel artiste néerlandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Vincent van Gogh",
+        "Paul Klee",
+        "Joan Miró"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1782963582016_2_crfuk4",
+      "addedAt": "2026-07-02T03:39:42.016Z"
+    },
+    {
+      "question": "Combien de côtés possède un octogone régulier ?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1782963582016_3_bcp4bx",
+      "addedAt": "2026-07-02T03:39:42.016Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit 'La Marche de Radetzky' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Johann Strauss Sr.",
+        "Richard Wagner",
+        "Felix Mendelssohn"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1782963582016_4_11oqp5",
+      "addedAt": "2026-07-02T03:39:42.016Z"
+    },
+    {
+      "question": "En quel siècle la Magna Carta a-t-elle été signée en Angleterre ?",
+      "options": [
+        "XIIe siècle",
+        "XIIIe siècle",
+        "XIVe siècle",
+        "XVe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1782963582016_5_ysqaod",
+      "addedAt": "2026-07-02T03:39:42.016Z"
+    },
+    {
+      "question": "Quel animal terrestre est le plus rapide au monde ?",
+      "options": [
+        "Le lion",
+        "Le guépard",
+        "L'antilope",
+        "Le cheval"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1782963582016_6_o00ntx",
+      "addedAt": "2026-07-02T03:39:42.016Z"
+    },
+    {
+      "question": "Quel type de cuisine utilise principalement le wok comme ustensile de cuisson ?",
+      "options": [
+        "La cuisine italienne",
+        "La cuisine asiatique",
+        "La cuisine française",
+        "La cuisine espagnole"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1782963582016_7_1u4obr",
+      "addedAt": "2026-07-02T03:39:42.016Z"
+    },
+    {
+      "question": "Quel musicien américain a inventé le jazz en Nouvelle-Orléans ?",
+      "options": [
+        "Miles Davis",
+        "Duke Ellington",
+        "Les musiciens de Nouvelle-Orléans collectivement",
+        "Louis Armstrong"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1782963582016_8_w7181m",
+      "addedAt": "2026-07-02T03:39:42.016Z"
+    },
+    {
+      "question": "Quel est le seul mammifère capable de voler ?",
+      "options": [
+        "L'écureuil volant",
+        "La chauve-souris",
+        "La musaraigne",
+        "Le lémur volant"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1782963582016_9_j0ca09",
+      "addedAt": "2026-07-02T03:39:42.016Z"
+    },
+    {
       "question": "Quel écrivain français a écrit 'Les Misérables' ?",
       "options": [
         "Alexandre Dumas",
@@ -3899,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1781742503094_5_v3qjfn",
       "addedAt": "2026-06-18T00:28:23.094Z"
-    },
+    }
+  ],
+  "version": 294,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-02T03:39:42.017Z",
+  "archivedQuestions": [
     {
       "question": "Quel sport olympique d'hiver combine le ski et le tir à la carabine ?",
       "options": [
@@ -4029,167 +4164,6 @@
       "category": "Science",
       "id": "q_1781669587887_2_c8p8ei",
       "addedAt": "2026-06-17T04:13:07.887Z"
-    }
-  ],
-  "version": 293,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-02T00:03:36.938Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel compositeur allemand a écrit la Symphonie n°9 ?",
-      "options": [
-        "Wolfgang Mozart",
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach",
-        "George Friedrich Händel"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1781669587887_3_54egpt",
-      "addedAt": "2026-06-17T04:13:07.887Z"
-    },
-    {
-      "question": "En quel année l'impressionnisme a-t-il officiellement émergé en tant que mouvement artistique ?",
-      "options": [
-        "1872",
-        "1874",
-        "1876",
-        "1878"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1781669587887_4_0m60w8",
-      "addedAt": "2026-06-17T04:13:07.887Z"
-    },
-    {
-      "question": "Quel sport olympique consiste à lancer un disque en métal ?",
-      "options": [
-        "Le lancer de poids",
-        "Le lancer de marteau",
-        "Le lancer de disque",
-        "Le lancer de javelot"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1781669587887_5_i11o1y",
-      "addedAt": "2026-06-17T04:13:07.887Z"
-    },
-    {
-      "question": "Quel est le plus grand reef de corail du monde ?",
-      "options": [
-        "La Grande Barrière de corail",
-        "Le Récif de Belize",
-        "Les Îles Galápagos",
-        "La Mer Rouge"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1781669587887_6_4ji9j4",
-      "addedAt": "2026-06-17T04:13:07.887Z"
-    },
-    {
-      "question": "Quel réalisateur américain a créé 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Steven Spielberg",
-        "Quentin Tarantino",
-        "David Fincher"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1781669587887_7_u3hd1s",
-      "addedAt": "2026-06-17T04:13:07.887Z"
-    },
-    {
-      "question": "Quel plat italien traditionnel est composé de nouilles, œuf, fromage et lard ?",
-      "options": [
-        "Risotto",
-        "Carbonara",
-        "Lasagne",
-        "Ravioli"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1781669587887_8_s29h63",
-      "addedAt": "2026-06-17T04:13:07.887Z"
-    },
-    {
-      "question": "Quel système d'exploitation a été développé par Linus Torvalds ?",
-      "options": [
-        "Windows",
-        "macOS",
-        "Linux",
-        "Android"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1781669587887_9_0iwoup",
-      "addedAt": "2026-06-17T04:13:07.887Z"
-    },
-    {
-      "question": "Quel animal terrestre a la gestation la plus longue ?",
-      "options": [
-        "L'éléphant",
-        "La girafe",
-        "L'hippopotame",
-        "Le rhinocéros"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1781669587887_10_5dcnej",
-      "addedAt": "2026-06-17T04:13:07.887Z"
-    },
-    {
-      "question": "Quel écrivain américain a écrit 'Le Seigneur des anneaux' adapté au cinéma ?",
-      "options": [
-        "J.R.R. Tolkien",
-        "Stephen King",
-        "George R.R. Martin",
-        "Aldous Huxley"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1781669587887_11_9ypt82",
-      "addedAt": "2026-06-17T04:13:07.887Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit la symphonie 'Surprise' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Joseph Haydn",
-        "Ludwig van Beethoven",
-        "Antonio Vivaldi"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1781655346849_0_q9sy4f",
-      "addedAt": "2026-06-17T00:15:46.849Z"
-    },
-    {
-      "question": "Quel artiste cubiste a peint 'Les Demoiselles d'Avignon' ?",
-      "options": [
-        "Juan Gris",
-        "Pablo Picasso",
-        "Georges Braque",
-        "Henri Laurens"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1781655346849_1_h1m08g",
-      "addedAt": "2026-06-17T00:15:46.849Z"
-    },
-    {
-      "question": "Quel gaz toxique est produit lors d'une combustion incomplète ?",
-      "options": [
-        "Dioxyde de carbone",
-        "Monoxyde de carbone",
-        "Dioxyde d'azote",
-        "Ozone"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781655346849_2_9iu68i",
-      "addedAt": "2026-06-17T00:15:46.849Z"
     }
   ],
   "poolSize": 310
