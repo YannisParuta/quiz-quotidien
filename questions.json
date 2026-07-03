@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel physicien a découvert la loi de la gravitation universelle en 1687 ?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Albert Einstein"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783038379812_0_tq5dwb",
+      "addedAt": "2026-07-03T00:26:19.812Z"
+    },
+    {
+      "question": "Quel footballeur a remporté le Ballon d'Or en 2023 ?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Erling Haaland",
+        "Lionel Messi",
+        "Kylian Mbappé"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1783038379812_1_ynjm36",
+      "addedAt": "2026-07-03T00:26:19.812Z"
+    },
+    {
+      "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1783038379812_2_l75svh",
+      "addedAt": "2026-07-03T00:26:19.812Z"
+    },
+    {
+      "question": "Quel empire antique a construit le Colosseum à Rome ?",
+      "options": [
+        "L'empire romain",
+        "L'empire grec",
+        "L'empire égyptien",
+        "L'empire perse"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1783038379812_3_xbksd6",
+      "addedAt": "2026-07-03T00:26:19.812Z"
+    },
+    {
+      "question": "Quel est le plus grand récif de corail du monde ?",
+      "options": [
+        "La Grande Barrière de Corail",
+        "Le récif de Belize",
+        "Le récif de Ningaloo",
+        "Le récif des Maldives"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1783038379812_4_zus9a3",
+      "addedAt": "2026-07-03T00:26:19.812Z"
+    },
+    {
+      "question": "Quel mathématicien grec a découvert le théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1783038379812_5_q1h9vh",
+      "addedAt": "2026-07-03T00:26:19.812Z"
+    },
+    {
+      "question": "Quel musique Louis Armstrong était-il particulièrement connu pour jouer ?",
+      "options": [
+        "Le violon",
+        "La trompette",
+        "Le piano",
+        "La guitare"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1783038379812_6_z1n1xa",
+      "addedAt": "2026-07-03T00:26:19.812Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la trilogie 'Retour vers le Futur' ?",
+      "options": [
+        "Steven Spielberg",
+        "Robert Zemeckis",
+        "James Cameron",
+        "George Lucas"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783038379812_7_4uosf9",
+      "addedAt": "2026-07-03T00:26:19.812Z"
+    },
+    {
+      "question": "Quel ingrédient principal est utilisé pour faire le champagne ?",
+      "options": [
+        "Des raisins blancs",
+        "Des raisins rouges",
+        "Des raisins blancs et rouges mélangés",
+        "Des pommes fermentées"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1783038379812_8_mngih3",
+      "addedAt": "2026-07-03T00:26:19.812Z"
+    },
+    {
       "question": "Quel philosophe grec antique a fondé l'Académie et enseigné à Platon ?",
       "options": [
         "Socrate",
@@ -3912,7 +4029,12 @@
       "category": "Science",
       "id": "q_1781755465618_11_huuwpc",
       "addedAt": "2026-06-18T04:04:25.618Z"
-    },
+    }
+  ],
+  "version": 295,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-03T00:26:19.813Z",
+  "archivedQuestions": [
     {
       "question": "Quel mouvement artistique du XXe siècle prônait l'abstraction totale et rejetait la représentation réaliste ?",
       "options": [
@@ -4029,141 +4151,6 @@
       "category": "Géographie",
       "id": "q_1781742503094_5_v3qjfn",
       "addedAt": "2026-06-18T00:28:23.094Z"
-    }
-  ],
-  "version": 294,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-02T03:39:42.017Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel sport olympique d'hiver combine le ski et le tir à la carabine ?",
-      "options": [
-        "Ski acrobatique",
-        "Biathlon",
-        "Ski de fond",
-        "Curling"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1781742503094_6_cohz4z",
-      "addedAt": "2026-06-18T00:28:23.094Z"
-    },
-    {
-      "question": "Quel célèbre physicien a formulé l'équation E=mc² ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Stephen Hawking"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781742503094_7_7k5iyc",
-      "addedAt": "2026-06-18T00:28:23.094Z"
-    },
-    {
-      "question": "En mathématiques, que représente la lettre 'π' (pi) ?",
-      "options": [
-        "Un nombre entier",
-        "Le rapport entre la circonférence et le diamètre d'un cercle",
-        "Une fonction exponentielle",
-        "Une racine carrée"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1781742503094_8_hybpkb",
-      "addedAt": "2026-06-18T00:28:23.094Z"
-    },
-    {
-      "question": "Quel cinéaste a réalisé 'Pulp Fiction' en 1994 ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "David Fincher",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1781742503094_9_zeax82",
-      "addedAt": "2026-06-18T00:28:23.094Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en vitamine C et en bromélaïne ?",
-      "options": [
-        "Mangue",
-        "Papaye",
-        "Ananas",
-        "Goyave"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1781742503094_10_cepx5l",
-      "addedAt": "2026-06-18T00:28:23.094Z"
-    },
-    {
-      "question": "Quel océan est le plus vaste du monde ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Indien",
-        "Océan Pacifique",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1781742503094_11_to4vt9",
-      "addedAt": "2026-06-18T00:28:23.094Z"
-    },
-    {
-      "question": "Quel protocole de communication est utilisé pour envoyer des courriers électroniques ?",
-      "options": [
-        "HTTP",
-        "FTP",
-        "SMTP",
-        "DNS"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1781742503094_12_ue44yo",
-      "addedAt": "2026-06-18T00:28:23.094Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet de l'Afrique ?",
-      "options": [
-        "Le Mont Kenya",
-        "Le Kilimandjaro",
-        "Le Mont Cameroun",
-        "Le Mont Stanley"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1781669587887_0_xm5mnx",
-      "addedAt": "2026-06-17T04:13:07.887Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle commencé ?",
-      "options": [
-        "1776",
-        "1789",
-        "1804",
-        "1815"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1781669587887_1_onktkk",
-      "addedAt": "2026-06-17T04:13:07.887Z"
-    },
-    {
-      "question": "Quel est le plus grand organe du corps humain ?",
-      "options": [
-        "Le cœur",
-        "Le foie",
-        "La peau",
-        "Le cerveau"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1781669587887_2_c8p8ei",
-      "addedAt": "2026-06-17T04:13:07.887Z"
     }
   ],
   "poolSize": 310
