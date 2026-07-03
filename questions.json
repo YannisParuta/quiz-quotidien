@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus grand désert chaud du monde ?",
+      "options": [
+        "Le désert de Gobi",
+        "Le désert du Sahara",
+        "Le désert de Kalahari",
+        "Le désert d'Arabie"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1783048839797_0_pbd4ri",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
+      "question": "Quel est le processus biologique par lequel les animaux régulent leur température corporelle ?",
+      "options": [
+        "La photosynthèse",
+        "L'homéostasie",
+        "L'osmose",
+        "La fermentation"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783048839797_1_osnilw",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit 'Les Trois Mousquetaires' ?",
+      "options": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac",
+        "Guy de Maupassant"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1783048839797_2_qfhqz2",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
+      "question": "Quel sport de combat japonais traditionnel utilise des techniques de lancer et d'immobilisation ?",
+      "options": [
+        "Le karaté",
+        "Le judo",
+        "L'aïkido",
+        "Le sumo"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1783048839797_3_aggb4g",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
+      "question": "Quel mouvement artistique du XXe siècle est caractérisé par des formes abstraites et géométriques ?",
+      "options": [
+        "L'impressionnisme",
+        "Le cubisme",
+        "Le surréalisme",
+        "L'expressionnisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1783048839797_4_3bq2l0",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
+      "question": "Quel mathématicien grec antique a formulé le théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1783048839797_5_tmqaky",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
+      "question": "Quel instrument de musique à cordes pincées provient principalement de Provence ?",
+      "options": [
+        "La harpe",
+        "Le luth",
+        "La vielle",
+        "La cithare"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1783048839797_6_19w28l",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
+      "question": "En quel siècle s'est déroulée la Révolution française ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1783048839797_7_c9n0o0",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
+      "question": "Quel protocole informatique est utilisé pour transférer des fichiers sur Internet de manière sécurisée ?",
+      "options": [
+        "HTTP",
+        "HTTPS",
+        "FTP",
+        "SMTP"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1783048839797_8_exku8g",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
+      "question": "Quel plat français traditionnel est une soupe à base de poisson méditerranéen ?",
+      "options": [
+        "La bouillabaisse",
+        "La fondue",
+        "La ratatouille",
+        "Le cassoulet"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1783048839797_9_dn3tqh",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film d'animation 'Le Monde de Nemo' en co-réalisation ?",
+      "options": [
+        "Luc Besson",
+        "Andrew Stanton",
+        "Michel Gondry",
+        "Denis Villeneuve"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783048839797_10_qepb0a",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
+      "question": "Quel type de roches se forme par refroidissement de la lave volcanique ?",
+      "options": [
+        "Les roches sédimentaires",
+        "Les roches métamorphiques",
+        "Les roches ignées",
+        "Les roches calcaires"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1783048839797_11_i7fic0",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
+      "question": "Quel fleuve est le plus long du continent sud-américain ?",
+      "options": [
+        "Le fleuve Paraná",
+        "Le fleuve Amazone",
+        "Le fleuve Orénoque",
+        "Le fleuve Río de la Plata"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1783048839797_12_chi1q4",
+      "addedAt": "2026-07-03T03:20:39.797Z"
+    },
+    {
       "question": "Quel physicien a découvert la loi de la gravitation universelle en 1687 ?",
       "options": [
         "Galileo Galilei",
@@ -3860,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1781829572980_10_b3vckf",
       "addedAt": "2026-06-19T00:39:32.980Z"
-    },
+    }
+  ],
+  "version": 296,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-03T03:20:39.797Z",
+  "archivedQuestions": [
     {
       "question": "Quel physicien danois a proposé le modèle atomique avec orbites électroniques ?",
       "options": [
@@ -4029,128 +4203,6 @@
       "category": "Science",
       "id": "q_1781755465618_11_huuwpc",
       "addedAt": "2026-06-18T04:04:25.618Z"
-    }
-  ],
-  "version": 295,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-03T00:26:19.813Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mouvement artistique du XXe siècle prônait l'abstraction totale et rejetait la représentation réaliste ?",
-      "options": [
-        "Dadaïsme",
-        "Surréalisme",
-        "Constructivisme",
-        "Abstraction géométrique"
-      ],
-      "correctAnswer": 3,
-      "category": "Art",
-      "id": "q_1781755465618_12_dk4m2i",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "Quel réalisateur français a inventé le concept du 'caméra-stylo' en cinéma ?",
-      "options": [
-        "François Truffaut",
-        "Jean-Luc Godard",
-        "Alain Resnais",
-        "Jacques Rivette"
-      ],
-      "correctAnswer": 0,
-      "category": "Cinéma",
-      "id": "q_1781755465618_13_zubf9o",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "Quel fruit tropical contient une enzyme naturelle qui décompose les protéines ?",
-      "options": [
-        "Papaye",
-        "Mangue",
-        "Ananas",
-        "Fruit de la passion"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1781755465618_14_drbptw",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "Quel biologiste a formulé la théorie de l'évolution par sélection naturelle ?",
-      "options": [
-        "Jean-Baptiste Lamarck",
-        "Charles Darwin",
-        "Gregor Mendel",
-        "Louis Pasteur"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781742503094_0_k1b4ch",
-      "addedAt": "2026-06-18T00:28:23.094Z"
-    },
-    {
-      "question": "Qui a peint le célèbre tableau 'La Nuit étoilée' ?",
-      "options": [
-        "Paul Cézanne",
-        "Henri Matisse",
-        "Vincent van Gogh",
-        "Pablo Picasso"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1781742503094_1_7yma4k",
-      "addedAt": "2026-06-18T00:28:23.094Z"
-    },
-    {
-      "question": "Quel élément chimique a le symbole 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Arsenic"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1781742503094_2_0zmr81",
-      "addedAt": "2026-06-18T00:28:23.094Z"
-    },
-    {
-      "question": "En quel siècle le château de Versailles a-t-il été construit ?",
-      "options": [
-        "XVIe siècle",
-        "XVIIe siècle",
-        "XVIIIe siècle",
-        "XIXe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1781742503094_3_hpllul",
-      "addedAt": "2026-06-18T00:28:23.094Z"
-    },
-    {
-      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
-      "options": [
-        "Léon Tolstoï",
-        "Fiodor Dostoïevski",
-        "Anton Tchekhov",
-        "Nikolaï Gogol"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1781742503094_4_sgyy60",
-      "addedAt": "2026-06-18T00:28:23.094Z"
-    },
-    {
-      "question": "Combien de continents existe-t-il sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1781742503094_5_v3qjfn",
-      "addedAt": "2026-06-18T00:28:23.094Z"
     }
   ],
   "poolSize": 310
