@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Combien de côtés possède un hexagone régulier ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1783134878538_0_q0sj6j",
+      "addedAt": "2026-07-04T03:14:38.538Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit la Symphonie n°9 'Hymne à la joie' ?",
+      "options": [
+        "Mozart",
+        "Beethoven",
+        "Brahms",
+        "Strauss"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1783134878538_1_b0d6o5",
+      "addedAt": "2026-07-04T03:14:38.538Z"
+    },
+    {
+      "question": "Quel continent est le plus grand en superficie ?",
+      "options": [
+        "Afrique",
+        "Asie",
+        "Amérique du Nord",
+        "Amérique du Sud"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1783134878538_2_i461zi",
+      "addedAt": "2026-07-04T03:14:38.538Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet du monde ?",
+      "options": [
+        "K2",
+        "Mont-Blanc",
+        "Everest",
+        "Kilimandjaro"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1783134878538_3_ct2uae",
+      "addedAt": "2026-07-04T03:14:38.538Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en vitamine C et provient principalement des Philippines ?",
+      "options": [
+        "Mangue",
+        "Ananas",
+        "Papaye",
+        "Noix de coco"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1783134878538_4_yx9mm0",
+      "addedAt": "2026-07-04T03:14:38.538Z"
+    },
+    {
+      "question": "Quel écrivain russe a écrit 'Guerre et Paix' ?",
+      "options": [
+        "Dostoïevski",
+        "Tolstoï",
+        "Pouchkine",
+        "Tchékhov"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1783134878538_5_6mtd6y",
+      "addedAt": "2026-07-04T03:14:38.538Z"
+    },
+    {
+      "question": "Quel est le sport national du Japon ?",
+      "options": [
+        "Judo",
+        "Sumo",
+        "Karaté",
+        "Badminton"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1783134878538_6_67jocz",
+      "addedAt": "2026-07-04T03:14:38.538Z"
+    },
+    {
+      "question": "Quel artiste néerlandais a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Rembrandt",
+        "Van Gogh",
+        "Vermeer",
+        "Hals"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1783134878538_7_cke4jm",
+      "addedAt": "2026-07-04T03:14:38.538Z"
+    },
+    {
+      "question": "Quel chimiste français a découvert la radioactivité ?",
+      "options": [
+        "Pierre Curie",
+        "Marie Curie",
+        "Henri Becquerel",
+        "Ernest Rutherford"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1783134878538_8_nmm6cb",
+      "addedAt": "2026-07-04T03:14:38.538Z"
+    },
+    {
       "question": "Quel pays a accueilli la première Coupe du Monde de football en 1930 ?",
       "options": [
         "L'Uruguay",
@@ -3912,7 +4029,12 @@
       "category": "Technologie",
       "id": "q_1781914792451_8_67dl96",
       "addedAt": "2026-06-20T00:19:52.451Z"
-    },
+    }
+  ],
+  "version": 298,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-04T03:14:38.539Z",
+  "archivedQuestions": [
     {
       "question": "Quel sport utilise un ballon ovale et se joue avec deux équipes de 15 joueurs ?",
       "options": [
@@ -4029,154 +4151,6 @@
       "category": "Art",
       "id": "q_1781843007311_0_1gbjos",
       "addedAt": "2026-06-19T04:23:27.311Z"
-    }
-  ],
-  "version": 297,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-04T00:08:06.831Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel philosophe grec antique a fondé l'Académie et écrit sur la théorie des Formes ?",
-      "options": [
-        "Aristote",
-        "Platon",
-        "Socrate",
-        "Pythagore"
-      ],
-      "correctAnswer": 1,
-      "category": "Philosophie",
-      "id": "q_1781829572980_0_31e7ue",
-      "addedAt": "2026-06-19T00:39:32.980Z"
-    },
-    {
-      "question": "Quel gaz représente approximativement 78% de l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Azote",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1781829572980_1_1aatzi",
-      "addedAt": "2026-06-19T00:39:32.980Z"
-    },
-    {
-      "question": "Quel peintre hollandais a coupé une partie de son oreille ?",
-      "options": [
-        "Rembrandt",
-        "Jan Vermeer",
-        "Vincent van Gogh",
-        "Pieter Bruegel"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1781829572980_2_y9cu7w",
-      "addedAt": "2026-06-19T00:39:32.980Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance a-t-elle principalement eu lieu en Europe ?",
-      "options": [
-        "XIIe siècle",
-        "XIVe-XVIe siècles",
-        "XVIIe siècle",
-        "XIIIe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1781829572980_3_2nhfyc",
-      "addedAt": "2026-06-19T00:39:32.980Z"
-    },
-    {
-      "question": "Quel sport utilise des épées émoussées et des masques de protection ?",
-      "options": [
-        "Escrime",
-        "Kendo",
-        "Taekwondo",
-        "Judo"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1781829572980_4_susua2",
-      "addedAt": "2026-06-19T00:39:32.980Z"
-    },
-    {
-      "question": "Quel élément chimique est représenté par le symbole 'Au' ?",
-      "options": [
-        "Argent",
-        "Argon",
-        "Or",
-        "Aluminium"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1781829572980_5_wrcpqj",
-      "addedAt": "2026-06-19T00:39:32.980Z"
-    },
-    {
-      "question": "Quel océan est le plus profond de tous les océans ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1781829572980_6_aba3zv",
-      "addedAt": "2026-06-19T00:39:32.980Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit 'Une petite musique de nuit' ?",
-      "options": [
-        "Franz Schubert",
-        "Wolfgang Amadeus Mozart",
-        "Joseph Haydn",
-        "Antonio Vivaldi"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1781829572980_7_acuksa",
-      "addedAt": "2026-06-19T00:39:32.980Z"
-    },
-    {
-      "question": "Quel romancier russe a écrit 'Crime et Châtiment' ?",
-      "options": [
-        "Léon Tolstoï",
-        "Fiodor Dostoïevski",
-        "Ivan Tourguéniev",
-        "Anton Tchékhov"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1781829572980_8_9062hw",
-      "addedAt": "2026-06-19T00:39:32.980Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet du continent africain ?",
-      "options": [
-        "Mont Kenya",
-        "Mont Kilimandjaro",
-        "Chaîne de l'Atlas",
-        "Monts Drakensberg"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1781829572980_9_d5nl0r",
-      "addedAt": "2026-06-19T00:39:32.980Z"
-    },
-    {
-      "question": "Quel type de fromage français est fabriqué à partir de lait de brebis dans le Pays basque ?",
-      "options": [
-        "Camembert",
-        "Ossau-Iraty",
-        "Comté",
-        "Roquefort"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1781829572980_10_b3vckf",
-      "addedAt": "2026-06-19T00:39:32.980Z"
     }
   ],
   "poolSize": 310
