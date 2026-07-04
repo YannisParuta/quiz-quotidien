@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel pays a accueilli la première Coupe du Monde de football en 1930 ?",
+      "options": [
+        "L'Uruguay",
+        "L'Italie",
+        "la France",
+        "La Suisse"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1783123686830_9_ggfyyh",
+      "addedAt": "2026-07-04T00:08:06.831Z"
+    },
+    {
+      "question": "Quel est le lien chimique qui unit les acides aminés pour former une protéine ?",
+      "options": [
+        "La liaison covalente",
+        "La liaison peptidique",
+        "La liaison hydrogène",
+        "La liaison ionique"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783123686831_10_wmjhi0",
+      "addedAt": "2026-07-04T00:08:06.831Z"
+    },
+    {
+      "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Marie Curie",
+        "Joseph Lister"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783123686830_0_6i9lsc",
+      "addedAt": "2026-07-04T00:08:06.830Z"
+    },
+    {
+      "question": "Combien de cordes possède un violoncelle standard ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1783123686830_1_mtqppl",
+      "addedAt": "2026-07-04T00:08:06.830Z"
+    },
+    {
+      "question": "Quel est le processus par lequel les roches se transforment sous l'effet de la chaleur et de la pression ?",
+      "options": [
+        "L'érosion",
+        "Le métamorphisme",
+        "L'oxydation",
+        "La sédimentation"
+      ],
+      "correctAnswer": 1,
+      "category": "Géologie",
+      "id": "q_1783123686830_2_ibjqow",
+      "addedAt": "2026-07-04T00:08:06.830Z"
+    },
+    {
+      "question": "Quel peintre a créé la série des 'Nymphéas' ?",
+      "options": [
+        "Paul Cézanne",
+        "Claude Monet",
+        "Henri Matisse",
+        "Pierre-Auguste Renoir"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1783123686830_3_5o79ak",
+      "addedAt": "2026-07-04T00:08:06.830Z"
+    },
+    {
+      "question": "Quel mathématicien grec a énoncé le théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1783123686830_4_yyng2j",
+      "addedAt": "2026-07-04T00:08:06.830Z"
+    },
+    {
+      "question": "Quel organisme est responsable de la distribution mondiale des adresses IP ?",
+      "options": [
+        "L'ICANN",
+        "L'IETF",
+        "L'IEEE",
+        "L'ISO"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie",
+      "id": "q_1783123686830_5_kplfws",
+      "addedAt": "2026-07-04T00:08:06.830Z"
+    },
+    {
+      "question": "Quel animal marin est capable de changer de couleur selon son environnement ?",
+      "options": [
+        "Le homard",
+        "La seiche",
+        "L'huître",
+        "L'étoile de mer"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1783123686830_6_epach6",
+      "addedAt": "2026-07-04T00:08:06.830Z"
+    },
+    {
+      "question": "Quel événement historique s'est produit en 1989 en Allemagne ?",
+      "options": [
+        "La réunification allemande",
+        "La chute du Mur de Berlin",
+        "L'unification de la Prusse",
+        "La signature du Traité de Versailles"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1783123686830_7_27b7bl",
+      "addedAt": "2026-07-04T00:08:06.830Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre vivant actuellement ?",
+      "options": [
+        "L'hippopotame",
+        "La girafe",
+        "L'éléphant d'Afrique",
+        "Le rhinocéros blanc"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1783123686830_8_oi7sx2",
+      "addedAt": "2026-07-04T00:08:06.830Z"
+    },
+    {
       "question": "Quel est le plus grand désert chaud du monde ?",
       "options": [
         "Le désert de Gobi",
@@ -3886,7 +4029,12 @@
       "category": "Art",
       "id": "q_1781843007311_0_1gbjos",
       "addedAt": "2026-06-19T04:23:27.311Z"
-    },
+    }
+  ],
+  "version": 297,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-04T00:08:06.831Z",
+  "archivedQuestions": [
     {
       "question": "Quel philosophe grec antique a fondé l'Académie et écrit sur la théorie des Formes ?",
       "options": [
@@ -4029,180 +4177,6 @@
       "category": "Gastronomie",
       "id": "q_1781829572980_10_b3vckf",
       "addedAt": "2026-06-19T00:39:32.980Z"
-    }
-  ],
-  "version": 296,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-03T03:20:39.797Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel physicien danois a proposé le modèle atomique avec orbites électroniques ?",
-      "options": [
-        "Max Planck",
-        "Niels Bohr",
-        "Erwin Schrödinger",
-        "Werner Heisenberg"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781829572980_11_wvkqnu",
-      "addedAt": "2026-06-19T00:39:32.980Z"
-    },
-    {
-      "question": "Quel chimiste français a développé le procédé de pasteurisation au XIXe siècle ?",
-      "options": [
-        "Claude Bernard",
-        "Louis Pasteur",
-        "Antoine Lavoisier",
-        "Pierre Curie"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781755465618_0_lu1ij2",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "En quelle année la construction de la Tour Eiffel a-t-elle été achevée ?",
-      "options": [
-        "1887",
-        "1889",
-        "1891",
-        "1893"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1781755465618_1_yi7yux",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit la célèbre symphonie 'Jupiter' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Franz Joseph Haydn",
-        "Antonio Vivaldi"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1781755465618_2_kmwn4i",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "Quel océan est le plus profond de la planète ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Indien",
-        "Océan Pacifique",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1781755465618_3_9hg0j0",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "Quel écrivain britannique a créé les aventures du détective Hercule Poirot ?",
-      "options": [
-        "Arthur Conan Doyle",
-        "Agatha Christie",
-        "Ian Fleming",
-        "P.G. Wodehouse"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1781755465618_4_8s93nv",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "Combien de chambres le Palais de Versailles possède-t-il approximativement ?",
-      "options": [
-        "500",
-        "700",
-        "900",
-        "1100"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1781755465618_5_kbh6lu",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "Quel type de plante carnivore attire ses proies avec une odeur nauséabonde ?",
-      "options": [
-        "Dionée",
-        "Népenthès",
-        "Sarracénie",
-        "Drosera"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1781755465618_6_67ic7m",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "Quel mathématicien britannique est considéré comme le père de l'informatique ?",
-      "options": [
-        "John Von Neumann",
-        "Alan Turing",
-        "Charles Babbage",
-        "Richard Stallman"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1781755465618_7_rhaodr",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "Quel vin français provient exclusivement de la région de Bordeaux et est mondialement réputé ?",
-      "options": [
-        "Bourgogne",
-        "Châteauneuf-du-Pape",
-        "Bordeaux",
-        "Alsace"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1781755465618_8_75yon8",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "En quel siècle l'invention de l'imprimerie par Gutenberg a-t-elle révolutionné la culture occidentale ?",
-      "options": [
-        "XIIIe siècle",
-        "XIVe siècle",
-        "XVe siècle",
-        "XVIe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1781755465618_9_p7daza",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "Quel athlète jamaïcain détient le record mondial du 200 mètres en sprint ?",
-      "options": [
-        "Usain Bolt",
-        "Yohan Blake",
-        "Asafa Powell",
-        "Michael Johnson"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1781755465618_10_tzoe27",
-      "addedAt": "2026-06-18T04:04:25.618Z"
-    },
-    {
-      "question": "Quel métal précieux possède le point de fusion le plus élevé de tous les métaux ?",
-      "options": [
-        "Platine",
-        "Or",
-        "Tungstène",
-        "Rhodium"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1781755465618_11_huuwpc",
-      "addedAt": "2026-06-18T04:04:25.618Z"
     }
   ],
   "poolSize": 310
