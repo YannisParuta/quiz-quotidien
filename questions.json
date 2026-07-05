@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel philosophe grec antique a fondé l'Académie à Athènes ?",
+      "options": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Pythagore"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1783211253819_0_tf1vrx",
+      "addedAt": "2026-07-05T00:27:33.819Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet d'Afrique ?",
+      "options": [
+        "Mont Kenya",
+        "Kilimandjaro",
+        "Mont Blanc",
+        "Pic de Elbrus"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1783211253819_1_7my9hn",
+      "addedAt": "2026-07-05T00:27:33.819Z"
+    },
+    {
+      "question": "Quel organisme international a été créé après la Seconde Guerre mondiale ?",
+      "options": [
+        "Ligue des Nations",
+        "Union Européenne",
+        "Organisation des Nations Unies",
+        "OTAN"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1783211253819_2_869vq0",
+      "addedAt": "2026-07-05T00:27:33.819Z"
+    },
+    {
+      "question": "En quel année l'impressionnisme a-t-il émergé comme mouvement artistique ?",
+      "options": [
+        "1870",
+        "1872",
+        "1880",
+        "1890"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1783211253819_3_venio8",
+      "addedAt": "2026-07-05T00:27:33.819Z"
+    },
+    {
+      "question": "Quel réalisateur allemand a créé 'Metropolis', un classique du cinéma muet ?",
+      "options": [
+        "F.W. Murnau",
+        "Fritz Lang",
+        "Ernst Lubitsch",
+        "G.W. Pabst"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783211253819_4_4qgm4e",
+      "addedAt": "2026-07-05T00:27:33.819Z"
+    },
+    {
+      "question": "Quel type de plante carnivore piège ses proies en se refermant rapidement ?",
+      "options": [
+        "Népenthès",
+        "Drosera",
+        "Dionée",
+        "Sarracénie"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1783211253819_5_3fj1jn",
+      "addedAt": "2026-07-05T00:27:33.819Z"
+    },
+    {
+      "question": "Quel est le plat traditionnel japonais composé de riz vinaigré et de poisson cru ?",
+      "options": [
+        "Tempura",
+        "Ramen",
+        "Sashimi",
+        "Sushi"
+      ],
+      "correctAnswer": 3,
+      "category": "Gastronomie",
+      "id": "q_1783211253819_6_phcj0u",
+      "addedAt": "2026-07-05T00:27:33.819Z"
+    },
+    {
+      "question": "Quel athlète français a remporté le plus grand nombre de titres en tennis ?",
+      "options": [
+        "Amélie Mauresmo",
+        "Yannick Noah",
+        "Gilles Simon",
+        "Gaël Monfils"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1783211253819_7_ufg9ce",
+      "addedAt": "2026-07-05T00:27:33.819Z"
+    },
+    {
+      "question": "Quel langage de programmation est connu pour sa syntaxe orientée objet et sa polyvalence ?",
+      "options": [
+        "JavaScript",
+        "Ruby",
+        "Java",
+        "Go"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1783211253819_8_jo1rjz",
+      "addedAt": "2026-07-05T00:27:33.819Z"
+    },
+    {
+      "question": "Quel artiste hollandais a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Vincent van Gogh",
+        "Hieronymus Bosch"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1783211253819_9_qyjini",
+      "addedAt": "2026-07-05T00:27:33.819Z"
+    },
+    {
       "question": "Combien de côtés possède un hexagone régulier ?",
       "options": [
         "5",
@@ -3899,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1781927189961_7_opgca8",
       "addedAt": "2026-06-20T03:46:29.961Z"
-    },
+    }
+  ],
+  "version": 299,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-05T00:27:33.820Z",
+  "archivedQuestions": [
     {
       "question": "Quel économiste écossais a écrit 'La Richesse des nations' en 1776 ?",
       "options": [
@@ -4029,128 +4164,6 @@
       "category": "Technologie",
       "id": "q_1781914792451_8_67dl96",
       "addedAt": "2026-06-20T00:19:52.451Z"
-    }
-  ],
-  "version": 298,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-04T03:14:38.539Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel sport utilise un ballon ovale et se joue avec deux équipes de 15 joueurs ?",
-      "options": [
-        "Football américain",
-        "Rugby",
-        "Hockey sur glace",
-        "Handball"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1781843007311_1_26bnyw",
-      "addedAt": "2026-06-19T04:23:27.312Z"
-    },
-    {
-      "question": "Quel auteur français a écrit 'Le Comte de Monte-Cristo' ?",
-      "options": [
-        "Victor Hugo",
-        "Alexandre Dumas",
-        "Honoré de Balzac",
-        "Gustave Flaubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1781843007312_2_apihru",
-      "addedAt": "2026-06-19T04:23:27.312Z"
-    },
-    {
-      "question": "Quel instrument de musique possède 88 touches ?",
-      "options": [
-        "Guitare",
-        "Violon",
-        "Piano",
-        "Saxophone"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1781843007312_3_mgp6gz",
-      "addedAt": "2026-06-19T04:23:27.312Z"
-    },
-    {
-      "question": "Quel réalisateur américain a créé l'univers cinématographique Marvel ?",
-      "options": [
-        "Christopher Nolan",
-        "Martin Scorsese",
-        "Kevin Feige",
-        "Quentin Tarantino"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1781843007312_4_a4b5my",
-      "addedAt": "2026-06-19T04:23:27.312Z"
-    },
-    {
-      "question": "Quelle est la capitale de la Suisse ?",
-      "options": [
-        "Zurich",
-        "Genève",
-        "Berne",
-        "Lausanne"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1781843007312_5_xsz2im",
-      "addedAt": "2026-06-19T04:23:27.312Z"
-    },
-    {
-      "question": "Quel type de technologie permet la communication sans fil à courte distance appelée 'Bluetooth' ?",
-      "options": [
-        "Wi-Fi",
-        "Ondes radio",
-        "Lumière infrarouge",
-        "Radiofréquence"
-      ],
-      "correctAnswer": 3,
-      "category": "Technologie",
-      "id": "q_1781843007312_6_yre31l",
-      "addedAt": "2026-06-19T04:23:27.312Z"
-    },
-    {
-      "question": "Quel plat italien traditionnel est composé de pâtes et de sauce à base de tomates et basilic ?",
-      "options": [
-        "Lasagne",
-        "Spaghetti à la carbonara",
-        "Pesto genovese",
-        "Pasta al pomodoro"
-      ],
-      "correctAnswer": 3,
-      "category": "Gastronomie",
-      "id": "q_1781843007312_7_txb5p7",
-      "addedAt": "2026-06-19T04:23:27.312Z"
-    },
-    {
-      "question": "Quel gaz les plantes absorbent-elles pour la photosynthèse ?",
-      "options": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Azote",
-        "Hydrogène"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781843007312_8_a0iqgm",
-      "addedAt": "2026-06-19T04:23:27.312Z"
-    },
-    {
-      "question": "Quel peintre impressionniste français a coupé une partie de son oreille ?",
-      "options": [
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Pierre-Auguste Renoir",
-        "Edgar Degas"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1781843007311_0_1gbjos",
-      "addedAt": "2026-06-19T04:23:27.311Z"
     }
   ],
   "poolSize": 310
