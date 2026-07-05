@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel chimiste a découvert la radioactivité en 1896 ?",
+      "options": [
+        "Marie Curie",
+        "Henri Becquerel",
+        "Ernest Rutherford",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783222183882_0_y1xg16",
+      "addedAt": "2026-07-05T03:29:43.882Z"
+    },
+    {
+      "question": "Quel compositeur allemand est connu pour ses neuf symphonies, notamment l'Hymne à la Joie ?",
+      "options": [
+        "Bach",
+        "Mozart",
+        "Beethoven",
+        "Wagner"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1783222183882_1_lnm76m",
+      "addedAt": "2026-07-05T03:29:43.882Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet des Alpes ?",
+      "options": [
+        "Le Gran Paradiso",
+        "Le Mont-Blanc",
+        "Le Cervin",
+        "L'Elbrus"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1783222183882_2_s29qob",
+      "addedAt": "2026-07-05T03:29:43.882Z"
+    },
+    {
+      "question": "Quel philosophe grec ancien a fondé l'Académie à Athènes en 387 av. J.-C. ?",
+      "options": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Épicure"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1783222183882_3_mq6j5q",
+      "addedAt": "2026-07-05T03:29:43.882Z"
+    },
+    {
+      "question": "Quel instrument de musique à vent est le plus grave de la famille des bois ?",
+      "options": [
+        "Le hautbois",
+        "La clarinette",
+        "Le basson",
+        "La flûte"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1783222183882_4_riozus",
+      "addedAt": "2026-07-05T03:29:43.882Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit 'Les Misérables' au 19e siècle ?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1783222183882_5_yq8nfe",
+      "addedAt": "2026-07-05T03:29:43.882Z"
+    },
+    {
+      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1783222183882_6_mfl3sz",
+      "addedAt": "2026-07-05T03:29:43.882Z"
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d'hiver en 2022 ?",
+      "options": [
+        "La Corée du Sud",
+        "La Chine",
+        "Le Japon",
+        "La Norvège"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1783222183882_7_rbken3",
+      "addedAt": "2026-07-05T03:29:43.882Z"
+    },
+    {
+      "question": "Quel groupe de rock britannique a créé l'album 'Dark Side of the Moon' en 1973 ?",
+      "options": [
+        "The Beatles",
+        "Pink Floyd",
+        "Led Zeppelin",
+        "The Rolling Stones"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1783222183882_8_2qzir3",
+      "addedAt": "2026-07-05T03:29:43.882Z"
+    },
+    {
+      "question": "Quel type de microscope permet d'observer les atomes individuels ?",
+      "options": [
+        "Le microscope optique",
+        "Le microscope électronique",
+        "Le microscope à force atomique",
+        "Le microscope confocal"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1783222183882_9_vunwr2",
+      "addedAt": "2026-07-05T03:29:43.882Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le mouvement du cinéma 'Nouvelle Vague' dans les années 1950-60 ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Paul Sartre",
+        "Orson Welles",
+        "Roberto Rossellini"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1783222183882_10_pz46qr",
+      "addedAt": "2026-07-05T03:29:43.882Z"
+    },
+    {
+      "question": "Quel fromage français AOC est fabriqué dans la région de Roquefort-sur-Soulzon ?",
+      "options": [
+        "Le Camembert",
+        "Le Roquefort",
+        "L'Emmental",
+        "Le Beaufort"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1783222183882_11_k2829e",
+      "addedAt": "2026-07-05T03:29:43.882Z"
+    },
+    {
       "question": "Quel philosophe grec antique a fondé l'Académie à Athènes ?",
       "options": [
         "Socrate",
@@ -3873,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1782003298185_6_1obeiv",
       "addedAt": "2026-06-21T00:54:58.185Z"
-    },
+    }
+  ],
+  "version": 300,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-05T03:29:43.883Z",
+  "archivedQuestions": [
     {
       "question": "Quel réalisateur a créé la saga cinématographique 'The Lord of the Rings' ?",
       "options": [
@@ -4029,141 +4190,6 @@
       "category": "Gastronomie",
       "id": "q_1781927189961_7_opgca8",
       "addedAt": "2026-06-20T03:46:29.961Z"
-    }
-  ],
-  "version": 299,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-05T00:27:33.820Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel économiste écossais a écrit 'La Richesse des nations' en 1776 ?",
-      "options": [
-        "David Ricardo",
-        "Adam Smith",
-        "John Stuart Mill",
-        "Thomas Malthus"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1781927189961_8_de0zjn",
-      "addedAt": "2026-06-20T03:46:29.961Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'Le Comte de Monte-Cristo' ?",
-      "options": [
-        "Victor Hugo",
-        "Alexandre Dumas",
-        "Honoré de Balzac",
-        "Gustave Flaubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1781914792451_0_qopdwj",
-      "addedAt": "2026-06-20T00:19:52.451Z"
-    },
-    {
-      "question": "Quel élément chimique a pour symbole 'Au' ?",
-      "options": [
-        "L'argent",
-        "L'or",
-        "L'aluminium",
-        "L'argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781914792451_1_wa38l2",
-      "addedAt": "2026-06-20T00:19:52.451Z"
-    },
-    {
-      "question": "Quel phénomène naturel se produit lorsque la Lune passe entre le Soleil et la Terre ?",
-      "options": [
-        "Une éclipse lunaire",
-        "Une éclipse solaire",
-        "Un équinoxe",
-        "Un solstice"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1781914792451_2_glwvf7",
-      "addedAt": "2026-06-20T00:19:52.451Z"
-    },
-    {
-      "question": "Quel architecte a conçu la tour Eiffel ?",
-      "options": [
-        "Gustave Eiffel",
-        "Le Corbusier",
-        "I.M. Pei",
-        "Frank Lloyd Wright"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1781914792451_3_xsfck9",
-      "addedAt": "2026-06-20T00:19:52.451Z"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de football sur le terrain ?",
-      "options": [
-        "9",
-        "10",
-        "11",
-        "12"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1781914792451_4_21hlq7",
-      "addedAt": "2026-06-20T00:19:52.451Z"
-    },
-    {
-      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "L'oxygène",
-        "Le dioxyde de carbone",
-        "L'azote",
-        "L'hélium"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1781914792451_5_fl9xy1",
-      "addedAt": "2026-06-20T00:19:52.451Z"
-    },
-    {
-      "question": "Quel pays est la patrie originelle du sushi ?",
-      "options": [
-        "La Thaïlande",
-        "La Corée du Sud",
-        "Le Japon",
-        "la Chine"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1781914792451_6_z1bhtq",
-      "addedAt": "2026-06-20T00:19:52.451Z"
-    },
-    {
-      "question": "Quel scientifique a formulé la théorie de la relativité ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Max Planck",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781914792451_7_e7hd8k",
-      "addedAt": "2026-06-20T00:19:52.451Z"
-    },
-    {
-      "question": "Quel langage de programmation est le plus utilisé pour développer des sites web côté serveur ?",
-      "options": [
-        "Python",
-        "JavaScript",
-        "PHP",
-        "Java"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1781914792451_8_67dl96",
-      "addedAt": "2026-06-20T00:19:52.451Z"
     }
   ],
   "poolSize": 310
