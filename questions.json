@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel type de pâtes italiennes ressemble à de petits nids ?",
+      "options": [
+        "Linguine",
+        "Nidi d'aquila",
+        "Rigatoni",
+        "Farfalle"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1783309037414_9_pcayus",
+      "addedAt": "2026-07-06T03:37:17.415Z"
+    },
+    {
+      "question": "Quel protocole de sécurité permet de chiffrer les données sur Internet ?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1783309037415_10_700d3z",
+      "addedAt": "2026-07-06T03:37:17.415Z"
+    },
+    {
+      "question": "Quel compositeur italien a écrit l'opéra 'La Traviata' en 1853 ?",
+      "options": [
+        "Gioachino Rossini",
+        "Georges Bizet",
+        "Giuseppe Verdi",
+        "Gaspare Spontini"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1783309037415_11_jia0ya",
+      "addedAt": "2026-07-06T03:37:17.415Z"
+    },
+    {
+      "question": "Quel scientifique a formulé la loi de la gravitation universelle en 1687 ?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Johannes Kepler"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783309037414_0_a0336i",
+      "addedAt": "2026-07-06T03:37:17.414Z"
+    },
+    {
+      "question": "En quel pays se trouve la ville de Marrakech, célèbre pour ses souks et sa médina ?",
+      "options": [
+        "Tunisie",
+        "Algérie",
+        "Maroc",
+        "Égypte"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1783309037414_1_l364yj",
+      "addedAt": "2026-07-06T03:37:17.414Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit 'Le Père Goriot', l'une de ses plus célèbres œuvres ?",
+      "options": [
+        "Victor Hugo",
+        "Honoré de Balzac",
+        "Alexandre Dumas",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1783309037414_2_nh1aax",
+      "addedAt": "2026-07-06T03:37:17.414Z"
+    },
+    {
+      "question": "Quel gaz est le plus abondant dans l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1783309037414_3_v06ixv",
+      "addedAt": "2026-07-06T03:37:17.414Z"
+    },
+    {
+      "question": "Quel empereur romain a construit le Colosseum à Rome au 1er siècle ?",
+      "options": [
+        "Jules César",
+        "Auguste",
+        "Vespasien",
+        "Néron"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1783309037414_4_tapifi",
+      "addedAt": "2026-07-06T03:37:17.414Z"
+    },
+    {
+      "question": "Quel mouvement artistique a été fondé par André Breton au début du 20ème siècle ?",
+      "options": [
+        "Expressionnisme",
+        "Surréalisme",
+        "Dadaïsme",
+        "Futurisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1783309037414_5_icsv82",
+      "addedAt": "2026-07-06T03:37:17.414Z"
+    },
+    {
+      "question": "Quel athlète français a remporté 5 titres de champion du monde en athlétisme ?",
+      "options": [
+        "Alain Bernard",
+        "Christophe Lemaitre",
+        "Muriel Aoualu",
+        "Jean-Paul Belmondo"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1783309037414_6_aacuze",
+      "addedAt": "2026-07-06T03:37:17.414Z"
+    },
+    {
+      "question": "Quel est le seul mammifère capable de produire de l'électricité ?",
+      "options": [
+        "Ornithorynque",
+        "Anguille électrique",
+        "Dauphin",
+        "Hérisson"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1783309037414_7_2rse8d",
+      "addedAt": "2026-07-06T03:37:17.414Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé 'Pulp Fiction' en 1994 ?",
+      "options": [
+        "Martin Scorsese",
+        "David Fincher",
+        "Quentin Tarantino",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1783309037414_8_7nqexl",
+      "addedAt": "2026-07-06T03:37:17.414Z"
+    },
+    {
       "question": "Quel compositeur autrichien a écrit la célèbre 'Marche turque' ?",
       "options": [
         "Wolfgang Amadeus Mozart",
@@ -3873,7 +4029,12 @@
       "category": "Art",
       "id": "q_1782086703434_3_1bh5g4",
       "addedAt": "2026-06-22T00:05:03.434Z"
-    },
+    }
+  ],
+  "version": 302,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-06T03:37:17.415Z",
+  "archivedQuestions": [
     {
       "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
       "options": [
@@ -4029,141 +4190,6 @@
       "category": "Gastronomie",
       "id": "q_1782015512971_5_7bs816",
       "addedAt": "2026-06-21T04:18:32.971Z"
-    }
-  ],
-  "version": 301,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-06T00:07:49.583Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mathématicien grec ancien est connu pour son théorème sur les triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Archimède",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1782015512971_6_o9m6pt",
-      "addedAt": "2026-06-21T04:18:32.971Z"
-    },
-    {
-      "question": "En quel année la première page web a-t-elle été créée par Tim Berners-Lee ?",
-      "options": [
-        "1989",
-        "1991",
-        "1993",
-        "1995"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1782015512971_7_s8lt9i",
-      "addedAt": "2026-06-21T04:18:32.971Z"
-    },
-    {
-      "question": "Dans quel sport l'olympiade est-elle la compétition la plus prestigieuse ?",
-      "options": [
-        "L'escrime",
-        "Les échecs",
-        "La natation",
-        "L'athlétisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1782015512971_8_fr3wrv",
-      "addedAt": "2026-06-21T04:18:32.971Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la structure en double hélice de l'ADN ?",
-      "options": [
-        "Linus Pauling",
-        "James Watson et Francis Crick",
-        "Rosalind Franklin",
-        "Maurice Wilkins"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782003298185_0_066b22",
-      "addedAt": "2026-06-21T00:54:58.185Z"
-    },
-    {
-      "question": "Quel peintre français est connu pour ses nymphéas et ses jardins aquatiques ?",
-      "options": [
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Alfred Sisley",
-        "Frédéric Bazille"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1782003298185_1_5s4q4x",
-      "addedAt": "2026-06-21T00:54:58.185Z"
-    },
-    {
-      "question": "Combien de cordes possède généralement une guitare classique ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782003298185_2_ss3cny",
-      "addedAt": "2026-06-21T00:54:58.185Z"
-    },
-    {
-      "question": "Quel est le plus grand océan de la Terre ?",
-      "options": [
-        "L'océan Atlantique",
-        "L'océan Indien",
-        "L'océan Pacifique",
-        "L'océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1782003298185_3_2u7f6p",
-      "addedAt": "2026-06-21T00:54:58.185Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle débuté ?",
-      "options": [
-        "XII siècle",
-        "XIV siècle",
-        "XVI siècle",
-        "XVIII siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782003298185_4_nupba1",
-      "addedAt": "2026-06-21T00:54:58.185Z"
-    },
-    {
-      "question": "Quel sport olympique combine le tir à l'arc et la course à pied ?",
-      "options": [
-        "Le biathlon",
-        "Le pentathlon moderne",
-        "Le triathlon",
-        "Le décathlon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1782003298185_5_f1pglh",
-      "addedAt": "2026-06-21T00:54:58.185Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en vitamine C et originaire d'Asie du Sud-Est ?",
-      "options": [
-        "La mangue",
-        "La noix de coco",
-        "Le durian",
-        "Le ramboutane"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1782003298185_6_1obeiv",
-      "addedAt": "2026-06-21T00:54:58.185Z"
     }
   ],
   "poolSize": 310
