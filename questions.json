@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur autrichien a écrit la célèbre 'Marche turque' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Georg Friedrich Händel"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1783296469583_0_5a5hjw",
+      "addedAt": "2026-07-06T00:07:49.583Z"
+    },
+    {
+      "question": "Quel type de protéine catalyse les réactions chimiques dans les cellules vivantes ?",
+      "options": [
+        "Les hormones",
+        "Les enzymes",
+        "Les anticorps",
+        "Les lipides"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783296469583_1_k4yfsl",
+      "addedAt": "2026-07-06T00:07:49.583Z"
+    },
+    {
+      "question": "Quel sport aquatique consiste à se déplacer sur une planche avec une rame ?",
+      "options": [
+        "Le surf",
+        "Le wakeboard",
+        "Le stand-up paddle",
+        "Le kayak"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1783296469583_2_9f7u86",
+      "addedAt": "2026-07-06T00:07:49.583Z"
+    },
+    {
+      "question": "Quel légume méditerranéen est la base du houmous ?",
+      "options": [
+        "La tomate",
+        "Le pois chiche",
+        "L'aubergine",
+        "Le poivron"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1783296469583_3_tzz11p",
+      "addedAt": "2026-07-06T00:07:49.583Z"
+    },
+    {
+      "question": "Quel mathématicien italien a introduit les chiffres arabes en Europe au XIIIe siècle ?",
+      "options": [
+        "Léonard de Vinci",
+        "Galilée",
+        "Leonardo Fibonacci",
+        "Girolamo Cardano"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1783296469583_4_gdpqdn",
+      "addedAt": "2026-07-06T00:07:49.583Z"
+    },
+    {
+      "question": "Quel primate est le plus proche génétiquement de l'être humain ?",
+      "options": [
+        "L'orang-outan",
+        "Le chimpanzé",
+        "Le gorille",
+        "Le macaque"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1783296469583_5_avzkyq",
+      "addedAt": "2026-07-06T00:07:49.583Z"
+    },
+    {
+      "question": "Quel réalisateur britannique est connu pour ses films de suspense psychologique ?",
+      "options": [
+        "Stanley Kubrick",
+        "Alfred Hitchcock",
+        "Christopher Nolan",
+        "Danny Boyle"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783296469583_6_2lmkag",
+      "addedAt": "2026-07-06T00:07:49.583Z"
+    },
+    {
+      "question": "Quel pays scandinave a pour capitale Helsinki ?",
+      "options": [
+        "La Suède",
+        "La Norvège",
+        "La Finlande",
+        "Le Danemark"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1783296469583_7_2qecah",
+      "addedAt": "2026-07-06T00:07:49.583Z"
+    },
+    {
+      "question": "Quel traité international signé en 1815 a réorganisé l'Europe après Napoléon ?",
+      "options": [
+        "Le traité de Paris",
+        "Le traité de Versailles",
+        "Le traité de Vienne",
+        "Le traité de Utrecht"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1783296469583_8_j3fd4x",
+      "addedAt": "2026-07-06T00:07:49.583Z"
+    },
+    {
+      "question": "Quel élément chimique a le symbole 'Au' et est précieux en joaillerie ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "Le platine",
+        "Le cuivre"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783296469583_9_sa2ben",
+      "addedAt": "2026-07-06T00:07:49.583Z"
+    },
+    {
       "question": "Quel chimiste a découvert la radioactivité en 1896 ?",
       "options": [
         "Marie Curie",
@@ -3899,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1782015512971_5_7bs816",
       "addedAt": "2026-06-21T04:18:32.971Z"
-    },
+    }
+  ],
+  "version": 301,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-06T00:07:49.583Z",
+  "archivedQuestions": [
     {
       "question": "Quel mathématicien grec ancien est connu pour son théorème sur les triangles rectangles ?",
       "options": [
@@ -4029,167 +4164,6 @@
       "category": "Gastronomie",
       "id": "q_1782003298185_6_1obeiv",
       "addedAt": "2026-06-21T00:54:58.185Z"
-    }
-  ],
-  "version": 300,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-05T03:29:43.883Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel réalisateur a créé la saga cinématographique 'The Lord of the Rings' ?",
-      "options": [
-        "Steven Spielberg",
-        "James Cameron",
-        "Peter Jackson",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1782003298185_7_tyt7gy",
-      "addedAt": "2026-06-21T00:54:58.185Z"
-    },
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
-      "options": [
-        "Java",
-        "Python",
-        "JavaScript",
-        "Ruby"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1782003298185_8_h72yux",
-      "addedAt": "2026-06-21T00:54:58.185Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide du règne animal sur terre ?",
-      "options": [
-        "L'autruche",
-        "L'antilope",
-        "Le guépard",
-        "Le lièvre"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1782003298185_9_78yhz0",
-      "addedAt": "2026-06-21T00:54:58.185Z"
-    },
-    {
-      "question": "Quel royaume a signé la Magna Carta en 1215 ?",
-      "options": [
-        "La France",
-        "L'Angleterre",
-        "L'Écosse",
-        "L'Irlande"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782003298185_10_4m0ljx",
-      "addedAt": "2026-06-21T00:54:58.185Z"
-    },
-    {
-      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
-        "Oscar Wilde",
-        "George Bernard Shaw"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1781927189961_0_zijury",
-      "addedAt": "2026-06-20T03:46:29.961Z"
-    },
-    {
-      "question": "Quel type de roche se forme par refroidissement du magma ?",
-      "options": [
-        "Roche sédimentaire",
-        "Roche métamorphique",
-        "Roche volcanique",
-        "Roche calcaire"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1781927189961_1_tskdu2",
-      "addedAt": "2026-06-20T03:46:29.961Z"
-    },
-    {
-      "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
-      "options": [
-        "Antoni Gaudí",
-        "Frank Lloyd Wright",
-        "Le Corbusier",
-        "Zaha Hadid"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1781927189961_2_tpuz1i",
-      "addedAt": "2026-06-20T03:46:29.961Z"
-    },
-    {
-      "question": "En quelle année la Première Guerre mondiale a-t-elle commencé ?",
-      "options": [
-        "1912",
-        "1914",
-        "1916",
-        "1918"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1781927189961_3_n4ler8",
-      "addedAt": "2026-06-20T03:46:29.961Z"
-    },
-    {
-      "question": "Quel peintre français impressionniste a peint 'Les Nymphéas' ?",
-      "options": [
-        "Paul Cézanne",
-        "Pierre-Auguste Renoir",
-        "Claude Monet",
-        "Edgar Degas"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1781927189961_4_w087k6",
-      "addedAt": "2026-06-20T03:46:29.961Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé 'Inception' en 2010 ?",
-      "options": [
-        "Steven Spielberg",
-        "Christopher Nolan",
-        "Denis Villeneuve",
-        "Martin Scorsese"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1781927189961_5_55taoq",
-      "addedAt": "2026-06-20T03:46:29.961Z"
-    },
-    {
-      "question": "Quel est le plus petit os du squelette humain ?",
-      "options": [
-        "Le péroné",
-        "L'étrier",
-        "La clavicule",
-        "Le cubitus"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1781927189961_6_78byxc",
-      "addedAt": "2026-06-20T03:46:29.961Z"
-    },
-    {
-      "question": "Quel type de cuisine caractérise principalement la Thaïlande ?",
-      "options": [
-        "Cuisine épicée avec sauce de poisson",
-        "Cuisine douce avec curry blanc",
-        "Cuisine sans épices",
-        "Cuisine basée uniquement sur le riz"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1781927189961_7_opgca8",
-      "addedAt": "2026-06-20T03:46:29.961Z"
     }
   ],
   "poolSize": 310
