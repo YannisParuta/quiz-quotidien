@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel élément chimique a le symbole 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Arsenic"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1783384543566_0_1nc0im",
+      "addedAt": "2026-07-07T00:35:43.566Z"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de football sur le terrain ?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1783384543566_1_upbeu8",
+      "addedAt": "2026-07-07T00:35:43.566Z"
+    },
+    {
+      "question": "Quel scientifique a développé la théorie de la relativité ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783384543566_2_mar0ny",
+      "addedAt": "2026-07-07T00:35:43.566Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle principalement fleuri ?",
+      "options": [
+        "XIIIe siècle",
+        "XIVe siècle",
+        "XVe siècle",
+        "XVIe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1783384543566_3_zmp1p4",
+      "addedAt": "2026-07-07T00:35:43.566Z"
+    },
+    {
+      "question": "Quel film de Tim Burton met en scène un personnage squelette nommé Jack Skellington ?",
+      "options": [
+        "Sweeney Todd",
+        "L'Étrange Noël de Monsieur Jack",
+        "Sleepy Hollow",
+        "Beetlejuice"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783384543566_4_fr33c9",
+      "addedAt": "2026-07-07T00:35:43.566Z"
+    },
+    {
+      "question": "Quel artiste moderne a créé le mouvement Du- champ appelé 'ready-made' ?",
+      "options": [
+        "Marcel Duchamp",
+        "Jackson Pollock",
+        "Andy Warhol",
+        "Joan Miró"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1783384543566_5_bqceiy",
+      "addedAt": "2026-07-07T00:35:43.566Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1783384543566_6_beec6h",
+      "addedAt": "2026-07-07T00:35:43.566Z"
+    },
+    {
+      "question": "Quel langage de programmation est développé par Mozilla ?",
+      "options": [
+        "Python",
+        "Rust",
+        "Go",
+        "Swift"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1783384543566_7_ksbcqw",
+      "addedAt": "2026-07-07T00:35:43.566Z"
+    },
+    {
+      "question": "Quel légume est techniquement un fruit du point de vue botanique ?",
+      "options": [
+        "Carotte",
+        "Tomate",
+        "Pomme de terre",
+        "Oignon"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1783384543566_8_zxl8xb",
+      "addedAt": "2026-07-07T00:35:43.566Z"
+    },
+    {
+      "question": "Quel dessert français est composé de pâte à choux et de glaçage au chocolat ?",
+      "options": [
+        "Mille-feuille",
+        "Éclair",
+        "Tarte Tatin",
+        "Clafoutis"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1783384543566_9_ygfaom",
+      "addedAt": "2026-07-07T00:35:43.566Z"
+    },
+    {
       "question": "Quel type de pâtes italiennes ressemble à de petits nids ?",
       "options": [
         "Linguine",
@@ -3899,7 +4029,12 @@
       "category": "Mathématiques",
       "id": "q_1782102030976_9_a6sz2p",
       "addedAt": "2026-06-22T04:20:30.976Z"
-    },
+    }
+  ],
+  "version": 303,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-07T00:35:43.567Z",
+  "archivedQuestions": [
     {
       "question": "Quel film réalisé par Quentin Tarantino est sorti en 2009 et traite de la Seconde Guerre mondiale ?",
       "options": [
@@ -4029,167 +4164,6 @@
       "category": "Art",
       "id": "q_1782086703434_3_1bh5g4",
       "addedAt": "2026-06-22T00:05:03.434Z"
-    }
-  ],
-  "version": 302,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-06T03:37:17.415Z",
-  "archivedQuestions": [
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
-      "options": [
-        "XVe siècle",
-        "XIVe siècle",
-        "XVIe siècle",
-        "XVIIe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1782086703434_4_73osxp",
-      "addedAt": "2026-06-22T00:05:03.434Z"
-    },
-    {
-      "question": "Combien de chromosomes possède un être humain ?",
-      "options": [
-        "23",
-        "46",
-        "48",
-        "52"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782086703434_5_ug4x15",
-      "addedAt": "2026-06-22T00:05:03.434Z"
-    },
-    {
-      "question": "Quel réalisateur a créé le film 'Inception' en 2010 ?",
-      "options": [
-        "Steven Spielberg",
-        "Christopher Nolan",
-        "Denis Villeneuve",
-        "Quentin Tarantino"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1782086703434_6_dxgnwq",
-      "addedAt": "2026-06-22T00:05:03.434Z"
-    },
-    {
-      "question": "Quel minéral dur et transparent est utilisé pour fabriquer des bijoux ?",
-      "options": [
-        "Le quartz",
-        "Le diamant",
-        "Le mica",
-        "Le feldspath"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1782086703434_7_b37tc6",
-      "addedAt": "2026-06-22T00:05:03.434Z"
-    },
-    {
-      "question": "Quel protocole de communication est à la base d'Internet ?",
-      "options": [
-        "FTP",
-        "TCP/IP",
-        "HTTP",
-        "SMTP"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1782086703434_8_9td7lv",
-      "addedAt": "2026-06-22T00:05:03.434Z"
-    },
-    {
-      "question": "Quel type de cuisine est traditionnellement associé au Japon et utilise les baguettes ?",
-      "options": [
-        "La cuisine thaïlandaise",
-        "La cuisine coréenne",
-        "La cuisine japonaise",
-        "La cuisine vietnamienne"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1782086703434_9_87kmvw",
-      "addedAt": "2026-06-22T00:05:03.434Z"
-    },
-    {
-      "question": "Quel organite cellulaire est responsable de la production d'énergie dans les cellules ?",
-      "options": [
-        "Le noyau",
-        "La mitochondrie",
-        "Le réticulum endoplasmique",
-        "L'appareil de Golgi"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782015512971_0_hr6a4j",
-      "addedAt": "2026-06-21T04:18:32.971Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle commencé ?",
-      "options": [
-        "XIIe siècle",
-        "XIVe siècle",
-        "XVIe siècle",
-        "XVIIIe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782015512971_1_xwc4qh",
-      "addedAt": "2026-06-21T04:18:32.971Z"
-    },
-    {
-      "question": "Quel animal terrestre possède le cœur le plus gros en proportion de sa taille ?",
-      "options": [
-        "L'éléphant",
-        "La girafe",
-        "L'hippopotame",
-        "Le rhinocéros"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1782015512971_2_fs45tw",
-      "addedAt": "2026-06-21T04:18:32.971Z"
-    },
-    {
-      "question": "Quel célèbre film de 1977 a révolutionné les effets spéciaux au cinéma ?",
-      "options": [
-        "Rencontre du troisième type",
-        "La Guerre des étoiles",
-        "Metropolis",
-        "2001 : L'Odyssée de l'espace"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1782015512971_3_as2clu",
-      "addedAt": "2026-06-21T04:18:32.971Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique traditionnelle ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782015512971_4_86cngt",
-      "addedAt": "2026-06-21T04:18:32.971Z"
-    },
-    {
-      "question": "Quel pays a inventé les sushis à l'époque médiévale ?",
-      "options": [
-        "La Thaïlande",
-        "Le Japon",
-        "La Chine",
-        "La Corée"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1782015512971_5_7bs816",
-      "addedAt": "2026-06-21T04:18:32.971Z"
     }
   ],
   "poolSize": 310
