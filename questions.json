@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel continent est le plus grand désert chaud du monde, le Sahara ?",
+      "options": [
+        "Asie",
+        "Afrique",
+        "Amérique du Sud",
+        "Australie"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1783394917059_0_7h7kqv",
+      "addedAt": "2026-07-07T03:28:37.059Z"
+    },
+    {
+      "question": "Quel élément chimique est connu pour être le plus léger de tous ?",
+      "options": [
+        "Hélium",
+        "Lithium",
+        "Hydrogène",
+        "Azote"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1783394917059_1_8bszbh",
+      "addedAt": "2026-07-07T03:28:37.059Z"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de rugby sur le terrain ?",
+      "options": [
+        "11",
+        "13",
+        "15",
+        "17"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1783394917059_2_t3hjw5",
+      "addedAt": "2026-07-07T03:28:37.059Z"
+    },
+    {
+      "question": "Quel mouvement artistique du 20ème siècle se caractérise par l'abstraction et les formes géométriques ?",
+      "options": [
+        "Surréalisme",
+        "Dadaïsme",
+        "Cubisme",
+        "Expressionnisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1783394917059_3_lh7s48",
+      "addedAt": "2026-07-07T03:28:37.059Z"
+    },
+    {
+      "question": "Quel océan est le plus profond de la Terre ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Pacifique",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1783394917059_4_yqzfxb",
+      "addedAt": "2026-07-07T03:28:37.059Z"
+    },
+    {
+      "question": "Quel instrument à vent est le plus grave de la famille des saxophones ?",
+      "options": [
+        "Saxophone soprano",
+        "Saxophone alto",
+        "Saxophone ténor",
+        "Saxophone baryton"
+      ],
+      "correctAnswer": 3,
+      "category": "Musique",
+      "id": "q_1783394917059_5_b9xx86",
+      "addedAt": "2026-07-07T03:28:37.059Z"
+    },
+    {
+      "question": "Quel type de fruit produit le noisetier ?",
+      "options": [
+        "La noisette",
+        "Le noix",
+        "La châtaigne",
+        "L'amande"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1783394917059_6_dstf5y",
+      "addedAt": "2026-07-07T03:28:37.059Z"
+    },
+    {
+      "question": "Quel est le résultat de 12 fois 8 divisé par 3 ?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "36"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1783394917059_7_q64ruj",
+      "addedAt": "2026-07-07T03:28:37.059Z"
+    },
+    {
+      "question": "Quel plat japonais traditionnel est préparé avec du riz vinaigré et des ingrédients crus ?",
+      "options": [
+        "Tempura",
+        "Sushi",
+        "Ramen",
+        "Teriyaki"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1783394917059_8_dm9tl8",
+      "addedAt": "2026-07-07T03:28:37.059Z"
+    },
+    {
+      "question": "Quel langage de programmation est notamment utilisé pour développer des applications Android ?",
+      "options": [
+        "Swift",
+        "Java",
+        "C#",
+        "Ruby"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1783394917059_9_gq5apk",
+      "addedAt": "2026-07-07T03:28:37.059Z"
+    },
+    {
+      "question": "Quel réalisateur français est célèbre pour ses films de la Nouvelle Vague comme 'À bout de souffle' ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Agnès Varda",
+        "Claude Chabrol"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783394917059_10_a92955",
+      "addedAt": "2026-07-07T03:28:37.059Z"
+    },
+    {
       "question": "Quel élément chimique a le symbole 'Au' ?",
       "options": [
         "Argent",
@@ -3886,7 +4029,12 @@
       "category": "Science",
       "id": "q_1782174420493_4_g0zrkf",
       "addedAt": "2026-06-23T00:27:00.493Z"
-    },
+    }
+  ],
+  "version": 304,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-07T03:28:37.059Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le résultat de 7 au carré moins 13 ?",
       "options": [
@@ -4029,141 +4177,6 @@
       "category": "Mathématiques",
       "id": "q_1782102030976_9_a6sz2p",
       "addedAt": "2026-06-22T04:20:30.976Z"
-    }
-  ],
-  "version": 303,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-07T00:35:43.567Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel film réalisé par Quentin Tarantino est sorti en 2009 et traite de la Seconde Guerre mondiale ?",
-      "options": [
-        "Inglourious Basterds",
-        "Pulp Fiction",
-        "Kill Bill",
-        "Django Unchained"
-      ],
-      "correctAnswer": 0,
-      "category": "Cinéma",
-      "id": "q_1782102030976_10_xtp5t6",
-      "addedAt": "2026-06-22T04:20:30.976Z"
-    },
-    {
-      "question": "Quel fromage français appellation d'origine contrôlée provient de la région de Roquefort ?",
-      "options": [
-        "Camembert",
-        "Roquefort",
-        "Comté",
-        "Brie"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1782102030976_11_wzddvn",
-      "addedAt": "2026-06-22T04:20:30.976Z"
-    },
-    {
-      "question": "Quel philosophe grec a fondé l'Académie d'Athènes en 387 avant J.-C. ?",
-      "options": [
-        "Aristote",
-        "Platon",
-        "Socrate",
-        "Pythagore"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782102030975_0_tai6a9",
-      "addedAt": "2026-06-22T04:20:30.975Z"
-    },
-    {
-      "question": "Quel processus biologique permet aux plantes de convertir la lumière en énergie chimique ?",
-      "options": [
-        "Respiration cellulaire",
-        "Photosynthèse",
-        "Fermentation",
-        "Osmose"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782102030975_1_jvlaoq",
-      "addedAt": "2026-06-22T04:20:30.975Z"
-    },
-    {
-      "question": "Quel château de la Loire a été résidence royale de François Ier ?",
-      "options": [
-        "Chambord",
-        "Versailles",
-        "Fontainebleau",
-        "Amboise"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1782102030975_2_gnl69o",
-      "addedAt": "2026-06-22T04:20:30.975Z"
-    },
-    {
-      "question": "Quel roman de Jane Austen a pour héroïne une jeune femme nommée Elizabeth Bennet ?",
-      "options": [
-        "Sense and Sensibility",
-        "Orgueil et Préjugés",
-        "Emma",
-        "Persuasion"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1782102030975_3_2qpagh",
-      "addedAt": "2026-06-22T04:20:30.975Z"
-    },
-    {
-      "question": "Quel célèbre roman de science-fiction a été écrit par Jules Verne en 1870 ?",
-      "options": [
-        "Vingt mille lieues sous les mers",
-        "De la Terre à la Lune",
-        "Le Tour du monde en 80 jours",
-        "L'Île mystérieuse"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1782086703433_0_m4mipd",
-      "addedAt": "2026-06-22T00:05:03.434Z"
-    },
-    {
-      "question": "Quel gaz les animaux rejettent-ils principalement lors de la respiration ?",
-      "options": [
-        "L'oxygène",
-        "Le dioxyde de carbone",
-        "L'azote",
-        "L'hydrogène"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782086703434_1_ii4vcx",
-      "addedAt": "2026-06-22T00:05:03.434Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Asie ?",
-      "options": [
-        "Le Gange",
-        "Le Yang-Tsé",
-        "L'Amour",
-        "L'Indus"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1782086703434_2_shcvcy",
-      "addedAt": "2026-06-22T00:05:03.434Z"
-    },
-    {
-      "question": "Quel artiste impressionniste français a peint 'Les Nymphéas' ?",
-      "options": [
-        "Pierre-Auguste Renoir",
-        "Claude Monet",
-        "Edgar Degas",
-        "Frédéric Bazille"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782086703434_3_1bh5g4",
-      "addedAt": "2026-06-22T00:05:03.434Z"
     }
   ],
   "poolSize": 310
