@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Quel physicien a développé la théorie de la relativité générale ?",
+      "options": [
+        "Niels Bohr",
+        "Albert Einstein",
+        "Max Planck",
+        "Stephen Hawking"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783472336549_0_7nmfmr",
+      "addedAt": "2026-07-08T00:58:56.549Z"
+    },
+    {
+      "question": "Quel compositeur a écrit la 'Symphonie du Nouveau Monde' ?",
+      "options": [
+        "Antonín Dvořák",
+        "Piotr Illitch Tchaïkovski",
+        "Gioachino Rossini",
+        "Hector Berlioz"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1783472336549_1_r6894o",
+      "addedAt": "2026-07-08T00:58:56.549Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
+      "options": [
+        "XIIIe siècle",
+        "XIVe-XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1783472336549_2_3m6co3",
+      "addedAt": "2026-07-08T00:58:56.549Z"
+    },
+    {
+      "question": "Quel animal marin est capable de changer de couleur en quelques secondes ?",
+      "options": [
+        "Dauphin",
+        "Pieuvre",
+        "Otarie",
+        "Requin-baleine"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1783472336549_3_nqhriw",
+      "addedAt": "2026-07-08T00:58:56.549Z"
+    },
+    {
+      "question": "Quel cinéaste français est connu pour la technique du 'jump cut' ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Claude Chabrol",
+        "Agnès Varda"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783472336549_4_bkw2k4",
+      "addedAt": "2026-07-08T00:58:56.549Z"
+    },
+    {
+      "question": "Combien de côtés possède un dodécagone ?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1783472336549_5_o1tf1x",
+      "addedAt": "2026-07-08T00:58:56.549Z"
+    },
+    {
+      "question": "Quel type de fromage français est caractérisé par ses moisissures bleues internes ?",
+      "options": [
+        "Camembert",
+        "Roquefort",
+        "Comté",
+        "Brie"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1783472336549_6_pregvc",
+      "addedAt": "2026-07-08T00:58:56.549Z"
+    },
+    {
+      "question": "Quel langage de programmation est créé par Guido van Rossum ?",
+      "options": [
+        "Java",
+        "Python",
+        "Ruby",
+        "C++"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1783472336549_7_minm3t",
+      "addedAt": "2026-07-08T00:58:56.549Z"
+    },
+    {
       "question": "Quel continent est le plus grand désert chaud du monde, le Sahara ?",
       "options": [
         "Asie",
@@ -3925,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1782185912498_5_c2i1xu",
       "addedAt": "2026-06-23T03:38:32.498Z"
-    },
+    }
+  ],
+  "version": 305,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-08T00:58:56.549Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le plus rapide animal terrestre du monde ?",
       "options": [
@@ -4029,154 +4138,6 @@
       "category": "Science",
       "id": "q_1782174420493_4_g0zrkf",
       "addedAt": "2026-06-23T00:27:00.493Z"
-    }
-  ],
-  "version": 304,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-07T03:28:37.059Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le résultat de 7 au carré moins 13 ?",
-      "options": [
-        "36",
-        "48",
-        "50",
-        "62"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1782174420493_5_35ntu7",
-      "addedAt": "2026-06-23T00:27:00.493Z"
-    },
-    {
-      "question": "Quel type de vin est produit en Bordeaux, France ?",
-      "options": [
-        "Vin blanc sec",
-        "Vin rouge",
-        "Champagne",
-        "Rosé"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1782174420493_6_vm1q0t",
-      "addedAt": "2026-06-23T00:27:00.493Z"
-    },
-    {
-      "question": "Quel sport aquatique combine la natation, le plongeon et la danse ?",
-      "options": [
-        "Water-polo",
-        "Natation synchronisée",
-        "Triathlon",
-        "Plongeon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1782174420493_7_adtpdo",
-      "addedAt": "2026-06-23T00:27:00.493Z"
-    },
-    {
-      "question": "Quel mouvement artistique Pablo Picasso a-t-il co-fondé au début du 20ème siècle ?",
-      "options": [
-        "Surréalisme",
-        "Cubisme",
-        "Dadaïsme",
-        "Futurisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782174420493_8_uq03rk",
-      "addedAt": "2026-06-23T00:27:00.493Z"
-    },
-    {
-      "question": "Quel compositeur allemand est sourd quand il a écrit sa 9ème symphonie ?",
-      "options": [
-        "Bach",
-        "Mozart",
-        "Beethoven",
-        "Wagner"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1782174420492_0_8hbcnv",
-      "addedAt": "2026-06-23T00:27:00.492Z"
-    },
-    {
-      "question": "Quel musicien baroque allemand a composé les Variations Goldberg ?",
-      "options": [
-        "Georg Friedrich Händel",
-        "Jean-Sébastien Bach",
-        "Antonio Vivaldi",
-        "Claudio Monteverdi"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782102030976_4_gs5h4c",
-      "addedAt": "2026-06-22T04:20:30.976Z"
-    },
-    {
-      "question": "Quel type de particule subatomique a été découvert par James Chadwick en 1932 ?",
-      "options": [
-        "Proton",
-        "Électron",
-        "Neutron",
-        "Quark"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1782102030976_5_ie6b3m",
-      "addedAt": "2026-06-22T04:20:30.976Z"
-    },
-    {
-      "question": "En quel siècle a eu lieu la construction de la Grande Muraille de Chine ?",
-      "options": [
-        "7ème siècle avant J.-C.",
-        "3ème siècle avant J.-C.",
-        "1er siècle après J.-C.",
-        "10ème siècle après J.-C."
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782102030976_6_lrpuvb",
-      "addedAt": "2026-06-22T04:20:30.976Z"
-    },
-    {
-      "question": "Quel peintre hollandais a peint la série des Nymphéas ?",
-      "options": [
-        "Vincent Van Gogh",
-        "Claude Monet",
-        "Rembrandt",
-        "Johannes Vermeer"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782102030976_7_4y0fun",
-      "addedAt": "2026-06-22T04:20:30.976Z"
-    },
-    {
-      "question": "Quel type de mammifère prédateur possède une crinière épaisse autour du cou ?",
-      "options": [
-        "Hyène",
-        "Lion",
-        "Léopard",
-        "Tigre"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1782102030976_8_xbdl8a",
-      "addedAt": "2026-06-22T04:20:30.976Z"
-    },
-    {
-      "question": "Quel mathématicien suisse a résolu le problème des sept ponts de Königsberg ?",
-      "options": [
-        "Carl Friedrich Gauss",
-        "Leonhard Euler",
-        "Pierre Laplace",
-        "Joseph-Louis Lagrange"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1782102030976_9_a6sz2p",
-      "addedAt": "2026-06-22T04:20:30.976Z"
     }
   ],
   "poolSize": 310
