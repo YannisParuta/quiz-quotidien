@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "En quelle année la Révolution française a-t-elle commencé ?",
+      "options": [
+        "1789",
+        "1799",
+        "1769",
+        "1809"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1783557684961_0_bscnox",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
+      "question": "Quel élément chimique a pour symbole 'Au' ?",
+      "options": [
+        "Argent",
+        "Or",
+        "Aluminium",
+        "Azote"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783557684961_1_zwqb95",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
+      "question": "Quel écrivain français a rédigé 'Les Misérables' ?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1783557684961_2_c1g1ko",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
+      "question": "Quel était le premier film de la franchise 'Avengers' ?",
+      "options": [
+        "Avengers Infinity War",
+        "Avengers Endgame",
+        "The Avengers",
+        "Age of Ultron"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1783557684961_3_06c800",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
+      "question": "Quel pays produit le plus de cacao au monde ?",
+      "options": [
+        "Ghana",
+        "Brésil",
+        "Côte d'Ivoire",
+        "Cameroun"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1783557684961_4_f8dp87",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
+      "question": "Combien de pattes possède une araignée ?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1783557684961_5_vzo4c8",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
+      "question": "Quel navigateur internet a été créé par Microsoft ?",
+      "options": [
+        "Firefox",
+        "Chrome",
+        "Edge",
+        "Safari"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1783557684961_6_6le6bx",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
+      "question": "Quel peintre impressionniste est connu pour sa série de 'Nymphéas' ?",
+      "options": [
+        "Renoir",
+        "Monet",
+        "Degas",
+        "Cézanne"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1783557684961_7_1culcw",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
+      "question": "Dans quel sport utilise-t-on une raquette et une balle de 56,7 grammes ?",
+      "options": [
+        "Badminton",
+        "Tennis de table",
+        "Tennis",
+        "Squash"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1783557684961_8_h3uuw1",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
+      "question": "Quel est le plus grand lac du monde ?",
+      "options": [
+        "Lac Supérieur",
+        "Lac Baïkal",
+        "Lac Tanganyika",
+        "Mer Caspienne"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1783557684961_9_dcsp14",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
+      "question": "Combien de chromosomes possède un être humain ?",
+      "options": [
+        "23",
+        "46",
+        "92",
+        "44"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783557684961_10_nsywrn",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
+      "question": "En quelle année la Chine a-t-elle construit la Grande Muraille ?",
+      "options": [
+        "1ère siècle av. J-C",
+        "7ème siècle ap. J-C",
+        "13ème siècle ap. J-C",
+        "Plusieurs siècles"
+      ],
+      "correctAnswer": 3,
+      "category": "Histoire",
+      "id": "q_1783557684961_11_675fk2",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
+      "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1783557684961_12_a4fdug",
+      "addedAt": "2026-07-09T00:41:24.961Z"
+    },
+    {
       "question": "Quel fleuve est le plus long d'Afrique ?",
       "options": [
         "Le Congo",
@@ -3860,7 +4029,12 @@
       "category": "Science",
       "id": "q_1782272368823_2_7lcocc",
       "addedAt": "2026-06-24T03:39:28.823Z"
-    },
+    }
+  ],
+  "version": 307,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-09T00:41:24.962Z",
+  "archivedQuestions": [
     {
       "question": "Quel peintre néerlandais a coupé une partie de son oreille ?",
       "options": [
@@ -4029,141 +4203,6 @@
       "category": "Mathématiques",
       "id": "q_1782262612499_4_wr9fqs",
       "addedAt": "2026-06-24T00:56:52.499Z"
-    }
-  ],
-  "version": 306,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-08T02:45:02.798Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel prédateur marin est connu pour ses attaques coordonnées en meute ?",
-      "options": [
-        "Le requin blanc",
-        "L'orque",
-        "Le barracuda",
-        "Le piranha"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1782262612499_5_9epgh9",
-      "addedAt": "2026-06-24T00:56:52.499Z"
-    },
-    {
-      "question": "Quel protocole de sécurité est représenté par le cadenas dans la barre d'adresse des navigateurs ?",
-      "options": [
-        "HTTP",
-        "HTTPS",
-        "FTP",
-        "SMTP"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1782262612499_6_pl54on",
-      "addedAt": "2026-06-24T00:56:52.499Z"
-    },
-    {
-      "question": "Quel roi français est surnommé 'le Roi Soleil' ?",
-      "options": [
-        "Louis XIII",
-        "Louis XIV",
-        "Louis XV",
-        "Louis XVI"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782262612499_7_vhtb5r",
-      "addedAt": "2026-06-24T00:56:52.499Z"
-    },
-    {
-      "question": "En chimie, quel est le numéro atomique de l'oxygène ?",
-      "options": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782262612498_0_4w3zbu",
-      "addedAt": "2026-06-24T00:56:52.498Z"
-    },
-    {
-      "question": "Combien de cordes possède un violoncelle ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "8"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1782185912498_0_oyfbcx",
-      "addedAt": "2026-06-23T03:38:32.498Z"
-    },
-    {
-      "question": "Quel gaz est essentiel à la photosynthèse des plantes ?",
-      "options": [
-        "L'oxygène",
-        "Le dioxyde de carbone",
-        "L'azote",
-        "L'hydrogène"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782185912498_1_c0jy5j",
-      "addedAt": "2026-06-23T03:38:32.498Z"
-    },
-    {
-      "question": "Quel film d'animation Pixar raconte l'histoire d'un jouet nommé Woody ?",
-      "options": [
-        "Cars",
-        "Monstres & Cie",
-        "Toy Story",
-        "Le Monde de Nemo"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1782185912498_2_rwq69j",
-      "addedAt": "2026-06-23T03:38:32.498Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet d'Europe occidentale ?",
-      "options": [
-        "Le Mont-Blanc",
-        "L'Elbrus",
-        "Le Mont-Rose",
-        "La Grande-Traverse"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1782185912498_3_tmlkxh",
-      "addedAt": "2026-06-23T03:38:32.498Z"
-    },
-    {
-      "question": "Quel artiste impressionniste français est connu pour ses peintures de nymphéas ?",
-      "options": [
-        "Paul Cézanne",
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Alfred Sisley"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782185912498_4_kg4lbm",
-      "addedAt": "2026-06-23T03:38:32.498Z"
-    },
-    {
-      "question": "Quel est le plus grand organisme vivant jamais découvert sur Terre ?",
-      "options": [
-        "La baleine bleue",
-        "Un champignon souterrain",
-        "Le grand séquoia",
-        "La grande barrière de corail"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1782185912498_5_c2i1xu",
-      "addedAt": "2026-06-23T03:38:32.498Z"
     }
   ],
   "poolSize": 310
