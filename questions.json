@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut sommet du monde après l'Everest ?",
+      "options": [
+        "K2",
+        "Kangchenjunga",
+        "Lhotse",
+        "Makalu"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1783567305547_1_2pl9ls",
+      "addedAt": "2026-07-09T03:21:45.547Z"
+    },
+    {
+      "question": "Combien de symphonies Beethoven a-t-il composées ?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1783567305547_2_xt509i",
+      "addedAt": "2026-07-09T03:21:45.547Z"
+    },
+    {
+      "question": "En quel siècle la Grande Muraille de Chine a-t-elle été principalement construite ?",
+      "options": [
+        "XVe siècle",
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1783567305547_3_64ovjp",
+      "addedAt": "2026-07-09T03:21:45.547Z"
+    },
+    {
+      "question": "Quel sport olympique utilise des escrimeurs armés d'une épée ?",
+      "options": [
+        "L'escrime",
+        "L'épée",
+        "Le pentathlon",
+        "La lutte"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1783567305547_4_8rvfp7",
+      "addedAt": "2026-07-09T03:21:45.547Z"
+    },
+    {
+      "question": "Quel célèbre architecte a conçu la Sagrada Familia à Barcelone ?",
+      "options": [
+        "Josep Lluís Sert",
+        "Antoni Gaudí",
+        "Ildefons Cerdà",
+        "Enric Miralles"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1783567305547_5_e8vc5y",
+      "addedAt": "2026-07-09T03:21:45.547Z"
+    },
+    {
+      "question": "En quelle année la première Coupe du Monde de football s'est-elle déroulée ?",
+      "options": [
+        "1930",
+        "1934",
+        "1938",
+        "1950"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1783567305547_6_0s3cjd",
+      "addedAt": "2026-07-09T03:21:45.547Z"
+    },
+    {
+      "question": "Quel gaz compose environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Dioxyde de carbone",
+        "Argon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783567305547_7_g3tey6",
+      "addedAt": "2026-07-09T03:21:45.547Z"
+    },
+    {
+      "question": "Quel philosophe grec antique a fondé l'Académie d'Athènes ?",
+      "options": [
+        "Socrate",
+        "Aristote",
+        "Platon",
+        "Pythagore"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1783567305547_8_6sbnsg",
+      "addedAt": "2026-07-09T03:21:45.547Z"
+    },
+    {
+      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Alexandre Pouchkine",
+        "Ivan Tourgueniev"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1783567305546_0_ard8rf",
+      "addedAt": "2026-07-09T03:21:45.546Z"
+    },
+    {
       "question": "En quelle année la Révolution française a-t-elle commencé ?",
       "options": [
         "1789",
@@ -3912,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1782348643353_3_2zzujv",
       "addedAt": "2026-06-25T00:50:43.353Z"
-    },
+    }
+  ],
+  "version": 308,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-09T03:21:45.547Z",
+  "archivedQuestions": [
     {
       "question": "Quel musicien autrichien a composé 'Don Juan' et 'Les Quatre Saisons' ?",
       "options": [
@@ -4029,180 +4151,6 @@
       "category": "Science",
       "id": "q_1782272368823_2_7lcocc",
       "addedAt": "2026-06-24T03:39:28.823Z"
-    }
-  ],
-  "version": 307,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-09T00:41:24.962Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel peintre néerlandais a coupé une partie de son oreille ?",
-      "options": [
-        "Rembrandt",
-        "Vincent van Gogh",
-        "Jan Vermeer",
-        "Peter Brueghel"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782272368823_3_h9czmg",
-      "addedAt": "2026-06-24T03:39:28.823Z"
-    },
-    {
-      "question": "Quel était le nom de jeune fille de Diana, princesse de Galles ?",
-      "options": [
-        "Spencer",
-        "Windsor",
-        "Tudor",
-        "Mountbatten"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1782272368823_4_efgpqx",
-      "addedAt": "2026-06-24T03:39:28.823Z"
-    },
-    {
-      "question": "Combien de continents y a-t-il sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1782272368823_5_l99xxn",
-      "addedAt": "2026-06-24T03:39:28.823Z"
-    },
-    {
-      "question": "Quel mathématicien italien a introduit le système des chiffres arabes en Europe ?",
-      "options": [
-        "Leonardo Fibonacci",
-        "Gerolamo Cardano",
-        "Tartaglia",
-        "Paolo Ruffini"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1782272368823_6_drwe6l",
-      "addedAt": "2026-06-24T03:39:28.823Z"
-    },
-    {
-      "question": "Quel type de danse traditionnelle est originaire de l'Argentine ?",
-      "options": [
-        "La Samba",
-        "Le Tango",
-        "La Cumbia",
-        "Le Flamenco"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_1782272368823_7_jez6eu",
-      "addedAt": "2026-06-24T03:39:28.823Z"
-    },
-    {
-      "question": "Quel champion de tennis a remporté le plus de Grand Chelem ?",
-      "options": [
-        "Roger Federer",
-        "Rafael Nadal",
-        "Novak Djokovic",
-        "Pete Sampras"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1782272368823_8_otqcv5",
-      "addedAt": "2026-06-24T03:39:28.823Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la trilogie 'Back to the Future' ?",
-      "options": [
-        "Steven Spielberg",
-        "Robert Zemeckis",
-        "James Cameron",
-        "John Hughes"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1782272368823_9_gp2m2b",
-      "addedAt": "2026-06-24T03:39:28.823Z"
-    },
-    {
-      "question": "Quel musicien britannique a fondé le groupe Queen ?",
-      "options": [
-        "David Bowie",
-        "Freddie Mercury",
-        "Mick Jagger",
-        "Robert Plant"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782272368823_10_2rzwxp",
-      "addedAt": "2026-06-24T03:39:28.823Z"
-    },
-    {
-      "question": "Quel désert est le plus grand du monde ?",
-      "options": [
-        "Le désert du Sahara",
-        "Le désert de Kalahari",
-        "Le désert de l'Antarctique",
-        "Le désert de Gobi"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1782272368823_11_sx2xpk",
-      "addedAt": "2026-06-24T03:39:28.823Z"
-    },
-    {
-      "question": "Quel artiste surréaliste espagnol est connu pour ses montres molles ?",
-      "options": [
-        "Joan Miró",
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Juan Gris"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782262612499_1_p5110q",
-      "addedAt": "2026-06-24T00:56:52.499Z"
-    },
-    {
-      "question": "Quel musicien autrichien a composé plus de 600 œuvres musicales ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Franz Schubert",
-        "Joseph Haydn",
-        "Antonio Vivaldi"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782262612499_2_92s7fj",
-      "addedAt": "2026-06-24T00:56:52.499Z"
-    },
-    {
-      "question": "Quel sport est connu comme 'le sport roi' en France ?",
-      "options": [
-        "Le tennis",
-        "Le rugby",
-        "Le cyclisme",
-        "L'escrime"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1782262612499_3_9e1n2h",
-      "addedAt": "2026-06-24T00:56:52.499Z"
-    },
-    {
-      "question": "Quel mathématicien italien a introduit la série de nombres portant son nom ?",
-      "options": [
-        "Léonard de Fibonacci",
-        "Blaise Pascal",
-        "René Descartes",
-        "Isaac Newton"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1782262612499_4_wr9fqs",
-      "addedAt": "2026-06-24T00:56:52.499Z"
     }
   ],
   "poolSize": 310
