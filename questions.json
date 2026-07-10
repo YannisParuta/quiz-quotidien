@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel chimiste français a découvert le radium en 1898 ?",
+      "options": [
+        "Marie Curie",
+        "Antoine Lavoisier",
+        "Louis Pasteur",
+        "Pierre Béchamp"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1783644888522_0_fj2l1u",
+      "addedAt": "2026-07-10T00:54:48.522Z"
+    },
+    {
+      "question": "Combien de symphonies a composées Ludwig van Beethoven ?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1783644888522_1_rfnevp",
+      "addedAt": "2026-07-10T00:54:48.522Z"
+    },
+    {
+      "question": "Quel romancier russe a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Ivan Tourgueniev",
+        "Nikolaï Gogol"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1783644888522_2_pr1uin",
+      "addedAt": "2026-07-10T00:54:48.522Z"
+    },
+    {
+      "question": "En quelle année la Première Guerre mondiale a-t-elle pris fin ?",
+      "options": [
+        "1916",
+        "1917",
+        "1918",
+        "1920"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1783644888522_3_uo80ly",
+      "addedAt": "2026-07-10T00:54:48.522Z"
+    },
+    {
+      "question": "Quel mathématicien italien a introduit les chiffres arabes en Europe ?",
+      "options": [
+        "Leonardo Fibonacci",
+        "Girolamo Cardano",
+        "Francesco Vieta",
+        "Tartaglia"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1783644888522_4_0okizw",
+      "addedAt": "2026-07-10T00:54:48.522Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'La La Land' ?",
+      "options": [
+        "Denis Villeneuve",
+        "Damien Chazelle",
+        "Michel Gondry",
+        "Luc Besson"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783644888522_5_fxup5j",
+      "addedAt": "2026-07-10T00:54:48.522Z"
+    },
+    {
+      "question": "Quel est le métal le plus conducteur d'électricité ?",
+      "options": [
+        "Cuivre",
+        "Argent",
+        "Or",
+        "Aluminium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783644888522_6_vjn5x3",
+      "addedAt": "2026-07-10T00:54:48.522Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle atteint son apogée ?",
+      "options": [
+        "XIVe siècle",
+        "XVe siècle",
+        "XVIe siècle",
+        "XVIIe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1783644888522_7_oncm43",
+      "addedAt": "2026-07-10T00:54:48.522Z"
+    },
+    {
+      "question": "Quel fruit tropical est connu pour sa teneur élevée en vitamine C et provient d'Amérique du Sud ?",
+      "options": [
+        "Papaye",
+        "Mangue",
+        "Kiwi",
+        "Fruits de la passion"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1783644888522_8_ofnazd",
+      "addedAt": "2026-07-10T00:54:48.522Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été créé par Linus Torvalds ?",
+      "options": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1783644888522_9_7fgbzj",
+      "addedAt": "2026-07-10T00:54:48.522Z"
+    },
+    {
+      "question": "Quel oiseau peut voler vers l'arrière et est le seul oiseau capable de cette prouesse ?",
+      "options": [
+        "Colibri",
+        "Hirondelle",
+        "Martinet noir",
+        "Grive musicienne"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1783644888522_10_8fjw1d",
+      "addedAt": "2026-07-10T00:54:48.522Z"
+    },
+    {
       "question": "Quel est le plus haut sommet du monde après l'Everest ?",
       "options": [
         "K2",
@@ -3886,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1782358737132_2_ru6gy2",
       "addedAt": "2026-06-25T03:38:57.132Z"
-    },
+    }
+  ],
+  "version": 309,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-10T00:54:48.522Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le nombre de cordes d'une guitare classique standard ?",
       "options": [
@@ -4029,128 +4177,6 @@
       "category": "Géographie",
       "id": "q_1782348643353_3_2zzujv",
       "addedAt": "2026-06-25T00:50:43.353Z"
-    }
-  ],
-  "version": 308,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-09T03:21:45.547Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel musicien autrichien a composé 'Don Juan' et 'Les Quatre Saisons' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Antonio Vivaldi",
-        "Johann Sebastian Bach",
-        "Franz Liszt"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782348643353_4_5tfg8z",
-      "addedAt": "2026-06-25T00:50:43.353Z"
-    },
-    {
-      "question": "En quelle année l'Egypte ancienne a-t-elle été conquise par Alexandre le Grand ?",
-      "options": [
-        "332 avant J.C.",
-        "250 avant J.C.",
-        "400 avant J.C.",
-        "100 avant J.C."
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1782348643353_5_h3q8a6",
-      "addedAt": "2026-06-25T00:50:43.353Z"
-    },
-    {
-      "question": "Quel fromage français est traditionnellement enrobé dans des feuilles de châtaignier ?",
-      "options": [
-        "Le Camembert",
-        "Le Roquefort",
-        "Le Banon",
-        "Le Comté"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1782348643353_6_za1wls",
-      "addedAt": "2026-06-25T00:50:43.353Z"
-    },
-    {
-      "question": "Quel est le plus grand carnivore terrestre actuel ?",
-      "options": [
-        "Le lion",
-        "Le tigre",
-        "L'ours blanc",
-        "Le léopard"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1782348643353_7_48p44i",
-      "addedAt": "2026-06-25T00:50:43.353Z"
-    },
-    {
-      "question": "Quel mathématicien italien a introduit la suite numérique connue sous son nom au XIIIe siècle ?",
-      "options": [
-        "Leonardo Fibonacci",
-        "Euclide",
-        "Archimède",
-        "Diophante"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1782348643353_8_rpwp3i",
-      "addedAt": "2026-06-25T00:50:43.353Z"
-    },
-    {
-      "question": "Quel réalisateur suédois a créé le film 'Le Septième Sceau' ?",
-      "options": [
-        "Lars von Trier",
-        "Ingmar Bergman",
-        "Lukas Moodysson",
-        "Ruben Östlund"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1782348643353_9_c5jrad",
-      "addedAt": "2026-06-25T00:50:43.353Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'Le Seigneur des Anneaux' ?",
-      "options": [
-        "J.R.R. Tolkien",
-        "C.S. Lewis",
-        "George R.R. Martin",
-        "Stephen King"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1782272368823_0_a6z8z1",
-      "addedAt": "2026-06-24T03:39:28.823Z"
-    },
-    {
-      "question": "En quelle année l'Homme a-t-il inventé l'ampoule électrique ?",
-      "options": [
-        "1879",
-        "1895",
-        "1905",
-        "1920"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1782272368823_1_mgx7sv",
-      "addedAt": "2026-06-24T03:39:28.823Z"
-    },
-    {
-      "question": "Quel organe du corps humain produit l'insuline ?",
-      "options": [
-        "Le foie",
-        "Le pancréas",
-        "Les reins",
-        "L'estomac"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782272368823_2_7lcocc",
-      "addedAt": "2026-06-24T03:39:28.823Z"
     }
   ],
   "poolSize": 310
