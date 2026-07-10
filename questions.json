@@ -1,6 +1,201 @@
 {
   "questions": [
     {
+      "question": "Quel alchimiste du XVIIe siècle a découvert le phosphore en chauffant l'urine ?",
+      "options": [
+        "Hennig Brand",
+        "Robert Boyle",
+        "Johann Becher",
+        "Georg Stahl"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1783653858626_0_gvmqwx",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel océan est le plus ancien et contient la fosse des Mariannes ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Pacifique",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1783653858626_1_femqb8",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel romancier français du XXe siècle a écrit 'L'Étranger' ?",
+      "options": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "Michel Butor",
+        "Alain Robbe-Grillet"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1783653858626_2_wse60f",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "En quelle année la muraille de Berlin a-t-elle été détruite ?",
+      "options": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1783653858626_3_ucl1xd",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel minéral, dont le nom signifie 'pierre de feu', était utilisé pour créer du feu ?",
+      "options": [
+        "Feldspath",
+        "Pyrite",
+        "Quartz",
+        "Tourmaline"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1783653858626_4_v4ms1d",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel réalisateur sud-coréen a remporté la Palme d'or 2019 à Cannes avec 'Parasite' ?",
+      "options": [
+        "Lee Chang-dong",
+        "Bong Joon-ho",
+        "Park Chan-wook",
+        "Hong Sang-soo"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783653858626_5_8nbsip",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel architecte catalan a conçu la Sagrada Familia de Barcelone ?",
+      "options": [
+        "Josep Puig i Cadafalch",
+        "Antoni Gaudí",
+        "Lluis Domènech",
+        "Joan Martorell"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1783653858626_6_r8348v",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel fromage français originaire de Normandie est recouvert d'une croûte blanche ?",
+      "options": [
+        "Comté",
+        "Camembert",
+        "Roquefort",
+        "Reblochon"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1783653858626_7_6ofpf1",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel mathématicien italien a introduit le système numérique arabe en Europe au XIIIe siècle ?",
+      "options": [
+        "Léonard de Fibonacci",
+        "Girolamo Cardano",
+        "Niccolò Tartaglia",
+        "Paolo dal Pozzo Toscanelli"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1783653858626_8_lt8tpg",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit l'opéra 'Lohengrin' ?",
+      "options": [
+        "Richard Wagner",
+        "Georges Bizet",
+        "Giuseppe Verdi",
+        "Gioachino Rossini"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1783653858626_9_jnpycf",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel protocole de transmission de données a été développé par Tim Berners-Lee ?",
+      "options": [
+        "FTP",
+        "HTTP",
+        "SMTP",
+        "DNS"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1783653858626_10_0uig0o",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel animal est la créature emblématique du continent australien et porte ses petits dans une poche ?",
+      "options": [
+        "Kangourou",
+        "Koala",
+        "Wombat",
+        "Échidné"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1783653858626_11_nc24yx",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel tenniseur suisse a remporté 20 titres du Grand Chelem ?",
+      "options": [
+        "Stan Wawrinka",
+        "Roger Federer",
+        "Michael Federer",
+        "Dominic Thiem"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1783653858626_12_5bhyto",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel roi français du XVIIe siècle a fait construire le château de Versailles ?",
+      "options": [
+        "Louis XIII",
+        "Louis XIV",
+        "Louis XV",
+        "Louis XVI"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1783653858626_13_rygjmj",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
+      "question": "Quel gaz rare est utilisé dans les lampes publicitaires pour produire une lueur rouge ?",
+      "options": [
+        "Hélium",
+        "Argon",
+        "Néon",
+        "Xénon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1783653858626_14_be46tg",
+      "addedAt": "2026-07-10T03:24:18.626Z"
+    },
+    {
       "question": "Quel chimiste français a découvert le radium en 1898 ?",
       "options": [
         "Marie Curie",
@@ -3834,7 +4029,12 @@
       "category": "Science",
       "id": "q_1782445766670_13_jhgozl",
       "addedAt": "2026-06-26T03:49:26.670Z"
-    },
+    }
+  ],
+  "version": 310,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-10T03:24:18.627Z",
+  "archivedQuestions": [
     {
       "question": "Quel économiste britannique a théorisé la 'main invisible' du marché ?",
       "options": [
@@ -4029,154 +4229,6 @@
       "category": "Histoire",
       "id": "q_1782358737132_2_ru6gy2",
       "addedAt": "2026-06-25T03:38:57.132Z"
-    }
-  ],
-  "version": 309,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-10T00:54:48.522Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le nombre de cordes d'une guitare classique standard ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782358737132_3_oe3byb",
-      "addedAt": "2026-06-25T03:38:57.132Z"
-    },
-    {
-      "question": "Quel pays produit environ 80% du cacao mondial ?",
-      "options": [
-        "La Malaisie",
-        "La Côte d'Ivoire",
-        "Le Brésil",
-        "L'Équateur"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1782358737132_4_rktndf",
-      "addedAt": "2026-06-25T03:38:57.132Z"
-    },
-    {
-      "question": "Quel est le nom du mouvement artistique caractérisé par des traits épais et des couleurs vives, fondé par Matisse ?",
-      "options": [
-        "L'expressionnisme",
-        "Le Fauvisme",
-        "Le Surréalisme",
-        "Le Dadaïsme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782358737132_5_t3fssv",
-      "addedAt": "2026-06-25T03:38:57.132Z"
-    },
-    {
-      "question": "En quelle année l'Irlande a-t-elle obtenu son indépendance du Royaume-Uni ?",
-      "options": [
-        "1916",
-        "1922",
-        "1949",
-        "1973"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782358737132_6_rn4vs1",
-      "addedAt": "2026-06-25T03:38:57.132Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Europe ?",
-      "options": [
-        "Le Danube",
-        "Le Rhin",
-        "La Volga",
-        "La Tamise"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1782358737132_7_98bp87",
-      "addedAt": "2026-06-25T03:38:57.132Z"
-    },
-    {
-      "question": "Quel célèbre peintre post-impressionniste s'est coupé une partie de l'oreille ?",
-      "options": [
-        "Paul Cézanne",
-        "Paul Gauguin",
-        "Vincent van Gogh",
-        "Henri de Toulouse-Lautrec"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1782358737132_8_4gwdif",
-      "addedAt": "2026-06-25T03:38:57.132Z"
-    },
-    {
-      "question": "Combien de joueurs une équipe de basketball compte-t-elle sur le terrain ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1782358737132_9_w3zfvp",
-      "addedAt": "2026-06-25T03:38:57.132Z"
-    },
-    {
-      "question": "Quel est le plus grand désert du monde ?",
-      "options": [
-        "Le désert du Sahara",
-        "Le désert de Gobi",
-        "Le désert d'Arabie",
-        "Le désert de Kalahari"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1782348643353_0_ugaboa",
-      "addedAt": "2026-06-25T00:50:43.353Z"
-    },
-    {
-      "question": "Combien de continents existentil sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1782348643353_1_ryihyj",
-      "addedAt": "2026-06-25T00:50:43.353Z"
-    },
-    {
-      "question": "Quel est le plus grand organe interne du corps humain ?",
-      "options": [
-        "Le cœur",
-        "Les poumons",
-        "Le foie",
-        "L'estomac"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1782348643353_2_nfxj55",
-      "addedAt": "2026-06-25T00:50:43.353Z"
-    },
-    {
-      "question": "Dans quel pays se trouve la Statue de la Liberté ?",
-      "options": [
-        "La France",
-        "Les États-Unis",
-        "Le Canada",
-        "L'Italie"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1782348643353_3_2zzujv",
-      "addedAt": "2026-06-25T00:50:43.353Z"
     }
   ],
   "poolSize": 310
