@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel minéral est le plus dur naturellement présent sur Terre ?",
+      "options": [
+        "Le rubis",
+        "Le diamant",
+        "Le saphir",
+        "L'émeraude"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783737712396_0_j0id8u",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
+      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Oscar Wilde",
+        "Arthur Conan Doyle",
+        "Charles Dickens",
+        "Lewis Carroll"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1783737712396_1_jamxb3",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
+      "question": "Quel gland produit l'adrénaline dans le corps humain ?",
+      "options": [
+        "La thyroïde",
+        "Le pancréas",
+        "La glande surrénale",
+        "L'hypophyse"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1783737712396_2_2skqmz",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
+      "question": "En quel année le premier homme a-t-il marché sur la Lune ?",
+      "options": [
+        "1967",
+        "1969",
+        "1971",
+        "1965"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1783737712396_3_uyp3n1",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
+      "question": "Quel pays produit environ 95% du cacao mondial ?",
+      "options": [
+        "Brésil",
+        "Côte d'Ivoire",
+        "Cameroun",
+        "Équateur"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1783737712396_4_37q7by",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
+      "question": "Quel artiste contemporain est célèbre pour ses installations de ballons géantes ?",
+      "options": [
+        "Banksy",
+        "Jeff Koons",
+        "Yayoi Kusama",
+        "Marina Abramović"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1783737712396_5_g8vooi",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
+      "question": "Combien de départements compte la France métropolitaine ?",
+      "options": [
+        "92",
+        "94",
+        "96",
+        "101"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1783737712396_6_znlvls",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre actuellement vivant ?",
+      "options": [
+        "L'hippopotame",
+        "La girafe",
+        "L'éléphant d'Afrique",
+        "Le rhinocéros"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1783737712396_7_b2hd81",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
+      "question": "Quel mathématicien italien a introduit la suite de nombres qui porte son nom ?",
+      "options": [
+        "Fibonacci",
+        "Euler",
+        "Bernoulli",
+        "Pascal"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1783737712396_8_kidx5b",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
+      "question": "Quel musicien américain a inventé le style musical appelé 'bebop' ?",
+      "options": [
+        "Duke Ellington",
+        "Charlie Parker",
+        "Miles Davis",
+        "John Coltrane"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1783737712396_9_9cysvk",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
+      "question": "En informatique, quel sigle désigne le protocole de transfert de fichiers sécurisé ?",
+      "options": [
+        "HTTP",
+        "SFTP",
+        "TCP",
+        "FTP"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1783737712396_10_1er2jz",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a coupé une partie de son propre oreille ?",
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Van Gogh",
+        "Hals"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1783737712396_11_h6jyzy",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
+      "question": "Quel sport olympique combine le tir à la carabine et la course de fond ?",
+      "options": [
+        "Le pentathlon moderne",
+        "Le biathlon",
+        "Le triathlon",
+        "Le décathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1783737712396_12_k6sjkn",
+      "addedAt": "2026-07-11T02:41:52.396Z"
+    },
+    {
       "question": "Quel neurologue autrichien a développé la théorie de l'inconscient ?",
       "options": [
         "Carl Jung",
@@ -3860,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1782531145095_9_np2dzu",
       "addedAt": "2026-06-27T03:32:25.095Z"
-    },
+    }
+  ],
+  "version": 312,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-11T02:41:52.397Z",
+  "archivedQuestions": [
     {
       "question": "Quel plat traditionnel italien à base de riz est originaire de Vénétie ?",
       "options": [
@@ -4028,180 +4202,6 @@
       "correctAnswer": 1,
       "category": "Musique",
       "id": "q_1782445766670_0_rm9i5z",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    }
-  ],
-  "version": 311,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-11T00:51:35.945Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel pays a inventé le système d'écriture hiéroglyphique ancien ?",
-      "options": [
-        "La Mésopotamie",
-        "La Perse",
-        "L'Égypte antique",
-        "La Grèce antique"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1782445766670_1_e68zy2",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    },
-    {
-      "question": "Quel type de plante carnivore utilise des urnes pour capturer ses proies ?",
-      "options": [
-        "La Vénus attrape-mouche",
-        "Le Népenthès",
-        "La Drosera",
-        "L'Utriculaire"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1782445766670_2_0786ag",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    },
-    {
-      "question": "En mathématiques, quel nombre est représenté par le symbole φ (phi) ?",
-      "options": [
-        "Le nombre d'or",
-        "Le nombre pi",
-        "Le nombre d'Euler",
-        "La constante de Planck"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1782445766670_3_h5jxx2",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    },
-    {
-      "question": "Quel peintre impressionniste français était particulièrement fasciné par les nymphéas ?",
-      "options": [
-        "Paul Cézanne",
-        "Claude Monet",
-        "Auguste Renoir",
-        "Edgar Degas"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782445766670_4_li5g6a",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    },
-    {
-      "question": "Quel détroit sépare la Grande-Bretagne de la France ?",
-      "options": [
-        "Le détroit de Behring",
-        "Le canal de Suez",
-        "La Manche",
-        "Le détroit de Gibraltar"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1782445766670_5_guw78d",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    },
-    {
-      "question": "Quel écrivain russe a écrit le roman 'Crime et Châtiment' ?",
-      "options": [
-        "Léon Tolstoï",
-        "Fiodor Dostoïevski",
-        "Alexandre Pouchkine",
-        "Ivan Tourgueniev"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1782445766670_6_p93fit",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    },
-    {
-      "question": "Quel film d'animation Pixar raconte l'histoire d'un jouet qui prend vie ?",
-      "options": [
-        "Monstres & Cie",
-        "Vice-Versa",
-        "Toy Story",
-        "Raiponce"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1782445766670_7_bn2twa",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    },
-    {
-      "question": "Quel micro-organisme est utilisé pour la fermentation du vin ?",
-      "options": [
-        "Les bactéries lactiques",
-        "La levure de bière",
-        "Les moisissures",
-        "Les spirochètes"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1782445766670_8_9eojl6",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    },
-    {
-      "question": "Quel protocole internet est utilisé pour sécuriser les transactions en ligne ?",
-      "options": [
-        "HTTP",
-        "FTP",
-        "HTTPS",
-        "SMTP"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1782445766670_9_vh5xca",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    },
-    {
-      "question": "Quel athlète jamaïcain détient le record mondial du 100 mètres ?",
-      "options": [
-        "Yohan Blake",
-        "Usain Bolt",
-        "Asafa Powell",
-        "Nesta Carter"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1782445766670_10_mupq8g",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    },
-    {
-      "question": "Quel poète français du XIXe siècle a écrit 'Les Fleurs du mal' ?",
-      "options": [
-        "Victor Hugo",
-        "Charles Baudelaire",
-        "Stéphane Mallarmé",
-        "Paul Verlaine"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1782445766670_11_03nefm",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    },
-    {
-      "question": "Quel continent est le plus ancien géologiquement ?",
-      "options": [
-        "L'Amérique du Nord",
-        "L'Australie",
-        "L'Afrique",
-        "L'Asie"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1782445766670_12_pycwlk",
-      "addedAt": "2026-06-26T03:49:26.670Z"
-    },
-    {
-      "question": "Quel scientifique britannique a découvert la structure en double hélice de l'ADN ?",
-      "options": [
-        "Rosalind Franklin",
-        "Francis Crick et James Watson",
-        "Maurice Wilkins",
-        "Linus Pauling"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782445766670_13_jhgozl",
       "addedAt": "2026-06-26T03:49:26.670Z"
     }
   ],
