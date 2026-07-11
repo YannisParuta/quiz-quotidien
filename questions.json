@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel neurologue autrichien a développé la théorie de l'inconscient ?",
+      "options": [
+        "Carl Jung",
+        "Sigmund Freud",
+        "Wilhelm Wundt",
+        "Ivan Pavlov"
+      ],
+      "correctAnswer": 1,
+      "category": "Psychologie",
+      "id": "q_1783731095944_0_ouhkkw",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
+      "question": "Quel minéral est la forme cristalline du carbone la plus dure ?",
+      "options": [
+        "Rubis",
+        "Diamant",
+        "Saphir",
+        "Émeraude"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783731095944_1_0nbe6y",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
+      "question": "En quel année l'Empire romain s'est-il officiellement divisé en deux ?",
+      "options": [
+        "285",
+        "395",
+        "410",
+        "476"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1783731095944_2_bu2idf",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit les Quatre Saisons ?",
+      "options": [
+        "Johann Sebastian Bach",
+        "George Friedrich Haendel",
+        "Antonio Vivaldi",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1783731095944_3_hqxjkx",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
+      "question": "Quelle ville est la capitale administrative de la Suisse ?",
+      "options": [
+        "Zurich",
+        "Genève",
+        "Berne",
+        "Lausanne"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1783731095944_4_kspxyz",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
+      "question": "Quel écrivain irlandais a écrit 'Ulysse' ?",
+      "options": [
+        "Oscar Wilde",
+        "James Joyce",
+        "Samuel Beckett",
+        "William Butler Yeats"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1783731095944_5_g1ivwq",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
+      "question": "Combien de ventricules possède le cœur humain ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Biologie",
+      "id": "q_1783731095944_6_hws40n",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
+      "question": "Quel physicien allemand a découvert les rayons X ?",
+      "options": [
+        "Max Planck",
+        "Wilhelm Röntgen",
+        "Werner Heisenberg",
+        "Max Born"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783731095944_7_poq7g4",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
+      "question": "Quel sport olympique utilise un palet et des balais sur la glace ?",
+      "options": [
+        "Patinage de vitesse",
+        "Curling",
+        "Hockey sur glace",
+        "Skeleton"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1783731095944_8_u3y62b",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
+      "question": "Quel volcan est situé en Italie et est actuellement actif ?",
+      "options": [
+        "Stromboli",
+        "Etna",
+        "Vésuve",
+        "Tous les trois"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1783731095944_9_8vot68",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
+      "question": "Quel savant français a énoncé le principe de l'archimède ?",
+      "options": [
+        "Archimède",
+        "Thalès",
+        "Pythagore",
+        "Euclide"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1783731095944_10_0xwtyg",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le mouvement du cinéma 'Dogme 95' ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Lars von Trier",
+        "Agnès Varda"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1783731095944_11_0l5hyu",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
+      "question": "Quel type de cuisine est caractérisé par l'utilisation de wok et de soja ?",
+      "options": [
+        "Cuisine thaïlandaise",
+        "Cuisine méditerranéenne",
+        "Cuisine asiatique",
+        "Cuisine indienne"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1783731095944_12_9m36cb",
+      "addedAt": "2026-07-11T00:51:35.944Z"
+    },
+    {
       "question": "Quel alchimiste du XVIIe siècle a découvert le phosphore en chauffant l'urine ?",
       "options": [
         "Hennig Brand",
@@ -3860,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1782445766670_0_rm9i5z",
       "addedAt": "2026-06-26T03:49:26.670Z"
-    },
+    }
+  ],
+  "version": 311,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-11T00:51:35.945Z",
+  "archivedQuestions": [
     {
       "question": "Quel pays a inventé le système d'écriture hiéroglyphique ancien ?",
       "options": [
@@ -4029,206 +4203,6 @@
       "category": "Science",
       "id": "q_1782445766670_13_jhgozl",
       "addedAt": "2026-06-26T03:49:26.670Z"
-    }
-  ],
-  "version": 310,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-10T03:24:18.627Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel économiste britannique a théorisé la 'main invisible' du marché ?",
-      "options": [
-        "David Ricardo",
-        "Adam Smith",
-        "John Maynard Keynes",
-        "Thomas Malthus"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782435495479_0_lb13ci",
-      "addedAt": "2026-06-26T00:58:15.479Z"
-    },
-    {
-      "question": "En quel année a eu lieu la Révolution française ?",
-      "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782435495479_1_uvoxts",
-      "addedAt": "2026-06-26T00:58:15.479Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde en superficie ?",
-      "options": [
-        "Monaco",
-        "Andorre",
-        "Cité du Vatican",
-        "Malte"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1782435495479_2_ltadn9",
-      "addedAt": "2026-06-26T00:58:15.479Z"
-    },
-    {
-      "question": "Quel est le point le plus profond des océans terrestres ?",
-      "options": [
-        "La fosse de Mariana",
-        "La fosse des Kouriles",
-        "La fosse de Tonga",
-        "La fosse du Japon"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1782435495479_3_gm8wbf",
-      "addedAt": "2026-06-26T00:58:15.479Z"
-    },
-    {
-      "question": "Quel botaniste suédois a développé la nomenclature binomiale pour classifier les espèces ?",
-      "options": [
-        "Charles Darwin",
-        "Carl von Linné",
-        "Jean-Baptiste Lamarck",
-        "Gregor Mendel"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782435495479_4_rcbluk",
-      "addedAt": "2026-06-26T00:58:15.479Z"
-    },
-    {
-      "question": "Quel mouvement artistique du XIXe siècle privilégiait la lumière et les couleurs pures ?",
-      "options": [
-        "Le Cubisme",
-        "L'Impressionnisme",
-        "Le Dadaïsme",
-        "L'Expressionnisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782435495479_5_eq8qud",
-      "addedAt": "2026-06-26T00:58:15.479Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Afrique ?",
-      "options": [
-        "Le Niger",
-        "Le Zambèze",
-        "Le Nil",
-        "Le Congo"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1782435495479_6_gtcsfr",
-      "addedAt": "2026-06-26T00:58:15.479Z"
-    },
-    {
-      "question": "Quel mathématicien grec antique a énoncé le théorème sur les triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Archimède",
-        "Pythagore",
-        "Thalès"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1782435495479_7_0u3qtp",
-      "addedAt": "2026-06-26T00:58:15.479Z"
-    },
-    {
-      "question": "Quel danseur russe a révolutionné le ballet au XXe siècle ?",
-      "options": [
-        "George Balanchine",
-        "Vaslav Nijinski",
-        "Sergei Diaghilev",
-        "Mikhaïl Barychnikov"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_1782435495479_8_fr7ipg",
-      "addedAt": "2026-06-26T00:58:15.479Z"
-    },
-    {
-      "question": "Quel type de roche se forme par le refroidissement du magma ?",
-      "options": [
-        "Roche métamorphique",
-        "Roche sédimentaire",
-        "Roche ignée",
-        "Roche calcaire"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1782435495479_9_qpi90n",
-      "addedAt": "2026-06-26T00:58:15.479Z"
-    },
-    {
-      "question": "Quel réalisateur britannique a créé la saga 'James Bond' pour le cinéma ?",
-      "options": [
-        "Terence Young",
-        "Peter Hunt",
-        "Guy Hamilton",
-        "Albert R. Broccoli"
-      ],
-      "correctAnswer": 0,
-      "category": "Cinéma",
-      "id": "q_1782435495479_10_n6wha5",
-      "addedAt": "2026-06-26T00:58:15.479Z"
-    },
-    {
-      "question": "Quel est le fruit du noyer qui contient une graine riche en oméga-3 ?",
-      "options": [
-        "L'amande",
-        "La noix",
-        "La noisette",
-        "La pistache"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1782435495479_11_k0y0qs",
-      "addedAt": "2026-06-26T00:58:15.479Z"
-    },
-    {
-      "question": "Quel explorateur portugais a été le premier à contourner le cap de Bonne-Espérance en 1488 ?",
-      "options": [
-        "Vasco de Gama",
-        "Bartolomeu Dias",
-        "Ferdinand Magellan",
-        "Christophe Colomb"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782358737132_0_mbw8z2",
-      "addedAt": "2026-06-25T03:38:57.132Z"
-    },
-    {
-      "question": "Quel biologiste britannique a développé la théorie de l'évolution par sélection naturelle ?",
-      "options": [
-        "Alfred Russel Wallace",
-        "Charles Darwin",
-        "Thomas Huxley",
-        "Jean-Baptiste Lamarck"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782358737132_1_g2130o",
-      "addedAt": "2026-06-25T03:38:57.132Z"
-    },
-    {
-      "question": "En quelle année la Bastille a-t-elle été prise lors de la Révolution française ?",
-      "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782358737132_2_ru6gy2",
-      "addedAt": "2026-06-25T03:38:57.132Z"
     }
   ],
   "poolSize": 310
