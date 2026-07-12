@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "En quel année l'imprimerie de Gutenberg a-t-elle révolutionné la diffusion du savoir ?",
+      "options": [
+        "1440",
+        "1492",
+        "1516",
+        "1603"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1783824588374_0_weweem",
+      "addedAt": "2026-07-12T02:49:48.374Z"
+    },
+    {
+      "question": "Quel élément chimique a le symbole 'Au' sur le tableau périodique ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1783824588374_1_j0fhh7",
+      "addedAt": "2026-07-12T02:49:48.374Z"
+    },
+    {
+      "question": "Quel courant artistique du 20e siècle est associé à Salvador Dalí avec des formes fluides et irréalistes ?",
+      "options": [
+        "Dadaïsme",
+        "Surréalisme",
+        "Futurisme",
+        "Art Déco"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1783824588374_2_86j901",
+      "addedAt": "2026-07-12T02:49:48.374Z"
+    },
+    {
+      "question": "Combien de cordes possède un violoncelle ?",
+      "options": [
+        "4 cordes",
+        "5 cordes",
+        "6 cordes",
+        "8 cordes"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1783824588374_3_kb45iz",
+      "addedAt": "2026-07-12T02:49:48.374Z"
+    },
+    {
+      "question": "Quel phénomène naturel provoque les aurores boréales ?",
+      "options": [
+        "Réflexion de la lumière solaire",
+        "Interaction du vent solaire avec l'atmosphère",
+        "Éruptions volcaniques",
+        "Réfraction des nuages"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1783824588374_4_62all6",
+      "addedAt": "2026-07-12T02:49:48.374Z"
+    },
+    {
+      "question": "Quel athlète jamaïcain détient le record du monde du 100 mètres ?",
+      "options": [
+        "Yohan Blake",
+        "Usain Bolt",
+        "Asafa Powell",
+        "Donovan Bailey"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1783824588374_5_ock9bb",
+      "addedAt": "2026-07-12T02:49:48.374Z"
+    },
+    {
+      "question": "En mathématiques, quel est le nombre d'or environ égal à 1,618 ?",
+      "options": [
+        "Pi",
+        "Phi (φ)",
+        "Lambda",
+        "Tau"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1783824588374_6_ipvd7w",
+      "addedAt": "2026-07-12T02:49:48.374Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'Amélie Poulain' en 2001 ?",
+      "options": [
+        "Jacques Tati",
+        "Jean-Pierre Jeunet",
+        "Claude Chabrol",
+        "François Truffaut"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783824588374_7_i82uxx",
+      "addedAt": "2026-07-12T02:49:48.374Z"
+    },
+    {
+      "question": "Quel fromage français est traditionnellement fabriqué en Normandie et porte un nom de région ?",
+      "options": [
+        "Camembert",
+        "Roquefort",
+        "Comté",
+        "Brie"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1783824588374_8_5ggbdy",
+      "addedAt": "2026-07-12T02:49:48.374Z"
+    },
+    {
+      "question": "Quel langage de programmation est développé par Guido van Rossum en 1989 ?",
+      "options": [
+        "JavaScript",
+        "Python",
+        "Ruby",
+        "Go"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1783824588374_9_vlbtpz",
+      "addedAt": "2026-07-12T02:49:48.374Z"
+    },
+    {
+      "question": "Quel poète français du 19e siècle a écrit 'Les Fleurs du Mal' ?",
+      "options": [
+        "Victor Hugo",
+        "Arthur Rimbaud",
+        "Charles Baudelaire",
+        "Stéphane Mallarmé"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1783824588374_10_ie7408",
+      "addedAt": "2026-07-12T02:49:48.374Z"
+    },
+    {
+      "question": "Quel est le processus biologique par lequel les plantes transforment la lumière en énergie chimique ?",
+      "options": [
+        "Respiration cellulaire",
+        "Photosynthèse",
+        "Fermentation",
+        "Osmose"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783824588374_11_rgmgtq",
+      "addedAt": "2026-07-12T02:49:48.374Z"
+    },
+    {
       "question": "Quel scientifique a énoncé la théorie de la relativité générale ?",
       "options": [
         "Marie Curie",
@@ -3873,7 +4029,12 @@
       "category": "Sport",
       "id": "q_1782618942929_4_1izj2w",
       "addedAt": "2026-06-28T03:55:42.929Z"
-    },
+    }
+  ],
+  "version": 314,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-12T02:49:48.375Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le seul continent sans pays indépendant ?",
       "options": [
@@ -4029,167 +4190,6 @@
       "category": "Cinéma",
       "id": "q_1782607011004_3_7q3sth",
       "addedAt": "2026-06-28T00:36:51.004Z"
-    }
-  ],
-  "version": 313,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-12T00:38:38.560Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel fruit tropical est riche en bromélaïne, une enzyme digestive ?",
-      "options": [
-        "La mangue",
-        "L'ananas",
-        "La papaye",
-        "La goyave"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1782607011004_4_w8kt6y",
-      "addedAt": "2026-06-28T00:36:51.004Z"
-    },
-    {
-      "question": "Quel est le plus vieil établissement universitaire en France ?",
-      "options": [
-        "L'Université de Toulouse",
-        "L'Université de la Sorbonne",
-        "L'Université d'Orléans",
-        "L'Université de Montpellier"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_1782607011004_5_s9oklh",
-      "addedAt": "2026-06-28T00:36:51.004Z"
-    },
-    {
-      "question": "Quel gaz représente environ 21% de l'atmosphère terrestre ?",
-      "options": [
-        "L'azote",
-        "L'oxygène",
-        "Le dioxyde de carbone",
-        "L'argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782531145095_0_9ywq7u",
-      "addedAt": "2026-06-27T03:32:25.095Z"
-    },
-    {
-      "question": "Quel peintre impressionniste français a peint les Nymphéas ?",
-      "options": [
-        "Pierre-Auguste Renoir",
-        "Claude Monet",
-        "Alfred Sisley",
-        "Berthe Morisot"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782531145095_1_9h0cvc",
-      "addedAt": "2026-06-27T03:32:25.095Z"
-    },
-    {
-      "question": "En tennis, combien de sets faut-il remporter pour gagner un match en grand chelem ?",
-      "options": [
-        "1 set",
-        "2 sets",
-        "3 sets",
-        "4 sets"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1782531145095_2_huwo1v",
-      "addedAt": "2026-06-27T03:32:25.095Z"
-    },
-    {
-      "question": "Quel célèbre roman de science-fiction a été écrit par Isaac Asimov en 1950 ?",
-      "options": [
-        "Fondation",
-        "Dune",
-        "Fahrenheit 451",
-        "Le Meilleur des mondes"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1782531145095_3_swrybi",
-      "addedAt": "2026-06-27T03:32:25.095Z"
-    },
-    {
-      "question": "Quel compositeur classique était sourd lorsqu'il a composé sa 9e symphonie ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Frédéric Chopin",
-        "Pyotr Ilyich Tchaïkovski"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782531145095_4_x5zbqu",
-      "addedAt": "2026-06-27T03:32:25.095Z"
-    },
-    {
-      "question": "Quel organe du corps humain filtre les déchets pour produire l'urine ?",
-      "options": [
-        "Le foie",
-        "Le pancréas",
-        "Le rein",
-        "La vésicule biliaire"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1782531145095_5_au914h",
-      "addedAt": "2026-06-27T03:32:25.095Z"
-    },
-    {
-      "question": "Quel film réalisé par Steven Spielberg raconte l'histoire de Oskar Schindler ?",
-      "options": [
-        "Saving Private Ryan",
-        "La Liste de Schindler",
-        "Amistad",
-        "War Horse"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1782531145095_6_pvrz11",
-      "addedAt": "2026-06-27T03:32:25.095Z"
-    },
-    {
-      "question": "En mathématiques, quel est le résultat de 15 × 8 ÷ 4 + 10 ?",
-      "options": [
-        "40",
-        "50",
-        "60",
-        "70"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1782531145095_7_1kxp81",
-      "addedAt": "2026-06-27T03:32:25.095Z"
-    },
-    {
-      "question": "Quel spice-girl a lancé une carrière solo réussie dans les années 2000 ?",
-      "options": [
-        "Emma Brown",
-        "Victoria Beckham",
-        "Melanie Blatt",
-        "Melanie Jayne Chisholm"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_1782531145095_8_lthbe3",
-      "addedAt": "2026-06-27T03:32:25.095Z"
-    },
-    {
-      "question": "Quel château français est le plus grand château résidentiel du monde ?",
-      "options": [
-        "Château de Versailles",
-        "Château de Chambord",
-        "Château de Fontainebleau",
-        "Château de Villandry"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1782531145095_9_np2dzu",
-      "addedAt": "2026-06-27T03:32:25.095Z"
     }
   ],
   "poolSize": 310
