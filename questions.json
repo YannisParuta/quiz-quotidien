@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a énoncé la théorie de la relativité générale ?",
+      "options": [
+        "Marie Curie",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Stephen Hawking"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783816718560_0_pp74te",
+      "addedAt": "2026-07-12T00:38:38.560Z"
+    },
+    {
+      "question": "En quel siècle a commencé la Renaissance italienne ?",
+      "options": [
+        "XIIe siècle",
+        "XIVe siècle",
+        "XVIe siècle",
+        "XVIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1783816718560_1_d3l47u",
+      "addedAt": "2026-07-12T00:38:38.560Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique traditionnelle ?",
+      "options": [
+        "5 cordes",
+        "6 cordes",
+        "7 cordes",
+        "8 cordes"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1783816718560_2_2c6l8y",
+      "addedAt": "2026-07-12T00:38:38.560Z"
+    },
+    {
+      "question": "Quel est le plus grand océan de la planète ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Pacifique",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1783816718560_3_tbdrel",
+      "addedAt": "2026-07-12T00:38:38.560Z"
+    },
+    {
+      "question": "Quel légume est techniquement une fleur non épanouie ?",
+      "options": [
+        "La carotte",
+        "Le brocoli",
+        "La betterave",
+        "Le poivron"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1783816718560_4_g38atf",
+      "addedAt": "2026-07-12T00:38:38.560Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la franchise 'Matrix' ?",
+      "options": [
+        "James Cameron",
+        "Les Wachowski",
+        "Christopher Nolan",
+        "Denis Villeneuve"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783816718560_5_eip7ee",
+      "addedAt": "2026-07-12T00:38:38.560Z"
+    },
+    {
+      "question": "Quel est le plus grand musée du monde ?",
+      "options": [
+        "Le Louvre",
+        "Le Musée britannique",
+        "L'Ermitage",
+        "Le Met"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1783816718560_6_qzuk41",
+      "addedAt": "2026-07-12T00:38:38.560Z"
+    },
+    {
+      "question": "En programmation informatique, qu'est-ce qu'une boucle 'for' ?",
+      "options": [
+        "Une erreur de code",
+        "Une structure de contrôle répétitive",
+        "Une fonction mathématique",
+        "Un type de variable"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1783816718560_7_mnsqrr",
+      "addedAt": "2026-07-12T00:38:38.560Z"
+    },
+    {
+      "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
+      "options": [
+        "Juan Gaudí",
+        "Antoni Gaudí",
+        "Pablo Gaudí",
+        "Carlos Gaudí"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1783816718560_8_q4hg2a",
+      "addedAt": "2026-07-12T00:38:38.560Z"
+    },
+    {
+      "question": "Quel type de fromage français est produit dans la région de Normandie et porte le nom d'une ville ?",
+      "options": [
+        "Camembert",
+        "Roquefort",
+        "Brie",
+        "Comté"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1783816718560_9_4293l2",
+      "addedAt": "2026-07-12T00:38:38.560Z"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de volleyball sur le terrain ?",
+      "options": [
+        "5 joueurs",
+        "6 joueurs",
+        "7 joueurs",
+        "8 joueurs"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1783816718560_10_7f6xh5",
+      "addedAt": "2026-07-12T00:38:38.560Z"
+    },
+    {
+      "question": "Quel métal précieux possède le symbole chimique 'Au' ?",
+      "options": [
+        "L'argent",
+        "Le platine",
+        "L'or",
+        "Le palladium"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1783816718560_11_hh7z0l",
+      "addedAt": "2026-07-12T00:38:38.560Z"
+    },
+    {
       "question": "Quel minéral est le plus dur naturellement présent sur Terre ?",
       "options": [
         "Le rubis",
@@ -3873,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1782607011004_3_7q3sth",
       "addedAt": "2026-06-28T00:36:51.004Z"
-    },
+    }
+  ],
+  "version": 313,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-12T00:38:38.560Z",
+  "archivedQuestions": [
     {
       "question": "Quel fruit tropical est riche en bromélaïne, une enzyme digestive ?",
       "options": [
@@ -4029,180 +4190,6 @@
       "category": "Géographie",
       "id": "q_1782531145095_9_np2dzu",
       "addedAt": "2026-06-27T03:32:25.095Z"
-    }
-  ],
-  "version": 312,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-11T02:41:52.397Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel plat traditionnel italien à base de riz est originaire de Vénétie ?",
-      "options": [
-        "Lasagne",
-        "Risotto",
-        "Polenta",
-        "Gnocchis"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1782531145095_10_qshr4x",
-      "addedAt": "2026-06-27T03:32:25.095Z"
-    },
-    {
-      "question": "Quel protocole permet la transmission sécurisée des emails ?",
-      "options": [
-        "SMTP",
-        "SMTPS",
-        "HTTP",
-        "FTP"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1782531145095_11_8q88cj",
-      "addedAt": "2026-06-27T03:32:25.095Z"
-    },
-    {
-      "question": "Quel océan est le plus profond du monde ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1782518946755_0_f8ar54",
-      "addedAt": "2026-06-27T00:09:06.755Z"
-    },
-    {
-      "question": "Quel roman de Jane Austen a été publié en 1813 ?",
-      "options": [
-        "Emma",
-        "Orgueil et Préjugés",
-        "Raison et Sentiments",
-        "Northanger Abbey"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1782518946755_1_i6tjni",
-      "addedAt": "2026-06-27T00:09:06.755Z"
-    },
-    {
-      "question": "Quel cycliste français a remporté le Tour de France 5 fois consécutives de 1991 à 1995 ?",
-      "options": [
-        "Bernard Hinault",
-        "Miguel Indurain",
-        "Greg LeMond",
-        "Laurent Fignon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1782518946755_2_ltpqsl",
-      "addedAt": "2026-06-27T00:09:06.755Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique standard ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782518946755_3_5yx6zt",
-      "addedAt": "2026-06-27T00:09:06.755Z"
-    },
-    {
-      "question": "Quel scientifique a formulé la théorie de la relativité restreinte ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Stephen Hawking",
-        "Max Planck"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782518946755_4_1d6k19",
-      "addedAt": "2026-06-27T00:09:06.755Z"
-    },
-    {
-      "question": "Quel film a remporté l'Oscar du Meilleur Film en 2020 ?",
-      "options": [
-        "1917",
-        "Parasite",
-        "Joker",
-        "Once Upon a Time in Hollywood"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1782518946755_5_j44jky",
-      "addedAt": "2026-06-27T00:09:06.755Z"
-    },
-    {
-      "question": "Quel legume est techniquement un fruit selon la botanique ?",
-      "options": [
-        "Carotte",
-        "Poivron",
-        "Pomme de terre",
-        "Oignon"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1782518946755_6_cq9mmn",
-      "addedAt": "2026-06-27T00:09:06.755Z"
-    },
-    {
-      "question": "Quel langage de balisage est utilisé pour créer des pages web ?",
-      "options": [
-        "Python",
-        "HTML",
-        "JavaScript",
-        "CSS"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1782518946755_7_yatt7w",
-      "addedAt": "2026-06-27T00:09:06.755Z"
-    },
-    {
-      "question": "Quel type de pâte est utilisé traditionnellement pour faire les raviolis italiens ?",
-      "options": [
-        "Pâte feuilletée",
-        "Pâte brisée",
-        "Pâte à l'œuf",
-        "Pâte levée"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1782518946755_8_1p7tm1",
-      "addedAt": "2026-06-27T00:09:06.755Z"
-    },
-    {
-      "question": "Quel mathématicien grec ancien a donné son nom à un théorème sur les triangles rectangles ?",
-      "options": [
-        "Archimède",
-        "Euclide",
-        "Pythagore",
-        "Thalès"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1782518946755_9_rdvdxa",
-      "addedAt": "2026-06-27T00:09:06.755Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit la célèbre symphonie 'Ainsi parlait Zarathoustra' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Richard Strauss",
-        "Ludwig van Beethoven",
-        "Johannes Brahms"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782445766670_0_rm9i5z",
-      "addedAt": "2026-06-26T03:49:26.670Z"
     }
   ],
   "poolSize": 310
