@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a remporté le prix Nobel de littérature en 1947 ?",
+      "options": [
+        "André Gide",
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "François Mauriac"
+      ],
+      "correctAnswer": 3,
+      "category": "Littérature",
+      "id": "q_1783901096305_0_dvyhk1",
+      "addedAt": "2026-07-13T00:04:56.305Z"
+    },
+    {
+      "question": "En quelle année la photographie a-t-elle été inventée par Louis Daguerre ?",
+      "options": [
+        "1822",
+        "1839",
+        "1851",
+        "1865"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1783901096305_1_0m0ikj",
+      "addedAt": "2026-07-13T00:04:56.305Z"
+    },
+    {
+      "question": "Quel scientifique a découvert la structure de l'ADN en 1953 ?",
+      "options": [
+        "Linus Pauling",
+        "James Watson et Francis Crick",
+        "Erwin Schrödinger",
+        "Max Planck"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783901096305_2_etq3kn",
+      "addedAt": "2026-07-13T00:04:56.305Z"
+    },
+    {
+      "question": "Quel plat italien traditionnel est composé de pâtes, d'œuf, de guanciale et de fromage ?",
+      "options": [
+        "Carbonara",
+        "Bolognese",
+        "Alfredo",
+        "Amatriciana"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1783901096305_3_6cam5l",
+      "addedAt": "2026-07-13T00:04:56.305Z"
+    },
+    {
+      "question": "Quel peintre impressionniste français a peint 'Les Nymphéas' ?",
+      "options": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Alfred Sisley",
+        "Berthe Morisot"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1783901096305_4_yvcbwr",
+      "addedAt": "2026-07-13T00:04:56.305Z"
+    },
+    {
+      "question": "Quel mathématicien suisse a travaillé sur la théorie des graphes au 18ème siècle ?",
+      "options": [
+        "Johann Bernoulli",
+        "Leonhard Euler",
+        "Jacob Bernoulli",
+        "Daniel Bernoulli"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1783901096305_5_bi0mw1",
+      "addedAt": "2026-07-13T00:04:56.305Z"
+    },
+    {
+      "question": "Quel compositeur italien a écrit l'opéra 'La Traviata' ?",
+      "options": [
+        "Gioachino Rossini",
+        "Georges Bizet",
+        "Giuseppe Verdi",
+        "Gaetano Donizetti"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1783901096305_6_khgker",
+      "addedAt": "2026-07-13T00:04:56.305Z"
+    },
+    {
+      "question": "Quel est le plus grand organe du corps humain ?",
+      "options": [
+        "Le cœur",
+        "Le foie",
+        "Les poumons",
+        "Le cerveau"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783901096305_7_qlx0ig",
+      "addedAt": "2026-07-13T00:04:56.305Z"
+    },
+    {
+      "question": "Quel félin sauvage est le plus grands félins d'Afrique en termes de puissance ?",
+      "options": [
+        "Léopard",
+        "Guépard",
+        "Lion",
+        "Jaguar"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1783901096305_8_4n1cdf",
+      "addedAt": "2026-07-13T00:04:56.305Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'Inception' ?",
+      "options": [
+        "Luc Besson",
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Michel Gondry"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783901096305_9_dbfmcr",
+      "addedAt": "2026-07-13T00:04:56.305Z"
+    },
+    {
+      "question": "Quel est le plus ancien port en activité continue du monde ?",
+      "options": [
+        "Port de Jaffa",
+        "Port de Bassora",
+        "Port d'Alexandrie",
+        "Port de Sidon"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1783901096305_10_0zqbiv",
+      "addedAt": "2026-07-13T00:04:56.305Z"
+    },
+    {
       "question": "En quel année l'imprimerie de Gutenberg a-t-elle révolutionné la diffusion du savoir ?",
       "options": [
         "1440",
@@ -3886,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1782693442984_5_ri8dyf",
       "addedAt": "2026-06-29T00:37:22.984Z"
-    },
+    }
+  ],
+  "version": 315,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-13T00:04:56.306Z",
+  "archivedQuestions": [
     {
       "question": "Quel algorithme de tri est en moyenne O(n log n) ?",
       "options": [
@@ -4029,167 +4177,6 @@
       "category": "Sport",
       "id": "q_1782618942929_4_1izj2w",
       "addedAt": "2026-06-28T03:55:42.929Z"
-    }
-  ],
-  "version": 314,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-12T02:49:48.375Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le seul continent sans pays indépendant ?",
-      "options": [
-        "Groenland",
-        "Antarctique",
-        "Océanie",
-        "Micronésie"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1782618942929_5_bn13sa",
-      "addedAt": "2026-06-28T03:55:42.929Z"
-    },
-    {
-      "question": "Quel réalisateur a tourné 'Inception' et 'Interstellar' ?",
-      "options": [
-        "Steven Spielberg",
-        "Christopher Nolan",
-        "Denis Villeneuve",
-        "James Cameron"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1782618942929_6_oe752u",
-      "addedAt": "2026-06-28T03:55:42.929Z"
-    },
-    {
-      "question": "Quel empire antique a construit le Colosseum de Rome ?",
-      "options": [
-        "Empire romain tardif",
-        "République romaine",
-        "Empire romain classique",
-        "Royaume de Rome"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1782618942929_7_t6dgss",
-      "addedAt": "2026-06-28T03:55:42.929Z"
-    },
-    {
-      "question": "Quelle est la plus haute montagne d'Afrique ?",
-      "options": [
-        "Mont Kenya",
-        "Kilimandjaro",
-        "Pic de Ras Dashen",
-        "Mont Stanley"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1782618942929_8_6ulgx6",
-      "addedAt": "2026-06-28T03:55:42.929Z"
-    },
-    {
-      "question": "Quel langage de balisage est utilisé pour structurer les pages web ?",
-      "options": [
-        "CSS",
-        "Python",
-        "HTML",
-        "JavaScript"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1782618942929_9_07hsjx",
-      "addedAt": "2026-06-28T03:55:42.929Z"
-    },
-    {
-      "question": "Quel type de piment est utilisé pour préparer le piment d'Espelette en France ?",
-      "options": [
-        "Piment jalapeño",
-        "Piment Espelette",
-        "Piment habanero",
-        "Piment oiseau"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1782618942929_10_23o829",
-      "addedAt": "2026-06-28T03:55:42.929Z"
-    },
-    {
-      "question": "En géométrie, combien de degrés mesure la somme des angles d'un triangle ?",
-      "options": [
-        "90°",
-        "180°",
-        "270°",
-        "360°"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1782618942929_11_tbr1zv",
-      "addedAt": "2026-06-28T03:55:42.929Z"
-    },
-    {
-      "question": "Quel impressionniste français a peint une série de 'Nymphéas' ?",
-      "options": [
-        "Paul Cézanne",
-        "Pierre-Auguste Renoir",
-        "Claude Monet",
-        "Camille Pissarro"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1782618942929_12_jhpu6q",
-      "addedAt": "2026-06-28T03:55:42.929Z"
-    },
-    {
-      "question": "Quel peintre français est célèbre pour ses Nymphéas ?",
-      "options": [
-        "Paul Cézanne",
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Vincent van Gogh"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782607011004_0_0n6nuv",
-      "addedAt": "2026-06-28T00:36:51.004Z"
-    },
-    {
-      "question": "En quelle année l'Titanic a-t-il coulé ?",
-      "options": [
-        "1910",
-        "1912",
-        "1915",
-        "1920"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782607011004_1_uc0dp1",
-      "addedAt": "2026-06-28T00:36:51.004Z"
-    },
-    {
-      "question": "Quel animal possède le plus grand cerveau du règne animal ?",
-      "options": [
-        "L'éléphant",
-        "La baleine bleue",
-        "Le dauphin",
-        "Le chimpanzé"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1782607011004_2_e6152k",
-      "addedAt": "2026-06-28T00:36:51.004Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "David Fincher",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1782607011004_3_7q3sth",
-      "addedAt": "2026-06-28T00:36:51.004Z"
     }
   ],
   "poolSize": 310
