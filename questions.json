@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a écrit 'Les Misérables' en 1862 ?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1783989008434_0_1mekkr",
+      "addedAt": "2026-07-14T00:30:08.434Z"
+    },
+    {
+      "question": "Combien de côtés possède un hectagone ?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1783989008434_1_y9v5zf",
+      "addedAt": "2026-07-14T00:30:08.434Z"
+    },
+    {
+      "question": "Quel musicien autrichien a composé la symphonie 'Surprise' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Franz Joseph Haydn",
+        "Ludwig van Beethoven",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1783989008434_2_0972u6",
+      "addedAt": "2026-07-14T00:30:08.434Z"
+    },
+    {
+      "question": "En quelle année la Grande Muraille de Chine a-t-elle été construite pour la première fois ?",
+      "options": [
+        "200 avant J.C.",
+        "500 avant J.C.",
+        "100 après J.C.",
+        "1000 après J.C."
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1783989008434_3_z0n24f",
+      "addedAt": "2026-07-14T00:30:08.434Z"
+    },
+    {
+      "question": "Quel processus biologique permet aux plantes de convertir la lumière en énergie ?",
+      "options": [
+        "Respiration cellulaire",
+        "Photosynthèse",
+        "Fermentation",
+        "Osmose"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783989008434_4_s28pcj",
+      "addedAt": "2026-07-14T00:30:08.434Z"
+    },
+    {
+      "question": "Combien de continents existe-t-il sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1783989008434_5_0ada7c",
+      "addedAt": "2026-07-14T00:30:08.434Z"
+    },
+    {
+      "question": "Quel film d'animation Pixar raconte l'histoire d'un jouet devenu ami avec un enfant ?",
+      "options": [
+        "Monstres & Cie",
+        "Toy Story",
+        "Vice-Versa",
+        "Raiponce"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1783989008434_6_fbea4h",
+      "addedAt": "2026-07-14T00:30:08.434Z"
+    },
+    {
+      "question": "Quel élément chimique est symbolisé par 'Fe' sur le tableau périodique ?",
+      "options": [
+        "Fluor",
+        "Fer",
+        "Francium",
+        "Fermium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1783989008434_7_uclitq",
+      "addedAt": "2026-07-14T00:30:08.434Z"
+    },
+    {
+      "question": "Quelle région française est célèbre pour la production de champagne ?",
+      "options": [
+        "Alsace",
+        "Bourgogne",
+        "Champagne-Ardenne",
+        "Provence"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1783989008434_8_4h21y7",
+      "addedAt": "2026-07-14T00:30:08.434Z"
+    },
+    {
+      "question": "Quel sport consiste à diriger un cheval avec un cavalier ?",
+      "options": [
+        "Polo",
+        "Équitation",
+        "Rodéo",
+        "Pentathlon moderne"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1783989008434_9_l5iwte",
+      "addedAt": "2026-07-14T00:30:08.434Z"
+    },
+    {
+      "question": "Quel langage de programmation a été créé par Guido van Rossum en 1989 ?",
+      "options": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "C++"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1783989008434_10_8p55vd",
+      "addedAt": "2026-07-14T00:30:08.434Z"
+    },
+    {
+      "question": "Quel animal terrestre possède la plus longue espérance de vie ?",
+      "options": [
+        "L'éléphant",
+        "La baleine",
+        "La tortue géante",
+        "Le perroquet"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1783989008434_11_v0xac0",
+      "addedAt": "2026-07-14T00:30:08.434Z"
+    },
+    {
       "question": "Quel pays a remporté la Coupe du Monde de Football en 2022 ?",
       "options": [
         "France",
@@ -3873,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1782778991088_0_b16bje",
       "addedAt": "2026-06-30T00:23:11.088Z"
-    },
+    }
+  ],
+  "version": 317,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-14T00:30:08.435Z",
+  "archivedQuestions": [
     {
       "question": "Combien de chambres compose le cœur humain ?",
       "options": [
@@ -4029,141 +4190,6 @@
       "category": "Science",
       "id": "q_1782705680887_3_v8o7os",
       "addedAt": "2026-06-29T04:01:20.887Z"
-    }
-  ],
-  "version": 316,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-13T02:51:28.355Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mathématicien grec ancien a établi le théorème sur les triangles rectangles ?",
-      "options": [
-        "Archimède",
-        "Pythagore",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1782705680887_4_qx5j41",
-      "addedAt": "2026-06-29T04:01:20.887Z"
-    },
-    {
-      "question": "Quel instrument à vent est typique de la musique jazz ?",
-      "options": [
-        "Violon",
-        "Saxophone",
-        "Flûte traversière",
-        "Cor français"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782705680887_5_no7kuv",
-      "addedAt": "2026-06-29T04:01:20.887Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide sur terre en vitesse de pointe ?",
-      "options": [
-        "Cheval",
-        "Lièvre",
-        "Guépard",
-        "Antilope pronghorn"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1782705680887_6_oxztjy",
-      "addedAt": "2026-06-29T04:01:20.887Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la saga 'The Lord of the Rings' au cinéma ?",
-      "options": [
-        "Steven Spielberg",
-        "Peter Jackson",
-        "Christopher Nolan",
-        "James Cameron"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1782705680887_7_88ixgu",
-      "addedAt": "2026-06-29T04:01:20.887Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit la symphonie 'Ainsi parlait Zarathoustra' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Richard Strauss",
-        "Gustav Mahler",
-        "Anton Bruckner"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782693442984_0_yxvd1q",
-      "addedAt": "2026-06-29T00:37:22.984Z"
-    },
-    {
-      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
-      "options": [
-        "1965",
-        "1969",
-        "1971",
-        "1968"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782693442984_1_byxlvs",
-      "addedAt": "2026-06-29T00:37:22.984Z"
-    },
-    {
-      "question": "Quelle est la vitesse du son dans l'air à température ambiante ?",
-      "options": [
-        "200 m/s",
-        "340 m/s",
-        "500 m/s",
-        "100 m/s"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782693442984_2_xsfjrk",
-      "addedAt": "2026-06-29T00:37:22.984Z"
-    },
-    {
-      "question": "Quel artiste espagnol a fondé le mouvement du Cubisme ?",
-      "options": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Joan Miró",
-        "Juan Gris"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782693442984_3_rl1nu8",
-      "addedAt": "2026-06-29T00:37:22.984Z"
-    },
-    {
-      "question": "En quel année l'Afrique du Sud a-t-elle aboli l'apartheid ?",
-      "options": [
-        "1990",
-        "1994",
-        "1992",
-        "1996"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782693442984_4_iborfd",
-      "addedAt": "2026-06-29T00:37:22.984Z"
-    },
-    {
-      "question": "Quel type d'animal est un axolotl ?",
-      "options": [
-        "Un reptile",
-        "Un amphibien",
-        "Un poisson",
-        "Un mammifère"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1782693442984_5_ri8dyf",
-      "addedAt": "2026-06-29T00:37:22.984Z"
     }
   ],
   "poolSize": 310
