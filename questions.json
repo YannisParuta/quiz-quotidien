@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a remporté le Prix Nobel de littérature en 1964 ?",
+      "options": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "François Mauriac",
+        "André Gide"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1784074448296_0_dg8xde",
+      "addedAt": "2026-07-15T00:14:08.296Z"
+    },
+    {
+      "question": "Quel élément chimique est le plus abondant dans l'univers ?",
+      "options": [
+        "L'oxygène",
+        "L'hélium",
+        "L'hydrogène",
+        "Le carbone"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1784074448296_1_qvk9jp",
+      "addedAt": "2026-07-15T00:14:08.296Z"
+    },
+    {
+      "question": "Quel phénomène météorologique est mesuré avec l'échelle de Beaufort ?",
+      "options": [
+        "La température",
+        "L'humidité",
+        "La vitesse du vent",
+        "La pression atmosphérique"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1784074448296_2_o1wjkp",
+      "addedAt": "2026-07-15T00:14:08.296Z"
+    },
+    {
+      "question": "Quel est le plus haut volcan actif du monde ?",
+      "options": [
+        "Le Mont-Blanc",
+        "L'Etna",
+        "Le Sakura-jima",
+        "L'Ojos del Salado"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1784074448296_3_y3idgs",
+      "addedAt": "2026-07-15T00:14:08.296Z"
+    },
+    {
+      "question": "Quel artiste a créé le courant artistique du Surréalisme ?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "André Breton",
+        "Joan Miró"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1784074448296_4_xmusa7",
+      "addedAt": "2026-07-15T00:14:08.296Z"
+    },
+    {
+      "question": "Quel type de technologie utilise les photons pour traiter l'information ?",
+      "options": [
+        "L'informatique quantique",
+        "L'optique quantique",
+        "L'électronique",
+        "La nanotechnologie"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1784074448296_5_nify0j",
+      "addedAt": "2026-07-15T00:14:08.296Z"
+    },
+    {
+      "question": "Quel plat italien est traditionnellement préparé avec du risotto et du safran ?",
+      "options": [
+        "La carbonara",
+        "Le risotto milanais",
+        "La paella",
+        "Le risotto nero"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1784074448296_6_588dfh",
+      "addedAt": "2026-07-15T00:14:08.296Z"
+    },
+    {
+      "question": "Quel mathématicien a formulé le dernier théorème qui porte son nom en 1637 ?",
+      "options": [
+        "Pierre de Fermat",
+        "René Descartes",
+        "Blaise Pascal",
+        "Léonard Fibonacci"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1784074448296_7_c5t4x9",
+      "addedAt": "2026-07-15T00:14:08.296Z"
+    },
+    {
+      "question": "Quel compositeur a écrit la Symphonie n°9 avec le 'Hymne à la joie' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "George Frideric Haendel"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1784074448296_8_r7mqw8",
+      "addedAt": "2026-07-15T00:14:08.296Z"
+    },
+    {
+      "question": "Quel cinéaste britannique a réalisé 'Vertigo' en 1958 ?",
+      "options": [
+        "Stanley Kubrick",
+        "Alfred Hitchcock",
+        "David Lean",
+        "Michael Powell"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1784074448296_9_m89ql3",
+      "addedAt": "2026-07-15T00:14:08.296Z"
+    },
+    {
+      "question": "Quel scientifique a énoncé les trois lois du mouvement et la loi de la gravitation universelle ?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler",
+        "René Descartes"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784074448296_10_6bj5ha",
+      "addedAt": "2026-07-15T00:14:08.296Z"
+    },
+    {
       "question": "Quel écrivain russe a écrit 'Les Frères Karamazov' ?",
       "options": [
         "Léon Tolstoï",
@@ -3886,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1782878352440_8_72oqw4",
       "addedAt": "2026-07-01T03:59:12.440Z"
-    },
+    }
+  ],
+  "version": 319,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-15T00:14:08.296Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le plus grand lac d'eau douce du monde ?",
       "options": [
@@ -4029,167 +4177,6 @@
       "category": "Mathématiques",
       "id": "q_1782790972985_0_90lew8",
       "addedAt": "2026-06-30T03:42:52.985Z"
-    }
-  ],
-  "version": 318,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-14T02:32:22.929Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel peintre français connu pour ses nymphéas a créé une série de 250 toiles ?",
-      "options": [
-        "Auguste Renoir",
-        "Paul Cézanne",
-        "Claude Monet",
-        "Henri Matisse"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1782790972985_1_z6n1fc",
-      "addedAt": "2026-06-30T03:42:52.985Z"
-    },
-    {
-      "question": "Combien de cordes possède traditionnellement une guitare classique ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782790972985_2_srfi7l",
-      "addedAt": "2026-06-30T03:42:52.985Z"
-    },
-    {
-      "question": "Quel élément chimique a le numéro atomique 79 ?",
-      "options": [
-        "L'argent",
-        "L'or",
-        "Le cuivre",
-        "Le platine"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782790972985_3_7jeqj1",
-      "addedAt": "2026-06-30T03:42:52.985Z"
-    },
-    {
-      "question": "En quelle année a été inventé le télescope par Galilée ?",
-      "options": [
-        "1590",
-        "1608",
-        "1610",
-        "1620"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1782790972985_4_2xt18v",
-      "addedAt": "2026-06-30T03:42:52.985Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide sur terre ?",
-      "options": [
-        "La gazelle",
-        "Le guépard",
-        "L'antilope",
-        "Le lièvre"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1782790972985_5_44rbai",
-      "addedAt": "2026-06-30T03:42:52.985Z"
-    },
-    {
-      "question": "Combien de pyramides principales composent le complexe de Gizeh ?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782790972985_6_lm6ymb",
-      "addedAt": "2026-06-30T03:42:52.985Z"
-    },
-    {
-      "question": "Quel cinéaste français a réalisé 'Pulp Fiction' - attendez, c'est incorrect. Qui a réalisé 'Léon : l'enfant' ?",
-      "options": [
-        "Jean-Luc Godard",
-        "Luc Besson",
-        "François Truffaut",
-        "Jacques Tati"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1782790972985_7_jw6whh",
-      "addedAt": "2026-06-30T03:42:52.985Z"
-    },
-    {
-      "question": "Quel sport de raquette est joué sur un terrain de 17 mètres de longueur et 8,2 mètres de largeur ?",
-      "options": [
-        "Le squash",
-        "Le badminton",
-        "Le tennis",
-        "Le tennis de table"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1782790972985_8_zu3yru",
-      "addedAt": "2026-06-30T03:42:52.985Z"
-    },
-    {
-      "question": "Quel fromage français à pâte persillée provient de la région de Roquefort ?",
-      "options": [
-        "Le Camembert",
-        "Le Roquefort",
-        "L'Époisses",
-        "Le Comté"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1782790972985_9_twjq5f",
-      "addedAt": "2026-06-30T03:42:52.985Z"
-    },
-    {
-      "question": "Quel continent est le plus élevé en altitude moyenne ?",
-      "options": [
-        "L'Asie",
-        "L'Afrique",
-        "L'Antarctique",
-        "L'Amérique du Sud"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1782790972985_10_qadtva",
-      "addedAt": "2026-06-30T03:42:52.985Z"
-    },
-    {
-      "question": "Quel scientifique a développé la théorie de l'évolution par sélection naturelle ?",
-      "options": [
-        "Jean-Baptiste Lamarck",
-        "Charles Darwin",
-        "Thomas Huxley",
-        "Ernst Haeckel"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782790972985_11_y56g1q",
-      "addedAt": "2026-06-30T03:42:52.985Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde en termes de population ?",
-      "options": [
-        "Monaco",
-        "Liechtenstein",
-        "Vatican",
-        "Andorre"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1782778991088_0_b16bje",
-      "addedAt": "2026-06-30T00:23:11.088Z"
     }
   ],
   "poolSize": 310
