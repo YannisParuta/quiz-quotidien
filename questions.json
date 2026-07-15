@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
+      "options": [
+        "L'azote",
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'hydrogène"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1784082649640_9_9nii9o",
+      "addedAt": "2026-07-15T02:30:49.641Z"
+    },
+    {
+      "question": "Quel type de données peut stocker un code QR ?",
+      "options": [
+        "Uniquement des chiffres",
+        "Uniquement des URLs",
+        "Du texte, des URLs, des numéros de téléphone et bien d'autres",
+        "Uniquement des images"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1784082649641_10_3w7mwo",
+      "addedAt": "2026-07-15T02:30:49.641Z"
+    },
+    {
+      "question": "En quelle année a eu lieu la Révolution française ?",
+      "options": [
+        "1776",
+        "1789",
+        "1799",
+        "1812"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1784082649640_0_4wozzo",
+      "addedAt": "2026-07-15T02:30:49.640Z"
+    },
+    {
+      "question": "Quel roman de Fiodor Dostoïevski raconte l'histoire d'un étudiant pauvre de Saint-Pétersbourg ?",
+      "options": [
+        "L'Idiot",
+        "Crime et Châtiment",
+        "Les Frères Karamazov",
+        "Les Démons"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1784082649640_1_z6ksym",
+      "addedAt": "2026-07-15T02:30:49.640Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Afrique ?",
+      "options": [
+        "Le fleuve Niger",
+        "Le fleuve Congo",
+        "Le fleuve Nil",
+        "Le fleuve Zambèze"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1784082649640_2_a1d6jk",
+      "addedAt": "2026-07-15T02:30:49.640Z"
+    },
+    {
+      "question": "Quel peintre espagnol est connu pour le mouvement cubiste ?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Juan Gris",
+        "Joan Miró"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1784082649640_3_6kv8y9",
+      "addedAt": "2026-07-15T02:30:49.640Z"
+    },
+    {
+      "question": "Quel mécanisme biologique permet aux plantes de convertir la lumière en énergie ?",
+      "options": [
+        "La respiration cellulaire",
+        "La photosynthèse",
+        "La fermentation",
+        "La mitose"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784082649640_4_5yznid",
+      "addedAt": "2026-07-15T02:30:49.640Z"
+    },
+    {
+      "question": "Quel sport est appelé 'le roi des sports' en France ?",
+      "options": [
+        "Le rugby",
+        "Le football",
+        "Le tennis",
+        "L'athlétisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1784082649640_5_7bokvc",
+      "addedAt": "2026-07-15T02:30:49.640Z"
+    },
+    {
+      "question": "En quelle année l'Égypte antique a-t-elle été conquise par Alexandre le Grand ?",
+      "options": [
+        "332 avant J.C.",
+        "305 avant J.C.",
+        "380 avant J.C.",
+        "250 avant J.C."
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1784082649640_6_eazs2t",
+      "addedAt": "2026-07-15T02:30:49.640Z"
+    },
+    {
+      "question": "Quel est le plus grand océan du monde ?",
+      "options": [
+        "L'océan Atlantique",
+        "L'océan Arctique",
+        "L'océan Pacifique",
+        "L'océan Indien"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1784082649640_7_mp0juc",
+      "addedAt": "2026-07-15T02:30:49.640Z"
+    },
+    {
+      "question": "Quel acteur français a remporté la Palme d'Or à Cannes en 2019 pour 'Parasite' ?",
+      "options": [
+        "Jean Dujardin",
+        "C'était un film sud-coréen",
+        "Omar Sy",
+        "François Cluzet"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1784082649640_8_lg68za",
+      "addedAt": "2026-07-15T02:30:49.640Z"
+    },
+    {
       "question": "Quel écrivain français a remporté le Prix Nobel de littérature en 1964 ?",
       "options": [
         "Albert Camus",
@@ -3886,7 +4029,12 @@
       "category": "Art",
       "id": "q_1782950616937_9_dog596",
       "addedAt": "2026-07-02T00:03:36.937Z"
-    },
+    }
+  ],
+  "version": 320,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-15T02:30:49.641Z",
+  "archivedQuestions": [
     {
       "question": "Quel type de sport pratique Rafael Nadal professionnellement ?",
       "options": [
@@ -4029,154 +4177,6 @@
       "category": "Histoire",
       "id": "q_1782878352440_8_72oqw4",
       "addedAt": "2026-07-01T03:59:12.440Z"
-    }
-  ],
-  "version": 319,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-15T00:14:08.296Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus grand lac d'eau douce du monde ?",
-      "options": [
-        "Lac Baïkal",
-        "Lac Supérieur",
-        "Lac Victoria",
-        "Lac Tanganyika"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1782878352440_9_xoxf5v",
-      "addedAt": "2026-07-01T03:59:12.440Z"
-    },
-    {
-      "question": "Quel navigateur internet a été le plus populaire dans les années 1990 et 2000 ?",
-      "options": [
-        "Firefox",
-        "Internet Explorer",
-        "Google Chrome",
-        "Safari"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1782878352440_10_839g4h",
-      "addedAt": "2026-07-01T03:59:12.440Z"
-    },
-    {
-      "question": "Quel peintre impressionniste est connu pour ses tableaux de nénuphars ?",
-      "options": [
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Edgar Degas",
-        "Frédéric Bazille"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1782867530865_0_luj2se",
-      "addedAt": "2026-07-01T00:58:50.865Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet des Andes ?",
-      "options": [
-        "Mont Blanc",
-        "Aconcagua",
-        "Chimborazo",
-        "Huascarán"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1782867530865_1_j1ssp3",
-      "addedAt": "2026-07-01T00:58:50.865Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit 'Clair de lune' ?",
-      "options": [
-        "Johann Bach",
-        "Claude Debussy",
-        "Pyotr Tchaikovski",
-        "Wolfgang Amadeus Mozart"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1782867530865_2_6ujn0m",
-      "addedAt": "2026-07-01T00:58:50.865Z"
-    },
-    {
-      "question": "Quel sport olympique consiste à tirer des flèches sur une cible ?",
-      "options": [
-        "Tir à la carabine",
-        "Tir à l'arc",
-        "Pentathlon moderne",
-        "Biathlon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1782867530865_3_h3534p",
-      "addedAt": "2026-07-01T00:58:50.865Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve du monde ?",
-      "options": [
-        "Fleuve Amazone",
-        "Fleuve Nil",
-        "Fleuve Yangzi",
-        "Fleuve Mississippi"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1782867530865_4_n1av74",
-      "addedAt": "2026-07-01T00:58:50.865Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé le film 'Inception' en 2010 ?",
-      "options": [
-        "Martin Scorsese",
-        "Christopher Nolan",
-        "Denis Villeneuve",
-        "David Fincher"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1782867530865_5_tmux2c",
-      "addedAt": "2026-07-01T00:58:50.865Z"
-    },
-    {
-      "question": "Quel légume appartient à la famille des brassicacées comme le chou-fleur ?",
-      "options": [
-        "Carotte",
-        "Brocoli",
-        "Betterave",
-        "Courgette"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1782867530865_6_xa2rsb",
-      "addedAt": "2026-07-01T00:58:50.865Z"
-    },
-    {
-      "question": "Quel animal possède le cerveau le plus grand proportionnellement à son corps ?",
-      "options": [
-        "Dauphin",
-        "Éléphant",
-        "Baleine bleue",
-        "Gorille"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1782867530865_7_2ngxl4",
-      "addedAt": "2026-07-01T00:58:50.865Z"
-    },
-    {
-      "question": "Quel mathématicien suisse a introduit la notation moderne de l'intégrale ?",
-      "options": [
-        "Leonhard Euler",
-        "Gottfried Leibniz",
-        "Isaac Newton",
-        "Carl Friedrich Gauss"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1782790972985_0_90lew8",
-      "addedAt": "2026-06-30T03:42:52.985Z"
     }
   ],
   "poolSize": 310
