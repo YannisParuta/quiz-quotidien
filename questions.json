@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "En quel année l'imprimerie a-t-elle été inventée par Gutenberg ?",
+      "options": [
+        "1440",
+        "1492",
+        "1517",
+        "1605"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1784162748519_0_fm23ky",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
+      "question": "Combien de muscles possède le corps humain environ ?",
+      "options": [
+        "206",
+        "346",
+        "506",
+        "606"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1784162748519_1_yscmnd",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
+      "question": "Quel peintre espagnol a fondé le mouvement du cubisme avec Braque ?",
+      "options": [
+        "Joan Miró",
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Juan Gris"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1784162748519_2_2k2zpi",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde de football en 1998 ?",
+      "options": [
+        "Le Brésil",
+        "L'Italie",
+        "La France",
+        "L'Allemagne"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1784162748519_3_r4fnb7",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
+      "question": "Quel scientifique a développé la théorie de la relativité restreinte ?",
+      "options": [
+        "Max Planck",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Erwin Schrödinger"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784162748519_4_d3h8hi",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
+      "question": "Quel réalisateur a créé 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Christopher Nolan",
+        "David Fincher"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1784162748519_5_19tw3v",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
+      "question": "Quel fromage français est produit dans la région de Roquefort ?",
+      "options": [
+        "Le Camembert",
+        "Le Roquefort",
+        "L'Emmental",
+        "Le Comté"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1784162748519_6_h08tyy",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
+      "question": "Quel est le plus grand lac d'eau douce du monde ?",
+      "options": [
+        "Le lac Baïkal",
+        "Le lac Supérieur",
+        "Le lac Victoria",
+        "Le lac Tanganyika"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1784162748519_7_9ispps",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
+      "question": "Quel composant chimique donne la couleur rouge aux tomates ?",
+      "options": [
+        "La bêta-carotène",
+        "Le lycopène",
+        "l'anthocyanine",
+        "La lutéine"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784162748519_8_y8q7o5",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
+      "question": "Quel musicien britannique a formé le groupe The Beatles ?",
+      "options": [
+        "Paul McCartney et John Lennon",
+        "Jimi Hendrix et Eric Clapton",
+        "David Bowie et Freddie Mercury",
+        "Mick Jagger et Keith Richards"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1784162748519_9_dje778",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle eu lieu principalement ?",
+      "options": [
+        "XIIe siècle",
+        "XIVe-XVIe siècles",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1784162748519_10_8tswod",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
+      "question": "Quel animal est le symbole du panda géant ?",
+      "options": [
+        "La Thaïlande",
+        "Le Vietnam",
+        "La Chine",
+        "Le Laos"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1784162748519_11_afwzax",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
+      "question": "Quel mathématicien a formulé la suite qui porte son nom ?",
+      "options": [
+        "Léonard de Fibonacci",
+        "Isaac Newton",
+        "Carl Friedrich Gauss",
+        "Euclide"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1784162748519_12_m9av2h",
+      "addedAt": "2026-07-16T00:45:48.519Z"
+    },
+    {
       "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
       "options": [
         "L'azote",
@@ -3860,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1782963582016_6_o00ntx",
       "addedAt": "2026-07-02T03:39:42.016Z"
-    },
+    }
+  ],
+  "version": 321,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-16T00:45:48.520Z",
+  "archivedQuestions": [
     {
       "question": "Quel type de cuisine utilise principalement le wok comme ustensile de cuisson ?",
       "options": [
@@ -4029,154 +4203,6 @@
       "category": "Art",
       "id": "q_1782950616937_9_dog596",
       "addedAt": "2026-07-02T00:03:36.937Z"
-    }
-  ],
-  "version": 320,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-15T02:30:49.641Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel type de sport pratique Rafael Nadal professionnellement ?",
-      "options": [
-        "Le golf",
-        "Le tennis",
-        "Le badminton",
-        "Le squash"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1782950616937_10_i9foz5",
-      "addedAt": "2026-07-02T00:03:36.937Z"
-    },
-    {
-      "question": "Quel pays est le plus grand producteur de café au monde ?",
-      "options": [
-        "La Colombie",
-        "Le Brésil",
-        "L'Éthiopie",
-        "L'Indonésie"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1782950616937_11_fdevnf",
-      "addedAt": "2026-07-02T00:03:36.937Z"
-    },
-    {
-      "question": "Quel mathématicien a développé le système de coordonnées cartésiennes ?",
-      "options": [
-        "Isaac Newton",
-        "René Descartes",
-        "Gottfried Leibniz",
-        "Pierre de Fermat"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1782878352440_0_5pfvnp",
-      "addedAt": "2026-07-01T03:59:12.440Z"
-    },
-    {
-      "question": "Quel type de cellule produit les anticorps dans le système immunitaire ?",
-      "options": [
-        "Lymphocyte T",
-        "Lymphocyte B",
-        "Neutrophile",
-        "Globule rouge"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1782878352440_1_ctbpp3",
-      "addedAt": "2026-07-01T03:59:12.440Z"
-    },
-    {
-      "question": "Quel musée parisien abrite la Victoire de Samothrace ?",
-      "options": [
-        "Musée de Montmartre",
-        "Musée du Louvre",
-        "Musée d'Orsay",
-        "Musée Rodin"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1782878352440_2_d09fb4",
-      "addedAt": "2026-07-01T03:59:12.440Z"
-    },
-    {
-      "question": "Quel athlète jamaïcain est considéré comme le plus rapide du monde ?",
-      "options": [
-        "Yohan Blake",
-        "Usain Bolt",
-        "Asafa Powell",
-        "Nesta Carter"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1782878352440_3_or75mt",
-      "addedAt": "2026-07-01T03:59:12.440Z"
-    },
-    {
-      "question": "Quel cinéaste suédois a réalisé 'Le Septième Sceau' en 1957 ?",
-      "options": [
-        "Ingmar Bergman",
-        "Carl Theodor Dreyer",
-        "Mikael Håfström",
-        "Lukas Moodysson"
-      ],
-      "correctAnswer": 0,
-      "category": "Cinéma",
-      "id": "q_1782878352440_4_3dt0mz",
-      "addedAt": "2026-07-01T03:59:12.440Z"
-    },
-    {
-      "question": "Quel système de classification des êtres vivants a été créé par Carl Linné ?",
-      "options": [
-        "Classification périodique",
-        "Taxonomie binomiale",
-        "Arbre phylogénétique",
-        "Nomenclature chimique"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1782878352440_5_vekeh3",
-      "addedAt": "2026-07-01T03:59:12.440Z"
-    },
-    {
-      "question": "Quel instrument de musique est caractéristique de la musique grecque traditionnelle ?",
-      "options": [
-        "Bouzouki",
-        "Oud",
-        "Sitar",
-        "Didgeridoo"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1782878352440_6_2is3v4",
-      "addedAt": "2026-07-01T03:59:12.440Z"
-    },
-    {
-      "question": "Quel plat français est préparé avec des escargots comme ingrédient principal ?",
-      "options": [
-        "Ratatouille",
-        "Escargots à la bourguignonne",
-        "Bouillabaisse",
-        "Cassoulet"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1782878352440_7_5rakzj",
-      "addedAt": "2026-07-01T03:59:12.440Z"
-    },
-    {
-      "question": "En quelle année la chute du Mur de Berlin s'est-elle produite ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1782878352440_8_72oqw4",
-      "addedAt": "2026-07-01T03:59:12.440Z"
     }
   ],
   "poolSize": 310
