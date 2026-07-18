@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus grand musée du monde par ses collections ?",
+      "options": [
+        "Musée du Louvre",
+        "Musée britannique",
+        "Musée métropolitain",
+        "Galerie des Offices"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1784341940161_0_9ek8jl",
+      "addedAt": "2026-07-18T02:32:20.161Z"
+    },
+    {
+      "question": "Quel type de roche se forme par le refroidissement de la lave volcanique ?",
+      "options": [
+        "Roche sédimentaire",
+        "Roche métamorphique",
+        "Roche ignée",
+        "Roche calcaire"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1784341940161_1_z1k9j9",
+      "addedAt": "2026-07-18T02:32:20.161Z"
+    },
+    {
+      "question": "Quel sport nautique utilise une planche et des vagues de mer ?",
+      "options": [
+        "Le kayak",
+        "Le surf",
+        "La voile",
+        "Le water-polo"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1784341940161_2_btdqdn",
+      "addedAt": "2026-07-18T02:32:20.161Z"
+    },
+    {
+      "question": "Quel peintre impressionniste français est célèbre pour ses séries de Nymphéas ?",
+      "options": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1784341940161_3_8g0bhp",
+      "addedAt": "2026-07-18T02:32:20.161Z"
+    },
+    {
+      "question": "Quelle est la vitesse du son dans l'air à température ambiante ?",
+      "options": [
+        "300 000 km/s",
+        "340 m/s",
+        "1000 km/h",
+        "100 m/s"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784341940161_4_ye7j8x",
+      "addedAt": "2026-07-18T02:32:20.161Z"
+    },
+    {
+      "question": "Quel musicien italien a composé les quatre concertos 'Les Quatre Saisons' ?",
+      "options": [
+        "Giuseppe Verdi",
+        "Antonio Vivaldi",
+        "Gioachino Rossini",
+        "Domenico Scarlatti"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1784341940161_5_fai77u",
+      "addedAt": "2026-07-18T02:32:20.161Z"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde par sa superficie ?",
+      "options": [
+        "Monaco",
+        "Andorre",
+        "Cité du Vatican",
+        "Liechtenstein"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1784341940161_6_k1wy9f",
+      "addedAt": "2026-07-18T02:32:20.161Z"
+    },
+    {
+      "question": "Quel langage de balisage est utilisé pour structurer les pages web ?",
+      "options": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Python"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1784341940161_7_07uafu",
+      "addedAt": "2026-07-18T02:32:20.161Z"
+    },
+    {
       "question": "Quel est le plus grand désert chaud du monde ?",
       "options": [
         "Le désert du Sahara",
@@ -3925,7 +4029,12 @@
       "category": "Art",
       "id": "q_1783211253819_3_venio8",
       "addedAt": "2026-07-05T00:27:33.819Z"
-    },
+    }
+  ],
+  "version": 326,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-18T02:32:20.162Z",
+  "archivedQuestions": [
     {
       "question": "Quel réalisateur allemand a créé 'Metropolis', un classique du cinéma muet ?",
       "options": [
@@ -4029,167 +4138,6 @@
       "category": "Musique",
       "id": "q_1783134878538_1_b0d6o5",
       "addedAt": "2026-07-04T03:14:38.538Z"
-    }
-  ],
-  "version": 325,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-18T00:42:57.634Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel continent est le plus grand en superficie ?",
-      "options": [
-        "Afrique",
-        "Asie",
-        "Amérique du Nord",
-        "Amérique du Sud"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1783134878538_2_i461zi",
-      "addedAt": "2026-07-04T03:14:38.538Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet du monde ?",
-      "options": [
-        "K2",
-        "Mont-Blanc",
-        "Everest",
-        "Kilimandjaro"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1783134878538_3_ct2uae",
-      "addedAt": "2026-07-04T03:14:38.538Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en vitamine C et provient principalement des Philippines ?",
-      "options": [
-        "Mangue",
-        "Ananas",
-        "Papaye",
-        "Noix de coco"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1783134878538_4_yx9mm0",
-      "addedAt": "2026-07-04T03:14:38.538Z"
-    },
-    {
-      "question": "Quel écrivain russe a écrit 'Guerre et Paix' ?",
-      "options": [
-        "Dostoïevski",
-        "Tolstoï",
-        "Pouchkine",
-        "Tchékhov"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1783134878538_5_6mtd6y",
-      "addedAt": "2026-07-04T03:14:38.538Z"
-    },
-    {
-      "question": "Quel est le sport national du Japon ?",
-      "options": [
-        "Judo",
-        "Sumo",
-        "Karaté",
-        "Badminton"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1783134878538_6_67jocz",
-      "addedAt": "2026-07-04T03:14:38.538Z"
-    },
-    {
-      "question": "Quel artiste néerlandais a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Rembrandt",
-        "Van Gogh",
-        "Vermeer",
-        "Hals"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1783134878538_7_cke4jm",
-      "addedAt": "2026-07-04T03:14:38.538Z"
-    },
-    {
-      "question": "Quel chimiste français a découvert la radioactivité ?",
-      "options": [
-        "Pierre Curie",
-        "Marie Curie",
-        "Henri Becquerel",
-        "Ernest Rutherford"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1783134878538_8_nmm6cb",
-      "addedAt": "2026-07-04T03:14:38.538Z"
-    },
-    {
-      "question": "Quel pays a accueilli la première Coupe du Monde de football en 1930 ?",
-      "options": [
-        "L'Uruguay",
-        "L'Italie",
-        "la France",
-        "La Suisse"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1783123686830_9_ggfyyh",
-      "addedAt": "2026-07-04T00:08:06.831Z"
-    },
-    {
-      "question": "Quel est le lien chimique qui unit les acides aminés pour former une protéine ?",
-      "options": [
-        "La liaison covalente",
-        "La liaison peptidique",
-        "La liaison hydrogène",
-        "La liaison ionique"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783123686831_10_wmjhi0",
-      "addedAt": "2026-07-04T00:08:06.831Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
-      "options": [
-        "Louis Pasteur",
-        "Alexander Fleming",
-        "Marie Curie",
-        "Joseph Lister"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783123686830_0_6i9lsc",
-      "addedAt": "2026-07-04T00:08:06.830Z"
-    },
-    {
-      "question": "Combien de cordes possède un violoncelle standard ?",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1783123686830_1_mtqppl",
-      "addedAt": "2026-07-04T00:08:06.830Z"
-    },
-    {
-      "question": "Quel est le processus par lequel les roches se transforment sous l'effet de la chaleur et de la pression ?",
-      "options": [
-        "L'érosion",
-        "Le métamorphisme",
-        "L'oxydation",
-        "La sédimentation"
-      ],
-      "correctAnswer": 1,
-      "category": "Géologie",
-      "id": "q_1783123686830_2_ibjqow",
-      "addedAt": "2026-07-04T00:08:06.830Z"
     }
   ],
   "poolSize": 310
