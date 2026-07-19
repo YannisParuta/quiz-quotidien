@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel célèbre tableau de Claude Monet représente des nymphéas dans un jardin ?",
+      "options": [
+        "Les Coquelicots",
+        "Les Nymphéas",
+        "La Cathédrale de Rouen",
+        "Impression, Sunrise"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1784429197945_0_vth8xj",
+      "addedAt": "2026-07-19T02:46:37.945Z"
+    },
+    {
+      "question": "Quel continent est le plus grand en termes de surface ?",
+      "options": [
+        "Afrique",
+        "Asie",
+        "Amérique du Nord",
+        "Antarctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1784429197945_1_q3jfaq",
+      "addedAt": "2026-07-19T02:46:37.945Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en bromélaïne, une enzyme digestive ?",
+      "options": [
+        "La mangue",
+        "L'ananas",
+        "La papaye",
+        "La goyave"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1784429197945_2_wy146z",
+      "addedAt": "2026-07-19T02:46:37.945Z"
+    },
+    {
+      "question": "Quel mathématicien grec ancien a démontré le théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1784429197945_3_ljnrrh",
+      "addedAt": "2026-07-19T02:46:37.945Z"
+    },
+    {
+      "question": "Quel est le plus grand désert froid de la planète ?",
+      "options": [
+        "Le désert de Gobi",
+        "L'Antarctique",
+        "Le désert du Sahara",
+        "Le désert de Kalahari"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1784429197945_4_vtpffa",
+      "addedAt": "2026-07-19T02:46:37.945Z"
+    },
+    {
+      "question": "Quel instrument à cordes est utilisé dans la musique classique indienne ?",
+      "options": [
+        "Le sitar",
+        "Le violon",
+        "La guitare",
+        "La harpe"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1784429197945_5_zkceme",
+      "addedAt": "2026-07-19T02:46:37.945Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère marin du monde ?",
+      "options": [
+        "Le requin blanc",
+        "Le dauphin",
+        "La baleine bleue",
+        "L'orque"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1784429197945_6_riu3i7",
+      "addedAt": "2026-07-19T02:46:37.945Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'Amélie' en 2001 ?",
+      "options": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Jacques Tati",
+        "François Truffaut"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1784429197945_7_jrm7xj",
+      "addedAt": "2026-07-19T02:46:37.945Z"
+    },
+    {
+      "question": "Quel processus biologique permet aux plantes de produire leur propre nourriture ?",
+      "options": [
+        "La respiration",
+        "La photosynthèse",
+        "La transpiration",
+        "La fermentation"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784429197945_8_6fxuie",
+      "addedAt": "2026-07-19T02:46:37.945Z"
+    },
+    {
+      "question": "Quel sport automobile se déroule annuellement à Monaco sur un circuit urbain ?",
+      "options": [
+        "Les 24 Heures du Mans",
+        "Le Grand Prix de Monaco",
+        "Le Rallye de Monte-Carlo",
+        "Le Dakar"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1784429197945_9_csehs3",
+      "addedAt": "2026-07-19T02:46:37.945Z"
+    },
+    {
+      "question": "Quel élément chimique est essentiellement composé les diamants ?",
+      "options": [
+        "L'oxygène",
+        "Le carbone",
+        "L'azote",
+        "Le silicium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784429197945_10_fhtk03",
+      "addedAt": "2026-07-19T02:46:37.945Z"
+    },
+    {
       "question": "Quel est le plus grand désert du monde ?",
       "options": [
         "Le désert du Sahara",
@@ -3886,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1783296469583_5_avzkyq",
       "addedAt": "2026-07-06T00:07:49.583Z"
-    },
+    }
+  ],
+  "version": 328,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-19T02:46:37.945Z",
+  "archivedQuestions": [
     {
       "question": "Quel réalisateur britannique est connu pour ses films de suspense psychologique ?",
       "options": [
@@ -4029,128 +4177,6 @@
       "category": "Science",
       "id": "q_1783222183882_6_mfl3sz",
       "addedAt": "2026-07-05T03:29:43.882Z"
-    }
-  ],
-  "version": 327,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-19T00:56:39.459Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel pays a accueilli les Jeux Olympiques d'hiver en 2022 ?",
-      "options": [
-        "La Corée du Sud",
-        "La Chine",
-        "Le Japon",
-        "La Norvège"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1783222183882_7_rbken3",
-      "addedAt": "2026-07-05T03:29:43.882Z"
-    },
-    {
-      "question": "Quel groupe de rock britannique a créé l'album 'Dark Side of the Moon' en 1973 ?",
-      "options": [
-        "The Beatles",
-        "Pink Floyd",
-        "Led Zeppelin",
-        "The Rolling Stones"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1783222183882_8_2qzir3",
-      "addedAt": "2026-07-05T03:29:43.882Z"
-    },
-    {
-      "question": "Quel type de microscope permet d'observer les atomes individuels ?",
-      "options": [
-        "Le microscope optique",
-        "Le microscope électronique",
-        "Le microscope à force atomique",
-        "Le microscope confocal"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1783222183882_9_vunwr2",
-      "addedAt": "2026-07-05T03:29:43.882Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le mouvement du cinéma 'Nouvelle Vague' dans les années 1950-60 ?",
-      "options": [
-        "François Truffaut",
-        "Jean-Paul Sartre",
-        "Orson Welles",
-        "Roberto Rossellini"
-      ],
-      "correctAnswer": 0,
-      "category": "Cinéma",
-      "id": "q_1783222183882_10_pz46qr",
-      "addedAt": "2026-07-05T03:29:43.882Z"
-    },
-    {
-      "question": "Quel fromage français AOC est fabriqué dans la région de Roquefort-sur-Soulzon ?",
-      "options": [
-        "Le Camembert",
-        "Le Roquefort",
-        "L'Emmental",
-        "Le Beaufort"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1783222183882_11_k2829e",
-      "addedAt": "2026-07-05T03:29:43.882Z"
-    },
-    {
-      "question": "Quel philosophe grec antique a fondé l'Académie à Athènes ?",
-      "options": [
-        "Socrate",
-        "Platon",
-        "Aristote",
-        "Pythagore"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1783211253819_0_tf1vrx",
-      "addedAt": "2026-07-05T00:27:33.819Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet d'Afrique ?",
-      "options": [
-        "Mont Kenya",
-        "Kilimandjaro",
-        "Mont Blanc",
-        "Pic de Elbrus"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1783211253819_1_7my9hn",
-      "addedAt": "2026-07-05T00:27:33.819Z"
-    },
-    {
-      "question": "Quel organisme international a été créé après la Seconde Guerre mondiale ?",
-      "options": [
-        "Ligue des Nations",
-        "Union Européenne",
-        "Organisation des Nations Unies",
-        "OTAN"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1783211253819_2_869vq0",
-      "addedAt": "2026-07-05T00:27:33.819Z"
-    },
-    {
-      "question": "En quel année l'impressionnisme a-t-il émergé comme mouvement artistique ?",
-      "options": [
-        "1870",
-        "1872",
-        "1880",
-        "1890"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1783211253819_3_venio8",
-      "addedAt": "2026-07-05T00:27:33.819Z"
     }
   ],
   "poolSize": 310
