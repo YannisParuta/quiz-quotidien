@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel océan est le plus profond du monde ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1784507132643_0_um3j5y",
+      "addedAt": "2026-07-20T00:25:32.644Z"
+    },
+    {
+      "question": "Quel biologiste britannique a proposé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Alfred Wallace",
+        "Charles Darwin",
+        "Thomas Huxley",
+        "Richard Dawkins"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784507132644_1_hh1g7e",
+      "addedAt": "2026-07-20T00:25:32.644Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Paul Klee",
+        "Vincent van Gogh",
+        "Paul Mondrian"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1784507132644_2_8yg9uv",
+      "addedAt": "2026-07-20T00:25:32.644Z"
+    },
+    {
+      "question": "Combien de chambres composent le cœur humain ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1784507132644_3_2ydwkq",
+      "addedAt": "2026-07-20T00:25:32.644Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet d'Afrique ?",
+      "options": [
+        "Mont Kenya",
+        "Kilimandjaro",
+        "Mont Stanley",
+        "Mont Speke"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1784507132644_4_e4t8lt",
+      "addedAt": "2026-07-20T00:25:32.644Z"
+    },
+    {
+      "question": "En quel siècle la Révolution française s'est-elle déroulée ?",
+      "options": [
+        "XVIIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle",
+        "XXe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1784507132644_5_q9jzwj",
+      "addedAt": "2026-07-20T00:25:32.644Z"
+    },
+    {
+      "question": "Quel instrument de musique classique possède 88 touches ?",
+      "options": [
+        "Violon",
+        "Flûte",
+        "Piano",
+        "Harpe"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1784507132644_6_oqwky7",
+      "addedAt": "2026-07-20T00:25:32.644Z"
+    },
+    {
+      "question": "Quel type de cellule du système immunitaire détruit les cellules infectées ?",
+      "options": [
+        "Globule blanc",
+        "Lymphocyte T",
+        "Plaquette",
+        "Globule rouge"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784507132644_7_18k2r5",
+      "addedAt": "2026-07-20T00:25:32.644Z"
+    },
+    {
+      "question": "Quel champion de tennis français a remporté 20 titres du Grand Chelem en simple ?",
+      "options": [
+        "Henri Cochet",
+        "Pierre de Coubertin",
+        "Jean-Claude Barclay",
+        "Pas de champion français avec ce record"
+      ],
+      "correctAnswer": 3,
+      "category": "Sport",
+      "id": "q_1784507132644_8_qeta1x",
+      "addedAt": "2026-07-20T00:25:32.644Z"
+    },
+    {
+      "question": "Quel philosophe grec a enseigné dans le Lycée d'Athènes ?",
+      "options": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Zénon"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1784507132644_9_a1z9pg",
+      "addedAt": "2026-07-20T00:25:32.644Z"
+    },
+    {
+      "question": "Quel minéral est la forme cristalline pure du carbone la plus dure ?",
+      "options": [
+        "Graphite",
+        "Diamant",
+        "Charbon",
+        "Silice"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784507132644_10_emt968",
+      "addedAt": "2026-07-20T00:25:32.644Z"
+    },
+    {
       "question": "Quel célèbre tableau de Claude Monet représente des nymphéas dans un jardin ?",
       "options": [
         "Les Coquelicots",
@@ -3886,7 +4029,12 @@
       "category": "Science",
       "id": "q_1783309037414_3_v06ixv",
       "addedAt": "2026-07-06T03:37:17.414Z"
-    },
+    }
+  ],
+  "version": 329,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-20T00:25:32.644Z",
+  "archivedQuestions": [
     {
       "question": "Quel empereur romain a construit le Colosseum à Rome au 1er siècle ?",
       "options": [
@@ -4029,154 +4177,6 @@
       "category": "Nature",
       "id": "q_1783296469583_5_avzkyq",
       "addedAt": "2026-07-06T00:07:49.583Z"
-    }
-  ],
-  "version": 328,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-19T02:46:37.945Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel réalisateur britannique est connu pour ses films de suspense psychologique ?",
-      "options": [
-        "Stanley Kubrick",
-        "Alfred Hitchcock",
-        "Christopher Nolan",
-        "Danny Boyle"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1783296469583_6_2lmkag",
-      "addedAt": "2026-07-06T00:07:49.583Z"
-    },
-    {
-      "question": "Quel pays scandinave a pour capitale Helsinki ?",
-      "options": [
-        "La Suède",
-        "La Norvège",
-        "La Finlande",
-        "Le Danemark"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1783296469583_7_2qecah",
-      "addedAt": "2026-07-06T00:07:49.583Z"
-    },
-    {
-      "question": "Quel traité international signé en 1815 a réorganisé l'Europe après Napoléon ?",
-      "options": [
-        "Le traité de Paris",
-        "Le traité de Versailles",
-        "Le traité de Vienne",
-        "Le traité de Utrecht"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1783296469583_8_j3fd4x",
-      "addedAt": "2026-07-06T00:07:49.583Z"
-    },
-    {
-      "question": "Quel élément chimique a le symbole 'Au' et est précieux en joaillerie ?",
-      "options": [
-        "L'argent",
-        "L'or",
-        "Le platine",
-        "Le cuivre"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783296469583_9_sa2ben",
-      "addedAt": "2026-07-06T00:07:49.583Z"
-    },
-    {
-      "question": "Quel chimiste a découvert la radioactivité en 1896 ?",
-      "options": [
-        "Marie Curie",
-        "Henri Becquerel",
-        "Ernest Rutherford",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783222183882_0_y1xg16",
-      "addedAt": "2026-07-05T03:29:43.882Z"
-    },
-    {
-      "question": "Quel compositeur allemand est connu pour ses neuf symphonies, notamment l'Hymne à la Joie ?",
-      "options": [
-        "Bach",
-        "Mozart",
-        "Beethoven",
-        "Wagner"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1783222183882_1_lnm76m",
-      "addedAt": "2026-07-05T03:29:43.882Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet des Alpes ?",
-      "options": [
-        "Le Gran Paradiso",
-        "Le Mont-Blanc",
-        "Le Cervin",
-        "L'Elbrus"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1783222183882_2_s29qob",
-      "addedAt": "2026-07-05T03:29:43.882Z"
-    },
-    {
-      "question": "Quel philosophe grec ancien a fondé l'Académie à Athènes en 387 av. J.-C. ?",
-      "options": [
-        "Socrate",
-        "Platon",
-        "Aristote",
-        "Épicure"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1783222183882_3_mq6j5q",
-      "addedAt": "2026-07-05T03:29:43.882Z"
-    },
-    {
-      "question": "Quel instrument de musique à vent est le plus grave de la famille des bois ?",
-      "options": [
-        "Le hautbois",
-        "La clarinette",
-        "Le basson",
-        "La flûte"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1783222183882_4_riozus",
-      "addedAt": "2026-07-05T03:29:43.882Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'Les Misérables' au 19e siècle ?",
-      "options": [
-        "Alexandre Dumas",
-        "Victor Hugo",
-        "Honoré de Balzac",
-        "Gustave Flaubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1783222183882_5_yq8nfe",
-      "addedAt": "2026-07-05T03:29:43.882Z"
-    },
-    {
-      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "L'oxygène",
-        "Le dioxyde de carbone",
-        "L'azote",
-        "L'argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1783222183882_6_mfl3sz",
-      "addedAt": "2026-07-05T03:29:43.882Z"
     }
   ],
   "poolSize": 310
