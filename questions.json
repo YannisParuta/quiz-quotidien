@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut sommet du continent africain ?",
+      "options": [
+        "Le Mont Kenya",
+        "Le Kilimandjaro",
+        "Le Mont Cameroun",
+        "Le Mont Stanley"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1784518181113_0_b1e6tf",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
+      "question": "Quel biologiste britannique a développé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Alfred Russel Wallace",
+        "Charles Darwin",
+        "Jean-Baptiste Lamarck",
+        "Gregor Mendel"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784518181113_1_m8miui",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
+      "question": "Quel est le plus grand musée du monde en termes de collection ?",
+      "options": [
+        "Le British Museum",
+        "Le Musée du Louvre",
+        "Le Métropolitain Museum",
+        "Le Musée de l'Ermitage"
+      ],
+      "correctAnswer": 0,
+      "category": "Culture",
+      "id": "q_1784518181113_2_bnrbob",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
+      "question": "Combien de sets faut-il remporter pour gagner un match de tennis professionnel en général ?",
+      "options": [
+        "1 set",
+        "2 sets",
+        "3 sets",
+        "4 sets"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1784518181113_3_lld85z",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
+      "question": "Quel courant artistique a été fondé par Pablo Picasso et Georges Braque au début du 20ème siècle ?",
+      "options": [
+        "Le Surréalisme",
+        "Le Cubisme",
+        "L'Expressionnisme",
+        "Le Dadaïsme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1784518181113_4_7rd5cp",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
+      "question": "Quel écrivain britannique a créé la série littéraire 'Harry Potter' ?",
+      "options": [
+        "J.K. Rowling",
+        "Stephen King",
+        "George R.R. Martin",
+        "Roald Dahl"
+      ],
+      "correctAnswer": 0,
+      "category": "Littérature",
+      "id": "q_1784518181113_5_7f2owt",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
+      "question": "Quel animal est le seul mammifère capable de voler ?",
+      "options": [
+        "La chauve-souris",
+        "L'écureuil volant",
+        "La marmotte",
+        "Le lémur volant"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1784518181113_6_mxh0xy",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
+      "question": "Quel est le résultat de la racine carrée de 144 ?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1784518181113_7_buxp0m",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
+      "question": "Quel musicien autrichien a écrit la symphonie 'Hymne à la joie' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Franz Schubert",
+        "Joseph Haydn"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1784518181113_8_qg2qxo",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
+      "question": "Quel film d'animation Pixar raconte l'histoire d'un clown poisson à la recherche de son fils ?",
+      "options": [
+        "Raiponce",
+        "Vice-Versa",
+        "Le Monde de Nemo",
+        "Monstres & Cie"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1784518181113_9_1gy4z0",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
+      "question": "Quel est le langage de programmation le plus utilisé pour le développement web côté serveur ?",
+      "options": [
+        "JavaScript",
+        "PHP",
+        "Ruby",
+        "C++"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1784518181113_10_ydjz0q",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
+      "question": "Quel type de piment est utilisé pour préparer le paprika, l'épice hongroise ?",
+      "options": [
+        "Le piment de Cayenne",
+        "Le piment Piquante",
+        "Le piment doux rouge",
+        "Le piment Jalapeño"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1784518181113_11_n58ln1",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
+      "question": "Quel empire a construit les pyramides de Gizeh ?",
+      "options": [
+        "L'Empire romain",
+        "L'Égypte ancienne du Nouvel Empire",
+        "L'Égypte ancienne de l'Ancien Empire",
+        "L'Empire perse"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1784518181113_12_0pki1j",
+      "addedAt": "2026-07-20T03:29:41.113Z"
+    },
+    {
       "question": "Quel océan est le plus profond du monde ?",
       "options": [
         "Océan Atlantique",
@@ -3860,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1783384543566_3_zmp1p4",
       "addedAt": "2026-07-07T00:35:43.566Z"
-    },
+    }
+  ],
+  "version": 330,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-20T03:29:41.114Z",
+  "archivedQuestions": [
     {
       "question": "Quel film de Tim Burton met en scène un personnage squelette nommé Jack Skellington ?",
       "options": [
@@ -4029,154 +4203,6 @@
       "category": "Science",
       "id": "q_1783309037414_3_v06ixv",
       "addedAt": "2026-07-06T03:37:17.414Z"
-    }
-  ],
-  "version": 329,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-20T00:25:32.644Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel empereur romain a construit le Colosseum à Rome au 1er siècle ?",
-      "options": [
-        "Jules César",
-        "Auguste",
-        "Vespasien",
-        "Néron"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1783309037414_4_tapifi",
-      "addedAt": "2026-07-06T03:37:17.414Z"
-    },
-    {
-      "question": "Quel mouvement artistique a été fondé par André Breton au début du 20ème siècle ?",
-      "options": [
-        "Expressionnisme",
-        "Surréalisme",
-        "Dadaïsme",
-        "Futurisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1783309037414_5_icsv82",
-      "addedAt": "2026-07-06T03:37:17.414Z"
-    },
-    {
-      "question": "Quel athlète français a remporté 5 titres de champion du monde en athlétisme ?",
-      "options": [
-        "Alain Bernard",
-        "Christophe Lemaitre",
-        "Muriel Aoualu",
-        "Jean-Paul Belmondo"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1783309037414_6_aacuze",
-      "addedAt": "2026-07-06T03:37:17.414Z"
-    },
-    {
-      "question": "Quel est le seul mammifère capable de produire de l'électricité ?",
-      "options": [
-        "Ornithorynque",
-        "Anguille électrique",
-        "Dauphin",
-        "Hérisson"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1783309037414_7_2rse8d",
-      "addedAt": "2026-07-06T03:37:17.414Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé 'Pulp Fiction' en 1994 ?",
-      "options": [
-        "Martin Scorsese",
-        "David Fincher",
-        "Quentin Tarantino",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1783309037414_8_7nqexl",
-      "addedAt": "2026-07-06T03:37:17.414Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit la célèbre 'Marche turque' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach",
-        "Georg Friedrich Händel"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1783296469583_0_5a5hjw",
-      "addedAt": "2026-07-06T00:07:49.583Z"
-    },
-    {
-      "question": "Quel type de protéine catalyse les réactions chimiques dans les cellules vivantes ?",
-      "options": [
-        "Les hormones",
-        "Les enzymes",
-        "Les anticorps",
-        "Les lipides"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783296469583_1_k4yfsl",
-      "addedAt": "2026-07-06T00:07:49.583Z"
-    },
-    {
-      "question": "Quel sport aquatique consiste à se déplacer sur une planche avec une rame ?",
-      "options": [
-        "Le surf",
-        "Le wakeboard",
-        "Le stand-up paddle",
-        "Le kayak"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1783296469583_2_9f7u86",
-      "addedAt": "2026-07-06T00:07:49.583Z"
-    },
-    {
-      "question": "Quel légume méditerranéen est la base du houmous ?",
-      "options": [
-        "La tomate",
-        "Le pois chiche",
-        "L'aubergine",
-        "Le poivron"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1783296469583_3_tzz11p",
-      "addedAt": "2026-07-06T00:07:49.583Z"
-    },
-    {
-      "question": "Quel mathématicien italien a introduit les chiffres arabes en Europe au XIIIe siècle ?",
-      "options": [
-        "Léonard de Vinci",
-        "Galilée",
-        "Leonardo Fibonacci",
-        "Girolamo Cardano"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1783296469583_4_gdpqdn",
-      "addedAt": "2026-07-06T00:07:49.583Z"
-    },
-    {
-      "question": "Quel primate est le plus proche génétiquement de l'être humain ?",
-      "options": [
-        "L'orang-outan",
-        "Le chimpanzé",
-        "Le gorille",
-        "Le macaque"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1783296469583_5_avzkyq",
-      "addedAt": "2026-07-06T00:07:49.583Z"
     }
   ],
   "poolSize": 310
