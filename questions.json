@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut sommet du monde ?",
+      "options": [
+        "K2",
+        "Mont Everest",
+        "Kangchenjunga",
+        "Lhotse"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1784594605076_0_5j8jqp",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
+      "question": "En quel année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1967",
+        "1969",
+        "1971",
+        "1965"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1784594605076_1_s141wc",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
+      "question": "Quel gaz est produit par les arbres pendant la photosynthèse ?",
+      "options": [
+        "Dioxyde de carbone",
+        "Oxygène",
+        "Azote",
+        "Hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784594605076_2_f7qa54",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
+      "question": "Quel peintre a coupé une partie de son oreille ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Paul Cézanne"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1784594605076_3_zczimf",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
+      "question": "Quel mathématicien grec a découvert le théorème du triangle rectangle ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1784594605076_4_7q6rym",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
+      "question": "Quel est le plus grand organisme vivant sur Terre ?",
+      "options": [
+        "La baleine bleue",
+        "Le séquoia géant",
+        "Un champignon souterrain",
+        "Le corail"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1784594605076_5_d9s4wh",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit '9 Symphonies' dont la dernière contient 'L'Hymne à la Joie' ?",
+      "options": [
+        "Wolfgang Mozart",
+        "Johann Bach",
+        "Ludwig van Beethoven",
+        "Georg Händel"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1784594605076_6_0sacmt",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
+      "question": "En quel année la Bastille a-t-elle été prise lors de la Révolution française ?",
+      "options": [
+        "1788",
+        "1789",
+        "1790",
+        "1791"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1784594605076_7_udcqhu",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
+      "question": "Quel sport est aussi appelé 'le roi des sports' ?",
+      "options": [
+        "Le tennis",
+        "L'athlétisme",
+        "Le basketball",
+        "Le hockey"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1784594605076_8_wsi30q",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
+      "question": "Quel pays a inventé les pâtes alimentaires comme les spaghettis ?",
+      "options": [
+        "La France",
+        "La Chine",
+        "L'Italie",
+        "La Grèce"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1784594605076_9_gxj17x",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
+      "question": "Quel métal est le meilleur conducteur d'électricité ?",
+      "options": [
+        "L'aluminium",
+        "Le cuivre",
+        "L'argent",
+        "L'or"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1784594605076_10_xzj7y7",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la saga 'Star Wars' originelle ?",
+      "options": [
+        "Steven Spielberg",
+        "George Lucas",
+        "James Cameron",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1784594605076_11_zdkwbg",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été créé par Microsoft ?",
+      "options": [
+        "macOS",
+        "Linux",
+        "Windows",
+        "Android"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1784594605076_12_xxtts0",
+      "addedAt": "2026-07-21T00:43:25.076Z"
+    },
+    {
       "question": "Quel est le plus haut sommet du continent africain ?",
       "options": [
         "Le Mont Kenya",
@@ -3860,7 +4029,12 @@
       "category": "Science",
       "id": "q_1783394917059_1_8bszbh",
       "addedAt": "2026-07-07T03:28:37.059Z"
-    },
+    }
+  ],
+  "version": 331,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-21T00:43:25.077Z",
+  "archivedQuestions": [
     {
       "question": "Combien de joueurs composent une équipe de rugby sur le terrain ?",
       "options": [
@@ -4029,180 +4203,6 @@
       "category": "Histoire",
       "id": "q_1783384543566_3_zmp1p4",
       "addedAt": "2026-07-07T00:35:43.566Z"
-    }
-  ],
-  "version": 330,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-20T03:29:41.114Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel film de Tim Burton met en scène un personnage squelette nommé Jack Skellington ?",
-      "options": [
-        "Sweeney Todd",
-        "L'Étrange Noël de Monsieur Jack",
-        "Sleepy Hollow",
-        "Beetlejuice"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1783384543566_4_fr33c9",
-      "addedAt": "2026-07-07T00:35:43.566Z"
-    },
-    {
-      "question": "Quel artiste moderne a créé le mouvement Du- champ appelé 'ready-made' ?",
-      "options": [
-        "Marcel Duchamp",
-        "Jackson Pollock",
-        "Andy Warhol",
-        "Joan Miró"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1783384543566_5_bqceiy",
-      "addedAt": "2026-07-07T00:35:43.566Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1783384543566_6_beec6h",
-      "addedAt": "2026-07-07T00:35:43.566Z"
-    },
-    {
-      "question": "Quel langage de programmation est développé par Mozilla ?",
-      "options": [
-        "Python",
-        "Rust",
-        "Go",
-        "Swift"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1783384543566_7_ksbcqw",
-      "addedAt": "2026-07-07T00:35:43.566Z"
-    },
-    {
-      "question": "Quel légume est techniquement un fruit du point de vue botanique ?",
-      "options": [
-        "Carotte",
-        "Tomate",
-        "Pomme de terre",
-        "Oignon"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1783384543566_8_zxl8xb",
-      "addedAt": "2026-07-07T00:35:43.566Z"
-    },
-    {
-      "question": "Quel dessert français est composé de pâte à choux et de glaçage au chocolat ?",
-      "options": [
-        "Mille-feuille",
-        "Éclair",
-        "Tarte Tatin",
-        "Clafoutis"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1783384543566_9_ygfaom",
-      "addedAt": "2026-07-07T00:35:43.566Z"
-    },
-    {
-      "question": "Quel type de pâtes italiennes ressemble à de petits nids ?",
-      "options": [
-        "Linguine",
-        "Nidi d'aquila",
-        "Rigatoni",
-        "Farfalle"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1783309037414_9_pcayus",
-      "addedAt": "2026-07-06T03:37:17.415Z"
-    },
-    {
-      "question": "Quel protocole de sécurité permet de chiffrer les données sur Internet ?",
-      "options": [
-        "HTTP",
-        "FTP",
-        "HTTPS",
-        "SMTP"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1783309037415_10_700d3z",
-      "addedAt": "2026-07-06T03:37:17.415Z"
-    },
-    {
-      "question": "Quel compositeur italien a écrit l'opéra 'La Traviata' en 1853 ?",
-      "options": [
-        "Gioachino Rossini",
-        "Georges Bizet",
-        "Giuseppe Verdi",
-        "Gaspare Spontini"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1783309037415_11_jia0ya",
-      "addedAt": "2026-07-06T03:37:17.415Z"
-    },
-    {
-      "question": "Quel scientifique a formulé la loi de la gravitation universelle en 1687 ?",
-      "options": [
-        "Albert Einstein",
-        "Isaac Newton",
-        "Galileo Galilei",
-        "Johannes Kepler"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783309037414_0_a0336i",
-      "addedAt": "2026-07-06T03:37:17.414Z"
-    },
-    {
-      "question": "En quel pays se trouve la ville de Marrakech, célèbre pour ses souks et sa médina ?",
-      "options": [
-        "Tunisie",
-        "Algérie",
-        "Maroc",
-        "Égypte"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1783309037414_1_l364yj",
-      "addedAt": "2026-07-06T03:37:17.414Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'Le Père Goriot', l'une de ses plus célèbres œuvres ?",
-      "options": [
-        "Victor Hugo",
-        "Honoré de Balzac",
-        "Alexandre Dumas",
-        "Gustave Flaubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1783309037414_2_nh1aax",
-      "addedAt": "2026-07-06T03:37:17.414Z"
-    },
-    {
-      "question": "Quel gaz est le plus abondant dans l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Azote",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1783309037414_3_v06ixv",
-      "addedAt": "2026-07-06T03:37:17.414Z"
     }
   ],
   "poolSize": 310
