@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel peintre impressionniste français a coupé une partie de son oreille ?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Paul Cézanne",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1784765974200_0_e2gnwq",
+      "addedAt": "2026-07-23T00:19:34.200Z"
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+      "options": [
+        "Allemagne",
+        "Belgique",
+        "France",
+        "Brésil"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1784765974200_1_o7uha2",
+      "addedAt": "2026-07-23T00:19:34.200Z"
+    },
+    {
+      "question": "Quel écrivain britannique a créé les aventures de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Oscar Wilde",
+        "Charles Dickens"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1784765974200_2_v4ujsj",
+      "addedAt": "2026-07-23T00:19:34.200Z"
+    },
+    {
+      "question": "En quelle année la chute du Mur de Berlin s'est-elle produite ?",
+      "options": [
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1784765974200_3_hufs2z",
+      "addedAt": "2026-07-23T00:19:34.200Z"
+    },
+    {
+      "question": "Quel fruit est riche en potassium et prévient les crampes musculaires ?",
+      "options": [
+        "La pomme",
+        "L'orange",
+        "La banane",
+        "La fraise"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1784765974200_4_lqelib",
+      "addedAt": "2026-07-23T00:19:34.200Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit 'Une Petite Musique de nuit' ?",
+      "options": [
+        "Joseph Haydn",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1784765974200_5_df8s48",
+      "addedAt": "2026-07-23T00:19:34.200Z"
+    },
+    {
+      "question": "Quel réalisateur britannique a créé la saga 'Harry Potter' ?",
+      "options": [
+        "Steven Spielberg",
+        "Chris Columbus",
+        "David Yates",
+        "Alfonso Cuarón"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1784765974200_6_lb7yj7",
+      "addedAt": "2026-07-23T00:19:34.200Z"
+    },
+    {
+      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
+      "options": [
+        "Java",
+        "Python",
+        "C++",
+        "Ruby"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1784765974200_7_djpj12",
+      "addedAt": "2026-07-23T00:19:34.200Z"
+    },
+    {
+      "question": "Quel animal est le plus rapide du monde animal terrestre ?",
+      "options": [
+        "Le lion",
+        "Le guépard",
+        "L'antilope",
+        "Le lièvre"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1784765974200_8_y7r3ow",
+      "addedAt": "2026-07-23T00:19:34.200Z"
+    },
+    {
+      "question": "Quel mathématicien suisse a résolu le problème des sept ponts de Königsberg ?",
+      "options": [
+        "Leonhard Euler",
+        "Carl Friedrich Gauss",
+        "Joseph-Louis Lagrange",
+        "Pierre-Simon Laplace"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1784765974200_9_1ev8h2",
+      "addedAt": "2026-07-23T00:19:34.200Z"
+    },
+    {
       "question": "En quel siècle Jeanne d'Arc a-t-elle mené ses campagnes militaires ?",
       "options": [
         "XIVe siècle",
@@ -3899,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1783567305547_2_xt509i",
       "addedAt": "2026-07-09T03:21:45.547Z"
-    },
+    }
+  ],
+  "version": 335,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-23T00:19:34.201Z",
+  "archivedQuestions": [
     {
       "question": "En quel siècle la Grande Muraille de Chine a-t-elle été principalement construite ?",
       "options": [
@@ -4028,128 +4163,6 @@
       "correctAnswer": 1,
       "category": "Littérature",
       "id": "q_1783557684961_2_c1g1ko",
-      "addedAt": "2026-07-09T00:41:24.961Z"
-    }
-  ],
-  "version": 334,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-22T02:41:51.961Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel était le premier film de la franchise 'Avengers' ?",
-      "options": [
-        "Avengers Infinity War",
-        "Avengers Endgame",
-        "The Avengers",
-        "Age of Ultron"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1783557684961_3_06c800",
-      "addedAt": "2026-07-09T00:41:24.961Z"
-    },
-    {
-      "question": "Quel pays produit le plus de cacao au monde ?",
-      "options": [
-        "Ghana",
-        "Brésil",
-        "Côte d'Ivoire",
-        "Cameroun"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1783557684961_4_f8dp87",
-      "addedAt": "2026-07-09T00:41:24.961Z"
-    },
-    {
-      "question": "Combien de pattes possède une araignée ?",
-      "options": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1783557684961_5_vzo4c8",
-      "addedAt": "2026-07-09T00:41:24.961Z"
-    },
-    {
-      "question": "Quel navigateur internet a été créé par Microsoft ?",
-      "options": [
-        "Firefox",
-        "Chrome",
-        "Edge",
-        "Safari"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1783557684961_6_6le6bx",
-      "addedAt": "2026-07-09T00:41:24.961Z"
-    },
-    {
-      "question": "Quel peintre impressionniste est connu pour sa série de 'Nymphéas' ?",
-      "options": [
-        "Renoir",
-        "Monet",
-        "Degas",
-        "Cézanne"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1783557684961_7_1culcw",
-      "addedAt": "2026-07-09T00:41:24.961Z"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on une raquette et une balle de 56,7 grammes ?",
-      "options": [
-        "Badminton",
-        "Tennis de table",
-        "Tennis",
-        "Squash"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1783557684961_8_h3uuw1",
-      "addedAt": "2026-07-09T00:41:24.961Z"
-    },
-    {
-      "question": "Quel est le plus grand lac du monde ?",
-      "options": [
-        "Lac Supérieur",
-        "Lac Baïkal",
-        "Lac Tanganyika",
-        "Mer Caspienne"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1783557684961_9_dcsp14",
-      "addedAt": "2026-07-09T00:41:24.961Z"
-    },
-    {
-      "question": "Combien de chromosomes possède un être humain ?",
-      "options": [
-        "23",
-        "46",
-        "92",
-        "44"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783557684961_10_nsywrn",
-      "addedAt": "2026-07-09T00:41:24.961Z"
-    },
-    {
-      "question": "En quelle année la Chine a-t-elle construit la Grande Muraille ?",
-      "options": [
-        "1ère siècle av. J-C",
-        "7ème siècle ap. J-C",
-        "13ème siècle ap. J-C",
-        "Plusieurs siècles"
-      ],
-      "correctAnswer": 3,
-      "category": "Histoire",
-      "id": "q_1783557684961_11_675fk2",
       "addedAt": "2026-07-09T00:41:24.961Z"
     }
   ],
