@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a formulé la théorie de la relativité ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Max Planck"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784774852650_0_ltthlm",
+      "addedAt": "2026-07-23T02:47:32.650Z"
+    },
+    {
+      "question": "Quel mouvement artistique était caractérisé par l'utilisation de formes géométriques et de couleurs primaires ?",
+      "options": [
+        "Le Cubisme",
+        "Le Dadaïsme",
+        "Le Constructivisme",
+        "L'Art Déco"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1784774852650_1_tjh44w",
+      "addedAt": "2026-07-23T02:47:32.650Z"
+    },
+    {
+      "question": "En quelle année l'impressionnisme s'est-il manifesté pour la première fois au Salon des refusés ?",
+      "options": [
+        "1863",
+        "1874",
+        "1882",
+        "1890"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1784774852650_2_8g0c2j",
+      "addedAt": "2026-07-23T02:47:32.650Z"
+    },
+    {
+      "question": "Quel élément chimique a pour symbole 'Au' ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "L'aluminium",
+        "Le cuivre"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784774852650_3_uwul4j",
+      "addedAt": "2026-07-23T02:47:32.650Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit 'Les Quatre Saisons' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Antonio Vivaldi",
+        "Joseph Haydn",
+        "Johann Sebastian Bach"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1784774852650_4_iy2phg",
+      "addedAt": "2026-07-23T02:47:32.650Z"
+    },
+    {
+      "question": "En quelle année la Révolution française a-t-elle commencé ?",
+      "options": [
+        "1776",
+        "1789",
+        "1799",
+        "1804"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1784774852650_5_39radz",
+      "addedAt": "2026-07-23T02:47:32.650Z"
+    },
+    {
+      "question": "Quel prédateur marin est connu pour sa peau lisse et sa capacité à chasser en groupe ?",
+      "options": [
+        "Le requin blanc",
+        "L'orque",
+        "Le piranha",
+        "L'anguille électrique"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1784774852650_6_rxcxfh",
+      "addedAt": "2026-07-23T02:47:32.650Z"
+    },
+    {
+      "question": "Quel mathématicien grec a établi le théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1784774852650_7_qq8jtf",
+      "addedAt": "2026-07-23T02:47:32.650Z"
+    },
+    {
+      "question": "Quel plat asiatique à base de nouilles et de sauce arachide est originaire de Thaïlande ?",
+      "options": [
+        "Le Pad Thai",
+        "Le Pho",
+        "Le Ramen",
+        "Le Laksa"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1784774852650_8_pq6z06",
+      "addedAt": "2026-07-23T02:47:32.650Z"
+    },
+    {
+      "question": "Quel réseau social a été fondé par Mark Zuckerberg en 2004 ?",
+      "options": [
+        "Twitter",
+        "Instagram",
+        "Facebook",
+        "LinkedIn"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1784774852650_9_57zete",
+      "addedAt": "2026-07-23T02:47:32.650Z"
+    },
+    {
       "question": "Quel peintre impressionniste français a coupé une partie de son oreille ?",
       "options": [
         "Claude Monet",
@@ -3899,7 +4029,12 @@
       "category": "Littérature",
       "id": "q_1783644888522_2_pr1uin",
       "addedAt": "2026-07-10T00:54:48.522Z"
-    },
+    }
+  ],
+  "version": 336,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-23T02:47:32.651Z",
+  "archivedQuestions": [
     {
       "question": "En quelle année la Première Guerre mondiale a-t-elle pris fin ?",
       "options": [
@@ -4029,141 +4164,6 @@
       "category": "Musique",
       "id": "q_1783567305547_2_xt509i",
       "addedAt": "2026-07-09T03:21:45.547Z"
-    }
-  ],
-  "version": 335,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-23T00:19:34.201Z",
-  "archivedQuestions": [
-    {
-      "question": "En quel siècle la Grande Muraille de Chine a-t-elle été principalement construite ?",
-      "options": [
-        "XVe siècle",
-        "XVIe siècle",
-        "XVIIe siècle",
-        "XVIIIe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1783567305547_3_64ovjp",
-      "addedAt": "2026-07-09T03:21:45.547Z"
-    },
-    {
-      "question": "Quel sport olympique utilise des escrimeurs armés d'une épée ?",
-      "options": [
-        "L'escrime",
-        "L'épée",
-        "Le pentathlon",
-        "La lutte"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1783567305547_4_8rvfp7",
-      "addedAt": "2026-07-09T03:21:45.547Z"
-    },
-    {
-      "question": "Quel célèbre architecte a conçu la Sagrada Familia à Barcelone ?",
-      "options": [
-        "Josep Lluís Sert",
-        "Antoni Gaudí",
-        "Ildefons Cerdà",
-        "Enric Miralles"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1783567305547_5_e8vc5y",
-      "addedAt": "2026-07-09T03:21:45.547Z"
-    },
-    {
-      "question": "En quelle année la première Coupe du Monde de football s'est-elle déroulée ?",
-      "options": [
-        "1930",
-        "1934",
-        "1938",
-        "1950"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1783567305547_6_0s3cjd",
-      "addedAt": "2026-07-09T03:21:45.547Z"
-    },
-    {
-      "question": "Quel gaz compose environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Azote",
-        "Dioxyde de carbone",
-        "Argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783567305547_7_g3tey6",
-      "addedAt": "2026-07-09T03:21:45.547Z"
-    },
-    {
-      "question": "Quel philosophe grec antique a fondé l'Académie d'Athènes ?",
-      "options": [
-        "Socrate",
-        "Aristote",
-        "Platon",
-        "Pythagore"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1783567305547_8_6sbnsg",
-      "addedAt": "2026-07-09T03:21:45.547Z"
-    },
-    {
-      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
-      "options": [
-        "Léon Tolstoï",
-        "Fiodor Dostoïevski",
-        "Alexandre Pouchkine",
-        "Ivan Tourgueniev"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1783567305546_0_ard8rf",
-      "addedAt": "2026-07-09T03:21:45.546Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle commencé ?",
-      "options": [
-        "1789",
-        "1799",
-        "1769",
-        "1809"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1783557684961_0_bscnox",
-      "addedAt": "2026-07-09T00:41:24.961Z"
-    },
-    {
-      "question": "Quel élément chimique a pour symbole 'Au' ?",
-      "options": [
-        "Argent",
-        "Or",
-        "Aluminium",
-        "Azote"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783557684961_1_zwqb95",
-      "addedAt": "2026-07-09T00:41:24.961Z"
-    },
-    {
-      "question": "Quel écrivain français a rédigé 'Les Misérables' ?",
-      "options": [
-        "Alexandre Dumas",
-        "Victor Hugo",
-        "Honoré de Balzac",
-        "Gustave Flaubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1783557684961_2_c1g1ko",
-      "addedAt": "2026-07-09T00:41:24.961Z"
     }
   ],
   "poolSize": 310
