@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel pays possède le plus grand nombre de lacs au monde ?",
+      "options": [
+        "Suède",
+        "Canada",
+        "Finlande",
+        "Norvège"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1784853119704_0_g98mjx",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
+      "question": "Quel élément chimique porte le symbole 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1784853119704_1_tp1kl6",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
+      "question": "Quel peintre espagnol a fondé le mouvement du Cubisme avec Pablo Picasso ?",
+      "options": [
+        "Salvador Dalí",
+        "Joan Miró",
+        "Georges Braque",
+        "Juan Gris"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1784853119704_2_l9x77p",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique standard ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1784853119704_3_blc5ng",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
+      "question": "Quel écrivain français du XIXe siècle a écrit 'Les Misérables' ?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1784853119704_4_4cez0b",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
+      "question": "Quel mathématicien grec ancien a énoncé le théorème des triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1784853119704_5_a0s6z5",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé la trilogie 'Retour vers le Futur' ?",
+      "options": [
+        "Steven Spielberg",
+        "Robert Zemeckis",
+        "James Cameron",
+        "George Lucas"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1784853119704_6_buo2a8",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
+      "question": "Quel type de protéine humaine transporte l'oxygène dans le sang ?",
+      "options": [
+        "Hémoglobine",
+        "Myoglobine",
+        "Albumine",
+        "Kerátine"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1784853119704_7_7qixr9",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
+      "question": "Quel sport d'équipe est joué avec un ballon ovale en Nouvelle-Zélande ?",
+      "options": [
+        "Australien Rules Football",
+        "Rugby à XV",
+        "Cricket",
+        "Netball"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1784853119704_8_kksntx",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
+      "options": [
+        "XIIIe siècle",
+        "XIVe-XVe siècles",
+        "XVIe-XVIIe siècles",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1784853119704_9_2mu6dd",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
+      "question": "Quel fruits tropical riche en vitamine C est originaire d'Amérique du Sud ?",
+      "options": [
+        "Mangue",
+        "Papaye",
+        "Ananas",
+        "Goyave"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1784853119704_10_clpvzf",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
+      "question": "Quel inventeur américain a créé l'ampoule électrique incandescente ?",
+      "options": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "George Westinghouse"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1784853119704_11_pa5slo",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
+      "question": "Quel animal mammifère pond des œufs et possède un bec similaire à celui d'un canard ?",
+      "options": [
+        "Échidné",
+        "Ornithorynque",
+        "Taupe dorée",
+        "Koala"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1784853119704_12_x7cpvx",
+      "addedAt": "2026-07-24T00:31:59.704Z"
+    },
+    {
       "question": "Quel scientifique a formulé la théorie de la relativité ?",
       "options": [
         "Isaac Newton",
@@ -3860,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1783653858626_4_v4ms1d",
       "addedAt": "2026-07-10T03:24:18.626Z"
-    },
+    }
+  ],
+  "version": 337,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-24T00:31:59.705Z",
+  "archivedQuestions": [
     {
       "question": "Quel réalisateur sud-coréen a remporté la Palme d'or 2019 à Cannes avec 'Parasite' ?",
       "options": [
@@ -4029,141 +4203,6 @@
       "category": "Littérature",
       "id": "q_1783644888522_2_pr1uin",
       "addedAt": "2026-07-10T00:54:48.522Z"
-    }
-  ],
-  "version": 336,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-23T02:47:32.651Z",
-  "archivedQuestions": [
-    {
-      "question": "En quelle année la Première Guerre mondiale a-t-elle pris fin ?",
-      "options": [
-        "1916",
-        "1917",
-        "1918",
-        "1920"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1783644888522_3_uo80ly",
-      "addedAt": "2026-07-10T00:54:48.522Z"
-    },
-    {
-      "question": "Quel mathématicien italien a introduit les chiffres arabes en Europe ?",
-      "options": [
-        "Leonardo Fibonacci",
-        "Girolamo Cardano",
-        "Francesco Vieta",
-        "Tartaglia"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1783644888522_4_0okizw",
-      "addedAt": "2026-07-10T00:54:48.522Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le film 'La La Land' ?",
-      "options": [
-        "Denis Villeneuve",
-        "Damien Chazelle",
-        "Michel Gondry",
-        "Luc Besson"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1783644888522_5_fxup5j",
-      "addedAt": "2026-07-10T00:54:48.522Z"
-    },
-    {
-      "question": "Quel est le métal le plus conducteur d'électricité ?",
-      "options": [
-        "Cuivre",
-        "Argent",
-        "Or",
-        "Aluminium"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783644888522_6_vjn5x3",
-      "addedAt": "2026-07-10T00:54:48.522Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle atteint son apogée ?",
-      "options": [
-        "XIVe siècle",
-        "XVe siècle",
-        "XVIe siècle",
-        "XVIIe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1783644888522_7_oncm43",
-      "addedAt": "2026-07-10T00:54:48.522Z"
-    },
-    {
-      "question": "Quel fruit tropical est connu pour sa teneur élevée en vitamine C et provient d'Amérique du Sud ?",
-      "options": [
-        "Papaye",
-        "Mangue",
-        "Kiwi",
-        "Fruits de la passion"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1783644888522_8_ofnazd",
-      "addedAt": "2026-07-10T00:54:48.522Z"
-    },
-    {
-      "question": "Quel système d'exploitation a été créé par Linus Torvalds ?",
-      "options": [
-        "Windows",
-        "Linux",
-        "macOS",
-        "Android"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1783644888522_9_7fgbzj",
-      "addedAt": "2026-07-10T00:54:48.522Z"
-    },
-    {
-      "question": "Quel oiseau peut voler vers l'arrière et est le seul oiseau capable de cette prouesse ?",
-      "options": [
-        "Colibri",
-        "Hirondelle",
-        "Martinet noir",
-        "Grive musicienne"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1783644888522_10_8fjw1d",
-      "addedAt": "2026-07-10T00:54:48.522Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet du monde après l'Everest ?",
-      "options": [
-        "K2",
-        "Kangchenjunga",
-        "Lhotse",
-        "Makalu"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1783567305547_1_2pl9ls",
-      "addedAt": "2026-07-09T03:21:45.547Z"
-    },
-    {
-      "question": "Combien de symphonies Beethoven a-t-il composées ?",
-      "options": [
-        "8",
-        "9",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1783567305547_2_xt509i",
-      "addedAt": "2026-07-09T03:21:45.547Z"
     }
   ],
   "poolSize": 310
