@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a formulé la théorie de la relativité restreinte ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Max Planck"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784860967618_0_a3v93g",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
+      "question": "Quel fleuve est le plus long d'Asie ?",
+      "options": [
+        "Le Gange",
+        "Le Yangtsé",
+        "L'Amour",
+        "L'Indus"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1784860967618_1_8i7rbl",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
+      "question": "Qui a peint la chapelle Sixtine au Vatican ?",
+      "options": [
+        "Léonard de Vinci",
+        "Raphaël",
+        "Michel-Ange",
+        "Botticelli"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1784860967618_2_x5201a",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
+      "question": "Quel auteur français a écrit la série 'Les Trois Mousquetaires' ?",
+      "options": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1784860967618_3_chia64",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
+      "question": "Quel gaz est le principal composant de l'atmosphère terrestre ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1784860967618_4_c4503g",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
+      "question": "En quel année la photographie a-t-elle été inventée par Nicéphore Niépce ?",
+      "options": [
+        "1822",
+        "1826",
+        "1839",
+        "1844"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1784860967618_5_ehujvt",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
+      "question": "Quel compositeur a écrit l'hymne européen basé sur l'Ode à la Joie ?",
+      "options": [
+        "Wolfgang Mozart",
+        "Ludwig van Beethoven",
+        "Johann Strauss",
+        "Georges Bizet"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1784860967618_6_zf0v3i",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
+      "question": "Quel réalisateur a tourné le film 'Metropolis', un chef-d'œuvre du cinéma muet ?",
+      "options": [
+        "Friedrich Wilhelm Murnau",
+        "Fritz Lang",
+        "Carl Theodor Dreyer",
+        "Georg Wilhelm Pabst"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1784860967618_7_ueie4q",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
+      "question": "Combien de pattes possède une araignée adulte ?",
+      "options": [
+        "6 pattes",
+        "8 pattes",
+        "10 pattes",
+        "12 pattes"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1784860967618_8_nv5zdi",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
+      "question": "Quel mathématicien grec a démontré le théorème portant son nom sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1784860967618_9_vmmcgu",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
+      "question": "Quel plat traditionnel italien est à base de riz, de safran et de bouillon ?",
+      "options": [
+        "La carbonara",
+        "Le risotto",
+        "La polenta",
+        "La lasagne"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1784860967618_10_gk8nse",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
+      "question": "En quel année le premier Jeu Olympique moderne a-t-il été organisé ?",
+      "options": [
+        "1896",
+        "1900",
+        "1904",
+        "1912"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1784860967618_11_889jlg",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
+      "question": "Quel continent est le plus peuplé de la Terre ?",
+      "options": [
+        "L'Afrique",
+        "L'Europe",
+        "L'Asie",
+        "L'Amérique du Nord"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1784860967618_12_47f4ss",
+      "addedAt": "2026-07-24T02:42:47.618Z"
+    },
+    {
       "question": "Quel pays possède le plus grand nombre de lacs au monde ?",
       "options": [
         "Suède",
@@ -3860,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1783731095944_4_kspxyz",
       "addedAt": "2026-07-11T00:51:35.944Z"
-    },
+    }
+  ],
+  "version": 338,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-24T02:42:47.619Z",
+  "archivedQuestions": [
     {
       "question": "Quel écrivain irlandais a écrit 'Ulysse' ?",
       "options": [
@@ -4029,180 +4203,6 @@
       "category": "Nature",
       "id": "q_1783653858626_4_v4ms1d",
       "addedAt": "2026-07-10T03:24:18.626Z"
-    }
-  ],
-  "version": 337,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-24T00:31:59.705Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel réalisateur sud-coréen a remporté la Palme d'or 2019 à Cannes avec 'Parasite' ?",
-      "options": [
-        "Lee Chang-dong",
-        "Bong Joon-ho",
-        "Park Chan-wook",
-        "Hong Sang-soo"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1783653858626_5_8nbsip",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel architecte catalan a conçu la Sagrada Familia de Barcelone ?",
-      "options": [
-        "Josep Puig i Cadafalch",
-        "Antoni Gaudí",
-        "Lluis Domènech",
-        "Joan Martorell"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1783653858626_6_r8348v",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel fromage français originaire de Normandie est recouvert d'une croûte blanche ?",
-      "options": [
-        "Comté",
-        "Camembert",
-        "Roquefort",
-        "Reblochon"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1783653858626_7_6ofpf1",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel mathématicien italien a introduit le système numérique arabe en Europe au XIIIe siècle ?",
-      "options": [
-        "Léonard de Fibonacci",
-        "Girolamo Cardano",
-        "Niccolò Tartaglia",
-        "Paolo dal Pozzo Toscanelli"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1783653858626_8_lt8tpg",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit l'opéra 'Lohengrin' ?",
-      "options": [
-        "Richard Wagner",
-        "Georges Bizet",
-        "Giuseppe Verdi",
-        "Gioachino Rossini"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1783653858626_9_jnpycf",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel protocole de transmission de données a été développé par Tim Berners-Lee ?",
-      "options": [
-        "FTP",
-        "HTTP",
-        "SMTP",
-        "DNS"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1783653858626_10_0uig0o",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel animal est la créature emblématique du continent australien et porte ses petits dans une poche ?",
-      "options": [
-        "Kangourou",
-        "Koala",
-        "Wombat",
-        "Échidné"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1783653858626_11_nc24yx",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel tenniseur suisse a remporté 20 titres du Grand Chelem ?",
-      "options": [
-        "Stan Wawrinka",
-        "Roger Federer",
-        "Michael Federer",
-        "Dominic Thiem"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1783653858626_12_5bhyto",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel roi français du XVIIe siècle a fait construire le château de Versailles ?",
-      "options": [
-        "Louis XIII",
-        "Louis XIV",
-        "Louis XV",
-        "Louis XVI"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1783653858626_13_rygjmj",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel gaz rare est utilisé dans les lampes publicitaires pour produire une lueur rouge ?",
-      "options": [
-        "Hélium",
-        "Argon",
-        "Néon",
-        "Xénon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1783653858626_14_be46tg",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel chimiste français a découvert le radium en 1898 ?",
-      "options": [
-        "Marie Curie",
-        "Antoine Lavoisier",
-        "Louis Pasteur",
-        "Pierre Béchamp"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1783644888522_0_fj2l1u",
-      "addedAt": "2026-07-10T00:54:48.522Z"
-    },
-    {
-      "question": "Combien de symphonies a composées Ludwig van Beethoven ?",
-      "options": [
-        "8",
-        "9",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1783644888522_1_rfnevp",
-      "addedAt": "2026-07-10T00:54:48.522Z"
-    },
-    {
-      "question": "Quel romancier russe a écrit 'Crime et Châtiment' ?",
-      "options": [
-        "Léon Tolstoï",
-        "Fiodor Dostoïevski",
-        "Ivan Tourgueniev",
-        "Nikolaï Gogol"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1783644888522_2_pr1uin",
-      "addedAt": "2026-07-10T00:54:48.522Z"
     }
   ],
   "poolSize": 310
