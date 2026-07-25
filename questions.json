@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur autrichien a écrit la célèbre 'Marche turque' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Franz Schubert",
+        "Joseph Haydn"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1784947306254_0_rwxqwb",
+      "addedAt": "2026-07-25T02:41:46.254Z"
+    },
+    {
+      "question": "Combien de côtés possède un hexagone régulier ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1784947306254_1_faa2ek",
+      "addedAt": "2026-07-25T02:41:46.254Z"
+    },
+    {
+      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1784947306254_2_i6lbgx",
+      "addedAt": "2026-07-25T02:41:46.254Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit le roman 'Le Comte de Monte-Cristo' ?",
+      "options": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1784947306254_3_jhp162",
+      "addedAt": "2026-07-25T02:41:46.254Z"
+    },
+    {
+      "question": "En quel matériau sont généralement faites les cordes de piano ?",
+      "options": [
+        "Nylon",
+        "Acier recouvert de cuivre",
+        "Boyau de chat",
+        "Coton tressé"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1784947306254_4_yoyrna",
+      "addedAt": "2026-07-25T02:41:46.254Z"
+    },
+    {
+      "question": "Quelle enzyme du corps humain aide à digérer les protéines dans l'estomac ?",
+      "options": [
+        "L'amylase",
+        "La pepsine",
+        "La lipase",
+        "La lactase"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784947306254_5_cmyhnk",
+      "addedAt": "2026-07-25T02:41:46.254Z"
+    },
+    {
+      "question": "Quel peintre hollandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Vincent van Gogh",
+        "Hieronymus Bosch"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1784947306254_6_fpf5uc",
+      "addedAt": "2026-07-25T02:41:46.254Z"
+    },
+    {
+      "question": "Combien de tentacules possède une pieuvre moyenne ?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1784947306254_7_fhvu57",
+      "addedAt": "2026-07-25T02:41:46.254Z"
+    },
+    {
+      "question": "Quel type de cuisine thaïlandaise est basée sur l'équilibre sucré, salé, acide et épicé ?",
+      "options": [
+        "Cuisine pad thai",
+        "Cuisine Som tam",
+        "Cuisine traditionnelle thaïe",
+        "Cuisine fusion asiatique"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1784947306254_8_vg26je",
+      "addedAt": "2026-07-25T02:41:46.254Z"
+    },
+    {
       "question": "En quel année la Bastille a-t-elle été stormed pendant la Révolution française ?",
       "options": [
         "1787",
@@ -3912,7 +4029,12 @@
       "category": "Sport",
       "id": "q_1783816718560_10_7f6xh5",
       "addedAt": "2026-07-12T00:38:38.560Z"
-    },
+    }
+  ],
+  "version": 340,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-25T02:41:46.255Z",
+  "archivedQuestions": [
     {
       "question": "Quel métal précieux possède le symbole chimique 'Au' ?",
       "options": [
@@ -4029,141 +4151,6 @@
       "category": "Nature",
       "id": "q_1783737712396_7_b2hd81",
       "addedAt": "2026-07-11T02:41:52.396Z"
-    }
-  ],
-  "version": 339,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-25T00:05:30.242Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mathématicien italien a introduit la suite de nombres qui porte son nom ?",
-      "options": [
-        "Fibonacci",
-        "Euler",
-        "Bernoulli",
-        "Pascal"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1783737712396_8_kidx5b",
-      "addedAt": "2026-07-11T02:41:52.396Z"
-    },
-    {
-      "question": "Quel musicien américain a inventé le style musical appelé 'bebop' ?",
-      "options": [
-        "Duke Ellington",
-        "Charlie Parker",
-        "Miles Davis",
-        "John Coltrane"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1783737712396_9_9cysvk",
-      "addedAt": "2026-07-11T02:41:52.396Z"
-    },
-    {
-      "question": "En informatique, quel sigle désigne le protocole de transfert de fichiers sécurisé ?",
-      "options": [
-        "HTTP",
-        "SFTP",
-        "TCP",
-        "FTP"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1783737712396_10_1er2jz",
-      "addedAt": "2026-07-11T02:41:52.396Z"
-    },
-    {
-      "question": "Quel peintre néerlandais a coupé une partie de son propre oreille ?",
-      "options": [
-        "Rembrandt",
-        "Vermeer",
-        "Van Gogh",
-        "Hals"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1783737712396_11_h6jyzy",
-      "addedAt": "2026-07-11T02:41:52.396Z"
-    },
-    {
-      "question": "Quel sport olympique combine le tir à la carabine et la course de fond ?",
-      "options": [
-        "Le pentathlon moderne",
-        "Le biathlon",
-        "Le triathlon",
-        "Le décathlon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1783737712396_12_k6sjkn",
-      "addedAt": "2026-07-11T02:41:52.396Z"
-    },
-    {
-      "question": "Quel neurologue autrichien a développé la théorie de l'inconscient ?",
-      "options": [
-        "Carl Jung",
-        "Sigmund Freud",
-        "Wilhelm Wundt",
-        "Ivan Pavlov"
-      ],
-      "correctAnswer": 1,
-      "category": "Psychologie",
-      "id": "q_1783731095944_0_ouhkkw",
-      "addedAt": "2026-07-11T00:51:35.944Z"
-    },
-    {
-      "question": "Quel minéral est la forme cristalline du carbone la plus dure ?",
-      "options": [
-        "Rubis",
-        "Diamant",
-        "Saphir",
-        "Émeraude"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783731095944_1_0nbe6y",
-      "addedAt": "2026-07-11T00:51:35.944Z"
-    },
-    {
-      "question": "En quel année l'Empire romain s'est-il officiellement divisé en deux ?",
-      "options": [
-        "285",
-        "395",
-        "410",
-        "476"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1783731095944_2_bu2idf",
-      "addedAt": "2026-07-11T00:51:35.944Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit les Quatre Saisons ?",
-      "options": [
-        "Johann Sebastian Bach",
-        "George Friedrich Haendel",
-        "Antonio Vivaldi",
-        "Wolfgang Amadeus Mozart"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1783731095944_3_hqxjkx",
-      "addedAt": "2026-07-11T00:51:35.944Z"
-    },
-    {
-      "question": "Quelle ville est la capitale administrative de la Suisse ?",
-      "options": [
-        "Zurich",
-        "Genève",
-        "Berne",
-        "Lausanne"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1783731095944_4_kspxyz",
-      "addedAt": "2026-07-11T00:51:35.944Z"
     }
   ],
   "poolSize": 310
