@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "En quel année la Bastille a-t-elle été stormed pendant la Révolution française ?",
+      "options": [
+        "1787",
+        "1789",
+        "1791",
+        "1793"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1784937930241_0_tpcmyt",
+      "addedAt": "2026-07-25T00:05:30.241Z"
+    },
+    {
+      "question": "Quel gaz représente approximativement 78% de l'atmosphère terrestre ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1784937930241_1_gzfscu",
+      "addedAt": "2026-07-25T00:05:30.241Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la trilogie 'La Seigneur des Anneaux' au cinéma ?",
+      "options": [
+        "Steven Spielberg",
+        "Peter Jackson",
+        "Christopher Nolan",
+        "Denis Villeneuve"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1784937930241_2_bw4k7d",
+      "addedAt": "2026-07-25T00:05:30.241Z"
+    },
+    {
+      "question": "Combien de livres compte la série 'Harry Potter' ?",
+      "options": [
+        "5 livres",
+        "6 livres",
+        "7 livres",
+        "8 livres"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1784937930241_3_pu0qyj",
+      "addedAt": "2026-07-25T00:05:30.241Z"
+    },
+    {
+      "question": "Quel mathématicien grec a développé le théorème du triangle rectangle ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1784937930241_4_l3r51m",
+      "addedAt": "2026-07-25T00:05:30.241Z"
+    },
+    {
+      "question": "En quel année le Titanic a-t-il coulé ?",
+      "options": [
+        "1910",
+        "1912",
+        "1914",
+        "1916"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1784937930241_5_2z8czh",
+      "addedAt": "2026-07-25T00:05:30.241Z"
+    },
+    {
+      "question": "Quel est le élément chimique représenté par le symbole 'Fe' ?",
+      "options": [
+        "Le Fluor",
+        "Le Fer",
+        "Le Fermium",
+        "Le Francium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784937930241_6_dbfkz1",
+      "addedAt": "2026-07-25T00:05:30.241Z"
+    },
+    {
+      "question": "Combien de cotes possède le corps humain ?",
+      "options": [
+        "20 côtes",
+        "24 côtes",
+        "28 côtes",
+        "32 côtes"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1784937930241_7_9rujbf",
+      "addedAt": "2026-07-25T00:05:30.241Z"
+    },
+    {
+      "question": "Quel sport d'hiver consiste à descendre une pente avec des planches aux pieds ?",
+      "options": [
+        "Le curling",
+        "Le snowboard",
+        "Le biathlon",
+        "Le patinage de vitesse"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1784937930241_8_0c8f3o",
+      "addedAt": "2026-07-25T00:05:30.241Z"
+    },
+    {
+      "question": "Quel type de cuisine est caractérisé par l'utilisation de piment et de curcuma ?",
+      "options": [
+        "La cuisine thaïlandaise",
+        "La cuisine indienne",
+        "La cuisine vietnamienne",
+        "La cuisine indonésienne"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1784937930241_9_iucu4h",
+      "addedAt": "2026-07-25T00:05:30.241Z"
+    },
+    {
       "question": "Quel scientifique a formulé la théorie de la relativité restreinte ?",
       "options": [
         "Isaac Newton",
@@ -3899,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1783737712396_7_b2hd81",
       "addedAt": "2026-07-11T02:41:52.396Z"
-    },
+    }
+  ],
+  "version": 339,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-25T00:05:30.242Z",
+  "archivedQuestions": [
     {
       "question": "Quel mathématicien italien a introduit la suite de nombres qui porte son nom ?",
       "options": [
@@ -4029,180 +4164,6 @@
       "category": "Géographie",
       "id": "q_1783731095944_4_kspxyz",
       "addedAt": "2026-07-11T00:51:35.944Z"
-    }
-  ],
-  "version": 338,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-24T02:42:47.619Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel écrivain irlandais a écrit 'Ulysse' ?",
-      "options": [
-        "Oscar Wilde",
-        "James Joyce",
-        "Samuel Beckett",
-        "William Butler Yeats"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1783731095944_5_g1ivwq",
-      "addedAt": "2026-07-11T00:51:35.944Z"
-    },
-    {
-      "question": "Combien de ventricules possède le cœur humain ?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctAnswer": 2,
-      "category": "Biologie",
-      "id": "q_1783731095944_6_hws40n",
-      "addedAt": "2026-07-11T00:51:35.944Z"
-    },
-    {
-      "question": "Quel physicien allemand a découvert les rayons X ?",
-      "options": [
-        "Max Planck",
-        "Wilhelm Röntgen",
-        "Werner Heisenberg",
-        "Max Born"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783731095944_7_poq7g4",
-      "addedAt": "2026-07-11T00:51:35.944Z"
-    },
-    {
-      "question": "Quel sport olympique utilise un palet et des balais sur la glace ?",
-      "options": [
-        "Patinage de vitesse",
-        "Curling",
-        "Hockey sur glace",
-        "Skeleton"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1783731095944_8_u3y62b",
-      "addedAt": "2026-07-11T00:51:35.944Z"
-    },
-    {
-      "question": "Quel volcan est situé en Italie et est actuellement actif ?",
-      "options": [
-        "Stromboli",
-        "Etna",
-        "Vésuve",
-        "Tous les trois"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1783731095944_9_8vot68",
-      "addedAt": "2026-07-11T00:51:35.944Z"
-    },
-    {
-      "question": "Quel savant français a énoncé le principe de l'archimède ?",
-      "options": [
-        "Archimède",
-        "Thalès",
-        "Pythagore",
-        "Euclide"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1783731095944_10_0xwtyg",
-      "addedAt": "2026-07-11T00:51:35.944Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le mouvement du cinéma 'Dogme 95' ?",
-      "options": [
-        "François Truffaut",
-        "Jean-Luc Godard",
-        "Lars von Trier",
-        "Agnès Varda"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1783731095944_11_0l5hyu",
-      "addedAt": "2026-07-11T00:51:35.944Z"
-    },
-    {
-      "question": "Quel type de cuisine est caractérisé par l'utilisation de wok et de soja ?",
-      "options": [
-        "Cuisine thaïlandaise",
-        "Cuisine méditerranéenne",
-        "Cuisine asiatique",
-        "Cuisine indienne"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1783731095944_12_9m36cb",
-      "addedAt": "2026-07-11T00:51:35.944Z"
-    },
-    {
-      "question": "Quel alchimiste du XVIIe siècle a découvert le phosphore en chauffant l'urine ?",
-      "options": [
-        "Hennig Brand",
-        "Robert Boyle",
-        "Johann Becher",
-        "Georg Stahl"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1783653858626_0_gvmqwx",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel océan est le plus ancien et contient la fosse des Mariannes ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Indien",
-        "Océan Pacifique",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1783653858626_1_femqb8",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel romancier français du XXe siècle a écrit 'L'Étranger' ?",
-      "options": [
-        "Jean-Paul Sartre",
-        "Albert Camus",
-        "Michel Butor",
-        "Alain Robbe-Grillet"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1783653858626_2_wse60f",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "En quelle année la muraille de Berlin a-t-elle été détruite ?",
-      "options": [
-        "1987",
-        "1989",
-        "1991",
-        "1993"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1783653858626_3_ucl1xd",
-      "addedAt": "2026-07-10T03:24:18.626Z"
-    },
-    {
-      "question": "Quel minéral, dont le nom signifie 'pierre de feu', était utilisé pour créer du feu ?",
-      "options": [
-        "Feldspath",
-        "Pyrite",
-        "Quartz",
-        "Tourmaline"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1783653858626_4_v4ms1d",
-      "addedAt": "2026-07-10T03:24:18.626Z"
     }
   ],
   "poolSize": 310
