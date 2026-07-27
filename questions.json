@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut sommet montagneux du monde ?",
+      "options": [
+        "K2",
+        "Mont Everest",
+        "Kangchenjunga",
+        "Lhotse"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1785110852675_0_9bb9hw",
+      "addedAt": "2026-07-27T00:07:32.675Z"
+    },
+    {
+      "question": "Quel sport olympique consiste à tirer des flèches sur une cible circulaire ?",
+      "options": [
+        "Biathlon",
+        "Tir à l'arc",
+        "Pentathlon moderne",
+        "Escrime"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1785110852675_1_yu7mbl",
+      "addedAt": "2026-07-27T00:07:32.675Z"
+    },
+    {
+      "question": "Quel artiste néerlandais a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Pablo Picasso",
+        "Henri Matisse",
+        "Vincent van Gogh",
+        "Paul Cézanne"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1785110852675_2_n2xc02",
+      "addedAt": "2026-07-27T00:07:32.675Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit la '9ème Symphonie' incluant l'Hymne à la Joie ?",
+      "options": [
+        "Johann Strauss",
+        "Ludwig van Beethoven",
+        "Wolfgang Mozart",
+        "Franz Schubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1785110852675_3_1u3ywq",
+      "addedAt": "2026-07-27T00:07:32.675Z"
+    },
+    {
+      "question": "En quelle année la Grande Muraille de Chine a-t-elle été commencée ?",
+      "options": [
+        "Entre 200 et 100 av. J.-C.",
+        "Entre 1200 et 1300 apr. J.-C.",
+        "Entre 600 et 700 apr. J.-C.",
+        "Entre 1400 et 1500 apr. J.-C."
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1785110852675_4_5vpdr7",
+      "addedAt": "2026-07-27T00:07:32.675Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé la trilogie 'Le Seigneur des Anneaux' ?",
+      "options": [
+        "Steven Spielberg",
+        "Peter Jackson",
+        "James Cameron",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1785110852675_5_gfshat",
+      "addedAt": "2026-07-27T00:07:32.675Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en vitamine C et provient principalement de l'Asie du Sud-Est ?",
+      "options": [
+        "Papaye",
+        "Mangue",
+        "Ananas",
+        "Noix de coco"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1785110852675_6_0lg2m9",
+      "addedAt": "2026-07-27T00:07:32.675Z"
+    },
+    {
+      "question": "Quel célèbre musée d'art se situe à Florence, en Italie ?",
+      "options": [
+        "Le Vatican",
+        "La Galerie des Offices",
+        "Le Palais Pitti",
+        "La Galerie Borghèse"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1785110852675_7_t02uwq",
+      "addedAt": "2026-07-27T00:07:32.675Z"
+    },
+    {
+      "question": "Quel langage de programmation est principalement utilisé pour développer les applications web côté serveur avec Node.js ?",
+      "options": [
+        "Java",
+        "JavaScript",
+        "C++",
+        "PHP"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1785110852675_8_0avhuo",
+      "addedAt": "2026-07-27T00:07:32.675Z"
+    },
+    {
       "question": "Quel musée français abrite la Joconde ?",
       "options": [
         "Musée d'Orsay",
@@ -3912,7 +4029,12 @@
       "category": "Mathématiques",
       "id": "q_1783901096305_5_bi0mw1",
       "addedAt": "2026-07-13T00:04:56.305Z"
-    },
+    }
+  ],
+  "version": 343,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-27T00:07:32.676Z",
+  "archivedQuestions": [
     {
       "question": "Quel compositeur italien a écrit l'opéra 'La Traviata' ?",
       "options": [
@@ -4029,141 +4151,6 @@
       "category": "Musique",
       "id": "q_1783824588374_3_kb45iz",
       "addedAt": "2026-07-12T02:49:48.374Z"
-    }
-  ],
-  "version": 342,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-26T02:50:15.573Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel phénomène naturel provoque les aurores boréales ?",
-      "options": [
-        "Réflexion de la lumière solaire",
-        "Interaction du vent solaire avec l'atmosphère",
-        "Éruptions volcaniques",
-        "Réfraction des nuages"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1783824588374_4_62all6",
-      "addedAt": "2026-07-12T02:49:48.374Z"
-    },
-    {
-      "question": "Quel athlète jamaïcain détient le record du monde du 100 mètres ?",
-      "options": [
-        "Yohan Blake",
-        "Usain Bolt",
-        "Asafa Powell",
-        "Donovan Bailey"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1783824588374_5_ock9bb",
-      "addedAt": "2026-07-12T02:49:48.374Z"
-    },
-    {
-      "question": "En mathématiques, quel est le nombre d'or environ égal à 1,618 ?",
-      "options": [
-        "Pi",
-        "Phi (φ)",
-        "Lambda",
-        "Tau"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1783824588374_6_ipvd7w",
-      "addedAt": "2026-07-12T02:49:48.374Z"
-    },
-    {
-      "question": "Quel cinéaste français a réalisé 'Amélie Poulain' en 2001 ?",
-      "options": [
-        "Jacques Tati",
-        "Jean-Pierre Jeunet",
-        "Claude Chabrol",
-        "François Truffaut"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1783824588374_7_i82uxx",
-      "addedAt": "2026-07-12T02:49:48.374Z"
-    },
-    {
-      "question": "Quel fromage français est traditionnellement fabriqué en Normandie et porte un nom de région ?",
-      "options": [
-        "Camembert",
-        "Roquefort",
-        "Comté",
-        "Brie"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1783824588374_8_5ggbdy",
-      "addedAt": "2026-07-12T02:49:48.374Z"
-    },
-    {
-      "question": "Quel langage de programmation est développé par Guido van Rossum en 1989 ?",
-      "options": [
-        "JavaScript",
-        "Python",
-        "Ruby",
-        "Go"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1783824588374_9_vlbtpz",
-      "addedAt": "2026-07-12T02:49:48.374Z"
-    },
-    {
-      "question": "Quel poète français du 19e siècle a écrit 'Les Fleurs du Mal' ?",
-      "options": [
-        "Victor Hugo",
-        "Arthur Rimbaud",
-        "Charles Baudelaire",
-        "Stéphane Mallarmé"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1783824588374_10_ie7408",
-      "addedAt": "2026-07-12T02:49:48.374Z"
-    },
-    {
-      "question": "Quel est le processus biologique par lequel les plantes transforment la lumière en énergie chimique ?",
-      "options": [
-        "Respiration cellulaire",
-        "Photosynthèse",
-        "Fermentation",
-        "Osmose"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783824588374_11_rgmgtq",
-      "addedAt": "2026-07-12T02:49:48.374Z"
-    },
-    {
-      "question": "Quel scientifique a énoncé la théorie de la relativité générale ?",
-      "options": [
-        "Marie Curie",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Stephen Hawking"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783816718560_0_pp74te",
-      "addedAt": "2026-07-12T00:38:38.560Z"
-    },
-    {
-      "question": "En quel siècle a commencé la Renaissance italienne ?",
-      "options": [
-        "XIIe siècle",
-        "XIVe siècle",
-        "XVIe siècle",
-        "XVIIe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1783816718560_1_d3l47u",
-      "addedAt": "2026-07-12T00:38:38.560Z"
     }
   ],
   "poolSize": 310
