@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel gaz constitue approximativement 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Dioxyde de carbone",
+        "Argon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785121083797_1_jdg3kf",
+      "addedAt": "2026-07-27T02:58:03.797Z"
+    },
+    {
+      "question": "Quel écrivain russe a écrit le roman 'Crime et Châtiment' ?",
+      "options": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Anton Tchekhov",
+        "Ivan Tourguéniev"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1785121083797_2_8296xb",
+      "addedAt": "2026-07-27T02:58:03.797Z"
+    },
+    {
+      "question": "Quel est le seul mammifère capable de voler ?",
+      "options": [
+        "Écureuil volant",
+        "Chauve-souris",
+        "Polatouche",
+        "Lémur volant"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1785121083797_3_ec7zcc",
+      "addedAt": "2026-07-27T02:58:03.797Z"
+    },
+    {
+      "question": "Combien de touches possède un piano standard ?",
+      "options": [
+        "76",
+        "88",
+        "100",
+        "92"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1785121083797_4_3fbyby",
+      "addedAt": "2026-07-27T02:58:03.797Z"
+    },
+    {
+      "question": "Quel scientifique a énoncé les trois lois du mouvement ?",
+      "options": [
+        "Galilée",
+        "Kepler",
+        "Newton",
+        "Descartes"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1785121083797_5_2ki3wg",
+      "addedAt": "2026-07-27T02:58:03.797Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle commencé ?",
+      "options": [
+        "13ème siècle",
+        "14ème siècle",
+        "15ème siècle",
+        "16ème siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785121083797_6_xevg1z",
+      "addedAt": "2026-07-27T02:58:03.797Z"
+    },
+    {
+      "question": "Quel sport aquatique se dispute avec un ballon rond et deux équipes de 7 joueurs ?",
+      "options": [
+        "Water-polo",
+        "Natation synchronisée",
+        "Plongeon",
+        "Aviron"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1785121083797_7_cdv5v5",
+      "addedAt": "2026-07-27T02:58:03.797Z"
+    },
+    {
+      "question": "Quel établissement d'enseignement supérieur français a été fondé en 1794 ?",
+      "options": [
+        "Sorbonne",
+        "Polytechnique",
+        "ENA",
+        "HEC Paris"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1785121083797_8_lgjvhv",
+      "addedAt": "2026-07-27T02:58:03.797Z"
+    },
+    {
+      "question": "Quel désert est le plus grand du monde en superficie ?",
+      "options": [
+        "Sahara",
+        "Arabique",
+        "Gobi",
+        "Antarctique"
+      ],
+      "correctAnswer": 3,
+      "category": "Géographie",
+      "id": "q_1785121083797_9_5qt0vj",
+      "addedAt": "2026-07-27T02:58:03.797Z"
+    },
+    {
+      "question": "Quel est le seul métal liquide à température ambiante ?",
+      "options": [
+        "Gallium",
+        "Mercure",
+        "Césium",
+        "Francium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785121083797_10_04rcam",
+      "addedAt": "2026-07-27T02:58:03.797Z"
+    },
+    {
+      "question": "Quel plat français traditionnel est une soupe à base de poisson de Méditerranée ?",
+      "options": [
+        "Bouillabaisse",
+        "Pot-au-feu",
+        "Cassoulet",
+        "Blanquette"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1785121083797_11_7u87d5",
+      "addedAt": "2026-07-27T02:58:03.797Z"
+    },
+    {
+      "question": "Quel réalisateur américain a créé le film 'Parasite' ?",
+      "options": [
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Bong Joon-ho",
+        "Martin Scorsese"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1785121083797_12_5g20le",
+      "addedAt": "2026-07-27T02:58:03.797Z"
+    },
+    {
+      "question": "En quelle année la Déclaration des Droits de l'Homme a-t-elle été adoptée en France ?",
+      "options": [
+        "1789",
+        "1791",
+        "1793",
+        "1795"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1785121083796_0_xx86x0",
+      "addedAt": "2026-07-27T02:58:03.796Z"
+    },
+    {
       "question": "Quel est le plus haut sommet montagneux du monde ?",
       "options": [
         "K2",
@@ -3860,7 +4029,12 @@
       "category": "Art",
       "id": "q_1783911088354_2_ljpezi",
       "addedAt": "2026-07-13T02:51:28.354Z"
-    },
+    }
+  ],
+  "version": 344,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-27T02:58:03.797Z",
+  "archivedQuestions": [
     {
       "question": "Combien de symphonies a composées Wolfgang Amadeus Mozart ?",
       "options": [
@@ -4029,128 +4203,6 @@
       "category": "Mathématiques",
       "id": "q_1783901096305_5_bi0mw1",
       "addedAt": "2026-07-13T00:04:56.305Z"
-    }
-  ],
-  "version": 343,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-27T00:07:32.676Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel compositeur italien a écrit l'opéra 'La Traviata' ?",
-      "options": [
-        "Gioachino Rossini",
-        "Georges Bizet",
-        "Giuseppe Verdi",
-        "Gaetano Donizetti"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1783901096305_6_khgker",
-      "addedAt": "2026-07-13T00:04:56.305Z"
-    },
-    {
-      "question": "Quel est le plus grand organe du corps humain ?",
-      "options": [
-        "Le cœur",
-        "Le foie",
-        "Les poumons",
-        "Le cerveau"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783901096305_7_qlx0ig",
-      "addedAt": "2026-07-13T00:04:56.305Z"
-    },
-    {
-      "question": "Quel félin sauvage est le plus grands félins d'Afrique en termes de puissance ?",
-      "options": [
-        "Léopard",
-        "Guépard",
-        "Lion",
-        "Jaguar"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1783901096305_8_4n1cdf",
-      "addedAt": "2026-07-13T00:04:56.305Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le film 'Inception' ?",
-      "options": [
-        "Luc Besson",
-        "Christopher Nolan",
-        "Denis Villeneuve",
-        "Michel Gondry"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1783901096305_9_dbfmcr",
-      "addedAt": "2026-07-13T00:04:56.305Z"
-    },
-    {
-      "question": "Quel est le plus ancien port en activité continue du monde ?",
-      "options": [
-        "Port de Jaffa",
-        "Port de Bassora",
-        "Port d'Alexandrie",
-        "Port de Sidon"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1783901096305_10_0zqbiv",
-      "addedAt": "2026-07-13T00:04:56.305Z"
-    },
-    {
-      "question": "En quel année l'imprimerie de Gutenberg a-t-elle révolutionné la diffusion du savoir ?",
-      "options": [
-        "1440",
-        "1492",
-        "1516",
-        "1603"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1783824588374_0_weweem",
-      "addedAt": "2026-07-12T02:49:48.374Z"
-    },
-    {
-      "question": "Quel élément chimique a le symbole 'Au' sur le tableau périodique ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1783824588374_1_j0fhh7",
-      "addedAt": "2026-07-12T02:49:48.374Z"
-    },
-    {
-      "question": "Quel courant artistique du 20e siècle est associé à Salvador Dalí avec des formes fluides et irréalistes ?",
-      "options": [
-        "Dadaïsme",
-        "Surréalisme",
-        "Futurisme",
-        "Art Déco"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1783824588374_2_86j901",
-      "addedAt": "2026-07-12T02:49:48.374Z"
-    },
-    {
-      "question": "Combien de cordes possède un violoncelle ?",
-      "options": [
-        "4 cordes",
-        "5 cordes",
-        "6 cordes",
-        "8 cordes"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1783824588374_3_kb45iz",
-      "addedAt": "2026-07-12T02:49:48.374Z"
     }
   ],
   "poolSize": 310
