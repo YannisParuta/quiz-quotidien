@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel philosophe grec a fondé l'Académie à Athènes en 387 avant notre ère ?",
+      "options": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Épicure"
+      ],
+      "correctAnswer": 1,
+      "category": "Philosophie",
+      "id": "q_1785199466367_0_ev2c6r",
+      "addedAt": "2026-07-28T00:44:26.367Z"
+    },
+    {
+      "question": "En quelle année la photographie numérique a-t-elle été inventée ?",
+      "options": [
+        "1975",
+        "1991",
+        "2000",
+        "1969"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie",
+      "id": "q_1785199466367_1_wg6npx",
+      "addedAt": "2026-07-28T00:44:26.367Z"
+    },
+    {
+      "question": "Quel minéral est la forme cristalline du carbone la plus dure ?",
+      "options": [
+        "Quartz",
+        "Diamant",
+        "Rubis",
+        "Émeraude"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785199466367_2_vgj84b",
+      "addedAt": "2026-07-28T00:44:26.367Z"
+    },
+    {
+      "question": "Quel écrivain français a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Émile Zola",
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Alexandre Dumas"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1785199466367_3_gc8chu",
+      "addedAt": "2026-07-28T00:44:26.367Z"
+    },
+    {
+      "question": "Quel geyser islandais est l'un des plus célèbres du monde ?",
+      "options": [
+        "Old Faithful",
+        "Strokkur",
+        "Yellowstone",
+        "Rotorua"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1785199466367_4_6oancm",
+      "addedAt": "2026-07-28T00:44:26.367Z"
+    },
+    {
+      "question": "Quel courant artistique a été initié par Pablo Picasso et Georges Braque ?",
+      "options": [
+        "Surréalisme",
+        "Cubisme",
+        "Dadaïsme",
+        "Futurisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1785199466367_5_r0y7id",
+      "addedAt": "2026-07-28T00:44:26.367Z"
+    },
+    {
+      "question": "Combien de chambres possède le cœur humain ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Biologie",
+      "id": "q_1785199466367_6_jbacln",
+      "addedAt": "2026-07-28T00:44:26.367Z"
+    },
+    {
+      "question": "Quel mathématicien a développé le calcul infinitésimal indépendamment de Newton ?",
+      "options": [
+        "Leibniz",
+        "Euler",
+        "Gauss",
+        "Lagrange"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1785199466367_7_0ofi66",
+      "addedAt": "2026-07-28T00:44:26.367Z"
+    },
+    {
+      "question": "Quel compositeur allemand a créé l'opéra 'Le Vaisseau fantôme' ?",
+      "options": [
+        "Richard Wagner",
+        "Giuseppe Verdi",
+        "Georges Bizet",
+        "Wolfgang Mozart"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1785199466367_8_j7re65",
+      "addedAt": "2026-07-28T00:44:26.367Z"
+    },
+    {
+      "question": "Quel style culinaire est originaire du Levant et caractérisé par des petits plats à partager ?",
+      "options": [
+        "Fusion",
+        "Mezzé",
+        "Tapas",
+        "Mezquite"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1785199466367_9_0fexn7",
+      "addedAt": "2026-07-28T00:44:26.367Z"
+    },
+    {
+      "question": "Quel champion de tennis français a remporté 14 titres du Grand Chelem ?",
+      "options": [
+        "Yannick Noah",
+        "Gael Monfils",
+        "Pierre-Hugues Herbert",
+        "Dominic Thiem"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1785199466367_10_xcbf7u",
+      "addedAt": "2026-07-28T00:44:26.367Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Afrique après le Nil ?",
+      "options": [
+        "Fleuve Congo",
+        "Fleuve Zambèze",
+        "Fleuve Niger",
+        "Fleuve Limpopo"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1785199466367_11_1tai7s",
+      "addedAt": "2026-07-28T00:44:26.367Z"
+    },
+    {
       "question": "Quel gaz constitue approximativement 78% de l'atmosphère terrestre ?",
       "options": [
         "Oxygène",
@@ -3873,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1783989008434_2_0972u6",
       "addedAt": "2026-07-14T00:30:08.434Z"
-    },
+    }
+  ],
+  "version": 345,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-28T00:44:26.368Z",
+  "archivedQuestions": [
     {
       "question": "En quelle année la Grande Muraille de Chine a-t-elle été construite pour la première fois ?",
       "options": [
@@ -4029,180 +4190,6 @@
       "category": "Art",
       "id": "q_1783911088354_2_ljpezi",
       "addedAt": "2026-07-13T02:51:28.354Z"
-    }
-  ],
-  "version": 344,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-27T02:58:03.797Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de symphonies a composées Wolfgang Amadeus Mozart ?",
-      "options": [
-        "41",
-        "40",
-        "50",
-        "35"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1783911088354_3_p6rh69",
-      "addedAt": "2026-07-13T02:51:28.354Z"
-    },
-    {
-      "question": "Quel auteur britannique a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
-        "G.K. Chesterton",
-        "Oscar Wilde"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1783911088354_4_hrxhvb",
-      "addedAt": "2026-07-13T02:51:28.354Z"
-    },
-    {
-      "question": "En quelle année la première Olympic Games moderne a-t-elle eu lieu ?",
-      "options": [
-        "1896",
-        "1900",
-        "1904",
-        "1908"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1783911088354_5_xi0zwu",
-      "addedAt": "2026-07-13T02:51:28.354Z"
-    },
-    {
-      "question": "Quel type de plante carnivore attrape ses proies avec une trappe qui se referme ?",
-      "options": [
-        "La sarracénie",
-        "La drosera",
-        "La vénus attrape-mouches",
-        "L'utriculaire"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1783911088354_6_cma1l8",
-      "addedAt": "2026-07-13T02:51:28.354Z"
-    },
-    {
-      "question": "Quelle célèbre mathématicienne a découvert la radioactivité du radium et du polonium ?",
-      "options": [
-        "Lise Meitner",
-        "Marie Curie",
-        "Émilie du Châtelet",
-        "Hedy Lamarr"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783911088354_7_26ly1s",
-      "addedAt": "2026-07-13T02:51:28.354Z"
-    },
-    {
-      "question": "Quel plat italien à base de riz est originaire de la région de Lombardie ?",
-      "options": [
-        "La Carbonara",
-        "Le Risotto",
-        "Les Pâtes à la Bolognaise",
-        "Le Minestrone"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1783911088354_8_lo0wjl",
-      "addedAt": "2026-07-13T02:51:28.354Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le film 'Amélie' en 2001 ?",
-      "options": [
-        "Luc Besson",
-        "Jean-Pierre Jeunet",
-        "Michel Gondry",
-        "Cédric Klapisch"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1783911088354_9_a75ouw",
-      "addedAt": "2026-07-13T02:51:28.354Z"
-    },
-    {
-      "question": "Quel écrivain français a remporté le prix Nobel de littérature en 1947 ?",
-      "options": [
-        "André Gide",
-        "Albert Camus",
-        "Jean-Paul Sartre",
-        "François Mauriac"
-      ],
-      "correctAnswer": 3,
-      "category": "Littérature",
-      "id": "q_1783901096305_0_dvyhk1",
-      "addedAt": "2026-07-13T00:04:56.305Z"
-    },
-    {
-      "question": "En quelle année la photographie a-t-elle été inventée par Louis Daguerre ?",
-      "options": [
-        "1822",
-        "1839",
-        "1851",
-        "1865"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1783901096305_1_0m0ikj",
-      "addedAt": "2026-07-13T00:04:56.305Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la structure de l'ADN en 1953 ?",
-      "options": [
-        "Linus Pauling",
-        "James Watson et Francis Crick",
-        "Erwin Schrödinger",
-        "Max Planck"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783901096305_2_etq3kn",
-      "addedAt": "2026-07-13T00:04:56.305Z"
-    },
-    {
-      "question": "Quel plat italien traditionnel est composé de pâtes, d'œuf, de guanciale et de fromage ?",
-      "options": [
-        "Carbonara",
-        "Bolognese",
-        "Alfredo",
-        "Amatriciana"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1783901096305_3_6cam5l",
-      "addedAt": "2026-07-13T00:04:56.305Z"
-    },
-    {
-      "question": "Quel peintre impressionniste français a peint 'Les Nymphéas' ?",
-      "options": [
-        "Pierre-Auguste Renoir",
-        "Claude Monet",
-        "Alfred Sisley",
-        "Berthe Morisot"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1783901096305_4_yvcbwr",
-      "addedAt": "2026-07-13T00:04:56.305Z"
-    },
-    {
-      "question": "Quel mathématicien suisse a travaillé sur la théorie des graphes au 18ème siècle ?",
-      "options": [
-        "Johann Bernoulli",
-        "Leonhard Euler",
-        "Jacob Bernoulli",
-        "Daniel Bernoulli"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1783901096305_5_bi0mw1",
-      "addedAt": "2026-07-13T00:04:56.305Z"
     }
   ],
   "poolSize": 310
