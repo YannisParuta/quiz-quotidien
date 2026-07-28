@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "En quelle année la Bastille a-t-elle été prise lors de la Révolution française ?",
+      "options": [
+        "1787",
+        "1789",
+        "1791",
+        "1793"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785206044825_0_3sw5uy",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
+      "question": "Quel est le nom du processus par lequel les plantes convertissent la lumière en énergie chimique ?",
+      "options": [
+        "La respiration cellulaire",
+        "La photosynthèse",
+        "La fermentation",
+        "La transpiration"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785206044825_1_m6k6yi",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
+      "question": "Quel roman de science-fiction de Jules Verne parle d'un voyage au centre de la Terre ?",
+      "options": [
+        "20 000 lieues sous les mers",
+        "Voyage au centre de la Terre",
+        "De la Terre à la Lune",
+        "L'Île mystérieuse"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1785206044825_2_9qv6mg",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre vivant ?",
+      "options": [
+        "Le rhinocéros",
+        "L'hippopotame",
+        "L'éléphant d'Afrique",
+        "La girafe"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1785206044825_3_jcvmws",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
+      "question": "Combien de sommets de plus de 8 000 mètres existe-t-il sur Terre ?",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1785206044825_4_8l9619",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
+      "question": "Quel mathématicien grec ancien a établi les théorèmes fondamentaux de la géométrie ?",
+      "options": [
+        "Archimède",
+        "Euclide",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1785206044825_5_tsd8e2",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
+      "question": "Quel compositeur français a créé le ballet 'Le Sacre du printemps' en 1913 ?",
+      "options": [
+        "Claude Debussy",
+        "Igor Stravinski",
+        "Maurice Ravel",
+        "Gabriel Fauré"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1785206044825_6_35y6yh",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
+      "question": "En quel siècle le cinéma a-t-il été inventé par les frères Lumière ?",
+      "options": [
+        "XVIIIe siècle",
+        "XIXe siècle",
+        "XXe siècle",
+        "XVIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1785206044825_7_gdlw6o",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
+      "question": "Quel protocole informatique permet de transférer des fichiers sur Internet de manière sécurisée ?",
+      "options": [
+        "HTTP",
+        "HTTPS",
+        "FTP",
+        "SMTP"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1785206044825_8_hbgxkb",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
+      "question": "Quel fromage français bénéficie d'une Appellation d'Origine Contrôlée depuis 1925 ?",
+      "options": [
+        "Le Roquefort",
+        "Le Camembert",
+        "L'Emmental",
+        "Le Comté"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1785206044825_9_f0kcn0",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
+      "question": "Quel sport collectif se joue avec un filet séparant deux équipes sur un terrain rectangulaire ?",
+      "options": [
+        "Le handball",
+        "Le volleyball",
+        "Le badminton",
+        "Le tennis"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1785206044825_10_o53cq1",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
+      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Oscar Wilde",
+        "Lewis Carroll"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1785206044825_11_lmpax6",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
+      "question": "Quel type de radiations lumineuses sont invisibles à l'œil humain mais ressenties comme de la chaleur ?",
+      "options": [
+        "Les ultraviolets",
+        "Les infrarouges",
+        "Les rayons X",
+        "Les microondes"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785206044825_12_eofzb8",
+      "addedAt": "2026-07-28T02:34:04.825Z"
+    },
+    {
       "question": "Quel philosophe grec a fondé l'Académie à Athènes en 387 avant notre ère ?",
       "options": [
         "Socrate",
@@ -3860,7 +4029,12 @@
       "category": "Science",
       "id": "q_1783996342928_1_uyxk3b",
       "addedAt": "2026-07-14T02:32:22.928Z"
-    },
+    }
+  ],
+  "version": 346,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-28T02:34:04.826Z",
+  "archivedQuestions": [
     {
       "question": "Quel archipel français est situé dans l'océan Indien ?",
       "options": [
@@ -4029,167 +4203,6 @@
       "category": "Musique",
       "id": "q_1783989008434_2_0972u6",
       "addedAt": "2026-07-14T00:30:08.434Z"
-    }
-  ],
-  "version": 345,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-28T00:44:26.368Z",
-  "archivedQuestions": [
-    {
-      "question": "En quelle année la Grande Muraille de Chine a-t-elle été construite pour la première fois ?",
-      "options": [
-        "200 avant J.C.",
-        "500 avant J.C.",
-        "100 après J.C.",
-        "1000 après J.C."
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1783989008434_3_z0n24f",
-      "addedAt": "2026-07-14T00:30:08.434Z"
-    },
-    {
-      "question": "Quel processus biologique permet aux plantes de convertir la lumière en énergie ?",
-      "options": [
-        "Respiration cellulaire",
-        "Photosynthèse",
-        "Fermentation",
-        "Osmose"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783989008434_4_s28pcj",
-      "addedAt": "2026-07-14T00:30:08.434Z"
-    },
-    {
-      "question": "Combien de continents existe-t-il sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1783989008434_5_0ada7c",
-      "addedAt": "2026-07-14T00:30:08.434Z"
-    },
-    {
-      "question": "Quel film d'animation Pixar raconte l'histoire d'un jouet devenu ami avec un enfant ?",
-      "options": [
-        "Monstres & Cie",
-        "Toy Story",
-        "Vice-Versa",
-        "Raiponce"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1783989008434_6_fbea4h",
-      "addedAt": "2026-07-14T00:30:08.434Z"
-    },
-    {
-      "question": "Quel élément chimique est symbolisé par 'Fe' sur le tableau périodique ?",
-      "options": [
-        "Fluor",
-        "Fer",
-        "Francium",
-        "Fermium"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1783989008434_7_uclitq",
-      "addedAt": "2026-07-14T00:30:08.434Z"
-    },
-    {
-      "question": "Quelle région française est célèbre pour la production de champagne ?",
-      "options": [
-        "Alsace",
-        "Bourgogne",
-        "Champagne-Ardenne",
-        "Provence"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1783989008434_8_4h21y7",
-      "addedAt": "2026-07-14T00:30:08.434Z"
-    },
-    {
-      "question": "Quel sport consiste à diriger un cheval avec un cavalier ?",
-      "options": [
-        "Polo",
-        "Équitation",
-        "Rodéo",
-        "Pentathlon moderne"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1783989008434_9_l5iwte",
-      "addedAt": "2026-07-14T00:30:08.434Z"
-    },
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum en 1989 ?",
-      "options": [
-        "Java",
-        "Python",
-        "JavaScript",
-        "C++"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1783989008434_10_8p55vd",
-      "addedAt": "2026-07-14T00:30:08.434Z"
-    },
-    {
-      "question": "Quel animal terrestre possède la plus longue espérance de vie ?",
-      "options": [
-        "L'éléphant",
-        "La baleine",
-        "La tortue géante",
-        "Le perroquet"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1783989008434_11_v0xac0",
-      "addedAt": "2026-07-14T00:30:08.434Z"
-    },
-    {
-      "question": "Quel pays a remporté la Coupe du Monde de Football en 2022 ?",
-      "options": [
-        "France",
-        "Brésil",
-        "Argentine",
-        "Allemagne"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1783911088354_0_jaoc6w",
-      "addedAt": "2026-07-13T02:51:28.354Z"
-    },
-    {
-      "question": "En quelle année la Bastille a-t-elle été prise lors de la Révolution française ?",
-      "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1783911088354_1_igobqm",
-      "addedAt": "2026-07-13T02:51:28.354Z"
-    },
-    {
-      "question": "Quel peintre impressionniste français est célèbre pour ses tableaux de nymphéas ?",
-      "options": [
-        "Pierre-Auguste Renoir",
-        "Claude Monet",
-        "Edgar Degas",
-        "Camille Pissarro"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1783911088354_2_ljpezi",
-      "addedAt": "2026-07-13T02:51:28.354Z"
     }
   ],
   "poolSize": 310
