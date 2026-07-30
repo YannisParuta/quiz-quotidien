@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel élément chimique porte le symbole 'Au' dans le tableau périodique ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "L'aluminium",
+        "L'argon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785371550806_0_v838ax",
+      "addedAt": "2026-07-30T00:32:30.806Z"
+    },
+    {
+      "question": "Quel sculpteur italien a créé la statue du David à la Renaissance ?",
+      "options": [
+        "Bernin",
+        "Donatello",
+        "Michel-Ange",
+        "Cellini"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1785371550806_1_wmruum",
+      "addedAt": "2026-07-30T00:32:30.806Z"
+    },
+    {
+      "question": "En quelle année le Titanic a-t-il coulé ?",
+      "options": [
+        "1910",
+        "1912",
+        "1915",
+        "1920"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785371550806_2_kxhtxk",
+      "addedAt": "2026-07-30T00:32:30.806Z"
+    },
+    {
+      "question": "Quel processus biologique permet aux cellules végétales de convertir la lumière en énergie chimique ?",
+      "options": [
+        "La respiration cellulaire",
+        "La fermentation",
+        "La photosynthèse",
+        "La mitose"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1785371550806_3_l1jzx7",
+      "addedAt": "2026-07-30T00:32:30.806Z"
+    },
+    {
+      "question": "Quel acteur français a joué le rôle principal dans 'Amélie Poulain' ?",
+      "options": [
+        "Marion Cotillard",
+        "Audrey Tautou",
+        "Sophie Marceau",
+        "Isabelle Adjani"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1785371550806_4_ernrf9",
+      "addedAt": "2026-07-30T00:32:30.806Z"
+    },
+    {
+      "question": "Quel nombre de joueurs une équipe de basketball a-t-elle sur le terrain ?",
+      "options": [
+        "4 joueurs",
+        "5 joueurs",
+        "6 joueurs",
+        "7 joueurs"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1785371550806_5_jm98nc",
+      "addedAt": "2026-07-30T00:32:30.806Z"
+    },
+    {
+      "question": "Quel légume méditerranéen est riche en lycopène et utilisé dans la sauce tomate ?",
+      "options": [
+        "L'aubergine",
+        "Le poivron",
+        "La tomate",
+        "Le concombre"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1785371550806_6_ih5oyg",
+      "addedAt": "2026-07-30T00:32:30.806Z"
+    },
+    {
+      "question": "Quel port de communication Internet est utilisé par défaut pour envoyer des courriels en clair ?",
+      "options": [
+        "Port 25",
+        "Port 587",
+        "Port 993",
+        "Port 110"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie",
+      "id": "q_1785371550806_7_saciwd",
+      "addedAt": "2026-07-30T00:32:30.806Z"
+    },
+    {
+      "question": "Quel naturaliste britannique a développé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Jean-Baptiste Lamarck",
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Thomas Huxley"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785371550806_8_5us3ky",
+      "addedAt": "2026-07-30T00:32:30.806Z"
+    },
+    {
+      "question": "Quel est le plus grand récif de corail du monde ?",
+      "options": [
+        "Le récif de Belize",
+        "La Grande Barrière de Corail",
+        "Le récif des Maldives",
+        "Le récif des Caraïbes"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1785371550806_9_xaj1j7",
+      "addedAt": "2026-07-30T00:32:30.806Z"
+    },
+    {
       "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
       "options": [
         "Antoni Gaudí",
@@ -3899,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1784162748519_6_h08tyy",
       "addedAt": "2026-07-16T00:45:48.519Z"
-    },
+    }
+  ],
+  "version": 349,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-30T00:32:30.806Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le plus grand lac d'eau douce du monde ?",
       "options": [
@@ -4029,154 +4164,6 @@
       "category": "Littérature",
       "id": "q_1784082649640_1_z6ksym",
       "addedAt": "2026-07-15T02:30:49.640Z"
-    }
-  ],
-  "version": 348,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-29T02:40:37.065Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus long fleuve d'Afrique ?",
-      "options": [
-        "Le fleuve Niger",
-        "Le fleuve Congo",
-        "Le fleuve Nil",
-        "Le fleuve Zambèze"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1784082649640_2_a1d6jk",
-      "addedAt": "2026-07-15T02:30:49.640Z"
-    },
-    {
-      "question": "Quel peintre espagnol est connu pour le mouvement cubiste ?",
-      "options": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Juan Gris",
-        "Joan Miró"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1784082649640_3_6kv8y9",
-      "addedAt": "2026-07-15T02:30:49.640Z"
-    },
-    {
-      "question": "Quel mécanisme biologique permet aux plantes de convertir la lumière en énergie ?",
-      "options": [
-        "La respiration cellulaire",
-        "La photosynthèse",
-        "La fermentation",
-        "La mitose"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784082649640_4_5yznid",
-      "addedAt": "2026-07-15T02:30:49.640Z"
-    },
-    {
-      "question": "Quel sport est appelé 'le roi des sports' en France ?",
-      "options": [
-        "Le rugby",
-        "Le football",
-        "Le tennis",
-        "L'athlétisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1784082649640_5_7bokvc",
-      "addedAt": "2026-07-15T02:30:49.640Z"
-    },
-    {
-      "question": "En quelle année l'Égypte antique a-t-elle été conquise par Alexandre le Grand ?",
-      "options": [
-        "332 avant J.C.",
-        "305 avant J.C.",
-        "380 avant J.C.",
-        "250 avant J.C."
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1784082649640_6_eazs2t",
-      "addedAt": "2026-07-15T02:30:49.640Z"
-    },
-    {
-      "question": "Quel est le plus grand océan du monde ?",
-      "options": [
-        "L'océan Atlantique",
-        "L'océan Arctique",
-        "L'océan Pacifique",
-        "L'océan Indien"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1784082649640_7_mp0juc",
-      "addedAt": "2026-07-15T02:30:49.640Z"
-    },
-    {
-      "question": "Quel acteur français a remporté la Palme d'Or à Cannes en 2019 pour 'Parasite' ?",
-      "options": [
-        "Jean Dujardin",
-        "C'était un film sud-coréen",
-        "Omar Sy",
-        "François Cluzet"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1784082649640_8_lg68za",
-      "addedAt": "2026-07-15T02:30:49.640Z"
-    },
-    {
-      "question": "Quel écrivain français a remporté le Prix Nobel de littérature en 1964 ?",
-      "options": [
-        "Albert Camus",
-        "Jean-Paul Sartre",
-        "François Mauriac",
-        "André Gide"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1784074448296_0_dg8xde",
-      "addedAt": "2026-07-15T00:14:08.296Z"
-    },
-    {
-      "question": "Quel élément chimique est le plus abondant dans l'univers ?",
-      "options": [
-        "L'oxygène",
-        "L'hélium",
-        "L'hydrogène",
-        "Le carbone"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1784074448296_1_qvk9jp",
-      "addedAt": "2026-07-15T00:14:08.296Z"
-    },
-    {
-      "question": "Quel phénomène météorologique est mesuré avec l'échelle de Beaufort ?",
-      "options": [
-        "La température",
-        "L'humidité",
-        "La vitesse du vent",
-        "La pression atmosphérique"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1784074448296_2_o1wjkp",
-      "addedAt": "2026-07-15T00:14:08.296Z"
-    },
-    {
-      "question": "Quel est le plus haut volcan actif du monde ?",
-      "options": [
-        "Le Mont-Blanc",
-        "L'Etna",
-        "Le Sakura-jima",
-        "L'Ojos del Salado"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1784074448296_3_y3idgs",
-      "addedAt": "2026-07-15T00:14:08.296Z"
     }
   ],
   "poolSize": 310
