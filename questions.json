@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel philosophe grec antique a fondé l'école du Lycée à Athènes ?",
+      "options": [
+        "Platon",
+        "Aristote",
+        "Socrate",
+        "Épicure"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785378411642_0_9363q8",
+      "addedAt": "2026-07-30T02:26:51.642Z"
+    },
+    {
+      "question": "Combien de cordes possède traditionnellement une guitare classique ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1785378411642_1_du996x",
+      "addedAt": "2026-07-30T02:26:51.642Z"
+    },
+    {
+      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Mikhaïl Boulgakov",
+        "Ivan Tourgueniev"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1785378411642_2_kfeg3i",
+      "addedAt": "2026-07-30T02:26:51.642Z"
+    },
+    {
+      "question": "En quel année l'Union Européenne a-t-elle adopté l'euro comme monnaie unique ?",
+      "options": [
+        "1997",
+        "1999",
+        "2001",
+        "2002"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785378411642_3_rtnw7b",
+      "addedAt": "2026-07-30T02:26:51.642Z"
+    },
+    {
+      "question": "Quel gaz constitue environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Dioxyde de carbone",
+        "Argon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785378411642_4_so7wck",
+      "addedAt": "2026-07-30T02:26:51.642Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé la série de films 'Lupin' pour Netflix ?",
+      "options": [
+        "Louis Leterrier",
+        "Jacques Audiard",
+        "Michel Gondry",
+        "Claude Zidi"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1785378411642_5_7io4ai",
+      "addedAt": "2026-07-30T02:26:51.642Z"
+    },
+    {
+      "question": "Quel type de reptile est capable de changer de couleur pour se camoufler ?",
+      "options": [
+        "Python",
+        "Caméléon",
+        "Serpent à sonnettes",
+        "Iguane"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1785378411642_6_8zhst8",
+      "addedAt": "2026-07-30T02:26:51.642Z"
+    },
+    {
+      "question": "Quel sport français consiste à tirer des balles métalliques vers un petit but ?",
+      "options": [
+        "Pétanque",
+        "Croquet",
+        "Curling",
+        "Bowls"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1785378411642_7_1xz0vx",
+      "addedAt": "2026-07-30T02:26:51.642Z"
+    },
+    {
+      "question": "Quel artiste moderne a créé l'œuvre 'La Persistance de la mémoire' avec ses montres molles ?",
+      "options": [
+        "René Magritte",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Max Ernst"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1785378411642_8_e1qvxf",
+      "addedAt": "2026-07-30T02:26:51.642Z"
+    },
+    {
+      "question": "Quel spice épicé originaire d'Asie du Sud est l'ingrédient principal du curry ?",
+      "options": [
+        "Safran",
+        "Curcuma",
+        "Clou de girofle",
+        "Cardamome"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1785378411642_9_vlosaw",
+      "addedAt": "2026-07-30T02:26:51.642Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit la neuvième symphonie contenant 'L'Ode à la Joie' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Georg Friedrich Haendel",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1785378411642_10_km7m4i",
+      "addedAt": "2026-07-30T02:26:51.642Z"
+    },
+    {
+      "question": "Quel protocole de communication est utilisé pour envoyer des emails ?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "DNS"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1785378411642_11_9ryei9",
+      "addedAt": "2026-07-30T02:26:51.642Z"
+    },
+    {
       "question": "Quel élément chimique porte le symbole 'Au' dans le tableau périodique ?",
       "options": [
         "L'argent",
@@ -3873,7 +4029,12 @@
       "category": "Science",
       "id": "q_1784169547267_6_8xv9j9",
       "addedAt": "2026-07-16T02:39:07.267Z"
-    },
+    }
+  ],
+  "version": 350,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-30T02:26:51.643Z",
+  "archivedQuestions": [
     {
       "question": "Quel peintre impressionniste est célèbre pour ses 'Nymphéas' ?",
       "options": [
@@ -4029,141 +4190,6 @@
       "category": "Gastronomie",
       "id": "q_1784162748519_6_h08tyy",
       "addedAt": "2026-07-16T00:45:48.519Z"
-    }
-  ],
-  "version": 349,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-30T00:32:30.806Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus grand lac d'eau douce du monde ?",
-      "options": [
-        "Le lac Baïkal",
-        "Le lac Supérieur",
-        "Le lac Victoria",
-        "Le lac Tanganyika"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1784162748519_7_9ispps",
-      "addedAt": "2026-07-16T00:45:48.519Z"
-    },
-    {
-      "question": "Quel composant chimique donne la couleur rouge aux tomates ?",
-      "options": [
-        "La bêta-carotène",
-        "Le lycopène",
-        "l'anthocyanine",
-        "La lutéine"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784162748519_8_y8q7o5",
-      "addedAt": "2026-07-16T00:45:48.519Z"
-    },
-    {
-      "question": "Quel musicien britannique a formé le groupe The Beatles ?",
-      "options": [
-        "Paul McCartney et John Lennon",
-        "Jimi Hendrix et Eric Clapton",
-        "David Bowie et Freddie Mercury",
-        "Mick Jagger et Keith Richards"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1784162748519_9_dje778",
-      "addedAt": "2026-07-16T00:45:48.519Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle eu lieu principalement ?",
-      "options": [
-        "XIIe siècle",
-        "XIVe-XVIe siècles",
-        "XVIIe siècle",
-        "XVIIIe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1784162748519_10_8tswod",
-      "addedAt": "2026-07-16T00:45:48.519Z"
-    },
-    {
-      "question": "Quel animal est le symbole du panda géant ?",
-      "options": [
-        "La Thaïlande",
-        "Le Vietnam",
-        "La Chine",
-        "Le Laos"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1784162748519_11_afwzax",
-      "addedAt": "2026-07-16T00:45:48.519Z"
-    },
-    {
-      "question": "Quel mathématicien a formulé la suite qui porte son nom ?",
-      "options": [
-        "Léonard de Fibonacci",
-        "Isaac Newton",
-        "Carl Friedrich Gauss",
-        "Euclide"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1784162748519_12_m9av2h",
-      "addedAt": "2026-07-16T00:45:48.519Z"
-    },
-    {
-      "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
-      "options": [
-        "L'azote",
-        "L'oxygène",
-        "Le dioxyde de carbone",
-        "L'hydrogène"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1784082649640_9_9nii9o",
-      "addedAt": "2026-07-15T02:30:49.641Z"
-    },
-    {
-      "question": "Quel type de données peut stocker un code QR ?",
-      "options": [
-        "Uniquement des chiffres",
-        "Uniquement des URLs",
-        "Du texte, des URLs, des numéros de téléphone et bien d'autres",
-        "Uniquement des images"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1784082649641_10_3w7mwo",
-      "addedAt": "2026-07-15T02:30:49.641Z"
-    },
-    {
-      "question": "En quelle année a eu lieu la Révolution française ?",
-      "options": [
-        "1776",
-        "1789",
-        "1799",
-        "1812"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1784082649640_0_4wozzo",
-      "addedAt": "2026-07-15T02:30:49.640Z"
-    },
-    {
-      "question": "Quel roman de Fiodor Dostoïevski raconte l'histoire d'un étudiant pauvre de Saint-Pétersbourg ?",
-      "options": [
-        "L'Idiot",
-        "Crime et Châtiment",
-        "Les Frères Karamazov",
-        "Les Démons"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1784082649640_1_z6ksym",
-      "addedAt": "2026-07-15T02:30:49.640Z"
     }
   ],
   "poolSize": 310
