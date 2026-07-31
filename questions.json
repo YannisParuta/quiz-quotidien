@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "En quelle année l'imprimerie a-t-elle été inventée par Gutenberg ?",
+      "options": [
+        "1440",
+        "1492",
+        "1545",
+        "1350"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1785456161458_0_rpk2px",
+      "addedAt": "2026-07-31T00:02:41.458Z"
+    },
+    {
+      "question": "Quel instrument de musique est le plus grave de la famille des cordes frottées ?",
+      "options": [
+        "Violon",
+        "Alto",
+        "Violoncelle",
+        "Contrebasse"
+      ],
+      "correctAnswer": 3,
+      "category": "Musique",
+      "id": "q_1785456161458_1_azvugc",
+      "addedAt": "2026-07-31T00:02:41.458Z"
+    },
+    {
+      "question": "Quel type de roche est formée par le refroidissement du magma ?",
+      "options": [
+        "Roche sédimentaire",
+        "Roche métamorphique",
+        "Roche ignée",
+        "Roche calcaire"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1785456161458_2_14ntxt",
+      "addedAt": "2026-07-31T00:02:41.458Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'La Haine' en 1995 ?",
+      "options": [
+        "Mathieu Kassovitz",
+        "Christophe Honoré",
+        "Catherine Breillat",
+        "François Ozon"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1785456161458_3_ft1cmc",
+      "addedAt": "2026-07-31T00:02:41.458Z"
+    },
+    {
+      "question": "Quel économiste britannique a écrit 'La Richesse des Nations' ?",
+      "options": [
+        "David Ricardo",
+        "Adam Smith",
+        "Thomas Malthus",
+        "John Stuart Mill"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785456161458_4_ry7954",
+      "addedAt": "2026-07-31T00:02:41.458Z"
+    },
+    {
+      "question": "Quel programmeur britannique a inventé le World Wide Web en 1989 ?",
+      "options": [
+        "Tim Berners-Lee",
+        "Bill Gates",
+        "Steve Jobs",
+        "Linus Torvalds"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie",
+      "id": "q_1785456161458_5_t9gijt",
+      "addedAt": "2026-07-31T00:02:41.458Z"
+    },
+    {
+      "question": "En mathématiques, quel terme désigne un nombre qui n'est divisible que par 1 et par lui-même ?",
+      "options": [
+        "Nombre pair",
+        "Nombre premier",
+        "Nombre composé",
+        "Nombre entier"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1785456161458_6_xozx2g",
+      "addedAt": "2026-07-31T00:02:41.458Z"
+    },
+    {
+      "question": "Quel plat japonais traditionnel consiste en une soupe de bouillon avec des nouilles ?",
+      "options": [
+        "Sushi",
+        "Tempura",
+        "Ramen",
+        "Gyoza"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1785456161458_7_5zre00",
+      "addedAt": "2026-07-31T00:02:41.458Z"
+    },
+    {
       "question": "Quel philosophe grec antique a fondé l'école du Lycée à Athènes ?",
       "options": [
         "Platon",
@@ -3925,7 +4029,12 @@
       "category": "Technologie",
       "id": "q_1784249611331_9_9pty9f",
       "addedAt": "2026-07-17T00:53:31.331Z"
-    },
+    }
+  ],
+  "version": 351,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-31T00:02:41.459Z",
+  "archivedQuestions": [
     {
       "question": "Quel sport olympique consiste à glisser sur la glace avec des patins à lames ?",
       "options": [
@@ -4029,167 +4138,6 @@
       "category": "Science",
       "id": "q_1784169547267_6_8xv9j9",
       "addedAt": "2026-07-16T02:39:07.267Z"
-    }
-  ],
-  "version": 350,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-30T02:26:51.643Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel peintre impressionniste est célèbre pour ses 'Nymphéas' ?",
-      "options": [
-        "Pierre-Auguste Renoir",
-        "Claude Monet",
-        "Edgar Degas",
-        "Camille Pissarro"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1784169547267_7_ybp5s2",
-      "addedAt": "2026-07-16T02:39:07.267Z"
-    },
-    {
-      "question": "Quel film de science-fiction de 1979 met en scène Sigourney Weaver face à une créature extraterrestre ?",
-      "options": [
-        "Prometheus",
-        "Alien",
-        "The Thing",
-        "Predator"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1784169547267_8_bpivh1",
-      "addedAt": "2026-07-16T02:39:07.267Z"
-    },
-    {
-      "question": "Quel sport olympique consiste à lancer un disque en compétition d'athlétisme ?",
-      "options": [
-        "Le lancer du javelot",
-        "Le lancer du poids",
-        "Le lancer du disque",
-        "Le lancer du marteau"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1784169547267_9_0hn345",
-      "addedAt": "2026-07-16T02:39:07.267Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en vitamine C et provient de pays comme la Thaïlande et les Philippines ?",
-      "options": [
-        "La mangue",
-        "L'ananas",
-        "La papaye",
-        "La noix de coco"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1784169547267_10_5mxs4u",
-      "addedAt": "2026-07-16T02:39:07.267Z"
-    },
-    {
-      "question": "Quel protocole Internet sécurisé utilise le port 443 par défaut ?",
-      "options": [
-        "HTTP",
-        "HTTPS",
-        "FTP",
-        "SMTP"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1784169547267_11_bqgh7n",
-      "addedAt": "2026-07-16T02:39:07.267Z"
-    },
-    {
-      "question": "En quel année l'imprimerie a-t-elle été inventée par Gutenberg ?",
-      "options": [
-        "1440",
-        "1492",
-        "1517",
-        "1605"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1784162748519_0_fm23ky",
-      "addedAt": "2026-07-16T00:45:48.519Z"
-    },
-    {
-      "question": "Combien de muscles possède le corps humain environ ?",
-      "options": [
-        "206",
-        "346",
-        "506",
-        "606"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1784162748519_1_yscmnd",
-      "addedAt": "2026-07-16T00:45:48.519Z"
-    },
-    {
-      "question": "Quel peintre espagnol a fondé le mouvement du cubisme avec Braque ?",
-      "options": [
-        "Joan Miró",
-        "Pablo Picasso",
-        "Salvador Dalí",
-        "Juan Gris"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1784162748519_2_2k2zpi",
-      "addedAt": "2026-07-16T00:45:48.519Z"
-    },
-    {
-      "question": "Quel pays a remporté la Coupe du Monde de football en 1998 ?",
-      "options": [
-        "Le Brésil",
-        "L'Italie",
-        "La France",
-        "L'Allemagne"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1784162748519_3_r4fnb7",
-      "addedAt": "2026-07-16T00:45:48.519Z"
-    },
-    {
-      "question": "Quel scientifique a développé la théorie de la relativité restreinte ?",
-      "options": [
-        "Max Planck",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Erwin Schrödinger"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784162748519_4_d3h8hi",
-      "addedAt": "2026-07-16T00:45:48.519Z"
-    },
-    {
-      "question": "Quel réalisateur a créé 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Christopher Nolan",
-        "David Fincher"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1784162748519_5_19tw3v",
-      "addedAt": "2026-07-16T00:45:48.519Z"
-    },
-    {
-      "question": "Quel fromage français est produit dans la région de Roquefort ?",
-      "options": [
-        "Le Camembert",
-        "Le Roquefort",
-        "L'Emmental",
-        "Le Comté"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1784162748519_6_h08tyy",
-      "addedAt": "2026-07-16T00:45:48.519Z"
     }
   ],
   "poolSize": 310
