@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Marie Curie",
+        "Linus Pauling"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785466295314_0_wdm1o0",
+      "addedAt": "2026-07-31T02:51:35.314Z"
+    },
+    {
+      "question": "En quelle année la construction de la Tour Eiffel a-t-elle été achevée ?",
+      "options": [
+        "1885",
+        "1889",
+        "1892",
+        "1895"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785466295314_1_3zilbc",
+      "addedAt": "2026-07-31T02:51:35.314Z"
+    },
+    {
+      "question": "En quelle année l'Union soviétique s'est-elle effondrée ?",
+      "options": [
+        "1989",
+        "1991",
+        "1993",
+        "1995"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785466295314_2_wenok4",
+      "addedAt": "2026-07-31T02:51:35.314Z"
+    },
+    {
+      "question": "Quel sport olympique combine le tir à la carabine et le ski de fond ?",
+      "options": [
+        "Biathlon",
+        "Pentathlon moderne",
+        "Triathlon",
+        "Heptathlon"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1785466295314_3_kx6oft",
+      "addedAt": "2026-07-31T02:51:35.314Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé 'Pulp Fiction' en 1994 ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "David Fincher"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1785466295314_4_wdrexy",
+      "addedAt": "2026-07-31T02:51:35.314Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit 'Le Clair de lune' ?",
+      "options": [
+        "Richard Wagner",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Felix Mendelssohn"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1785466295314_5_c5q92i",
+      "addedAt": "2026-07-31T02:51:35.314Z"
+    },
+    {
+      "question": "Quel type de fromage français est fabriqué à partir de lait de brebis dans les Pyrénées ?",
+      "options": [
+        "Roquefort",
+        "Ossau-Iraty",
+        "Comté",
+        "Camembert"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1785466295314_6_dho4az",
+      "addedAt": "2026-07-31T02:51:35.314Z"
+    },
+    {
+      "question": "Quel artiste français du XVIIe siècle est connu pour ses paysages en perspective ?",
+      "options": [
+        "Claude Lorrain",
+        "Nicolas Poussin",
+        "Jean-Honoré Fragonard",
+        "François Boucher"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1785466295314_7_uga2mk",
+      "addedAt": "2026-07-31T02:51:35.314Z"
+    },
+    {
+      "question": "En quelle année le premier ordinateur personnel Apple II a-t-il été commercialisé ?",
+      "options": [
+        "1975",
+        "1977",
+        "1979",
+        "1981"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1785466295314_8_09knp6",
+      "addedAt": "2026-07-31T02:51:35.314Z"
+    },
+    {
       "question": "En quelle année l'imprimerie a-t-elle été inventée par Gutenberg ?",
       "options": [
         "1440",
@@ -3912,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1784249611331_0_r5gksq",
       "addedAt": "2026-07-17T00:53:31.331Z"
-    },
+    }
+  ],
+  "version": 352,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-07-31T02:51:35.315Z",
+  "archivedQuestions": [
     {
       "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
       "options": [
@@ -4029,115 +4151,6 @@
       "category": "Technologie",
       "id": "q_1784249611331_9_9pty9f",
       "addedAt": "2026-07-17T00:53:31.331Z"
-    }
-  ],
-  "version": 351,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-31T00:02:41.459Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel sport olympique consiste à glisser sur la glace avec des patins à lames ?",
-      "options": [
-        "Hockey sur glace",
-        "Curling",
-        "Patinage artistique",
-        "Bobsleigh"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1784249611331_10_q6jf8i",
-      "addedAt": "2026-07-17T00:53:31.331Z"
-    },
-    {
-      "question": "En quelle année l'Académie française a-t-elle été fondée ?",
-      "options": [
-        "1635",
-        "1672",
-        "1789",
-        "1815"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1784169547267_0_fu9gdi",
-      "addedAt": "2026-07-16T02:39:07.267Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde en superficie ?",
-      "options": [
-        "Monaco",
-        "San Marino",
-        "Le Vatican",
-        "Andorre"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1784169547267_1_4c80uw",
-      "addedAt": "2026-07-16T02:39:07.267Z"
-    },
-    {
-      "question": "Quel chimiste a découvert le radium en 1898 ?",
-      "options": [
-        "Ernest Rutherford",
-        "Pierre et Marie Curie",
-        "Albert Einstein",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784169547267_2_byqdns",
-      "addedAt": "2026-07-16T02:39:07.267Z"
-    },
-    {
-      "question": "Quel écrivain français est l'auteur de 'Madame Bovary' ?",
-      "options": [
-        "Honoré de Balzac",
-        "Gustave Flaubert",
-        "George Sand",
-        "Victor Hugo"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1784169547267_3_1b4vju",
-      "addedAt": "2026-07-16T02:39:07.267Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Europe ?",
-      "options": [
-        "Le Danube",
-        "La Volga",
-        "Le Rhin",
-        "La Seine"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1784169547267_4_641nxv",
-      "addedAt": "2026-07-16T02:39:07.267Z"
-    },
-    {
-      "question": "En quelle année la Première Guerre mondiale s'est-elle terminée ?",
-      "options": [
-        "1916",
-        "1917",
-        "1918",
-        "1919"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1784169547267_5_c1mhc1",
-      "addedAt": "2026-07-16T02:39:07.267Z"
-    },
-    {
-      "question": "Quel organe du corps humain produit l'insuline ?",
-      "options": [
-        "Le foie",
-        "Le pancréas",
-        "Les reins",
-        "L'estomac"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784169547267_6_8xv9j9",
-      "addedAt": "2026-07-16T02:39:07.267Z"
     }
   ],
   "poolSize": 310
