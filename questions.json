@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a remporté le Prix Nobel de littérature en 1964 ?",
+      "options": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "Simone de Beauvoir",
+        "François Mauriac"
+      ],
+      "correctAnswer": 0,
+      "category": "Littérature",
+      "id": "q_1785552632381_0_5ie73i",
+      "addedAt": "2026-08-01T02:50:32.381Z"
+    },
+    {
+      "question": "Quel sport collectif se joue avec un ballon de cuir et 11 joueurs par équipe sur un terrain rectangulaire ?",
+      "options": [
+        "Le rugby",
+        "Le football américain",
+        "Le handball",
+        "Le hockey sur glace"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1785552632381_1_f5w6xd",
+      "addedAt": "2026-08-01T02:50:32.381Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a peint 'La Nuit étoilée' ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Paul Klee",
+        "Joan Miró"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1785552632381_2_6fdmad",
+      "addedAt": "2026-08-01T02:50:32.381Z"
+    },
+    {
+      "question": "En quel siècle a été construit le château de Versailles ?",
+      "options": [
+        "16e siècle",
+        "17e siècle",
+        "18e siècle",
+        "19e siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785552632381_3_afm3nl",
+      "addedAt": "2026-08-01T02:50:32.381Z"
+    },
+    {
+      "question": "Quel réalisateur a créé le personnage de James Bond au cinéma dans les années 1960 ?",
+      "options": [
+        "Alfred Hitchcock",
+        "David Lean",
+        "Terence Young",
+        "Stanley Kubrick"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1785552632381_4_fpc7s1",
+      "addedAt": "2026-08-01T02:50:32.381Z"
+    },
+    {
+      "question": "Quel fromage français est connu pour ses veines bleues et son goût piquant ?",
+      "options": [
+        "Le Camembert",
+        "Le Roquefort",
+        "Le Comté",
+        "Le Brie"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1785552632381_5_7mq4l8",
+      "addedAt": "2026-08-01T02:50:32.381Z"
+    },
+    {
+      "question": "Quel langage de programmation est développé par Guido van Rossum ?",
+      "options": [
+        "Java",
+        "Python",
+        "C++",
+        "Ruby"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1785552632381_6_w74xow",
+      "addedAt": "2026-08-01T02:50:32.381Z"
+    },
+    {
+      "question": "Quel compositeur français a écrit l'opéra 'Carmen' ?",
+      "options": [
+        "Georges Bizet",
+        "Gioachino Rossini",
+        "Giuseppe Verdi",
+        "Gaspare Spontini"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1785552632381_7_uslbo0",
+      "addedAt": "2026-08-01T02:50:32.381Z"
+    },
+    {
       "question": "Quel scientifique a développé la théorie de la relativité générale ?",
       "options": [
         "Isaac Newton",
@@ -3925,7 +4029,12 @@
       "category": "Art",
       "id": "q_1784335377633_4_ct6ooa",
       "addedAt": "2026-07-18T00:42:57.633Z"
-    },
+    }
+  ],
+  "version": 354,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-01T02:50:32.382Z",
+  "archivedQuestions": [
     {
       "question": "Quel écrivain français a écrit 'Les Misérables' ?",
       "options": [
@@ -4029,167 +4138,6 @@
       "category": "Histoire",
       "id": "q_1784256090743_0_umudt8",
       "addedAt": "2026-07-17T02:41:30.743Z"
-    }
-  ],
-  "version": 353,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-01T00:10:47.085Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel cinéaste français a réalisé 'Amélie Poulain' ?",
-      "options": [
-        "Luc Besson",
-        "Jean-Luc Godard",
-        "Jean-Pierre Jeunet",
-        "Claude Chabrol"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1784256090743_1_pqmpxc",
-      "addedAt": "2026-07-17T02:41:30.743Z"
-    },
-    {
-      "question": "Quel est le plus grand océan du monde en surface ?",
-      "options": [
-        "L'océan Atlantique",
-        "L'océan Indien",
-        "L'océan Pacifique",
-        "L'océan Arctique"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1784256090743_2_k0gzwr",
-      "addedAt": "2026-07-17T02:41:30.743Z"
-    },
-    {
-      "question": "Quel poète français a écrit 'Les Fleurs du Mal' ?",
-      "options": [
-        "Victor Hugo",
-        "Charles Baudelaire",
-        "Arthur Rimbaud",
-        "Paul Verlaine"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1784256090743_3_9b995f",
-      "addedAt": "2026-07-17T02:41:30.743Z"
-    },
-    {
-      "question": "Quel phénomène naturel désigne l'ensemble des variations du niveau des mers dues à l'attraction lunaire ?",
-      "options": [
-        "Les courants marins",
-        "Les marées",
-        "Les tempêtes",
-        "Les tsunamis"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1784256090743_4_i016wo",
-      "addedAt": "2026-07-17T02:41:30.743Z"
-    },
-    {
-      "question": "En mathématiques, quel terme désigne l'étude des formes et des espaces ?",
-      "options": [
-        "L'algèbre",
-        "La géométrie",
-        "L'arithmétique",
-        "La trigonométrie"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1784256090743_5_r9ue6x",
-      "addedAt": "2026-07-17T02:41:30.743Z"
-    },
-    {
-      "question": "Quel musicien britannique a composé la musique de la saga 'Star Wars' ?",
-      "options": [
-        "Hans Zimmer",
-        "John Williams",
-        "Ennio Morricone",
-        "Clint Mansell"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1784256090743_6_0y2juw",
-      "addedAt": "2026-07-17T02:41:30.743Z"
-    },
-    {
-      "question": "En gastronomie, quel est ce plat provençal composé de tomates, aubergines, poivrons et courgettes ?",
-      "options": [
-        "La ratatouille",
-        "La bouillabaisse",
-        "La brandade",
-        "La pissaladière"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1784256090743_7_htno2o",
-      "addedAt": "2026-07-17T02:41:30.743Z"
-    },
-    {
-      "question": "Quel empire antique a construit la Grande Muraille de Chine ?",
-      "options": [
-        "L'empire romain",
-        "L'empire mongol",
-        "L'empire chinois",
-        "L'empire ottoman"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1784256090743_8_md6ej5",
-      "addedAt": "2026-07-17T02:41:30.743Z"
-    },
-    {
-      "question": "Quel artiste surréaliste espagnol est connu pour ses montres molles ?",
-      "options": [
-        "Pablo Picasso",
-        "Joan Miró",
-        "Salvador Dalí",
-        "Juan Gris"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1784256090743_9_y5dp19",
-      "addedAt": "2026-07-17T02:41:30.743Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle débuté ?",
-      "options": [
-        "1776",
-        "1789",
-        "1799",
-        "1815"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1784256090743_10_wsti53",
-      "addedAt": "2026-07-17T02:41:30.743Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide du règne animal en vitesse de pointe ?",
-      "options": [
-        "Le guépard",
-        "L'autruche",
-        "Le faucon pèlerin",
-        "Le lièvre"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1784256090743_11_g2kslt",
-      "addedAt": "2026-07-17T02:41:30.743Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit la symphonie 'Jupiter' ?",
-      "options": [
-        "Ludwig van Beethoven",
-        "Wolfgang Amadeus Mozart",
-        "Joseph Haydn",
-        "Franz Schubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1784249611331_0_r5gksq",
-      "addedAt": "2026-07-17T00:53:31.331Z"
     }
   ],
   "poolSize": 310
