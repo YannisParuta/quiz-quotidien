@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a développé la théorie de la relativité générale ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Stephen Hawking"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785543047084_0_y08f2y",
+      "addedAt": "2026-08-01T00:10:47.084Z"
+    },
+    {
+      "question": "Combien de cordes possède un violon classique ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1785543047084_1_2lh9ye",
+      "addedAt": "2026-08-01T00:10:47.084Z"
+    },
+    {
+      "question": "Quel type de protéine accélère les réactions chimiques dans les cellules ?",
+      "options": [
+        "Lipides",
+        "Enzymes",
+        "Glucides",
+        "Acides nucléiques"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785543047084_2_5egfea",
+      "addedAt": "2026-08-01T00:10:47.084Z"
+    },
+    {
+      "question": "En quel année l'artiste français Jean-Michel Basquiat est-il décédé ?",
+      "options": [
+        "1985",
+        "1987",
+        "1990",
+        "1988"
+      ],
+      "correctAnswer": 3,
+      "category": "Art",
+      "id": "q_1785543047084_3_fjg414",
+      "addedAt": "2026-08-01T00:10:47.084Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé le film 'Inception' en 2010 ?",
+      "options": [
+        "Martin Scorsese",
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Ridley Scott"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1785543047084_4_rth4sn",
+      "addedAt": "2026-08-01T00:10:47.084Z"
+    },
+    {
+      "question": "Quel légume est techniquement un fruit du point de vue botanique ?",
+      "options": [
+        "Carotte",
+        "Tomate",
+        "Pomme de terre",
+        "Betterave"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1785543047084_5_rh2cmj",
+      "addedAt": "2026-08-01T00:10:47.084Z"
+    },
+    {
+      "question": "Quel mathématicien grec a formulé le théorème de Pythagore ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1785543047084_6_tq7c44",
+      "addedAt": "2026-08-01T00:10:47.084Z"
+    },
+    {
+      "question": "Quel cycliste français a remporté 5 Tours de France consécutifs de 1991 à 1995 ?",
+      "options": [
+        "Eddy Merckx",
+        "Miguel Indurain",
+        "Bernard Hinault",
+        "Greg LeMond"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1785543047084_7_a9wrs0",
+      "addedAt": "2026-08-01T00:10:47.084Z"
+    },
+    {
+      "question": "En gastronomie, quel terme français désigne une sauce à base de beurre et de jus de citron ?",
+      "options": [
+        "Béarnaise",
+        "Meunière",
+        "Hollandaise",
+        "Normande"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1785543047084_8_nqsbi7",
+      "addedAt": "2026-08-01T00:10:47.084Z"
+    },
+    {
+      "question": "Quel protocole de communication est fondamental pour le fonctionnement d'Internet ?",
+      "options": [
+        "USB",
+        "TCP/IP",
+        "Bluetooth",
+        "HDMI"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1785543047084_9_9koorl",
+      "addedAt": "2026-08-01T00:10:47.084Z"
+    },
+    {
+      "question": "Quel empire antique a établi la Route de la Soie ?",
+      "options": [
+        "Empire mongol",
+        "Empire perse",
+        "Empire romain",
+        "Empire chinois"
+      ],
+      "correctAnswer": 3,
+      "category": "Histoire",
+      "id": "q_1785543047084_10_92x4sx",
+      "addedAt": "2026-08-01T00:10:47.084Z"
+    },
+    {
+      "question": "Quel oiseau est le plus grand voleur du monde entomologique ?",
+      "options": [
+        "L'aigle",
+        "L'autruche",
+        "Le faucon pèlerin",
+        "Le colibri"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1785543047084_11_ef3qny",
+      "addedAt": "2026-08-01T00:10:47.084Z"
+    },
+    {
       "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
       "options": [
         "Louis Pasteur",
@@ -3873,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1784256090743_0_umudt8",
       "addedAt": "2026-07-17T02:41:30.743Z"
-    },
+    }
+  ],
+  "version": 353,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-01T00:10:47.085Z",
+  "archivedQuestions": [
     {
       "question": "Quel cinéaste français a réalisé 'Amélie Poulain' ?",
       "options": [
@@ -4028,128 +4189,6 @@
       "correctAnswer": 1,
       "category": "Musique",
       "id": "q_1784249611331_0_r5gksq",
-      "addedAt": "2026-07-17T00:53:31.331Z"
-    }
-  ],
-  "version": 352,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-07-31T02:51:35.315Z",
-  "archivedQuestions": [
-    {
-      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
-      "options": [
-        "1965",
-        "1969",
-        "1971",
-        "1973"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1784249611331_1_c3rpo9",
-      "addedAt": "2026-07-17T00:53:31.331Z"
-    },
-    {
-      "question": "Quel archipel volcanique du Pacifique est un État souverain depuis 1960 ?",
-      "options": [
-        "Samoa",
-        "Fidji",
-        "Vanuatu",
-        "Polynésie française"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1784249611331_2_xbpu5p",
-      "addedAt": "2026-07-17T00:53:31.331Z"
-    },
-    {
-      "question": "Quel architecte catalan a conçu la Sagrada Familia ?",
-      "options": [
-        "Joan Miró",
-        "Antoni Gaudí",
-        "Salvador Dalí",
-        "Pablo Picasso"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1784249611331_3_082z5s",
-      "addedAt": "2026-07-17T00:53:31.331Z"
-    },
-    {
-      "question": "Quel est le plus grand parc naturel d'Europe continentale ?",
-      "options": [
-        "Parc des Carpates",
-        "Parc de Doñana",
-        "Parc de Plitvice",
-        "Parc des Tatras"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1784249611331_4_6vig63",
-      "addedAt": "2026-07-17T00:53:31.331Z"
-    },
-    {
-      "question": "Quel mathématicien britannique a créé la machine de Turing, concept fondateur de l'informatique ?",
-      "options": [
-        "Charles Babbage",
-        "Alan Turing",
-        "John von Neumann",
-        "Kurt Gödel"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1784249611331_5_cls1l0",
-      "addedAt": "2026-07-17T00:53:31.331Z"
-    },
-    {
-      "question": "Quel type de cuisine est caractérisé par l'utilisation de riz vinaigré, de nori et de garnitures variées ?",
-      "options": [
-        "Cuisine coréenne",
-        "Cuisine thaïlandaise",
-        "Cuisine japonaise",
-        "Cuisine chinoise"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1784249611331_6_1egwg4",
-      "addedAt": "2026-07-17T00:53:31.331Z"
-    },
-    {
-      "question": "Quel cinéaste italien a réalisé 'La Dolce Vita' en 1960 ?",
-      "options": [
-        "Vittorio De Sica",
-        "Federico Fellini",
-        "Michelangelo Antonioni",
-        "Ennio Morricone"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1784249611331_7_9zd4ie",
-      "addedAt": "2026-07-17T00:53:31.331Z"
-    },
-    {
-      "question": "Quel chanteur de rock britannique a été le frontman du groupe Queen ?",
-      "options": [
-        "David Bowie",
-        "Freddie Mercury",
-        "Mick Jagger",
-        "Robert Plant"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1784249611331_8_i2kaic",
-      "addedAt": "2026-07-17T00:53:31.331Z"
-    },
-    {
-      "question": "Quel était le nom du premier moteur à explosion mis au point par un ingénieur allemand en 1876 ?",
-      "options": [
-        "Moteur Diesel",
-        "Moteur Otto",
-        "Moteur Lenoir",
-        "Moteur Étienne"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1784249611331_9_9pty9f",
       "addedAt": "2026-07-17T00:53:31.331Z"
     }
   ],
