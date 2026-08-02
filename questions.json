@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel pays a inventé le sushi traditionnel ?",
+      "options": [
+        "La Thaïlande",
+        "La Chine",
+        "Le Japon",
+        "La Corée"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1785631465642_0_ug63o6",
+      "addedAt": "2026-08-02T00:44:25.642Z"
+    },
+    {
+      "question": "Combien de symphonies complètes a composées Ludwig van Beethoven ?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1785631465642_1_m5putk",
+      "addedAt": "2026-08-02T00:44:25.642Z"
+    },
+    {
+      "question": "Quel scientifique a développé la théorie de la relativité restreinte ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Stephen Hawking"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785631465642_2_z7w5gq",
+      "addedAt": "2026-08-02T00:44:25.642Z"
+    },
+    {
+      "question": "Quelle capitale sud-américaine est la plus haute du monde ?",
+      "options": [
+        "Lima",
+        "Bogotá",
+        "La Paz",
+        "Quito"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1785631465642_3_cxs9wc",
+      "addedAt": "2026-08-02T00:44:25.642Z"
+    },
+    {
+      "question": "Quel peintre flamand a peint 'Le Fils prodigue' en 1667 ?",
+      "options": [
+        "Rembrandt",
+        "Rubens",
+        "Jan Vermeer",
+        "Pieter Bruegel"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1785631465642_4_p8jgnm",
+      "addedAt": "2026-08-02T00:44:25.642Z"
+    },
+    {
+      "question": "En mathématiques, que représente le nombre Pi ?",
+      "options": [
+        "Le rapport du diamètre au rayon d'un cercle",
+        "Le rapport de la circonférence au diamètre",
+        "La surface d'un cercle unitaire",
+        "L'angle d'un triangle équilatéral"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1785631465642_5_0qomzk",
+      "addedAt": "2026-08-02T00:44:25.642Z"
+    },
+    {
+      "question": "Quel animal est le plus grand reptile du monde ?",
+      "options": [
+        "Le crocodile de l'Afrique",
+        "Le crocodile marin d'Australie",
+        "Le python réticulé",
+        "L'anaconda vert"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1785631465642_6_wvezpi",
+      "addedAt": "2026-08-02T00:44:25.642Z"
+    },
+    {
+      "question": "Combien de cordes a une harpe classique ?",
+      "options": [
+        "12",
+        "46",
+        "22",
+        "36"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1785631465642_7_6qohvv",
+      "addedAt": "2026-08-02T00:44:25.642Z"
+    },
+    {
+      "question": "Quel film de Stanley Kubrick sorti en 1968 est considéré comme visionnaire ?",
+      "options": [
+        "Orange mécanique",
+        "2001 : L'Odyssée de l'espace",
+        "Shining",
+        "Full Metal Jacket"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1785631465642_8_9yra3u",
+      "addedAt": "2026-08-02T00:44:25.642Z"
+    },
+    {
+      "question": "Quel athlète jamaïcain détient le record du monde du 100 mètres ?",
+      "options": [
+        "Usain Bolt",
+        "Yohan Blake",
+        "Nesta Carter",
+        "Justin Gatlin"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1785631465642_9_bmgjiq",
+      "addedAt": "2026-08-02T00:44:25.642Z"
+    },
+    {
+      "question": "Quel minéral est la forme cristalline la plus dure de carbone ?",
+      "options": [
+        "Le graphite",
+        "Le charbon",
+        "Le diamant",
+        "Le carbure"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1785631465642_10_xdunkp",
+      "addedAt": "2026-08-02T00:44:25.642Z"
+    },
+    {
       "question": "Quel écrivain français a remporté le Prix Nobel de littérature en 1964 ?",
       "options": [
         "Jean-Paul Sartre",
@@ -3886,7 +4029,12 @@
       "category": "Science",
       "id": "q_1784341940161_1_z1k9j9",
       "addedAt": "2026-07-18T02:32:20.161Z"
-    },
+    }
+  ],
+  "version": 355,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-02T00:44:25.643Z",
+  "archivedQuestions": [
     {
       "question": "Quel sport nautique utilise une planche et des vagues de mer ?",
       "options": [
@@ -4029,115 +4177,6 @@
       "category": "Art",
       "id": "q_1784335377633_4_ct6ooa",
       "addedAt": "2026-07-18T00:42:57.633Z"
-    }
-  ],
-  "version": 354,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-01T02:50:32.382Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
-      "options": [
-        "Alexandre Dumas",
-        "Victor Hugo",
-        "Honoré de Balzac",
-        "Gustave Flaubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1784335377633_5_6x169u",
-      "addedAt": "2026-07-18T00:42:57.633Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide du monde terrestre ?",
-      "options": [
-        "L'antilope",
-        "Le guépard",
-        "L'autruche",
-        "Le lièvre"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1784335377633_6_ui2mmg",
-      "addedAt": "2026-07-18T00:42:57.633Z"
-    },
-    {
-      "question": "Combien de degrés mesure un angle droit ?",
-      "options": [
-        "45°",
-        "60°",
-        "90°",
-        "180°"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1784335377633_7_hhw7nh",
-      "addedAt": "2026-07-18T00:42:57.633Z"
-    },
-    {
-      "question": "Quel compositeur italien a écrit 'Les Quatre Saisons' ?",
-      "options": [
-        "Antonio Vivaldi",
-        "Giuseppe Verdi",
-        "Gioachino Rossini",
-        "Gioachino Rossini"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1784335377633_8_qv8hno",
-      "addedAt": "2026-07-18T00:42:57.633Z"
-    },
-    {
-      "question": "En quel année le film 'Titanic' de James Cameron est-il sorti ?",
-      "options": [
-        "1995",
-        "1996",
-        "1997",
-        "1998"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1784335377633_9_q484nf",
-      "addedAt": "2026-07-18T00:42:57.633Z"
-    },
-    {
-      "question": "Quel plat italien traditionnel est une pâte en forme de tube garnie de viande ?",
-      "options": [
-        "Les raviolis",
-        "Les cannellonis",
-        "Les lasagnes",
-        "Les pâtes carbonara"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1784335377633_10_vku1bm",
-      "addedAt": "2026-07-18T00:42:57.633Z"
-    },
-    {
-      "question": "Quel empire antique a construit le Colosseum à Rome ?",
-      "options": [
-        "L'empire grec",
-        "L'empire romain",
-        "L'empire égyptien",
-        "L'empire perse"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1784335377633_11_ymluc5",
-      "addedAt": "2026-07-18T00:42:57.633Z"
-    },
-    {
-      "question": "En quelle année l'homme a-t-il marché pour la première fois sur la Lune ?",
-      "options": [
-        "1965",
-        "1969",
-        "1972",
-        "1975"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1784256090743_0_umudt8",
-      "addedAt": "2026-07-17T02:41:30.743Z"
     }
   ],
   "poolSize": 310
