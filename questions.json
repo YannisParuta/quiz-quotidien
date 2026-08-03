@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel pays a inventé le système métrique au 18ème siècle ?",
+      "options": [
+        "L'Allemagne",
+        "La France",
+        "La Suisse",
+        "La Belgique"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785716185617_0_8mbpbh",
+      "addedAt": "2026-08-03T00:16:25.617Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1785716185617_1_voq75n",
+      "addedAt": "2026-08-03T00:16:25.617Z"
+    },
+    {
+      "question": "Quel compositeur a écrit 'Le Clair de Lune' ?",
+      "options": [
+        "Claude Debussy",
+        "Maurice Ravel",
+        "Gabriel Fauré",
+        "Camille Saint-Saëns"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1785716185617_2_fmr64u",
+      "addedAt": "2026-08-03T00:16:25.617Z"
+    },
+    {
+      "question": "Quel élément chimique a le numéro atomique 79 ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "Le cuivre",
+        "Le platine"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785716185617_3_yb41hv",
+      "addedAt": "2026-08-03T00:16:25.617Z"
+    },
+    {
+      "question": "En quel sport la 'Coupe America' est-elle disputée ?",
+      "options": [
+        "Le football",
+        "Le tennis",
+        "La voile",
+        "L'athlétisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1785716185617_4_qeqeqt",
+      "addedAt": "2026-08-03T00:16:25.617Z"
+    },
+    {
+      "question": "Quel château français a été construit par Louis XIV ?",
+      "options": [
+        "Château de Chenonceau",
+        "Château de Versailles",
+        "Château de Fontainebleau",
+        "Château de Chambord"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785716185617_5_jqf977",
+      "addedAt": "2026-08-03T00:16:25.617Z"
+    },
+    {
+      "question": "Quel type de fromage français est fabriqué en Normandie et porte le nom d'une commune ?",
+      "options": [
+        "Le Roquefort",
+        "Le Comté",
+        "Le Camembert",
+        "Le Brie"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1785716185617_6_dy88dy",
+      "addedAt": "2026-08-03T00:16:25.617Z"
+    },
+    {
+      "question": "Quel mouvement artistique a été initié par Andy Warhol dans les années 1960 ?",
+      "options": [
+        "L'impressionnisme",
+        "L'art pop",
+        "L'expressionnisme abstrait",
+        "Le surréalisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1785716185617_7_5mx0d5",
+      "addedAt": "2026-08-03T00:16:25.617Z"
+    },
+    {
+      "question": "Quel langage de programmation est utilisé pour créer des pages web interactives côté client ?",
+      "options": [
+        "Python",
+        "PHP",
+        "JavaScript",
+        "Java"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1785716185617_8_4ovjqf",
+      "addedAt": "2026-08-03T00:16:25.617Z"
+    },
+    {
       "question": "Quel pays a inventé le café moulu moderne au 19e siècle ?",
       "options": [
         "La Turquie",
@@ -3912,7 +4029,12 @@
       "category": "Art",
       "id": "q_1784429197945_0_vth8xj",
       "addedAt": "2026-07-19T02:46:37.945Z"
-    },
+    }
+  ],
+  "version": 357,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-03T00:16:25.618Z",
+  "archivedQuestions": [
     {
       "question": "Quel continent est le plus grand en termes de surface ?",
       "options": [
@@ -4029,167 +4151,6 @@
       "category": "Sport",
       "id": "q_1784429197945_9_csehs3",
       "addedAt": "2026-07-19T02:46:37.945Z"
-    }
-  ],
-  "version": 356,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-02T02:49:35.466Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel élément chimique est essentiellement composé les diamants ?",
-      "options": [
-        "L'oxygène",
-        "Le carbone",
-        "L'azote",
-        "Le silicium"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784429197945_10_fhtk03",
-      "addedAt": "2026-07-19T02:46:37.945Z"
-    },
-    {
-      "question": "Quel est le plus grand désert du monde ?",
-      "options": [
-        "Le désert du Sahara",
-        "Le désert d'Arabie",
-        "Le désert de l'Antarctique",
-        "Le désert de Gobi"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1784422599459_0_7ys09o",
-      "addedAt": "2026-07-19T00:56:39.459Z"
-    },
-    {
-      "question": "Quel peintre impressionniste a coupé une partie de son oreille ?",
-      "options": [
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Vincent van Gogh",
-        "Paul Cézanne"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1784422599459_1_ygtatk",
-      "addedAt": "2026-07-19T00:56:39.459Z"
-    },
-    {
-      "question": "Quel sport utilise des boules et un cochonnet ?",
-      "options": [
-        "Le curling",
-        "La pétanque",
-        "Le bowling",
-        "Le golf"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1784422599459_2_zaey8t",
-      "addedAt": "2026-07-19T00:56:39.459Z"
-    },
-    {
-      "question": "Quel poète français du 19e siècle a écrit 'Le Corbeau' ?",
-      "options": [
-        "Stéphane Mallarmé",
-        "Charles Baudelaire",
-        "Edgar Allan Poe",
-        "Paul Verlaine"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1784422599459_3_fyi1v3",
-      "addedAt": "2026-07-19T00:56:39.459Z"
-    },
-    {
-      "question": "Quel est le plus grand océan de la Terre ?",
-      "options": [
-        "L'océan Atlantique",
-        "L'océan Pacifique",
-        "L'océan Indien",
-        "L'océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1784422599459_4_iz1ynf",
-      "addedAt": "2026-07-19T00:56:39.459Z"
-    },
-    {
-      "question": "Quel est le nombre de cordes d'une guitare classique ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1784422599459_5_l4pgto",
-      "addedAt": "2026-07-19T00:56:39.459Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en vitamine C et en bromélaïne ?",
-      "options": [
-        "La mangue",
-        "La banane",
-        "L'ananas",
-        "La papaye"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1784422599459_6_e3caaa",
-      "addedAt": "2026-07-19T00:56:39.459Z"
-    },
-    {
-      "question": "Quel langage de programmation est principalement utilisé pour développer des applications web ?",
-      "options": [
-        "Python",
-        "Java",
-        "JavaScript",
-        "C++"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1784422599459_7_fqig7k",
-      "addedAt": "2026-07-19T00:56:39.459Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide sur terre ?",
-      "options": [
-        "Le lion",
-        "Le guépard",
-        "L'autruche",
-        "L'antilope"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1784422599459_8_jfny7z",
-      "addedAt": "2026-07-19T00:56:39.459Z"
-    },
-    {
-      "question": "Quel est le plus grand musée du monde par ses collections ?",
-      "options": [
-        "Musée du Louvre",
-        "Musée britannique",
-        "Musée métropolitain",
-        "Galerie des Offices"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_1784341940161_0_9ek8jl",
-      "addedAt": "2026-07-18T02:32:20.161Z"
-    },
-    {
-      "question": "Quel type de roche se forme par le refroidissement de la lave volcanique ?",
-      "options": [
-        "Roche sédimentaire",
-        "Roche métamorphique",
-        "Roche ignée",
-        "Roche calcaire"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1784341940161_1_z1k9j9",
-      "addedAt": "2026-07-18T02:32:20.161Z"
     }
   ],
   "poolSize": 310
