@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel gaz composant l'atmosphère terrestre est essentiel à la photosynthèse ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'argon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785725438849_0_09b0s4",
+      "addedAt": "2026-08-03T02:50:38.849Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit 'Les Trois Mousquetaires' ?",
+      "options": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1785725438849_1_rygyuo",
+      "addedAt": "2026-08-03T02:50:38.849Z"
+    },
+    {
+      "question": "Quel sport nautique se pratique debout sur une planche avec une pagaie ?",
+      "options": [
+        "Le surf",
+        "Le paddle",
+        "Le wakeboard",
+        "Le ski nautique"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1785725438849_2_fvmyq1",
+      "addedAt": "2026-08-03T02:50:38.849Z"
+    },
+    {
+      "question": "Quel mouvement artistique du 19ème siècle était centré sur la lumière et les couleurs ?",
+      "options": [
+        "Le Romantisme",
+        "Le Réalisme",
+        "L'Impressionnisme",
+        "Le Symbolisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1785725438849_3_s2xbdx",
+      "addedAt": "2026-08-03T02:50:38.849Z"
+    },
+    {
+      "question": "Quel élément chimique a le symbole 'Au' dans le tableau périodique ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "L'aluminium",
+        "L'arsenic"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785725438849_4_gghaea",
+      "addedAt": "2026-08-03T02:50:38.849Z"
+    },
+    {
+      "question": "Quel célèbre compositeur allemand a écrit 'La Marche de Radetzky' ?",
+      "options": [
+        "Richard Wagner",
+        "Johann Strauss I",
+        "Johannes Brahms",
+        "Felix Mendelssohn"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1785725438849_5_46j5z2",
+      "addedAt": "2026-08-03T02:50:38.849Z"
+    },
+    {
+      "question": "En quelle année l'homme a-t-il marché pour la première fois sur la Lune ?",
+      "options": [
+        "1965",
+        "1967",
+        "1969",
+        "1971"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1785725438849_6_31su73",
+      "addedAt": "2026-08-03T02:50:38.849Z"
+    },
+    {
+      "question": "Quel fruit tropical contient une enzyme capable de digérer les protéines ?",
+      "options": [
+        "La mangue",
+        "L'ananas",
+        "La papaye",
+        "La goyave"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1785725438849_7_8hres4",
+      "addedAt": "2026-08-03T02:50:38.849Z"
+    },
+    {
+      "question": "Quel est le plus grand lac d'eau douce du monde ?",
+      "options": [
+        "Le lac Baïkal",
+        "Le lac Supérieur",
+        "Le lac Victoria",
+        "Le lac Tanganyika"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1785725438849_8_a9tenb",
+      "addedAt": "2026-08-03T02:50:38.849Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé 'Inception' et 'Interstellar' ?",
+      "options": [
+        "David Fincher",
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Ridley Scott"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1785725438849_9_y8bwfq",
+      "addedAt": "2026-08-03T02:50:38.849Z"
+    },
+    {
+      "question": "Quel type de tissu produit des anticorps pour combattre les infections ?",
+      "options": [
+        "Le tissu musculaire",
+        "Le tissu osseux",
+        "Le tissu lymphoïde",
+        "Le tissu conjonctif"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1785725438849_10_tes84z",
+      "addedAt": "2026-08-03T02:50:38.849Z"
+    },
+    {
       "question": "Quel pays a inventé le système métrique au 18ème siècle ?",
       "options": [
         "L'Allemagne",
@@ -3886,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1784507132643_0_um3j5y",
       "addedAt": "2026-07-20T00:25:32.644Z"
-    },
+    }
+  ],
+  "version": 358,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-03T02:50:38.850Z",
+  "archivedQuestions": [
     {
       "question": "Quel biologiste britannique a proposé la théorie de l'évolution par sélection naturelle ?",
       "options": [
@@ -4028,128 +4176,6 @@
       "correctAnswer": 1,
       "category": "Art",
       "id": "q_1784429197945_0_vth8xj",
-      "addedAt": "2026-07-19T02:46:37.945Z"
-    }
-  ],
-  "version": 357,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-03T00:16:25.618Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel continent est le plus grand en termes de surface ?",
-      "options": [
-        "Afrique",
-        "Asie",
-        "Amérique du Nord",
-        "Antarctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1784429197945_1_q3jfaq",
-      "addedAt": "2026-07-19T02:46:37.945Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en bromélaïne, une enzyme digestive ?",
-      "options": [
-        "La mangue",
-        "L'ananas",
-        "La papaye",
-        "La goyave"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1784429197945_2_wy146z",
-      "addedAt": "2026-07-19T02:46:37.945Z"
-    },
-    {
-      "question": "Quel mathématicien grec ancien a démontré le théorème sur les triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Archimède",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1784429197945_3_ljnrrh",
-      "addedAt": "2026-07-19T02:46:37.945Z"
-    },
-    {
-      "question": "Quel est le plus grand désert froid de la planète ?",
-      "options": [
-        "Le désert de Gobi",
-        "L'Antarctique",
-        "Le désert du Sahara",
-        "Le désert de Kalahari"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1784429197945_4_vtpffa",
-      "addedAt": "2026-07-19T02:46:37.945Z"
-    },
-    {
-      "question": "Quel instrument à cordes est utilisé dans la musique classique indienne ?",
-      "options": [
-        "Le sitar",
-        "Le violon",
-        "La guitare",
-        "La harpe"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1784429197945_5_zkceme",
-      "addedAt": "2026-07-19T02:46:37.945Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère marin du monde ?",
-      "options": [
-        "Le requin blanc",
-        "Le dauphin",
-        "La baleine bleue",
-        "L'orque"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1784429197945_6_riu3i7",
-      "addedAt": "2026-07-19T02:46:37.945Z"
-    },
-    {
-      "question": "Quel cinéaste français a réalisé 'Amélie' en 2001 ?",
-      "options": [
-        "Luc Besson",
-        "Jean-Pierre Jeunet",
-        "Jacques Tati",
-        "François Truffaut"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1784429197945_7_jrm7xj",
-      "addedAt": "2026-07-19T02:46:37.945Z"
-    },
-    {
-      "question": "Quel processus biologique permet aux plantes de produire leur propre nourriture ?",
-      "options": [
-        "La respiration",
-        "La photosynthèse",
-        "La transpiration",
-        "La fermentation"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784429197945_8_6fxuie",
-      "addedAt": "2026-07-19T02:46:37.945Z"
-    },
-    {
-      "question": "Quel sport automobile se déroule annuellement à Monaco sur un circuit urbain ?",
-      "options": [
-        "Les 24 Heures du Mans",
-        "Le Grand Prix de Monaco",
-        "Le Rallye de Monte-Carlo",
-        "Le Dakar"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1784429197945_9_csehs3",
       "addedAt": "2026-07-19T02:46:37.945Z"
     }
   ],
