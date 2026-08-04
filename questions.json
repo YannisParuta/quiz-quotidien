@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus long fleuve d'Europe ?",
+      "options": [
+        "Le Danube",
+        "La Volga",
+        "Le Rhin",
+        "La Loire"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1785804366067_0_x7h2m7",
+      "addedAt": "2026-08-04T00:46:06.067Z"
+    },
+    {
+      "question": "En quel année la Première Guerre mondiale a-t-elle commencé ?",
+      "options": [
+        "1912",
+        "1914",
+        "1916",
+        "1918"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785804366067_1_lugspx",
+      "addedAt": "2026-08-04T00:46:06.067Z"
+    },
+    {
+      "question": "Quel élément chimique est représenté par le symbole 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1785804366067_2_0qohos",
+      "addedAt": "2026-08-04T00:46:06.067Z"
+    },
+    {
+      "question": "Quel roman de Gustave Flaubert raconte l'histoire d'une femme de province ?",
+      "options": [
+        "Les Misérables",
+        "Madame Bovary",
+        "Notre-Dame de Paris",
+        "Le Père Goriot"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1785804366067_3_lhlv7j",
+      "addedAt": "2026-08-04T00:46:06.067Z"
+    },
+    {
+      "question": "Combien de cordes possède un violoncelle ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1785804366067_4_1ywjyh",
+      "addedAt": "2026-08-04T00:46:06.067Z"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde par superficie ?",
+      "options": [
+        "Monaco",
+        "San Marin",
+        "Cité du Vatican",
+        "Liechtenstein"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1785804366067_5_6wb4ah",
+      "addedAt": "2026-08-04T00:46:06.067Z"
+    },
+    {
+      "question": "En quel année l'impressionnisme a-t-il été nommé après l'exposition de Monet ?",
+      "options": [
+        "1872",
+        "1874",
+        "1876",
+        "1880"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1785804366067_6_s3bta4",
+      "addedAt": "2026-08-04T00:46:06.067Z"
+    },
+    {
+      "question": "Quel mathématicien français a donné son nom à la courbe en cloche statistique ?",
+      "options": [
+        "Fermat",
+        "Laplace",
+        "Descartes",
+        "Fourier"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1785804366067_7_4whny3",
+      "addedAt": "2026-08-04T00:46:06.067Z"
+    },
+    {
+      "question": "Quel insecte produit de la soie naturelle ?",
+      "options": [
+        "L'abeille",
+        "Le ver à soie",
+        "La fourmi",
+        "Le scarabée"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1785804366067_8_7xnyc6",
+      "addedAt": "2026-08-04T00:46:06.067Z"
+    },
+    {
+      "question": "Quel sport aquatique consiste à naviguer avec une planche et une voile ?",
+      "options": [
+        "Le surfing",
+        "Le kayak",
+        "La planche à voile",
+        "Le wakeboard"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1785804366067_9_bem1gn",
+      "addedAt": "2026-08-04T00:46:06.067Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en bromélaïne, une enzyme digestive ?",
+      "options": [
+        "La banane",
+        "L'ananas",
+        "La papaye",
+        "La mangue"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1785804366067_10_f8o3ly",
+      "addedAt": "2026-08-04T00:46:06.067Z"
+    },
+    {
       "question": "Quel gaz composant l'atmosphère terrestre est essentiel à la photosynthèse ?",
       "options": [
         "L'oxygène",
@@ -3886,7 +4029,12 @@
       "category": "Culture",
       "id": "q_1784518181113_2_bnrbob",
       "addedAt": "2026-07-20T03:29:41.113Z"
-    },
+    }
+  ],
+  "version": 359,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-04T00:46:06.068Z",
+  "archivedQuestions": [
     {
       "question": "Combien de sets faut-il remporter pour gagner un match de tennis professionnel en général ?",
       "options": [
@@ -4029,154 +4177,6 @@
       "category": "Géographie",
       "id": "q_1784507132643_0_um3j5y",
       "addedAt": "2026-07-20T00:25:32.644Z"
-    }
-  ],
-  "version": 358,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-03T02:50:38.850Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel biologiste britannique a proposé la théorie de l'évolution par sélection naturelle ?",
-      "options": [
-        "Alfred Wallace",
-        "Charles Darwin",
-        "Thomas Huxley",
-        "Richard Dawkins"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784507132644_1_hh1g7e",
-      "addedAt": "2026-07-20T00:25:32.644Z"
-    },
-    {
-      "question": "Quel peintre néerlandais a coupé une partie de son oreille ?",
-      "options": [
-        "Rembrandt",
-        "Paul Klee",
-        "Vincent van Gogh",
-        "Paul Mondrian"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1784507132644_2_8yg9uv",
-      "addedAt": "2026-07-20T00:25:32.644Z"
-    },
-    {
-      "question": "Combien de chambres composent le cœur humain ?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1784507132644_3_2ydwkq",
-      "addedAt": "2026-07-20T00:25:32.644Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet d'Afrique ?",
-      "options": [
-        "Mont Kenya",
-        "Kilimandjaro",
-        "Mont Stanley",
-        "Mont Speke"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1784507132644_4_e4t8lt",
-      "addedAt": "2026-07-20T00:25:32.644Z"
-    },
-    {
-      "question": "En quel siècle la Révolution française s'est-elle déroulée ?",
-      "options": [
-        "XVIIe siècle",
-        "XVIIIe siècle",
-        "XIXe siècle",
-        "XXe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1784507132644_5_q9jzwj",
-      "addedAt": "2026-07-20T00:25:32.644Z"
-    },
-    {
-      "question": "Quel instrument de musique classique possède 88 touches ?",
-      "options": [
-        "Violon",
-        "Flûte",
-        "Piano",
-        "Harpe"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1784507132644_6_oqwky7",
-      "addedAt": "2026-07-20T00:25:32.644Z"
-    },
-    {
-      "question": "Quel type de cellule du système immunitaire détruit les cellules infectées ?",
-      "options": [
-        "Globule blanc",
-        "Lymphocyte T",
-        "Plaquette",
-        "Globule rouge"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784507132644_7_18k2r5",
-      "addedAt": "2026-07-20T00:25:32.644Z"
-    },
-    {
-      "question": "Quel champion de tennis français a remporté 20 titres du Grand Chelem en simple ?",
-      "options": [
-        "Henri Cochet",
-        "Pierre de Coubertin",
-        "Jean-Claude Barclay",
-        "Pas de champion français avec ce record"
-      ],
-      "correctAnswer": 3,
-      "category": "Sport",
-      "id": "q_1784507132644_8_qeta1x",
-      "addedAt": "2026-07-20T00:25:32.644Z"
-    },
-    {
-      "question": "Quel philosophe grec a enseigné dans le Lycée d'Athènes ?",
-      "options": [
-        "Socrate",
-        "Platon",
-        "Aristote",
-        "Zénon"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1784507132644_9_a1z9pg",
-      "addedAt": "2026-07-20T00:25:32.644Z"
-    },
-    {
-      "question": "Quel minéral est la forme cristalline pure du carbone la plus dure ?",
-      "options": [
-        "Graphite",
-        "Diamant",
-        "Charbon",
-        "Silice"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784507132644_10_emt968",
-      "addedAt": "2026-07-20T00:25:32.644Z"
-    },
-    {
-      "question": "Quel célèbre tableau de Claude Monet représente des nymphéas dans un jardin ?",
-      "options": [
-        "Les Coquelicots",
-        "Les Nymphéas",
-        "La Cathédrale de Rouen",
-        "Impression, Sunrise"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1784429197945_0_vth8xj",
-      "addedAt": "2026-07-19T02:46:37.945Z"
     }
   ],
   "poolSize": 310
