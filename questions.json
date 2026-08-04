@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a remporté le prix Nobel de littérature en 1947 ?",
+      "options": [
+        "André Gide",
+        "François Mauriac",
+        "Albert Camus",
+        "Jean-Paul Sartre"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1785810859441_0_qx9nu9",
+      "addedAt": "2026-08-04T02:34:19.441Z"
+    },
+    {
+      "question": "En quelle année l'électricité a-t-elle été découverte par Benjamin Franklin ?",
+      "options": [
+        "1712",
+        "1752",
+        "1792",
+        "1832"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785810859441_1_g328mq",
+      "addedAt": "2026-08-04T02:34:19.441Z"
+    },
+    {
+      "question": "Quel chimiste suédois a inventé la dynamite ?",
+      "options": [
+        "Karl Scheele",
+        "Alfred Nobel",
+        "Jöns Berzelius",
+        "Carl Wilhelm Scheele"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785810859441_2_wlchqx",
+      "addedAt": "2026-08-04T02:34:19.441Z"
+    },
+    {
+      "question": "En quel sport Serena Williams a-t-elle remporté 23 titres du Grand Chelem ?",
+      "options": [
+        "Badminton",
+        "Tennis",
+        "Squash",
+        "Ping-pong"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1785810859441_3_9nb91f",
+      "addedAt": "2026-08-04T02:34:19.441Z"
+    },
+    {
+      "question": "Quel mouvement artistique a été fondé par Pablo Picasso et Georges Braque ?",
+      "options": [
+        "Surréalisme",
+        "Cubisme",
+        "Expressionnisme",
+        "Fauvisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1785810859441_4_pbg0aw",
+      "addedAt": "2026-08-04T02:34:19.441Z"
+    },
+    {
+      "question": "Quel instrument de musique possède 88 touches ?",
+      "options": [
+        "Violon",
+        "Guitare acoustique",
+        "Piano",
+        "Harpe"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1785810859441_5_sdqhqt",
+      "addedAt": "2026-08-04T02:34:19.441Z"
+    },
+    {
+      "question": "Quel est le plus grand temple bouddhiste du monde ?",
+      "options": [
+        "Temple du Botataung",
+        "Borobudur",
+        "Temple d'Angkor Vat",
+        "Pagode de Shwedagon"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1785810859441_6_001ld2",
+      "addedAt": "2026-08-04T02:34:19.441Z"
+    },
+    {
+      "question": "Quel type de plante carnivore attire ses proies avec une odeur de charogne ?",
+      "options": [
+        "Dionée attrape-mouche",
+        "Sarracénie",
+        "Népenthès",
+        "Grassette"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1785810859441_7_ydsydq",
+      "addedAt": "2026-08-04T02:34:19.441Z"
+    },
+    {
+      "question": "Quel est le nombre de côtés d'un hectogone régulier ?",
+      "options": [
+        "80",
+        "90",
+        "100",
+        "110"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1785810859441_8_oaywfq",
+      "addedAt": "2026-08-04T02:34:19.441Z"
+    },
+    {
+      "question": "Quel réalisateur a créé le film 'Blade Runner' en 1982 ?",
+      "options": [
+        "George Lucas",
+        "James Cameron",
+        "Ridley Scott",
+        "Steven Spielberg"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1785810859441_9_mf0j6w",
+      "addedAt": "2026-08-04T02:34:19.441Z"
+    },
+    {
+      "question": "Quel pays produit le plus de cacao au monde ?",
+      "options": [
+        "Brésil",
+        "Cameroun",
+        "Ghana",
+        "Côte d'Ivoire"
+      ],
+      "correctAnswer": 3,
+      "category": "Gastronomie",
+      "id": "q_1785810859441_10_jd2927",
+      "addedAt": "2026-08-04T02:34:19.441Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été créé par Linus Torvalds ?",
+      "options": [
+        "macOS",
+        "Linux",
+        "Android",
+        "iOS"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1785810859441_11_zuikkc",
+      "addedAt": "2026-08-04T02:34:19.441Z"
+    },
+    {
       "question": "Quel est le plus long fleuve d'Europe ?",
       "options": [
         "Le Danube",
@@ -3873,7 +4029,12 @@
       "category": "Art",
       "id": "q_1784594605076_3_zczimf",
       "addedAt": "2026-07-21T00:43:25.076Z"
-    },
+    }
+  ],
+  "version": 360,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-04T02:34:19.442Z",
+  "archivedQuestions": [
     {
       "question": "Quel mathématicien grec a découvert le théorème du triangle rectangle ?",
       "options": [
@@ -4029,154 +4190,6 @@
       "category": "Culture",
       "id": "q_1784518181113_2_bnrbob",
       "addedAt": "2026-07-20T03:29:41.113Z"
-    }
-  ],
-  "version": 359,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-04T00:46:06.068Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de sets faut-il remporter pour gagner un match de tennis professionnel en général ?",
-      "options": [
-        "1 set",
-        "2 sets",
-        "3 sets",
-        "4 sets"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1784518181113_3_lld85z",
-      "addedAt": "2026-07-20T03:29:41.113Z"
-    },
-    {
-      "question": "Quel courant artistique a été fondé par Pablo Picasso et Georges Braque au début du 20ème siècle ?",
-      "options": [
-        "Le Surréalisme",
-        "Le Cubisme",
-        "L'Expressionnisme",
-        "Le Dadaïsme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1784518181113_4_7rd5cp",
-      "addedAt": "2026-07-20T03:29:41.113Z"
-    },
-    {
-      "question": "Quel écrivain britannique a créé la série littéraire 'Harry Potter' ?",
-      "options": [
-        "J.K. Rowling",
-        "Stephen King",
-        "George R.R. Martin",
-        "Roald Dahl"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1784518181113_5_7f2owt",
-      "addedAt": "2026-07-20T03:29:41.113Z"
-    },
-    {
-      "question": "Quel animal est le seul mammifère capable de voler ?",
-      "options": [
-        "La chauve-souris",
-        "L'écureuil volant",
-        "La marmotte",
-        "Le lémur volant"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1784518181113_6_mxh0xy",
-      "addedAt": "2026-07-20T03:29:41.113Z"
-    },
-    {
-      "question": "Quel est le résultat de la racine carrée de 144 ?",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "13"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1784518181113_7_buxp0m",
-      "addedAt": "2026-07-20T03:29:41.113Z"
-    },
-    {
-      "question": "Quel musicien autrichien a écrit la symphonie 'Hymne à la joie' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Franz Schubert",
-        "Joseph Haydn"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1784518181113_8_qg2qxo",
-      "addedAt": "2026-07-20T03:29:41.113Z"
-    },
-    {
-      "question": "Quel film d'animation Pixar raconte l'histoire d'un clown poisson à la recherche de son fils ?",
-      "options": [
-        "Raiponce",
-        "Vice-Versa",
-        "Le Monde de Nemo",
-        "Monstres & Cie"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1784518181113_9_1gy4z0",
-      "addedAt": "2026-07-20T03:29:41.113Z"
-    },
-    {
-      "question": "Quel est le langage de programmation le plus utilisé pour le développement web côté serveur ?",
-      "options": [
-        "JavaScript",
-        "PHP",
-        "Ruby",
-        "C++"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1784518181113_10_ydjz0q",
-      "addedAt": "2026-07-20T03:29:41.113Z"
-    },
-    {
-      "question": "Quel type de piment est utilisé pour préparer le paprika, l'épice hongroise ?",
-      "options": [
-        "Le piment de Cayenne",
-        "Le piment Piquante",
-        "Le piment doux rouge",
-        "Le piment Jalapeño"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1784518181113_11_n58ln1",
-      "addedAt": "2026-07-20T03:29:41.113Z"
-    },
-    {
-      "question": "Quel empire a construit les pyramides de Gizeh ?",
-      "options": [
-        "L'Empire romain",
-        "L'Égypte ancienne du Nouvel Empire",
-        "L'Égypte ancienne de l'Ancien Empire",
-        "L'Empire perse"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1784518181113_12_0pki1j",
-      "addedAt": "2026-07-20T03:29:41.113Z"
-    },
-    {
-      "question": "Quel océan est le plus profond du monde ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1784507132643_0_um3j5y",
-      "addedAt": "2026-07-20T00:25:32.644Z"
     }
   ],
   "poolSize": 310
