@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a remporté le Prix Nobel de littérature en 2014 ?",
+      "options": [
+        "Patrick Modiano",
+        "Didier Drogba",
+        "Franck Thilliez",
+        "Joël Dicker"
+      ],
+      "correctAnswer": 0,
+      "category": "Littérature",
+      "id": "q_1785889682073_0_u5apzr",
+      "addedAt": "2026-08-05T00:28:02.073Z"
+    },
+    {
+      "question": "Quel minéral constitue les diamants ?",
+      "options": [
+        "Le graphite",
+        "Le carbone",
+        "Le silicium",
+        "Le quartz"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1785889682073_1_aqvk60",
+      "addedAt": "2026-08-05T00:28:02.073Z"
+    },
+    {
+      "question": "En quelle année la première Olympiade moderne a-t-elle eu lieu ?",
+      "options": [
+        "1896",
+        "1912",
+        "1900",
+        "1908"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1785889682073_2_deb7k8",
+      "addedAt": "2026-08-05T00:28:02.073Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Asie ?",
+      "options": [
+        "Le Mékong",
+        "Le Yangtzé",
+        "L'Indus",
+        "L'Amour"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1785889682073_3_99fm1y",
+      "addedAt": "2026-08-05T00:28:02.073Z"
+    },
+    {
+      "question": "Quel genre musical est associé à John Coltrane ?",
+      "options": [
+        "Le blues",
+        "Le jazz",
+        "Le rock",
+        "La musique classique"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1785889682073_4_3go1u3",
+      "addedAt": "2026-08-05T00:28:02.073Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre actuel ?",
+      "options": [
+        "Le rhinocéros blanc",
+        "L'hippopotame",
+        "L'éléphant d'Afrique",
+        "L'ours grizzly"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1785889682073_5_2znf0j",
+      "addedAt": "2026-08-05T00:28:02.073Z"
+    },
+    {
+      "question": "En quelle année le mur de Berlin a-t-il été construit ?",
+      "options": [
+        "1959",
+        "1961",
+        "1963",
+        "1965"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1785889682073_6_v3qdb3",
+      "addedAt": "2026-08-05T00:28:02.073Z"
+    },
+    {
+      "question": "Quel cinéaste a réalisé 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "David Fincher",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1785889682073_7_o3k60j",
+      "addedAt": "2026-08-05T00:28:02.073Z"
+    },
+    {
+      "question": "Quel courant artistique a été fondé par Pablo Picasso et Georges Braque ?",
+      "options": [
+        "Le surréalisme",
+        "L'expressionnisme",
+        "Le cubisme",
+        "Le dadaïsme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1785889682073_8_urahak",
+      "addedAt": "2026-08-05T00:28:02.073Z"
+    },
+    {
+      "question": "Quel spice est le plus cher au poids ?",
+      "options": [
+        "Le poivre",
+        "La vanille",
+        "Le safran",
+        "La cannelle"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1785889682073_9_u1zope",
+      "addedAt": "2026-08-05T00:28:02.073Z"
+    },
+    {
+      "question": "Quel archipel grec compte plus de 6000 îles ?",
+      "options": [
+        "Les Îles Féroé",
+        "Les Açores",
+        "Les îles grecques",
+        "Les Galápagos"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1785889682073_10_j96ecd",
+      "addedAt": "2026-08-05T00:28:02.073Z"
+    },
+    {
+      "question": "Quel philosophe grec a créé l'Académie à Athènes ?",
+      "options": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Héraclite"
+      ],
+      "correctAnswer": 1,
+      "category": "Culture",
+      "id": "q_1785889682073_11_3avott",
+      "addedAt": "2026-08-05T00:28:02.073Z"
+    },
+    {
       "question": "Quel écrivain français a remporté le prix Nobel de littérature en 1947 ?",
       "options": [
         "André Gide",
@@ -3873,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1784601858159_2_3winwc",
       "addedAt": "2026-07-21T02:44:18.159Z"
-    },
+    }
+  ],
+  "version": 361,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-05T00:28:02.074Z",
+  "archivedQuestions": [
     {
       "question": "Quel est l'océan le plus profond du monde ?",
       "options": [
@@ -4029,167 +4190,6 @@
       "category": "Art",
       "id": "q_1784594605076_3_zczimf",
       "addedAt": "2026-07-21T00:43:25.076Z"
-    }
-  ],
-  "version": 360,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-04T02:34:19.442Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mathématicien grec a découvert le théorème du triangle rectangle ?",
-      "options": [
-        "Archimède",
-        "Pythagore",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1784594605076_4_7q6rym",
-      "addedAt": "2026-07-21T00:43:25.076Z"
-    },
-    {
-      "question": "Quel est le plus grand organisme vivant sur Terre ?",
-      "options": [
-        "La baleine bleue",
-        "Le séquoia géant",
-        "Un champignon souterrain",
-        "Le corail"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1784594605076_5_d9s4wh",
-      "addedAt": "2026-07-21T00:43:25.076Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit '9 Symphonies' dont la dernière contient 'L'Hymne à la Joie' ?",
-      "options": [
-        "Wolfgang Mozart",
-        "Johann Bach",
-        "Ludwig van Beethoven",
-        "Georg Händel"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1784594605076_6_0sacmt",
-      "addedAt": "2026-07-21T00:43:25.076Z"
-    },
-    {
-      "question": "En quel année la Bastille a-t-elle été prise lors de la Révolution française ?",
-      "options": [
-        "1788",
-        "1789",
-        "1790",
-        "1791"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1784594605076_7_udcqhu",
-      "addedAt": "2026-07-21T00:43:25.076Z"
-    },
-    {
-      "question": "Quel sport est aussi appelé 'le roi des sports' ?",
-      "options": [
-        "Le tennis",
-        "L'athlétisme",
-        "Le basketball",
-        "Le hockey"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1784594605076_8_wsi30q",
-      "addedAt": "2026-07-21T00:43:25.076Z"
-    },
-    {
-      "question": "Quel pays a inventé les pâtes alimentaires comme les spaghettis ?",
-      "options": [
-        "La France",
-        "La Chine",
-        "L'Italie",
-        "La Grèce"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1784594605076_9_gxj17x",
-      "addedAt": "2026-07-21T00:43:25.076Z"
-    },
-    {
-      "question": "Quel métal est le meilleur conducteur d'électricité ?",
-      "options": [
-        "L'aluminium",
-        "Le cuivre",
-        "L'argent",
-        "L'or"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1784594605076_10_xzj7y7",
-      "addedAt": "2026-07-21T00:43:25.076Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la saga 'Star Wars' originelle ?",
-      "options": [
-        "Steven Spielberg",
-        "George Lucas",
-        "James Cameron",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1784594605076_11_zdkwbg",
-      "addedAt": "2026-07-21T00:43:25.076Z"
-    },
-    {
-      "question": "Quel système d'exploitation a été créé par Microsoft ?",
-      "options": [
-        "macOS",
-        "Linux",
-        "Windows",
-        "Android"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1784594605076_12_xxtts0",
-      "addedAt": "2026-07-21T00:43:25.076Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet du continent africain ?",
-      "options": [
-        "Le Mont Kenya",
-        "Le Kilimandjaro",
-        "Le Mont Cameroun",
-        "Le Mont Stanley"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1784518181113_0_b1e6tf",
-      "addedAt": "2026-07-20T03:29:41.113Z"
-    },
-    {
-      "question": "Quel biologiste britannique a développé la théorie de l'évolution par sélection naturelle ?",
-      "options": [
-        "Alfred Russel Wallace",
-        "Charles Darwin",
-        "Jean-Baptiste Lamarck",
-        "Gregor Mendel"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784518181113_1_m8miui",
-      "addedAt": "2026-07-20T03:29:41.113Z"
-    },
-    {
-      "question": "Quel est le plus grand musée du monde en termes de collection ?",
-      "options": [
-        "Le British Museum",
-        "Le Musée du Louvre",
-        "Le Métropolitain Museum",
-        "Le Musée de l'Ermitage"
-      ],
-      "correctAnswer": 0,
-      "category": "Culture",
-      "id": "q_1784518181113_2_bnrbob",
-      "addedAt": "2026-07-20T03:29:41.113Z"
     }
   ],
   "poolSize": 310
