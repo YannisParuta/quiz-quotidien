@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "En quelle année la Révolution française a-t-elle commencé ?",
+      "options": [
+        "1785",
+        "1789",
+        "1793",
+        "1801"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786070452993_0_9bvjdu",
+      "addedAt": "2026-08-07T02:40:52.993Z"
+    },
+    {
+      "question": "Quel artiste néerlandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Vincent van Gogh",
+        "Johannes Vermeer",
+        "Piet Mondrian"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1786070452993_1_edl31i",
+      "addedAt": "2026-08-07T02:40:52.993Z"
+    },
+    {
+      "question": "Combien de symphonies Beethoven a-t-il composées ?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1786070452993_2_titqye",
+      "addedAt": "2026-08-07T02:40:52.993Z"
+    },
+    {
+      "question": "Quel pays est le plus grand producteur de cacao au monde ?",
+      "options": [
+        "Ghana",
+        "Cameroun",
+        "Côte d'Ivoire",
+        "Équateur"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1786070452993_3_nkb0lt",
+      "addedAt": "2026-08-07T02:40:52.993Z"
+    },
+    {
+      "question": "Quel film de science-fiction a été réalisé par Stanley Kubrick en 1968 ?",
+      "options": [
+        "Blade Runner",
+        "2001 : L'Odyssée de l'espace",
+        "Alien",
+        "Solaris"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1786070452993_4_dt57b0",
+      "addedAt": "2026-08-07T02:40:52.993Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet d'Afrique ?",
+      "options": [
+        "Mont Kenya",
+        "Kilimanjaro",
+        "Pic de Stanley",
+        "Mont Speke"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1786070452993_5_cabvvq",
+      "addedAt": "2026-08-07T02:40:52.993Z"
+    },
+    {
+      "question": "Quel mathématicien suisse a résolu le problème des sept ponts de Königsberg ?",
+      "options": [
+        "Bernoulli",
+        "Euler",
+        "Lagrange",
+        "Fermat"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1786070452993_6_x88d4w",
+      "addedAt": "2026-08-07T02:40:52.993Z"
+    },
+    {
+      "question": "En quel année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1966",
+        "1968",
+        "1969",
+        "1971"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1786070452993_7_afdram",
+      "addedAt": "2026-08-07T02:40:52.993Z"
+    },
+    {
+      "question": "Quel animal est capable de tourner sa tête à 270 degrés ?",
+      "options": [
+        "Le hibou",
+        "La chouette",
+        "Le serpent",
+        "L'autruche"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1786070452993_8_gf8m71",
+      "addedAt": "2026-08-07T02:40:52.993Z"
+    },
+    {
+      "question": "Quel sport consiste à frapper une petite balle avec des clubs sur un parcours de 18 trous ?",
+      "options": [
+        "Le croquet",
+        "Le golf",
+        "Le hockey sur gazon",
+        "Le badminton"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1786070452993_9_naz02j",
+      "addedAt": "2026-08-07T02:40:52.993Z"
+    },
+    {
+      "question": "Quel est le plus grand désert chaud du monde ?",
+      "options": [
+        "Désert de Gobi",
+        "Désert du Kalahari",
+        "Sahara",
+        "Désert d'Arabie"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1786070452993_10_zaq0on",
+      "addedAt": "2026-08-07T02:40:52.993Z"
+    },
+    {
       "question": "Quel écrivain russe a écrit 'Crime et Châtiment' au XIXe siècle ?",
       "options": [
         "Léon Tolstoï",
@@ -3886,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1784860967618_10_gk8nse",
       "addedAt": "2026-07-24T02:42:47.618Z"
-    },
+    }
+  ],
+  "version": 366,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-07T02:40:52.993Z",
+  "archivedQuestions": [
     {
       "question": "En quel année le premier Jeu Olympique moderne a-t-il été organisé ?",
       "options": [
@@ -4029,193 +4177,6 @@
       "category": "Sport",
       "id": "q_1784853119704_8_kksntx",
       "addedAt": "2026-07-24T00:31:59.704Z"
-    }
-  ],
-  "version": 365,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-07T00:46:51.776Z",
-  "archivedQuestions": [
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
-      "options": [
-        "XIIIe siècle",
-        "XIVe-XVe siècles",
-        "XVIe-XVIIe siècles",
-        "XVIIIe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1784853119704_9_2mu6dd",
-      "addedAt": "2026-07-24T00:31:59.704Z"
-    },
-    {
-      "question": "Quel fruits tropical riche en vitamine C est originaire d'Amérique du Sud ?",
-      "options": [
-        "Mangue",
-        "Papaye",
-        "Ananas",
-        "Goyave"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1784853119704_10_clpvzf",
-      "addedAt": "2026-07-24T00:31:59.704Z"
-    },
-    {
-      "question": "Quel inventeur américain a créé l'ampoule électrique incandescente ?",
-      "options": [
-        "Nikola Tesla",
-        "Thomas Edison",
-        "Alexander Graham Bell",
-        "George Westinghouse"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1784853119704_11_pa5slo",
-      "addedAt": "2026-07-24T00:31:59.704Z"
-    },
-    {
-      "question": "Quel animal mammifère pond des œufs et possède un bec similaire à celui d'un canard ?",
-      "options": [
-        "Échidné",
-        "Ornithorynque",
-        "Taupe dorée",
-        "Koala"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1784853119704_12_x7cpvx",
-      "addedAt": "2026-07-24T00:31:59.704Z"
-    },
-    {
-      "question": "Quel scientifique a formulé la théorie de la relativité ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Max Planck"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784774852650_0_ltthlm",
-      "addedAt": "2026-07-23T02:47:32.650Z"
-    },
-    {
-      "question": "Quel mouvement artistique était caractérisé par l'utilisation de formes géométriques et de couleurs primaires ?",
-      "options": [
-        "Le Cubisme",
-        "Le Dadaïsme",
-        "Le Constructivisme",
-        "L'Art Déco"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1784774852650_1_tjh44w",
-      "addedAt": "2026-07-23T02:47:32.650Z"
-    },
-    {
-      "question": "En quelle année l'impressionnisme s'est-il manifesté pour la première fois au Salon des refusés ?",
-      "options": [
-        "1863",
-        "1874",
-        "1882",
-        "1890"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1784774852650_2_8g0c2j",
-      "addedAt": "2026-07-23T02:47:32.650Z"
-    },
-    {
-      "question": "Quel élément chimique a pour symbole 'Au' ?",
-      "options": [
-        "L'argent",
-        "L'or",
-        "L'aluminium",
-        "Le cuivre"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784774852650_3_uwul4j",
-      "addedAt": "2026-07-23T02:47:32.650Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit 'Les Quatre Saisons' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Antonio Vivaldi",
-        "Joseph Haydn",
-        "Johann Sebastian Bach"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1784774852650_4_iy2phg",
-      "addedAt": "2026-07-23T02:47:32.650Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle commencé ?",
-      "options": [
-        "1776",
-        "1789",
-        "1799",
-        "1804"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1784774852650_5_39radz",
-      "addedAt": "2026-07-23T02:47:32.650Z"
-    },
-    {
-      "question": "Quel prédateur marin est connu pour sa peau lisse et sa capacité à chasser en groupe ?",
-      "options": [
-        "Le requin blanc",
-        "L'orque",
-        "Le piranha",
-        "L'anguille électrique"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1784774852650_6_rxcxfh",
-      "addedAt": "2026-07-23T02:47:32.650Z"
-    },
-    {
-      "question": "Quel mathématicien grec a établi le théorème sur les triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Archimède",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1784774852650_7_qq8jtf",
-      "addedAt": "2026-07-23T02:47:32.650Z"
-    },
-    {
-      "question": "Quel plat asiatique à base de nouilles et de sauce arachide est originaire de Thaïlande ?",
-      "options": [
-        "Le Pad Thai",
-        "Le Pho",
-        "Le Ramen",
-        "Le Laksa"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1784774852650_8_pq6z06",
-      "addedAt": "2026-07-23T02:47:32.650Z"
-    },
-    {
-      "question": "Quel réseau social a été fondé par Mark Zuckerberg en 2004 ?",
-      "options": [
-        "Twitter",
-        "Instagram",
-        "Facebook",
-        "LinkedIn"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1784774852650_9_57zete",
-      "addedAt": "2026-07-23T02:47:32.650Z"
     }
   ],
   "poolSize": 310
