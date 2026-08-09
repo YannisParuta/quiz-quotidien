@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel élément chimique a pour symbole Au ?",
+      "options": [
+        "Argent",
+        "Or",
+        "Aluminium",
+        "Arsenic"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1786235661137_0_asumo8",
+      "addedAt": "2026-08-09T00:34:21.137Z"
+    },
+    {
+      "question": "Quel film réalisé par Stanley Kubrick est basé sur un roman de Stephen King ?",
+      "options": [
+        "2001 : L'Odyssée de l'espace",
+        "Shining",
+        "Orange mécanique",
+        "Full Metal Jacket"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1786235661137_1_7raowz",
+      "addedAt": "2026-08-09T00:34:21.137Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare classique ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1786235661137_2_a1wquz",
+      "addedAt": "2026-08-09T00:34:21.137Z"
+    },
+    {
+      "question": "Quel écrivain français est connu pour ses aventures de Sherlock Holmes... non, attendez, quel écrivain britannique ?",
+      "options": [
+        "Conan Doyle",
+        "Oscar Wilde",
+        "Charles Dickens",
+        "Thomas Hardy"
+      ],
+      "correctAnswer": 0,
+      "category": "Littérature",
+      "id": "q_1786235661137_3_80rkjy",
+      "addedAt": "2026-08-09T00:34:21.137Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet de l'Afrique ?",
+      "options": [
+        "Le Mont Kenya",
+        "Le Kilimandjaro",
+        "Le Mont Stanley",
+        "Le Mont Speke"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1786235661137_4_3hys7i",
+      "addedAt": "2026-08-09T00:34:21.137Z"
+    },
+    {
+      "question": "Quel savant italien a amélioré la lunette astronomique au début du XVIIe siècle ?",
+      "options": [
+        "Léonard de Vinci",
+        "Galilée",
+        "Torricelli",
+        "Cassini"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786235661137_5_ut1wj3",
+      "addedAt": "2026-08-09T00:34:21.137Z"
+    },
+    {
+      "question": "Quel oiseau est capable de voler à la plus grande altitude ?",
+      "options": [
+        "L'aigle royal",
+        "L'oie des neiges",
+        "Le vautour de Rüppell",
+        "Le faucon pèlerin"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1786235661137_6_zn754w",
+      "addedAt": "2026-08-09T00:34:21.137Z"
+    },
+    {
+      "question": "Quel est le nombre de faces d'un dodécaèdre régulier ?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "20"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1786235661137_7_p523ny",
+      "addedAt": "2026-08-09T00:34:21.137Z"
+    },
+    {
+      "question": "Quel artiste surréaliste espagnol est connu pour ses montres molles ?",
+      "options": [
+        "Pablo Picasso",
+        "Joan Miró",
+        "Salvador Dalí",
+        "Antoni Gaudí"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1786235661137_8_14boee",
+      "addedAt": "2026-08-09T00:34:21.137Z"
+    },
+    {
+      "question": "Quel plat italien traditionnel est composé de riz, de safran et de bouillon ?",
+      "options": [
+        "La Pasta Carbonara",
+        "Le Risotto",
+        "La Polenta",
+        "Les Gnocchis"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1786235661137_9_4cs4pf",
+      "addedAt": "2026-08-09T00:34:21.137Z"
+    },
+    {
+      "question": "Quel est le port naturel le plus profond du monde ?",
+      "options": [
+        "Port de Sydney",
+        "Port de San Francisco",
+        "Port de Singapour",
+        "Fjord de Sognefjord"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1786235661137_10_s7k2fl",
+      "addedAt": "2026-08-09T00:34:21.137Z"
+    },
+    {
+      "question": "Quel langage de programmation a été créé par Guido van Rossum en 1991 ?",
+      "options": [
+        "Java",
+        "Python",
+        "Ruby",
+        "JavaScript"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1786235661137_11_4ziw0a",
+      "addedAt": "2026-08-09T00:34:21.137Z"
+    },
+    {
       "question": "En quelle année la Première Guerre mondiale a-t-elle commencé ?",
       "options": [
         "1912",
@@ -3873,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1785026360600_5_zs6bbp",
       "addedAt": "2026-07-26T00:39:20.600Z"
-    },
+    }
+  ],
+  "version": 369,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-09T00:34:21.138Z",
+  "archivedQuestions": [
     {
       "question": "Quel animal terrestre est le plus rapide ?",
       "options": [
@@ -4029,154 +4190,6 @@
       "category": "Gastronomie",
       "id": "q_1784947306254_8_vg26je",
       "addedAt": "2026-07-25T02:41:46.254Z"
-    }
-  ],
-  "version": 368,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-08T01:40:40.557Z",
-  "archivedQuestions": [
-    {
-      "question": "En quel année la Bastille a-t-elle été stormed pendant la Révolution française ?",
-      "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1784937930241_0_tpcmyt",
-      "addedAt": "2026-07-25T00:05:30.241Z"
-    },
-    {
-      "question": "Quel gaz représente approximativement 78% de l'atmosphère terrestre ?",
-      "options": [
-        "L'oxygène",
-        "Le dioxyde de carbone",
-        "L'azote",
-        "L'argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1784937930241_1_gzfscu",
-      "addedAt": "2026-07-25T00:05:30.241Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la trilogie 'La Seigneur des Anneaux' au cinéma ?",
-      "options": [
-        "Steven Spielberg",
-        "Peter Jackson",
-        "Christopher Nolan",
-        "Denis Villeneuve"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1784937930241_2_bw4k7d",
-      "addedAt": "2026-07-25T00:05:30.241Z"
-    },
-    {
-      "question": "Combien de livres compte la série 'Harry Potter' ?",
-      "options": [
-        "5 livres",
-        "6 livres",
-        "7 livres",
-        "8 livres"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1784937930241_3_pu0qyj",
-      "addedAt": "2026-07-25T00:05:30.241Z"
-    },
-    {
-      "question": "Quel mathématicien grec a développé le théorème du triangle rectangle ?",
-      "options": [
-        "Archimède",
-        "Pythagore",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1784937930241_4_l3r51m",
-      "addedAt": "2026-07-25T00:05:30.241Z"
-    },
-    {
-      "question": "En quel année le Titanic a-t-il coulé ?",
-      "options": [
-        "1910",
-        "1912",
-        "1914",
-        "1916"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1784937930241_5_2z8czh",
-      "addedAt": "2026-07-25T00:05:30.241Z"
-    },
-    {
-      "question": "Quel est le élément chimique représenté par le symbole 'Fe' ?",
-      "options": [
-        "Le Fluor",
-        "Le Fer",
-        "Le Fermium",
-        "Le Francium"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784937930241_6_dbfkz1",
-      "addedAt": "2026-07-25T00:05:30.241Z"
-    },
-    {
-      "question": "Combien de cotes possède le corps humain ?",
-      "options": [
-        "20 côtes",
-        "24 côtes",
-        "28 côtes",
-        "32 côtes"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784937930241_7_9rujbf",
-      "addedAt": "2026-07-25T00:05:30.241Z"
-    },
-    {
-      "question": "Quel sport d'hiver consiste à descendre une pente avec des planches aux pieds ?",
-      "options": [
-        "Le curling",
-        "Le snowboard",
-        "Le biathlon",
-        "Le patinage de vitesse"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1784937930241_8_0c8f3o",
-      "addedAt": "2026-07-25T00:05:30.241Z"
-    },
-    {
-      "question": "Quel type de cuisine est caractérisé par l'utilisation de piment et de curcuma ?",
-      "options": [
-        "La cuisine thaïlandaise",
-        "La cuisine indienne",
-        "La cuisine vietnamienne",
-        "La cuisine indonésienne"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1784937930241_9_iucu4h",
-      "addedAt": "2026-07-25T00:05:30.241Z"
-    },
-    {
-      "question": "Quel scientifique a formulé la théorie de la relativité restreinte ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Max Planck"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1784860967618_0_a3v93g",
-      "addedAt": "2026-07-24T02:42:47.618Z"
     }
   ],
   "poolSize": 310
