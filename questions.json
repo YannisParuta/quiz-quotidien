@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain belge a créé le détective Hercule Poirot ?",
+      "options": [
+        "Simenon",
+        "Agatha Christie",
+        "Fleming",
+        "Le Carré"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1786326586659_0_bln3zd",
+      "addedAt": "2026-08-10T01:49:46.659Z"
+    },
+    {
+      "question": "Quel est le plus grand désert froid du monde ?",
+      "options": [
+        "Désert d'Atacama",
+        "Désert du Gobi",
+        "Antarctique",
+        "Désert de Kalahari"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1786326586659_1_9rd3pp",
+      "addedAt": "2026-08-10T01:49:46.659Z"
+    },
+    {
+      "question": "Quel peintre espagnol a cofondé le mouvement surréaliste ?",
+      "options": [
+        "Joan Miró",
+        "Salvador Dalí",
+        "Juan Gris",
+        "Miró Dalí"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1786326586659_2_p4kdyj",
+      "addedAt": "2026-08-10T01:49:46.659Z"
+    },
+    {
+      "question": "En quelle année la Révolution française a-t-elle éclaté ?",
+      "options": [
+        "1787",
+        "1789",
+        "1791",
+        "1793"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786326586659_3_6ci16d",
+      "addedAt": "2026-08-10T01:49:46.659Z"
+    },
+    {
+      "question": "Quel est le plus grand lac d'Europe ?",
+      "options": [
+        "Lac de Genève",
+        "Lac Ladoga",
+        "Lac Onega",
+        "Lac Balaton"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1786326586659_4_zygrfk",
+      "addedAt": "2026-08-10T01:49:46.659Z"
+    },
+    {
+      "question": "Combien de pattes possède une araignée ?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1786326586659_5_wy6u4q",
+      "addedAt": "2026-08-10T01:49:46.659Z"
+    },
+    {
+      "question": "Quel mathématicien grec a énoncé le théorème de Pythagore ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1786326586659_6_glkf5q",
+      "addedAt": "2026-08-10T01:49:46.659Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'Amélie Poulain' ?",
+      "options": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "François Truffaut",
+        "Claude Chabrol"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1786326586659_7_4z6j9i",
+      "addedAt": "2026-08-10T01:49:46.659Z"
+    },
+    {
+      "question": "Quel type de musique est caractérisé par une structure de 12 mesures ?",
+      "options": [
+        "Jazz",
+        "Blues",
+        "Rock",
+        "Reggae"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1786326586659_8_unj1ki",
+      "addedAt": "2026-08-10T01:49:46.659Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en vitamine C et en bromélaïne ?",
+      "options": [
+        "Mangue",
+        "Papaye",
+        "Ananas",
+        "Goyave"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1786326586659_9_1gyd6y",
+      "addedAt": "2026-08-10T01:49:46.659Z"
+    },
+    {
+      "question": "En quel siècle Gutenberg a-t-il inventé l'imprimerie ?",
+      "options": [
+        "14ème siècle",
+        "15ème siècle",
+        "16ème siècle",
+        "17ème siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1786326586659_10_a0xqia",
+      "addedAt": "2026-08-10T01:49:46.659Z"
+    },
+    {
       "question": "Quel était le nom de la première femme cosmonaute à voyager dans l'espace ?",
       "options": [
         "Valentina Terechkova",
@@ -3886,7 +4029,12 @@
       "category": "Culture",
       "id": "q_1785121083797_8_lgjvhv",
       "addedAt": "2026-07-27T02:58:03.797Z"
-    },
+    }
+  ],
+  "version": 372,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-10T01:49:46.660Z",
+  "archivedQuestions": [
     {
       "question": "Quel désert est le plus grand du monde en superficie ?",
       "options": [
@@ -4029,141 +4177,6 @@
       "category": "Cinéma",
       "id": "q_1785110852675_5_gfshat",
       "addedAt": "2026-07-27T00:07:32.675Z"
-    }
-  ],
-  "version": 371,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-10T00:31:16.074Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel fruit tropical est riche en vitamine C et provient principalement de l'Asie du Sud-Est ?",
-      "options": [
-        "Papaye",
-        "Mangue",
-        "Ananas",
-        "Noix de coco"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1785110852675_6_0lg2m9",
-      "addedAt": "2026-07-27T00:07:32.675Z"
-    },
-    {
-      "question": "Quel célèbre musée d'art se situe à Florence, en Italie ?",
-      "options": [
-        "Le Vatican",
-        "La Galerie des Offices",
-        "Le Palais Pitti",
-        "La Galerie Borghèse"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_1785110852675_7_t02uwq",
-      "addedAt": "2026-07-27T00:07:32.675Z"
-    },
-    {
-      "question": "Quel langage de programmation est principalement utilisé pour développer les applications web côté serveur avec Node.js ?",
-      "options": [
-        "Java",
-        "JavaScript",
-        "C++",
-        "PHP"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1785110852675_8_0avhuo",
-      "addedAt": "2026-07-27T00:07:32.675Z"
-    },
-    {
-      "question": "Quel musée français abrite la Joconde ?",
-      "options": [
-        "Musée d'Orsay",
-        "Louvre",
-        "Musée Rodin",
-        "Centre Pompidou"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_1785034215572_0_45xcn7",
-      "addedAt": "2026-07-26T02:50:15.572Z"
-    },
-    {
-      "question": "Quel champion de tennis a remporté le plus de titres du Grand Chelem ?",
-      "options": [
-        "Roger Federer",
-        "Rafael Nadal",
-        "Novak Djokovic",
-        "Pete Sampras"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1785034215572_1_fnmlr2",
-      "addedAt": "2026-07-26T02:50:15.572Z"
-    },
-    {
-      "question": "Quel mouvement artistique est caractérisé par l'abstraction géométrique et les formes cubiques ?",
-      "options": [
-        "Dadaïsme",
-        "Cubisme",
-        "Fauvisme",
-        "Expressionnisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1785034215572_2_w0088f",
-      "addedAt": "2026-07-26T02:50:15.572Z"
-    },
-    {
-      "question": "Quel auteur britannique a écrit la série 'Harry Potter' ?",
-      "options": [
-        "Agatha Christie",
-        "J.K. Rowling",
-        "George Orwell",
-        "C.S. Lewis"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1785034215572_3_v4o3dl",
-      "addedAt": "2026-07-26T02:50:15.572Z"
-    },
-    {
-      "question": "Combien de pattes possède une araignée ?",
-      "options": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1785034215572_4_9rfb6n",
-      "addedAt": "2026-07-26T02:50:15.572Z"
-    },
-    {
-      "question": "Quel mathématicien a formulé le théorème qui porte son nom sur les triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Archimède",
-        "Pythagore",
-        "Thalès"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1785034215572_5_knetoa",
-      "addedAt": "2026-07-26T02:50:15.572Z"
-    },
-    {
-      "question": "Quel film d'animation Pixar raconte l'histoire d'un poisson clown cherchant son fils ?",
-      "options": [
-        "Raiponce",
-        "Vice-Versa",
-        "Le Monde de Nemo",
-        "Monstres & Cie"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1785034215572_6_x7e4dv",
-      "addedAt": "2026-07-26T02:50:15.572Z"
     }
   ],
   "poolSize": 310
