@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel était le nom de la première femme cosmonaute à voyager dans l'espace ?",
+      "options": [
+        "Valentina Terechkova",
+        "Svetlana Savitskaya",
+        "Sally Ride",
+        "Judith Resnik"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1786321876073_0_1r5l6w",
+      "addedAt": "2026-08-10T00:31:16.073Z"
+    },
+    {
+      "question": "Quel animal peut dormir debout pendant plusieurs heures sans tomber ?",
+      "options": [
+        "Le cheval",
+        "La girafe",
+        "L'éléphant",
+        "Le chameau"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1786321876073_1_xxrt9b",
+      "addedAt": "2026-08-10T00:31:16.073Z"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde en termes de population ?",
+      "options": [
+        "Monaco",
+        "Liechtenstein",
+        "Vatican",
+        "San Marin"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1786321876073_2_3j6yas",
+      "addedAt": "2026-08-10T00:31:16.073Z"
+    },
+    {
+      "question": "Quel empire aztèque a été conquis par Hernán Cortés ?",
+      "options": [
+        "L'empire Inca",
+        "L'empire Maya",
+        "L'empire Aztèque",
+        "L'empire Olmèque"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1786321876073_3_1s9e3z",
+      "addedAt": "2026-08-10T00:31:16.073Z"
+    },
+    {
+      "question": "Quel type de vin est produit dans la région de Bordeaux ?",
+      "options": [
+        "Vin blanc sec",
+        "Vin rouge",
+        "Vin rosé",
+        "Vin mousseux"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1786321876073_4_kmcx16",
+      "addedAt": "2026-08-10T00:31:16.073Z"
+    },
+    {
+      "question": "Quel processus biologique permet aux plantes de transformer la lumière en énergie chimique ?",
+      "options": [
+        "La respiration cellulaire",
+        "La photosynthèse",
+        "La fermentation",
+        "La transpiration"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1786321876073_5_elpqg3",
+      "addedAt": "2026-08-10T00:31:16.073Z"
+    },
+    {
+      "question": "En quel siècle le Colosseum de Rome a-t-il été construit ?",
+      "options": [
+        "Ier siècle",
+        "IIe siècle",
+        "IIIe siècle",
+        "IVe siècle"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1786321876073_6_pb8h8f",
+      "addedAt": "2026-08-10T00:31:16.073Z"
+    },
+    {
+      "question": "Quel chimiste français a codécouvert le radium avec son épouse Marie ?",
+      "options": [
+        "Antoine Lavoisier",
+        "Pierre Curie",
+        "Jean-Baptiste Dumas",
+        "Claude Bernard"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1786321876073_7_dl72ta",
+      "addedAt": "2026-08-10T00:31:16.073Z"
+    },
+    {
+      "question": "Quel artiste espagnol est connu pour son style surréaliste et ses montres molles ?",
+      "options": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Juan Gris"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1786321876073_8_qwbhax",
+      "addedAt": "2026-08-10T00:31:16.073Z"
+    },
+    {
+      "question": "Quel sport nautique se pratique sur une planche à voile ?",
+      "options": [
+        "Le wakeboard",
+        "La voile",
+        "Le windsurf",
+        "Le kayak"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1786321876073_9_jcmoy9",
+      "addedAt": "2026-08-10T00:31:16.073Z"
+    },
+    {
       "question": "Quel est le plus grand océan du monde ?",
       "options": [
         "Océan Atlantique",
@@ -3899,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1785110852675_5_gfshat",
       "addedAt": "2026-07-27T00:07:32.675Z"
-    },
+    }
+  ],
+  "version": 371,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-10T00:31:16.074Z",
+  "archivedQuestions": [
     {
       "question": "Quel fruit tropical est riche en vitamine C et provient principalement de l'Asie du Sud-Est ?",
       "options": [
@@ -4029,128 +4164,6 @@
       "category": "Cinéma",
       "id": "q_1785034215572_6_x7e4dv",
       "addedAt": "2026-07-26T02:50:15.572Z"
-    }
-  ],
-  "version": 370,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-09T01:46:12.850Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel langage est considéré comme la base de tous les langages de programmation modernes ?",
-      "options": [
-        "Java",
-        "C",
-        "JavaScript",
-        "Ruby"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1785034215572_7_fa7r2v",
-      "addedAt": "2026-07-26T02:50:15.572Z"
-    },
-    {
-      "question": "Quel condiment asiatique est fermenté à partir de soja ?",
-      "options": [
-        "Sauce soja",
-        "Sauce sriracha",
-        "Sauce curry",
-        "Sauce ponzu"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1785034215572_8_l1qufn",
-      "addedAt": "2026-07-26T02:50:15.572Z"
-    },
-    {
-      "question": "Quel roi d'Égypte est connu pour son trésor découvert intacte en 1922 ?",
-      "options": [
-        "Ramsès II",
-        "Toutankhamon",
-        "Khéops",
-        "Menkaourè"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1785034215572_9_mn4tz1",
-      "addedAt": "2026-07-26T02:50:15.572Z"
-    },
-    {
-      "question": "Quel gaz est le plus abondant dans l'atmosphère terrestre ?",
-      "options": [
-        "L'oxygène",
-        "Le dioxyde de carbone",
-        "L'azote",
-        "L'argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1785026360600_0_ps022e",
-      "addedAt": "2026-07-26T00:39:20.600Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve du monde ?",
-      "options": [
-        "L'Amazone",
-        "Le Congo",
-        "Le Nil",
-        "Le Yang-Tsé"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1785026360600_1_9rjvql",
-      "addedAt": "2026-07-26T00:39:20.600Z"
-    },
-    {
-      "question": "Combien de symphonies a composées Ludwig van Beethoven ?",
-      "options": [
-        "7",
-        "9",
-        "12",
-        "15"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1785026360600_2_6x8yop",
-      "addedAt": "2026-07-26T00:39:20.600Z"
-    },
-    {
-      "question": "En quel année l'Homme a marché pour la première fois sur la Lune ?",
-      "options": [
-        "1967",
-        "1969",
-        "1971",
-        "1973"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785026360600_3_idttem",
-      "addedAt": "2026-07-26T00:39:20.600Z"
-    },
-    {
-      "question": "Quel pays produit le plus de café au monde ?",
-      "options": [
-        "La Colombie",
-        "Le Brésil",
-        "L'Éthiopie",
-        "L'Inde"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1785026360600_4_o82550",
-      "addedAt": "2026-07-26T00:39:20.600Z"
-    },
-    {
-      "question": "Quel empereur romain a construit le Colosseum ?",
-      "options": [
-        "Auguste",
-        "Néron",
-        "Vespasien",
-        "Trajan"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1785026360600_5_zs6bbp",
-      "addedAt": "2026-07-26T00:39:20.600Z"
     }
   ],
   "poolSize": 310
