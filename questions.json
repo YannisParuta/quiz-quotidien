@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel explorateur portugais a contourné le Cap de Bonne-Espérance en 1488 ?",
+      "options": [
+        "Christophe Colomb",
+        "Bartolomeu Dias",
+        "Vasco de Gama",
+        "Ferdinand Magellan"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786408369196_0_jnjupr",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
+      "question": "Quel est le plus haut volcan actif du monde ?",
+      "options": [
+        "Le Mont Kilimandjaro",
+        "Le Krakatau",
+        "Le Sakurajima",
+        "L'Ojos del Salado"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1786408369196_1_8gvz4h",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
+      "question": "En quel pays se trouve le plus grand système de grottes souterraines, la grotte de Son Doong ?",
+      "options": [
+        "Thaïlande",
+        "Vietnam",
+        "Cambodge",
+        "Malaisie"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1786408369196_2_knej2z",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
+      "question": "Quel mouvement artistique a privilégié la représentation abstraite et les formes géométriques au début du XXe siècle ?",
+      "options": [
+        "Le Dadaïsme",
+        "Le Cubisme",
+        "Le Fauvisme",
+        "L'Expressionnisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1786408369196_3_zo9yj1",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
+      "question": "Quel écrivain français du XIXe siècle a écrit 'Les Misérables' ?",
+      "options": [
+        "Gustave Flaubert",
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1786408369196_4_9td6k4",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
+      "question": "Quel phénomène naturel est causé par la précession de l'axe de rotation terrestre ?",
+      "options": [
+        "Les saisons",
+        "La nutation",
+        "La précession des équinoxes",
+        "La déviation de Coriolis"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1786408369196_5_g9je22",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'La Jetée' en 1962 ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Chris Marker",
+        "Agnès Varda"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1786408369196_6_qnymwv",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
+      "question": "Quel protocole de communication Internet a précédé le World Wide Web ?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "Gopher",
+        "SMTP"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1786408369196_7_mds6ar",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
+      "question": "Quel musicien baroque italien a composé les 'Quatre Saisons' ?",
+      "options": [
+        "Georg Friedrich Händel",
+        "Antonio Vivaldi",
+        "Jean-Sébastien Bach",
+        "Georg Telemann"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1786408369196_8_w32ok6",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
+      "question": "Quel enzyme est responsable de la digestion des protéines dans l'estomac ?",
+      "options": [
+        "L'amylase",
+        "La lipase",
+        "La pepsine",
+        "La trypsine"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1786408369196_9_y9bmw1",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
+      "question": "Quel pays a remporté la Coupe d'Afrique des Nations 2021 ?",
+      "options": [
+        "le Sénégal",
+        "l'Algérie",
+        "l'Égypte",
+        "le Cameroun"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1786408369196_10_pe3s3m",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
+      "question": "Quel est le plat traditionnel espagnol à base de riz, safran et fruits de mer ?",
+      "options": [
+        "La paella",
+        "Le gazpacho",
+        "Les tapas",
+        "La tortilla"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1786408369196_11_7fkest",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
+      "question": "Quel animal marin peut changer de couleur pour communiquer et se camoufler ?",
+      "options": [
+        "Le dauphin",
+        "La pieuvre",
+        "La raie",
+        "Le requin-baleine"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1786408369196_12_5clt9m",
+      "addedAt": "2026-08-11T00:32:49.196Z"
+    },
+    {
       "question": "Quel écrivain belge a créé le détective Hercule Poirot ?",
       "options": [
         "Simenon",
@@ -3860,7 +4029,12 @@
       "category": "Biologie",
       "id": "q_1785199466367_6_jbacln",
       "addedAt": "2026-07-28T00:44:26.367Z"
-    },
+    }
+  ],
+  "version": 373,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-11T00:32:49.196Z",
+  "archivedQuestions": [
     {
       "question": "Quel mathématicien a développé le calcul infinitésimal indépendamment de Newton ?",
       "options": [
@@ -4029,154 +4203,6 @@
       "category": "Culture",
       "id": "q_1785121083797_8_lgjvhv",
       "addedAt": "2026-07-27T02:58:03.797Z"
-    }
-  ],
-  "version": 372,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-10T01:49:46.660Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel désert est le plus grand du monde en superficie ?",
-      "options": [
-        "Sahara",
-        "Arabique",
-        "Gobi",
-        "Antarctique"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1785121083797_9_5qt0vj",
-      "addedAt": "2026-07-27T02:58:03.797Z"
-    },
-    {
-      "question": "Quel est le seul métal liquide à température ambiante ?",
-      "options": [
-        "Gallium",
-        "Mercure",
-        "Césium",
-        "Francium"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785121083797_10_04rcam",
-      "addedAt": "2026-07-27T02:58:03.797Z"
-    },
-    {
-      "question": "Quel plat français traditionnel est une soupe à base de poisson de Méditerranée ?",
-      "options": [
-        "Bouillabaisse",
-        "Pot-au-feu",
-        "Cassoulet",
-        "Blanquette"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1785121083797_11_7u87d5",
-      "addedAt": "2026-07-27T02:58:03.797Z"
-    },
-    {
-      "question": "Quel réalisateur américain a créé le film 'Parasite' ?",
-      "options": [
-        "Steven Spielberg",
-        "Quentin Tarantino",
-        "Bong Joon-ho",
-        "Martin Scorsese"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1785121083797_12_5g20le",
-      "addedAt": "2026-07-27T02:58:03.797Z"
-    },
-    {
-      "question": "En quelle année la Déclaration des Droits de l'Homme a-t-elle été adoptée en France ?",
-      "options": [
-        "1789",
-        "1791",
-        "1793",
-        "1795"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1785121083796_0_xx86x0",
-      "addedAt": "2026-07-27T02:58:03.796Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet montagneux du monde ?",
-      "options": [
-        "K2",
-        "Mont Everest",
-        "Kangchenjunga",
-        "Lhotse"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1785110852675_0_9bb9hw",
-      "addedAt": "2026-07-27T00:07:32.675Z"
-    },
-    {
-      "question": "Quel sport olympique consiste à tirer des flèches sur une cible circulaire ?",
-      "options": [
-        "Biathlon",
-        "Tir à l'arc",
-        "Pentathlon moderne",
-        "Escrime"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1785110852675_1_yu7mbl",
-      "addedAt": "2026-07-27T00:07:32.675Z"
-    },
-    {
-      "question": "Quel artiste néerlandais a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Pablo Picasso",
-        "Henri Matisse",
-        "Vincent van Gogh",
-        "Paul Cézanne"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1785110852675_2_n2xc02",
-      "addedAt": "2026-07-27T00:07:32.675Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit la '9ème Symphonie' incluant l'Hymne à la Joie ?",
-      "options": [
-        "Johann Strauss",
-        "Ludwig van Beethoven",
-        "Wolfgang Mozart",
-        "Franz Schubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1785110852675_3_1u3ywq",
-      "addedAt": "2026-07-27T00:07:32.675Z"
-    },
-    {
-      "question": "En quelle année la Grande Muraille de Chine a-t-elle été commencée ?",
-      "options": [
-        "Entre 200 et 100 av. J.-C.",
-        "Entre 1200 et 1300 apr. J.-C.",
-        "Entre 600 et 700 apr. J.-C.",
-        "Entre 1400 et 1500 apr. J.-C."
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1785110852675_4_5vpdr7",
-      "addedAt": "2026-07-27T00:07:32.675Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé la trilogie 'Le Seigneur des Anneaux' ?",
-      "options": [
-        "Steven Spielberg",
-        "Peter Jackson",
-        "James Cameron",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1785110852675_5_gfshat",
-      "addedAt": "2026-07-27T00:07:32.675Z"
     }
   ],
   "poolSize": 310
