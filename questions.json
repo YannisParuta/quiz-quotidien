@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a découvert la structure en double hélice de l'ADN ?",
+      "options": [
+        "Marie Curie",
+        "James Watson et Francis Crick",
+        "Linus Pauling",
+        "Rosalind Franklin"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1786412780188_0_cjbly7",
+      "addedAt": "2026-08-11T01:46:20.188Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Afrique ?",
+      "options": [
+        "Le Congo",
+        "Le Nil",
+        "Le Zambèze",
+        "Le Niger"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1786412780188_1_05gyw2",
+      "addedAt": "2026-08-11T01:46:20.188Z"
+    },
+    {
+      "question": "Quel est le plus grand océan de la Terre ?",
+      "options": [
+        "L'océan Atlantique",
+        "L'océan Indien",
+        "L'océan Pacifique",
+        "L'océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1786412780188_2_36mnf1",
+      "addedAt": "2026-08-11T01:46:20.188Z"
+    },
+    {
+      "question": "En quelle année a commencé la Première Guerre mondiale ?",
+      "options": [
+        "1912",
+        "1914",
+        "1916",
+        "1918"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786412780188_3_4fqzbe",
+      "addedAt": "2026-08-11T01:46:20.188Z"
+    },
+    {
+      "question": "Quel élément chimique a le symbole 'Au' ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "L'aluminium",
+        "L'argon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1786412780188_4_0bm96w",
+      "addedAt": "2026-08-11T01:46:20.188Z"
+    },
+    {
+      "question": "Quel roman de Gustave Flaubert raconte l'histoire d'Emma Bovary ?",
+      "options": [
+        "Salammbô",
+        "Madame Bovary",
+        "L'Éducation sentimentale",
+        "Trois Contes"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1786412780188_5_1jsdd4",
+      "addedAt": "2026-08-11T01:46:20.188Z"
+    },
+    {
+      "question": "Quel musicien aveugle a révolutionné la musique soul et le R&B ?",
+      "options": [
+        "Marvin Gaye",
+        "Stevie Wonder",
+        "Ray Charles",
+        "Otis Redding"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1786412780188_6_m5ujr5",
+      "addedAt": "2026-08-11T01:46:20.188Z"
+    },
+    {
+      "question": "Quel type de reptile est le léopard gecko ?",
+      "options": [
+        "Un serpent",
+        "Un lézard",
+        "Une tortue",
+        "Un crocodile"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1786412780188_7_sa2z8g",
+      "addedAt": "2026-08-11T01:46:20.188Z"
+    },
+    {
+      "question": "En quelle année la Déclaration des droits de l'homme a-t-elle été adoptée ?",
+      "options": [
+        "1789",
+        "1791",
+        "1793",
+        "1799"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1786412780188_8_d6zopr",
+      "addedAt": "2026-08-11T01:46:20.188Z"
+    },
+    {
+      "question": "Quel mathématicien a formulé le théorème du binôme ?",
+      "options": [
+        "Isaac Newton",
+        "Leonhard Euler",
+        "Carl Friedrich Gauss",
+        "Pierre de Fermat"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1786412780188_9_ndunzx",
+      "addedAt": "2026-08-11T01:46:20.188Z"
+    },
+    {
+      "question": "Quel célèbre réalisateur a créé la franchise cinématographique 'Jurassic Park' ?",
+      "options": [
+        "George Lucas",
+        "Steven Spielberg",
+        "James Cameron",
+        "Peter Jackson"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1786412780188_10_68wriy",
+      "addedAt": "2026-08-11T01:46:20.188Z"
+    },
+    {
+      "question": "Quel type de fromage italien est fabriqué à partir de lait de buffle ?",
+      "options": [
+        "Le Parmesan",
+        "La Mozzarella",
+        "Le Gorgonzola",
+        "Le Ricotta"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1786412780188_11_cka6vo",
+      "addedAt": "2026-08-11T01:46:20.188Z"
+    },
+    {
       "question": "Quel explorateur portugais a contourné le Cap de Bonne-Espérance en 1488 ?",
       "options": [
         "Christophe Colomb",
@@ -3873,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1785206044825_7_gdlw6o",
       "addedAt": "2026-07-28T02:34:04.825Z"
-    },
+    }
+  ],
+  "version": 374,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-11T01:46:20.188Z",
+  "archivedQuestions": [
     {
       "question": "Quel protocole informatique permet de transférer des fichiers sur Internet de manière sécurisée ?",
       "options": [
@@ -4029,180 +4190,6 @@
       "category": "Biologie",
       "id": "q_1785199466367_6_jbacln",
       "addedAt": "2026-07-28T00:44:26.367Z"
-    }
-  ],
-  "version": 373,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-11T00:32:49.196Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mathématicien a développé le calcul infinitésimal indépendamment de Newton ?",
-      "options": [
-        "Leibniz",
-        "Euler",
-        "Gauss",
-        "Lagrange"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1785199466367_7_0ofi66",
-      "addedAt": "2026-07-28T00:44:26.367Z"
-    },
-    {
-      "question": "Quel compositeur allemand a créé l'opéra 'Le Vaisseau fantôme' ?",
-      "options": [
-        "Richard Wagner",
-        "Giuseppe Verdi",
-        "Georges Bizet",
-        "Wolfgang Mozart"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1785199466367_8_j7re65",
-      "addedAt": "2026-07-28T00:44:26.367Z"
-    },
-    {
-      "question": "Quel style culinaire est originaire du Levant et caractérisé par des petits plats à partager ?",
-      "options": [
-        "Fusion",
-        "Mezzé",
-        "Tapas",
-        "Mezquite"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1785199466367_9_0fexn7",
-      "addedAt": "2026-07-28T00:44:26.367Z"
-    },
-    {
-      "question": "Quel champion de tennis français a remporté 14 titres du Grand Chelem ?",
-      "options": [
-        "Yannick Noah",
-        "Gael Monfils",
-        "Pierre-Hugues Herbert",
-        "Dominic Thiem"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1785199466367_10_xcbf7u",
-      "addedAt": "2026-07-28T00:44:26.367Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Afrique après le Nil ?",
-      "options": [
-        "Fleuve Congo",
-        "Fleuve Zambèze",
-        "Fleuve Niger",
-        "Fleuve Limpopo"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1785199466367_11_1tai7s",
-      "addedAt": "2026-07-28T00:44:26.367Z"
-    },
-    {
-      "question": "Quel gaz constitue approximativement 78% de l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Azote",
-        "Dioxyde de carbone",
-        "Argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785121083797_1_jdg3kf",
-      "addedAt": "2026-07-27T02:58:03.797Z"
-    },
-    {
-      "question": "Quel écrivain russe a écrit le roman 'Crime et Châtiment' ?",
-      "options": [
-        "Léon Tolstoï",
-        "Fiodor Dostoïevski",
-        "Anton Tchekhov",
-        "Ivan Tourguéniev"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1785121083797_2_8296xb",
-      "addedAt": "2026-07-27T02:58:03.797Z"
-    },
-    {
-      "question": "Quel est le seul mammifère capable de voler ?",
-      "options": [
-        "Écureuil volant",
-        "Chauve-souris",
-        "Polatouche",
-        "Lémur volant"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1785121083797_3_ec7zcc",
-      "addedAt": "2026-07-27T02:58:03.797Z"
-    },
-    {
-      "question": "Combien de touches possède un piano standard ?",
-      "options": [
-        "76",
-        "88",
-        "100",
-        "92"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1785121083797_4_3fbyby",
-      "addedAt": "2026-07-27T02:58:03.797Z"
-    },
-    {
-      "question": "Quel scientifique a énoncé les trois lois du mouvement ?",
-      "options": [
-        "Galilée",
-        "Kepler",
-        "Newton",
-        "Descartes"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1785121083797_5_2ki3wg",
-      "addedAt": "2026-07-27T02:58:03.797Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle commencé ?",
-      "options": [
-        "13ème siècle",
-        "14ème siècle",
-        "15ème siècle",
-        "16ème siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1785121083797_6_xevg1z",
-      "addedAt": "2026-07-27T02:58:03.797Z"
-    },
-    {
-      "question": "Quel sport aquatique se dispute avec un ballon rond et deux équipes de 7 joueurs ?",
-      "options": [
-        "Water-polo",
-        "Natation synchronisée",
-        "Plongeon",
-        "Aviron"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1785121083797_7_cdv5v5",
-      "addedAt": "2026-07-27T02:58:03.797Z"
-    },
-    {
-      "question": "Quel établissement d'enseignement supérieur français a été fondé en 1794 ?",
-      "options": [
-        "Sorbonne",
-        "Polytechnique",
-        "ENA",
-        "HEC Paris"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_1785121083797_8_lgjvhv",
-      "addedAt": "2026-07-27T02:58:03.797Z"
     }
   ],
   "poolSize": 310
