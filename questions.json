@@ -1,6 +1,58 @@
 {
   "questions": [
     {
+      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+      "options": [
+        "Allemagne",
+        "Brésil",
+        "France",
+        "Belgique"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1786493187176_3_7r9l6t",
+      "addedAt": "2026-08-12T00:06:27.176Z"
+    },
+    {
+      "question": "Quel processus permet aux animaux de se reproduire sans partenaire ?",
+      "options": [
+        "Reproduction sexuée",
+        "Reproduction asexuée",
+        "Fécondation croisée",
+        "Parthénogenèse"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1786493187175_0_4zl5ea",
+      "addedAt": "2026-08-12T00:06:27.175Z"
+    },
+    {
+      "question": "En quelle année la Tour Eiffel a-t-elle été construite ?",
+      "options": [
+        "1885",
+        "1889",
+        "1893",
+        "1900"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786493187175_1_ty1o8b",
+      "addedAt": "2026-08-12T00:06:27.175Z"
+    },
+    {
+      "question": "Quel film réalisé par Martin Scorsese raconte l'histoire d'un chauffeur de taxi à New York ?",
+      "options": [
+        "Taxi Driver",
+        "Raging Bull",
+        "Mean Streets",
+        "Goodfellas"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1786493187175_2_13bhgm",
+      "addedAt": "2026-08-12T00:06:27.175Z"
+    },
+    {
       "question": "Quel scientifique a découvert la structure en double hélice de l'ADN ?",
       "options": [
         "Marie Curie",
@@ -3977,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1785206044825_3_jcvmws",
       "addedAt": "2026-07-28T02:34:04.825Z"
-    },
+    }
+  ],
+  "version": 375,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-12T00:06:27.176Z",
+  "archivedQuestions": [
     {
       "question": "Combien de sommets de plus de 8 000 mètres existe-t-il sur Terre ?",
       "options": [
@@ -4029,167 +4086,6 @@
       "category": "Cinéma",
       "id": "q_1785206044825_7_gdlw6o",
       "addedAt": "2026-07-28T02:34:04.825Z"
-    }
-  ],
-  "version": 374,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-11T01:46:20.188Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel protocole informatique permet de transférer des fichiers sur Internet de manière sécurisée ?",
-      "options": [
-        "HTTP",
-        "HTTPS",
-        "FTP",
-        "SMTP"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1785206044825_8_hbgxkb",
-      "addedAt": "2026-07-28T02:34:04.825Z"
-    },
-    {
-      "question": "Quel fromage français bénéficie d'une Appellation d'Origine Contrôlée depuis 1925 ?",
-      "options": [
-        "Le Roquefort",
-        "Le Camembert",
-        "L'Emmental",
-        "Le Comté"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1785206044825_9_f0kcn0",
-      "addedAt": "2026-07-28T02:34:04.825Z"
-    },
-    {
-      "question": "Quel sport collectif se joue avec un filet séparant deux équipes sur un terrain rectangulaire ?",
-      "options": [
-        "Le handball",
-        "Le volleyball",
-        "Le badminton",
-        "Le tennis"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1785206044825_10_o53cq1",
-      "addedAt": "2026-07-28T02:34:04.825Z"
-    },
-    {
-      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
-        "Oscar Wilde",
-        "Lewis Carroll"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1785206044825_11_lmpax6",
-      "addedAt": "2026-07-28T02:34:04.825Z"
-    },
-    {
-      "question": "Quel type de radiations lumineuses sont invisibles à l'œil humain mais ressenties comme de la chaleur ?",
-      "options": [
-        "Les ultraviolets",
-        "Les infrarouges",
-        "Les rayons X",
-        "Les microondes"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785206044825_12_eofzb8",
-      "addedAt": "2026-07-28T02:34:04.825Z"
-    },
-    {
-      "question": "Quel philosophe grec a fondé l'Académie à Athènes en 387 avant notre ère ?",
-      "options": [
-        "Socrate",
-        "Platon",
-        "Aristote",
-        "Épicure"
-      ],
-      "correctAnswer": 1,
-      "category": "Philosophie",
-      "id": "q_1785199466367_0_ev2c6r",
-      "addedAt": "2026-07-28T00:44:26.367Z"
-    },
-    {
-      "question": "En quelle année la photographie numérique a-t-elle été inventée ?",
-      "options": [
-        "1975",
-        "1991",
-        "2000",
-        "1969"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1785199466367_1_wg6npx",
-      "addedAt": "2026-07-28T00:44:26.367Z"
-    },
-    {
-      "question": "Quel minéral est la forme cristalline du carbone la plus dure ?",
-      "options": [
-        "Quartz",
-        "Diamant",
-        "Rubis",
-        "Émeraude"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785199466367_2_vgj84b",
-      "addedAt": "2026-07-28T00:44:26.367Z"
-    },
-    {
-      "question": "Quel écrivain français a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Émile Zola",
-        "Arthur Conan Doyle",
-        "Jules Verne",
-        "Alexandre Dumas"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1785199466367_3_gc8chu",
-      "addedAt": "2026-07-28T00:44:26.367Z"
-    },
-    {
-      "question": "Quel geyser islandais est l'un des plus célèbres du monde ?",
-      "options": [
-        "Old Faithful",
-        "Strokkur",
-        "Yellowstone",
-        "Rotorua"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1785199466367_4_6oancm",
-      "addedAt": "2026-07-28T00:44:26.367Z"
-    },
-    {
-      "question": "Quel courant artistique a été initié par Pablo Picasso et Georges Braque ?",
-      "options": [
-        "Surréalisme",
-        "Cubisme",
-        "Dadaïsme",
-        "Futurisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1785199466367_5_r0y7id",
-      "addedAt": "2026-07-28T00:44:26.367Z"
-    },
-    {
-      "question": "Combien de chambres possède le cœur humain ?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctAnswer": 2,
-      "category": "Biologie",
-      "id": "q_1785199466367_6_jbacln",
-      "addedAt": "2026-07-28T00:44:26.367Z"
     }
   ],
   "poolSize": 310
