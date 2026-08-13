@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut sommet du monde ?",
+      "options": [
+        "K2",
+        "Mont Blanc",
+        "Mont Everest",
+        "Kilimandjaro"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1786586436210_0_drlm4a",
+      "addedAt": "2026-08-13T02:00:36.210Z"
+    },
+    {
+      "question": "Quel virus cause le COVID-19 ?",
+      "options": [
+        "SARS-CoV-1",
+        "SARS-CoV-2",
+        "MERS-CoV",
+        "H1N1"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1786586436210_1_jncjpm",
+      "addedAt": "2026-08-13T02:00:36.210Z"
+    },
+    {
+      "question": "Quel peintre impressionniste a coupé une partie de son oreille ?",
+      "options": [
+        "Paul Cézanne",
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Pierre-Auguste Renoir"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1786586436210_2_721nij",
+      "addedAt": "2026-08-13T02:00:36.210Z"
+    },
+    {
+      "question": "Combien de continents existe-t-il sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1786586436210_3_15072s",
+      "addedAt": "2026-08-13T02:00:36.210Z"
+    },
+    {
+      "question": "Quel mathématicien a développé le calcul infinitésimal ?",
+      "options": [
+        "Isaac Newton et Gottfried Leibniz",
+        "Euclide",
+        "Archimède",
+        "Pythagore"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1786586436210_4_d0xvqt",
+      "addedAt": "2026-08-13T02:00:36.210Z"
+    },
+    {
+      "question": "Quel animal est le plus rapide du monde terrestre ?",
+      "options": [
+        "Lion",
+        "Antilope",
+        "Guépard",
+        "Zèbre"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1786586436210_5_muxhaj",
+      "addedAt": "2026-08-13T02:00:36.210Z"
+    },
+    {
+      "question": "Quel élément chimique est le plus abondant dans l'univers ?",
+      "options": [
+        "Oxygène",
+        "Hydrogène",
+        "Carbone",
+        "Hélium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1786586436210_6_zez1gw",
+      "addedAt": "2026-08-13T02:00:36.210Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère du monde ?",
+      "options": [
+        "Éléphant africain",
+        "Girafe",
+        "Baleine bleue",
+        "Hippopotame"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1786586436210_7_7cct3n",
+      "addedAt": "2026-08-13T02:00:36.210Z"
+    },
+    {
+      "question": "En quelle année la Bastille a-t-elle été prise lors de la Révolution française ?",
+      "options": [
+        "1787",
+        "1789",
+        "1791",
+        "1793"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786586436210_8_d9myw2",
+      "addedAt": "2026-08-13T02:00:36.210Z"
+    },
+    {
       "question": "Quel scientifique a formulé les trois lois du mouvement ?",
       "options": [
         "Albert Einstein",
@@ -3912,7 +4029,12 @@
       "category": "Technologie",
       "id": "q_1785371550806_7_saciwd",
       "addedAt": "2026-07-30T00:32:30.806Z"
-    },
+    }
+  ],
+  "version": 378,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-13T02:00:36.211Z",
+  "archivedQuestions": [
     {
       "question": "Quel naturaliste britannique a développé la théorie de l'évolution par sélection naturelle ?",
       "options": [
@@ -4029,115 +4151,6 @@
       "category": "Cinéma",
       "id": "q_1785292837064_6_vefp00",
       "addedAt": "2026-07-29T02:40:37.064Z"
-    }
-  ],
-  "version": 377,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-13T00:46:42.641Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel type de café est préparé avec de l'espresso et de la mousse de lait ?",
-      "options": [
-        "Americano",
-        "Cappuccino",
-        "Macchiato",
-        "Lungo"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1785292837064_7_p8ipkd",
-      "addedAt": "2026-07-29T02:40:37.064Z"
-    },
-    {
-      "question": "Quel sport est caractérisé par l'utilisation d'une raquette et d'une balle blanche ?",
-      "options": [
-        "Le badminton",
-        "Le tennis de table",
-        "Le squash",
-        "Le tennis"
-      ],
-      "correctAnswer": 3,
-      "category": "Sport",
-      "id": "q_1785292837064_8_2yoi8d",
-      "addedAt": "2026-07-29T02:40:37.064Z"
-    },
-    {
-      "question": "Quel philosophe grec a fondé l'Académie à Athènes ?",
-      "options": [
-        "Socrate",
-        "Aristote",
-        "Platon",
-        "Héraclite"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1785292837064_9_cyzf76",
-      "addedAt": "2026-07-29T02:40:37.064Z"
-    },
-    {
-      "question": "Quel protocole de communication est utilisé pour envoyer des e-mails sur Internet ?",
-      "options": [
-        "HTTP",
-        "FTP",
-        "SMTP",
-        "DNS"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1785292837064_10_beppkk",
-      "addedAt": "2026-07-29T02:40:37.064Z"
-    },
-    {
-      "question": "Quel écrivain français a écrit 'Le Seigneur des Anneaux' en tant qu'inspiration pour ses œuvres ?",
-      "options": [
-        "J.R.R. Tolkien",
-        "C.S. Lewis",
-        "Jules Verne",
-        "Victor Hugo"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1785285607386_0_jvwrps",
-      "addedAt": "2026-07-29T00:40:07.386Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le mouvement de la 'Nouvelle Vague' au cinéma ?",
-      "options": [
-        "François Truffaut",
-        "Jean-Luc Godard",
-        "Claude Chabrol",
-        "Tous les trois"
-      ],
-      "correctAnswer": 3,
-      "category": "Cinéma",
-      "id": "q_1785285607386_1_kgv0os",
-      "addedAt": "2026-07-29T00:40:07.386Z"
-    },
-    {
-      "question": "Quel fruit tropical contient une enzyme qui aide à la digestion ?",
-      "options": [
-        "La banane",
-        "L'ananas",
-        "La noix de coco",
-        "La mangue"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1785285607386_2_5l2ics",
-      "addedAt": "2026-07-29T00:40:07.386Z"
-    },
-    {
-      "question": "Combien de continents existe-t-il sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1785285607386_3_451hla",
-      "addedAt": "2026-07-29T00:40:07.386Z"
     }
   ],
   "poolSize": 310
