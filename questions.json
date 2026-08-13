@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a formulé les trois lois du mouvement ?",
+      "options": [
+        "Albert Einstein",
+        "Galilée",
+        "Isaac Newton",
+        "Stephen Hawking"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1786582002640_0_obuoua",
+      "addedAt": "2026-08-13T00:46:42.641Z"
+    },
+    {
+      "question": "Quel instrument de musique traditionnel japonais possède treize cordes ?",
+      "options": [
+        "Shamisen",
+        "Koto",
+        "Shakuhachi",
+        "Taiko"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1786582002641_1_50zb24",
+      "addedAt": "2026-08-13T00:46:42.641Z"
+    },
+    {
+      "question": "Quel peintre français est célèbre pour ses peintures de nymphéas ?",
+      "options": [
+        "Paul Cézanne",
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Camille Pissarro"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1786582002641_2_gb5mgl",
+      "addedAt": "2026-08-13T00:46:42.641Z"
+    },
+    {
+      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "David Fincher",
+        "Joel Coen"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1786582002641_3_mvg0fx",
+      "addedAt": "2026-08-13T00:46:42.641Z"
+    },
+    {
+      "question": "Quel processus permet aux animaux de se reproduire par échange de gènes ?",
+      "options": [
+        "Mitose",
+        "Fission binaire",
+        "Méiose",
+        "Apoptose"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1786582002641_4_zh59vk",
+      "addedAt": "2026-08-13T00:46:42.641Z"
+    },
+    {
+      "question": "Quel poète français du 19e siècle a écrit 'Les Fleurs du Mal' ?",
+      "options": [
+        "Victor Hugo",
+        "Charles Baudelaire",
+        "Arthur Rimbaud",
+        "Paul Verlaine"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1786582002641_5_60evfe",
+      "addedAt": "2026-08-13T00:46:42.641Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle principalement émergé ?",
+      "options": [
+        "13e siècle",
+        "14e siècle",
+        "15e siècle",
+        "16e siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1786582002641_6_57aokd",
+      "addedAt": "2026-08-13T00:46:42.641Z"
+    },
+    {
+      "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1786582002641_7_ink255",
+      "addedAt": "2026-08-13T00:46:42.641Z"
+    },
+    {
       "question": "Quel scientifique a formulé la loi de la gravitation universelle ?",
       "options": [
         "Albert Einstein",
@@ -3925,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1785292837064_6_vefp00",
       "addedAt": "2026-07-29T02:40:37.064Z"
-    },
+    }
+  ],
+  "version": 377,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-13T00:46:42.641Z",
+  "archivedQuestions": [
     {
       "question": "Quel type de café est préparé avec de l'espresso et de la mousse de lait ?",
       "options": [
@@ -4029,128 +4138,6 @@
       "category": "Géographie",
       "id": "q_1785285607386_3_451hla",
       "addedAt": "2026-07-29T00:40:07.386Z"
-    }
-  ],
-  "version": 376,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-12T01:58:19.812Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel type de musique a créé Bob Marley et popularisé ?",
-      "options": [
-        "Le blues",
-        "Le reggae",
-        "Le ska",
-        "Le calypso"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1785285607386_4_lo9sgy",
-      "addedAt": "2026-07-29T00:40:07.386Z"
-    },
-    {
-      "question": "En quelle année la Bastille a-t-elle été stormed pendant la Révolution française ?",
-      "options": [
-        "1788",
-        "1789",
-        "1790",
-        "1791"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1785285607386_5_e7yyc7",
-      "addedAt": "2026-07-29T00:40:07.386Z"
-    },
-    {
-      "question": "Quel est le nombre premier qui suit immédiatement 23 ?",
-      "options": [
-        "25",
-        "27",
-        "29",
-        "31"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1785285607386_6_yj7f8k",
-      "addedAt": "2026-07-29T00:40:07.386Z"
-    },
-    {
-      "question": "Quel gaz représente environ 21% de l'atmosphère terrestre ?",
-      "options": [
-        "Azote",
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785285607386_7_02a68z",
-      "addedAt": "2026-07-29T00:40:07.386Z"
-    },
-    {
-      "question": "Quel château français est le plus visité d'Europe ?",
-      "options": [
-        "Versailles",
-        "Chambord",
-        "Fontainebleau",
-        "Chantilly"
-      ],
-      "correctAnswer": 0,
-      "category": "Culture",
-      "id": "q_1785285607386_8_j5dtl9",
-      "addedAt": "2026-07-29T00:40:07.386Z"
-    },
-    {
-      "question": "En quelle année la Bastille a-t-elle été prise lors de la Révolution française ?",
-      "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1785206044825_0_3sw5uy",
-      "addedAt": "2026-07-28T02:34:04.825Z"
-    },
-    {
-      "question": "Quel est le nom du processus par lequel les plantes convertissent la lumière en énergie chimique ?",
-      "options": [
-        "La respiration cellulaire",
-        "La photosynthèse",
-        "La fermentation",
-        "La transpiration"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785206044825_1_m6k6yi",
-      "addedAt": "2026-07-28T02:34:04.825Z"
-    },
-    {
-      "question": "Quel roman de science-fiction de Jules Verne parle d'un voyage au centre de la Terre ?",
-      "options": [
-        "20 000 lieues sous les mers",
-        "Voyage au centre de la Terre",
-        "De la Terre à la Lune",
-        "L'Île mystérieuse"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1785206044825_2_9qv6mg",
-      "addedAt": "2026-07-28T02:34:04.825Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre vivant ?",
-      "options": [
-        "Le rhinocéros",
-        "L'hippopotame",
-        "L'éléphant d'Afrique",
-        "La girafe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1785206044825_3_jcvmws",
-      "addedAt": "2026-07-28T02:34:04.825Z"
     }
   ],
   "poolSize": 310
