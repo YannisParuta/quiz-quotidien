@@ -1,6 +1,71 @@
 {
   "questions": [
     {
+      "question": "Quel animal est le mammifère terrestre le plus rapide ?",
+      "options": [
+        "Lion",
+        "Antilope pronghorn",
+        "Guépard",
+        "Gazelle"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1786667134922_1_egarfv",
+      "addedAt": "2026-08-14T00:25:34.922Z"
+    },
+    {
+      "question": "Combien de valences possède généralement l'atome de carbone ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1786667134922_2_3792y4",
+      "addedAt": "2026-08-14T00:25:34.922Z"
+    },
+    {
+      "question": "Quel réalisateur italien a créé 'Le Parrain' ?",
+      "options": [
+        "Sergio Leone",
+        "Federico Fellini",
+        "Francis Ford Coppola",
+        "Bernardo Bertolucci"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1786667134922_3_l4w575",
+      "addedAt": "2026-08-14T00:25:34.922Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en vitamine C et originaire d'Asie du Sud-Est ?",
+      "options": [
+        "Mangue",
+        "Papaye",
+        "Ananas",
+        "Noix de coco"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1786667134922_4_rnkqbb",
+      "addedAt": "2026-08-14T00:25:34.922Z"
+    },
+    {
+      "question": "Quel peintre hollandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Vincent van Gogh",
+        "Pieter Bruegel"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1786667134921_0_39l1am",
+      "addedAt": "2026-08-14T00:25:34.921Z"
+    },
+    {
       "question": "Quel est le plus haut sommet du monde ?",
       "options": [
         "K2",
@@ -3964,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1785371550806_2_kxhtxk",
       "addedAt": "2026-07-30T00:32:30.806Z"
-    },
+    }
+  ],
+  "version": 379,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-14T00:25:34.922Z",
+  "archivedQuestions": [
     {
       "question": "Quel processus biologique permet aux cellules végétales de convertir la lumière en énergie chimique ?",
       "options": [
@@ -4029,128 +4099,6 @@
       "category": "Technologie",
       "id": "q_1785371550806_7_saciwd",
       "addedAt": "2026-07-30T00:32:30.806Z"
-    }
-  ],
-  "version": 378,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-13T02:00:36.211Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel naturaliste britannique a développé la théorie de l'évolution par sélection naturelle ?",
-      "options": [
-        "Jean-Baptiste Lamarck",
-        "Charles Darwin",
-        "Gregor Mendel",
-        "Thomas Huxley"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785371550806_8_5us3ky",
-      "addedAt": "2026-07-30T00:32:30.806Z"
-    },
-    {
-      "question": "Quel est le plus grand récif de corail du monde ?",
-      "options": [
-        "Le récif de Belize",
-        "La Grande Barrière de Corail",
-        "Le récif des Maldives",
-        "Le récif des Caraïbes"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1785371550806_9_xaj1j7",
-      "addedAt": "2026-07-30T00:32:30.806Z"
-    },
-    {
-      "question": "Quel architecte a conçu la Sagrada Familia à Barcelone ?",
-      "options": [
-        "Antoni Gaudí",
-        "Josep Puig i Cadafalch",
-        "Lluís Domènech i Montaner",
-        "Enric Miralles"
-      ],
-      "correctAnswer": 0,
-      "category": "Architecture",
-      "id": "q_1785292837064_0_7detj6",
-      "addedAt": "2026-07-29T02:40:37.064Z"
-    },
-    {
-      "question": "En quelle année l'accident nucléaire de Tchernobyl s'est-il produit ?",
-      "options": [
-        "1984",
-        "1986",
-        "1988",
-        "1990"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1785292837064_1_fdftr9",
-      "addedAt": "2026-07-29T02:40:37.064Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit la Neuvième Symphonie ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach",
-        "George Friedrich Haendel"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1785292837064_2_9d2lq9",
-      "addedAt": "2026-07-29T02:40:37.064Z"
-    },
-    {
-      "question": "Quel État américain est le plus grand en superficie ?",
-      "options": [
-        "Californie",
-        "Texas",
-        "Alaska",
-        "Montana"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1785292837064_3_uvqe1j",
-      "addedAt": "2026-07-29T02:40:37.064Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde en termes de superficie ?",
-      "options": [
-        "Monaco",
-        "San Marin",
-        "Vatican",
-        "Liechtenstein"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1785292837064_4_gs6oxw",
-      "addedAt": "2026-07-29T02:40:37.064Z"
-    },
-    {
-      "question": "Quel mathématicien a découvert le nombre zéro en tant que concept mathématique ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Aryabhata",
-        "Fibonacci"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1785292837064_5_n8a6tr",
-      "addedAt": "2026-07-29T02:40:37.064Z"
-    },
-    {
-      "question": "Quel film réalisé par Steven Spielberg raconte l'histoire du Titanic ?",
-      "options": [
-        "Rencontre du troisième type",
-        "Mémoires d'une geisha",
-        "Titanic",
-        "Aucun de ces films"
-      ],
-      "correctAnswer": 3,
-      "category": "Cinéma",
-      "id": "q_1785292837064_6_vefp00",
-      "addedAt": "2026-07-29T02:40:37.064Z"
     }
   ],
   "poolSize": 310
