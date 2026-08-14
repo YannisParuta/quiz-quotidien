@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel célèbre explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
+      "options": [
+        "Bartolomeu Dias",
+        "Vasco de Gama",
+        "Ferdinand Magellan",
+        "Christophe Colomb"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786672707437_0_xxapgt",
+      "addedAt": "2026-08-14T01:58:27.437Z"
+    },
+    {
+      "question": "Quel processus biologique permet aux plantes de convertir la lumière en énergie ?",
+      "options": [
+        "La fermentation",
+        "La photosynthèse",
+        "La respiration cellulaire",
+        "La mitose"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1786672707437_1_0psk07",
+      "addedAt": "2026-08-14T01:58:27.437Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance a-t-elle principalement eu lieu en Europe ?",
+      "options": [
+        "XIIe siècle",
+        "XVe et XVIe siècles",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786672707437_2_96q3kl",
+      "addedAt": "2026-08-14T01:58:27.437Z"
+    },
+    {
+      "question": "Quel peintre impressionniste français est célèbre pour ses séries de Nymphéas ?",
+      "options": [
+        "Edgar Degas",
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Frédéric Bazille"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1786672707437_3_vr5opr",
+      "addedAt": "2026-08-14T01:58:27.437Z"
+    },
+    {
+      "question": "Quel type de symétrie possède un papillon ?",
+      "options": [
+        "Symétrie radiale",
+        "Symétrie axiale",
+        "Asymétrie",
+        "Symétrie centrale"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1786672707437_4_dn62i8",
+      "addedAt": "2026-08-14T01:58:27.437Z"
+    },
+    {
+      "question": "Quel sport d'équipe espagnol s'apparente au handball joué à cheval ?",
+      "options": [
+        "La pelote basque",
+        "Le polo",
+        "Le jaleo",
+        "La corrida"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1786672707437_5_sb0o6o",
+      "addedAt": "2026-08-14T01:58:27.437Z"
+    },
+    {
+      "question": "Quel archipel volcanique est situé à environ 1000 km des côtes de l'Équateur ?",
+      "options": [
+        "Les îles Marquises",
+        "Les îles Galápagos",
+        "Les îles Aléoutiennes",
+        "Les îles Hawaïennes"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1786672707437_6_hh6s9n",
+      "addedAt": "2026-08-14T01:58:27.437Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit la pièce 'La Marche Turque' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Franz Joseph Haydn",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1786672707437_7_fm3u0m",
+      "addedAt": "2026-08-14T01:58:27.437Z"
+    },
+    {
+      "question": "Quel animal marin est capable de changer la température de son corps ?",
+      "options": [
+        "Le requin blanc",
+        "La baleine bleue",
+        "Le thon rouge",
+        "L'hippocampe"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1786672707437_8_v4u4px",
+      "addedAt": "2026-08-14T01:58:27.437Z"
+    },
+    {
+      "question": "Quel mathématicien français a donné son nom au théorème fondamental sur les triangles rectangles ?",
+      "options": [
+        "René Descartes",
+        "Pierre de Fermat",
+        "Pythagore",
+        "Blaise Pascal"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1786672707437_9_rahy17",
+      "addedAt": "2026-08-14T01:58:27.437Z"
+    },
+    {
+      "question": "Quel vin français provient exclusivement de la région de Champagne ?",
+      "options": [
+        "Le Prosecco",
+        "Le Champagne",
+        "Le Crémant",
+        "Le Cava"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1786672707437_10_hukhc5",
+      "addedAt": "2026-08-14T01:58:27.437Z"
+    },
+    {
+      "question": "Quel système informatique open-source a été créé par Linus Torvalds en 1991 ?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1786672707437_11_vhqti5",
+      "addedAt": "2026-08-14T01:58:27.437Z"
+    },
+    {
       "question": "Quel animal est le mammifère terrestre le plus rapide ?",
       "options": [
         "Lion",
@@ -3873,7 +4029,12 @@
       "category": "Littérature",
       "id": "q_1785378411642_2_kfeg3i",
       "addedAt": "2026-07-30T02:26:51.642Z"
-    },
+    }
+  ],
+  "version": 380,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-14T01:58:27.437Z",
+  "archivedQuestions": [
     {
       "question": "En quel année l'Union Européenne a-t-elle adopté l'euro comme monnaie unique ?",
       "options": [
@@ -4028,76 +4189,6 @@
       "correctAnswer": 1,
       "category": "Histoire",
       "id": "q_1785371550806_2_kxhtxk",
-      "addedAt": "2026-07-30T00:32:30.806Z"
-    }
-  ],
-  "version": 379,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-14T00:25:34.922Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel processus biologique permet aux cellules végétales de convertir la lumière en énergie chimique ?",
-      "options": [
-        "La respiration cellulaire",
-        "La fermentation",
-        "La photosynthèse",
-        "La mitose"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1785371550806_3_l1jzx7",
-      "addedAt": "2026-07-30T00:32:30.806Z"
-    },
-    {
-      "question": "Quel acteur français a joué le rôle principal dans 'Amélie Poulain' ?",
-      "options": [
-        "Marion Cotillard",
-        "Audrey Tautou",
-        "Sophie Marceau",
-        "Isabelle Adjani"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1785371550806_4_ernrf9",
-      "addedAt": "2026-07-30T00:32:30.806Z"
-    },
-    {
-      "question": "Quel nombre de joueurs une équipe de basketball a-t-elle sur le terrain ?",
-      "options": [
-        "4 joueurs",
-        "5 joueurs",
-        "6 joueurs",
-        "7 joueurs"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1785371550806_5_jm98nc",
-      "addedAt": "2026-07-30T00:32:30.806Z"
-    },
-    {
-      "question": "Quel légume méditerranéen est riche en lycopène et utilisé dans la sauce tomate ?",
-      "options": [
-        "L'aubergine",
-        "Le poivron",
-        "La tomate",
-        "Le concombre"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1785371550806_6_ih5oyg",
-      "addedAt": "2026-07-30T00:32:30.806Z"
-    },
-    {
-      "question": "Quel port de communication Internet est utilisé par défaut pour envoyer des courriels en clair ?",
-      "options": [
-        "Port 25",
-        "Port 587",
-        "Port 993",
-        "Port 110"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1785371550806_7_saciwd",
       "addedAt": "2026-07-30T00:32:30.806Z"
     }
   ],
