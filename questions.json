@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "En quel année la Bastille a-t-elle été prise lors de la Révolution française ?",
+      "options": [
+        "1787",
+        "1789",
+        "1791",
+        "1793"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786754279525_0_pgsswa",
+      "addedAt": "2026-08-15T00:37:59.525Z"
+    },
+    {
+      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "L'oxygène",
+        "L'azote",
+        "Le dioxyde de carbone",
+        "L'hélium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1786754279525_1_acs3te",
+      "addedAt": "2026-08-15T00:37:59.525Z"
+    },
+    {
+      "question": "Quel artiste italien de la Renaissance a peint la chapelle Sixtine ?",
+      "options": [
+        "Raphaël",
+        "Michel-Ange",
+        "Léonard de Vinci",
+        "Botticelli"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1786754279525_2_8i71q4",
+      "addedAt": "2026-08-15T00:37:59.525Z"
+    },
+    {
+      "question": "Quel instrument à vent est caractérisé par ses trous et sa forme conique ?",
+      "options": [
+        "La trompette",
+        "Le hautbois",
+        "La flûte traversière",
+        "Le saxophone"
+      ],
+      "correctAnswer": 3,
+      "category": "Musique",
+      "id": "q_1786754279525_3_ujcroy",
+      "addedAt": "2026-08-15T00:37:59.525Z"
+    },
+    {
+      "question": "Quel mathématicien suisse a formulé la relation E=mc² ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Leonhard Euler",
+        "Carl Friedrich Gauss"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1786754279525_4_v70arz",
+      "addedAt": "2026-08-15T00:37:59.525Z"
+    },
+    {
+      "question": "En quelle année l'Égypte ancienne s'est-elle unifiée sous le premier pharaon ?",
+      "options": [
+        "3000 av. J.-C.",
+        "2500 av. J.-C.",
+        "1500 av. J.-C.",
+        "1000 av. J.-C."
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1786754279525_5_txn5dt",
+      "addedAt": "2026-08-15T00:37:59.525Z"
+    },
+    {
+      "question": "Quel type de cellule humaine est responsable du transport de l'oxygène ?",
+      "options": [
+        "Les globules blancs",
+        "Les plaquettes",
+        "Les globules rouges",
+        "Les neurones"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1786754279525_6_psjbtf",
+      "addedAt": "2026-08-15T00:37:59.525Z"
+    },
+    {
+      "question": "Quel réalisateur britannique est connu pour ses films de suspense psychologique ?",
+      "options": [
+        "Stanley Kubrick",
+        "Alfred Hitchcock",
+        "David Fincher",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1786754279525_7_em1bix",
+      "addedAt": "2026-08-15T00:37:59.525Z"
+    },
+    {
       "question": "Quel célèbre explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
       "options": [
         "Bartolomeu Dias",
@@ -3925,7 +4029,12 @@
       "category": "Science",
       "id": "q_1785456161458_2_14ntxt",
       "addedAt": "2026-07-31T00:02:41.458Z"
-    },
+    }
+  ],
+  "version": 381,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-15T00:37:59.526Z",
+  "archivedQuestions": [
     {
       "question": "Quel cinéaste français a réalisé 'La Haine' en 1995 ?",
       "options": [
@@ -4029,167 +4138,6 @@
       "category": "Littérature",
       "id": "q_1785378411642_2_kfeg3i",
       "addedAt": "2026-07-30T02:26:51.642Z"
-    }
-  ],
-  "version": 380,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-14T01:58:27.437Z",
-  "archivedQuestions": [
-    {
-      "question": "En quel année l'Union Européenne a-t-elle adopté l'euro comme monnaie unique ?",
-      "options": [
-        "1997",
-        "1999",
-        "2001",
-        "2002"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1785378411642_3_rtnw7b",
-      "addedAt": "2026-07-30T02:26:51.642Z"
-    },
-    {
-      "question": "Quel gaz constitue environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Azote",
-        "Dioxyde de carbone",
-        "Argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785378411642_4_so7wck",
-      "addedAt": "2026-07-30T02:26:51.642Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé la série de films 'Lupin' pour Netflix ?",
-      "options": [
-        "Louis Leterrier",
-        "Jacques Audiard",
-        "Michel Gondry",
-        "Claude Zidi"
-      ],
-      "correctAnswer": 0,
-      "category": "Cinéma",
-      "id": "q_1785378411642_5_7io4ai",
-      "addedAt": "2026-07-30T02:26:51.642Z"
-    },
-    {
-      "question": "Quel type de reptile est capable de changer de couleur pour se camoufler ?",
-      "options": [
-        "Python",
-        "Caméléon",
-        "Serpent à sonnettes",
-        "Iguane"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1785378411642_6_8zhst8",
-      "addedAt": "2026-07-30T02:26:51.642Z"
-    },
-    {
-      "question": "Quel sport français consiste à tirer des balles métalliques vers un petit but ?",
-      "options": [
-        "Pétanque",
-        "Croquet",
-        "Curling",
-        "Bowls"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1785378411642_7_1xz0vx",
-      "addedAt": "2026-07-30T02:26:51.642Z"
-    },
-    {
-      "question": "Quel artiste moderne a créé l'œuvre 'La Persistance de la mémoire' avec ses montres molles ?",
-      "options": [
-        "René Magritte",
-        "Salvador Dalí",
-        "Joan Miró",
-        "Max Ernst"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1785378411642_8_e1qvxf",
-      "addedAt": "2026-07-30T02:26:51.642Z"
-    },
-    {
-      "question": "Quel spice épicé originaire d'Asie du Sud est l'ingrédient principal du curry ?",
-      "options": [
-        "Safran",
-        "Curcuma",
-        "Clou de girofle",
-        "Cardamome"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1785378411642_9_vlosaw",
-      "addedAt": "2026-07-30T02:26:51.642Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit la neuvième symphonie contenant 'L'Ode à la Joie' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Georg Friedrich Haendel",
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1785378411642_10_km7m4i",
-      "addedAt": "2026-07-30T02:26:51.642Z"
-    },
-    {
-      "question": "Quel protocole de communication est utilisé pour envoyer des emails ?",
-      "options": [
-        "HTTP",
-        "FTP",
-        "SMTP",
-        "DNS"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1785378411642_11_9ryei9",
-      "addedAt": "2026-07-30T02:26:51.642Z"
-    },
-    {
-      "question": "Quel élément chimique porte le symbole 'Au' dans le tableau périodique ?",
-      "options": [
-        "L'argent",
-        "L'or",
-        "L'aluminium",
-        "L'argon"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785371550806_0_v838ax",
-      "addedAt": "2026-07-30T00:32:30.806Z"
-    },
-    {
-      "question": "Quel sculpteur italien a créé la statue du David à la Renaissance ?",
-      "options": [
-        "Bernin",
-        "Donatello",
-        "Michel-Ange",
-        "Cellini"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1785371550806_1_wmruum",
-      "addedAt": "2026-07-30T00:32:30.806Z"
-    },
-    {
-      "question": "En quelle année le Titanic a-t-il coulé ?",
-      "options": [
-        "1910",
-        "1912",
-        "1915",
-        "1920"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1785371550806_2_kxhtxk",
-      "addedAt": "2026-07-30T00:32:30.806Z"
     }
   ],
   "poolSize": 310
