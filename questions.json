@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Combien de côtés possède un hexagone régulier ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1786843141595_0_9clj6v",
+      "addedAt": "2026-08-16T01:19:01.595Z"
+    },
+    {
+      "question": "Quel écrivain britannique a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Oscar Wilde",
+        "Arthur Conan Doyle",
+        "Charles Dickens",
+        "George Orwell"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1786843141595_1_f3x9cq",
+      "addedAt": "2026-08-16T01:19:01.595Z"
+    },
+    {
+      "question": "Quel animal possède une membrane entre ses yeux appelée 'nictitante' ?",
+      "options": [
+        "Le chat",
+        "Le cheval",
+        "Le crocodile",
+        "L'aigle"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1786843141595_2_w3qnxt",
+      "addedAt": "2026-08-16T01:19:01.595Z"
+    },
+    {
+      "question": "En quel siècle la Révolution française a-t-elle éclaté ?",
+      "options": [
+        "XVIIème siècle",
+        "XVIIIème siècle",
+        "XIXème siècle",
+        "XXème siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786843141595_3_hqrpw9",
+      "addedAt": "2026-08-16T01:19:01.595Z"
+    },
+    {
+      "question": "Quel artiste italien a peint la chapelle Sixtine ?",
+      "options": [
+        "Leonardo da Vinci",
+        "Botticelli",
+        "Michel-Ange",
+        "Raphaël"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1786843141595_4_4nkz3u",
+      "addedAt": "2026-08-16T01:19:01.595Z"
+    },
+    {
+      "question": "Quel gaz compose environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Hydrogène"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1786843141595_5_gxpw9w",
+      "addedAt": "2026-08-16T01:19:01.595Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'Le Cinquième Élément' ?",
+      "options": [
+        "François Truffaut",
+        "Luc Besson",
+        "Jean-Luc Godard",
+        "Claude Chabrol"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1786843141595_6_wtijzp",
+      "addedAt": "2026-08-16T01:19:01.595Z"
+    },
+    {
+      "question": "Quel langage informatique est largement utilisé pour la création de pages web côté client ?",
+      "options": [
+        "Java",
+        "C++",
+        "JavaScript",
+        "Ruby"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1786843141595_7_5jy7ey",
+      "addedAt": "2026-08-16T01:19:01.595Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en enzyme bromélaïne qui aide à la digestion ?",
+      "options": [
+        "Mangue",
+        "Ananas",
+        "Papaye",
+        "Fruit de la passion"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1786843141595_8_rkq7i8",
+      "addedAt": "2026-08-16T01:19:01.595Z"
+    },
+    {
       "question": "Quel écrivain italien a écrit 'La Divine Comédie' ?",
       "options": [
         "Pétrarque",
@@ -3912,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1785552632381_5_7mq4l8",
       "addedAt": "2026-08-01T02:50:32.381Z"
-    },
+    }
+  ],
+  "version": 384,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-16T01:19:01.595Z",
+  "archivedQuestions": [
     {
       "question": "Quel langage de programmation est développé par Guido van Rossum ?",
       "options": [
@@ -4029,115 +4151,6 @@
       "category": "Mathématiques",
       "id": "q_1785543047084_6_tq7c44",
       "addedAt": "2026-08-01T00:10:47.084Z"
-    }
-  ],
-  "version": 383,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-16T00:36:06.239Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel cycliste français a remporté 5 Tours de France consécutifs de 1991 à 1995 ?",
-      "options": [
-        "Eddy Merckx",
-        "Miguel Indurain",
-        "Bernard Hinault",
-        "Greg LeMond"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1785543047084_7_a9wrs0",
-      "addedAt": "2026-08-01T00:10:47.084Z"
-    },
-    {
-      "question": "En gastronomie, quel terme français désigne une sauce à base de beurre et de jus de citron ?",
-      "options": [
-        "Béarnaise",
-        "Meunière",
-        "Hollandaise",
-        "Normande"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1785543047084_8_nqsbi7",
-      "addedAt": "2026-08-01T00:10:47.084Z"
-    },
-    {
-      "question": "Quel protocole de communication est fondamental pour le fonctionnement d'Internet ?",
-      "options": [
-        "USB",
-        "TCP/IP",
-        "Bluetooth",
-        "HDMI"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1785543047084_9_9koorl",
-      "addedAt": "2026-08-01T00:10:47.084Z"
-    },
-    {
-      "question": "Quel empire antique a établi la Route de la Soie ?",
-      "options": [
-        "Empire mongol",
-        "Empire perse",
-        "Empire romain",
-        "Empire chinois"
-      ],
-      "correctAnswer": 3,
-      "category": "Histoire",
-      "id": "q_1785543047084_10_92x4sx",
-      "addedAt": "2026-08-01T00:10:47.084Z"
-    },
-    {
-      "question": "Quel oiseau est le plus grand voleur du monde entomologique ?",
-      "options": [
-        "L'aigle",
-        "L'autruche",
-        "Le faucon pèlerin",
-        "Le colibri"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1785543047084_11_ef3qny",
-      "addedAt": "2026-08-01T00:10:47.084Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
-      "options": [
-        "Louis Pasteur",
-        "Alexander Fleming",
-        "Marie Curie",
-        "Linus Pauling"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785466295314_0_wdm1o0",
-      "addedAt": "2026-07-31T02:51:35.314Z"
-    },
-    {
-      "question": "En quelle année la construction de la Tour Eiffel a-t-elle été achevée ?",
-      "options": [
-        "1885",
-        "1889",
-        "1892",
-        "1895"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1785466295314_1_3zilbc",
-      "addedAt": "2026-07-31T02:51:35.314Z"
-    },
-    {
-      "question": "En quelle année l'Union soviétique s'est-elle effondrée ?",
-      "options": [
-        "1989",
-        "1991",
-        "1993",
-        "1995"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1785466295314_2_wenok4",
-      "addedAt": "2026-07-31T02:51:35.314Z"
     }
   ],
   "poolSize": 310
