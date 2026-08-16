@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain italien a écrit 'La Divine Comédie' ?",
+      "options": [
+        "Pétrarque",
+        "Dante Alighieri",
+        "Boccace",
+        "Machiavel"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1786840566239_0_x2qyk9",
+      "addedAt": "2026-08-16T00:36:06.239Z"
+    },
+    {
+      "question": "Quel musicien autrichien a composé 'Une petite musique de nuit' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert",
+        "Joseph Haydn"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1786840566239_1_6iiy3k",
+      "addedAt": "2026-08-16T00:36:06.239Z"
+    },
+    {
+      "question": "Combien de chambres compose le cœur humain ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1786840566239_2_zdy27n",
+      "addedAt": "2026-08-16T00:36:06.239Z"
+    },
+    {
+      "question": "Quel peintre espagnol a fondé le mouvement cubiste avec Pablo Picasso ?",
+      "options": [
+        "Salvador Dalí",
+        "Joan Miró",
+        "Georges Braque",
+        "Juan Gris"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1786840566239_3_ubcpv3",
+      "addedAt": "2026-08-16T00:36:06.239Z"
+    },
+    {
+      "question": "Quel tennissman suisse a remporté le plus de titres du Grand Chelem ?",
+      "options": [
+        "Stan Wawrinka",
+        "Roger Federer",
+        "Marco Chiudinelli",
+        "Henri Laaksonen"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1786840566239_4_zamfvg",
+      "addedAt": "2026-08-16T00:36:06.239Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le personnage de Monsieur Hulot ?",
+      "options": [
+        "Claude Chabrol",
+        "Jacques Tati",
+        "Jean-Luc Godard",
+        "François Truffaut"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1786840566239_5_fqt9dm",
+      "addedAt": "2026-08-16T00:36:06.239Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en enzyme bromélaïne ?",
+      "options": [
+        "Mangue",
+        "Papaye",
+        "Ananas",
+        "Goyave"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1786840566239_6_4v9c4h",
+      "addedAt": "2026-08-16T00:36:06.239Z"
+    },
+    {
+      "question": "Quel fleuve est le plus long du monde ?",
+      "options": [
+        "Fleuve Amazone",
+        "Fleuve Nil",
+        "Fleuve Yangtze",
+        "Fleuve Mississipi"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1786840566239_7_gdoa6s",
+      "addedAt": "2026-08-16T00:36:06.239Z"
+    },
+    {
       "question": "Quel fleuve est le plus long d'Afrique ?",
       "options": [
         "Le Congo",
@@ -3925,7 +4029,12 @@
       "category": "Mathématiques",
       "id": "q_1785543047084_6_tq7c44",
       "addedAt": "2026-08-01T00:10:47.084Z"
-    },
+    }
+  ],
+  "version": 383,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-16T00:36:06.239Z",
+  "archivedQuestions": [
     {
       "question": "Quel cycliste français a remporté 5 Tours de France consécutifs de 1991 à 1995 ?",
       "options": [
@@ -4029,128 +4138,6 @@
       "category": "Histoire",
       "id": "q_1785466295314_2_wenok4",
       "addedAt": "2026-07-31T02:51:35.314Z"
-    }
-  ],
-  "version": 382,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-15T01:14:24.775Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel sport olympique combine le tir à la carabine et le ski de fond ?",
-      "options": [
-        "Biathlon",
-        "Pentathlon moderne",
-        "Triathlon",
-        "Heptathlon"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1785466295314_3_kx6oft",
-      "addedAt": "2026-07-31T02:51:35.314Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé 'Pulp Fiction' en 1994 ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "Steven Spielberg",
-        "David Fincher"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1785466295314_4_wdrexy",
-      "addedAt": "2026-07-31T02:51:35.314Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit 'Le Clair de lune' ?",
-      "options": [
-        "Richard Wagner",
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach",
-        "Felix Mendelssohn"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1785466295314_5_c5q92i",
-      "addedAt": "2026-07-31T02:51:35.314Z"
-    },
-    {
-      "question": "Quel type de fromage français est fabriqué à partir de lait de brebis dans les Pyrénées ?",
-      "options": [
-        "Roquefort",
-        "Ossau-Iraty",
-        "Comté",
-        "Camembert"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1785466295314_6_dho4az",
-      "addedAt": "2026-07-31T02:51:35.314Z"
-    },
-    {
-      "question": "Quel artiste français du XVIIe siècle est connu pour ses paysages en perspective ?",
-      "options": [
-        "Claude Lorrain",
-        "Nicolas Poussin",
-        "Jean-Honoré Fragonard",
-        "François Boucher"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1785466295314_7_uga2mk",
-      "addedAt": "2026-07-31T02:51:35.314Z"
-    },
-    {
-      "question": "En quelle année le premier ordinateur personnel Apple II a-t-il été commercialisé ?",
-      "options": [
-        "1975",
-        "1977",
-        "1979",
-        "1981"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1785466295314_8_09knp6",
-      "addedAt": "2026-07-31T02:51:35.314Z"
-    },
-    {
-      "question": "En quelle année l'imprimerie a-t-elle été inventée par Gutenberg ?",
-      "options": [
-        "1440",
-        "1492",
-        "1545",
-        "1350"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1785456161458_0_rpk2px",
-      "addedAt": "2026-07-31T00:02:41.458Z"
-    },
-    {
-      "question": "Quel instrument de musique est le plus grave de la famille des cordes frottées ?",
-      "options": [
-        "Violon",
-        "Alto",
-        "Violoncelle",
-        "Contrebasse"
-      ],
-      "correctAnswer": 3,
-      "category": "Musique",
-      "id": "q_1785456161458_1_azvugc",
-      "addedAt": "2026-07-31T00:02:41.458Z"
-    },
-    {
-      "question": "Quel type de roche est formée par le refroidissement du magma ?",
-      "options": [
-        "Roche sédimentaire",
-        "Roche métamorphique",
-        "Roche ignée",
-        "Roche calcaire"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1785456161458_2_14ntxt",
-      "addedAt": "2026-07-31T00:02:41.458Z"
     }
   ],
   "poolSize": 310
