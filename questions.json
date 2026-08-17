@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Quel philosophe grec ancien a fondé l'Académie d'Athènes en 387 avant J.-C. ?",
+      "options": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Épicure"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786927194778_0_vrzw17",
+      "addedAt": "2026-08-17T00:39:54.778Z"
+    },
+    {
+      "question": "Quel organe humain produit l'insuline ?",
+      "options": [
+        "Le foie",
+        "Le pancréas",
+        "L'estomac",
+        "Les reins"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1786927194778_1_8esivf",
+      "addedAt": "2026-08-17T00:39:54.778Z"
+    },
+    {
+      "question": "Quel artiste français a peint 'Les Nymphéas' comme série de tableaux ?",
+      "options": [
+        "Paul Cézanne",
+        "Claude Monet",
+        "Henri Matisse",
+        "Pierre-Auguste Renoir"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1786927194778_2_ouay42",
+      "addedAt": "2026-08-17T00:39:54.778Z"
+    },
+    {
+      "question": "Combien de continents compte la Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1786927194778_3_94567s",
+      "addedAt": "2026-08-17T00:39:54.778Z"
+    },
+    {
+      "question": "Quel physicien a énoncé les trois lois du mouvement ?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Christiaan Huygens"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1786927194778_4_eshgv9",
+      "addedAt": "2026-08-17T00:39:54.778Z"
+    },
+    {
+      "question": "Quel sport d'équipe utilise un filet et se joue avec un ballon léger sur un terrain intérieur ?",
+      "options": [
+        "Le handball",
+        "Le badminton",
+        "Le volley-ball",
+        "Le squash"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1786927194778_5_iqovr0",
+      "addedAt": "2026-08-17T00:39:54.778Z"
+    },
+    {
+      "question": "Quel musicien classique allemand est devenu sourd à la fin de sa vie ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven",
+        "George Friedrich Haendel"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1786927194778_6_vxm3fn",
+      "addedAt": "2026-08-17T00:39:54.778Z"
+    },
+    {
+      "question": "Quel réalisateur français a produit le film 'La Haine' en 1995 ?",
+      "options": [
+        "Luc Besson",
+        "Mathieu Kassovitz",
+        "Gérard Krawczyk",
+        "Jean-Pierre Jeunet"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1786927194778_7_z29i7m",
+      "addedAt": "2026-08-17T00:39:54.778Z"
+    },
+    {
       "question": "Combien de côtés possède un hexagone régulier ?",
       "options": [
         "4",
@@ -3925,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1785631465642_8_9yra3u",
       "addedAt": "2026-08-02T00:44:25.642Z"
-    },
+    }
+  ],
+  "version": 385,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-17T00:39:54.779Z",
+  "archivedQuestions": [
     {
       "question": "Quel athlète jamaïcain détient le record du monde du 100 mètres ?",
       "options": [
@@ -4029,128 +4138,6 @@
       "category": "Gastronomie",
       "id": "q_1785552632381_5_7mq4l8",
       "addedAt": "2026-08-01T02:50:32.381Z"
-    }
-  ],
-  "version": 384,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-16T01:19:01.595Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel langage de programmation est développé par Guido van Rossum ?",
-      "options": [
-        "Java",
-        "Python",
-        "C++",
-        "Ruby"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1785552632381_6_w74xow",
-      "addedAt": "2026-08-01T02:50:32.381Z"
-    },
-    {
-      "question": "Quel compositeur français a écrit l'opéra 'Carmen' ?",
-      "options": [
-        "Georges Bizet",
-        "Gioachino Rossini",
-        "Giuseppe Verdi",
-        "Gaspare Spontini"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1785552632381_7_uslbo0",
-      "addedAt": "2026-08-01T02:50:32.381Z"
-    },
-    {
-      "question": "Quel scientifique a développé la théorie de la relativité générale ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Stephen Hawking"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785543047084_0_y08f2y",
-      "addedAt": "2026-08-01T00:10:47.084Z"
-    },
-    {
-      "question": "Combien de cordes possède un violon classique ?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "8"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1785543047084_1_2lh9ye",
-      "addedAt": "2026-08-01T00:10:47.084Z"
-    },
-    {
-      "question": "Quel type de protéine accélère les réactions chimiques dans les cellules ?",
-      "options": [
-        "Lipides",
-        "Enzymes",
-        "Glucides",
-        "Acides nucléiques"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785543047084_2_5egfea",
-      "addedAt": "2026-08-01T00:10:47.084Z"
-    },
-    {
-      "question": "En quel année l'artiste français Jean-Michel Basquiat est-il décédé ?",
-      "options": [
-        "1985",
-        "1987",
-        "1990",
-        "1988"
-      ],
-      "correctAnswer": 3,
-      "category": "Art",
-      "id": "q_1785543047084_3_fjg414",
-      "addedAt": "2026-08-01T00:10:47.084Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé le film 'Inception' en 2010 ?",
-      "options": [
-        "Martin Scorsese",
-        "Christopher Nolan",
-        "Denis Villeneuve",
-        "Ridley Scott"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1785543047084_4_rth4sn",
-      "addedAt": "2026-08-01T00:10:47.084Z"
-    },
-    {
-      "question": "Quel légume est techniquement un fruit du point de vue botanique ?",
-      "options": [
-        "Carotte",
-        "Tomate",
-        "Pomme de terre",
-        "Betterave"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1785543047084_5_rh2cmj",
-      "addedAt": "2026-08-01T00:10:47.084Z"
-    },
-    {
-      "question": "Quel mathématicien grec a formulé le théorème de Pythagore ?",
-      "options": [
-        "Euclide",
-        "Archimède",
-        "Pythagore",
-        "Thalès"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1785543047084_6_tq7c44",
-      "addedAt": "2026-08-01T00:10:47.084Z"
     }
   ],
   "poolSize": 310
