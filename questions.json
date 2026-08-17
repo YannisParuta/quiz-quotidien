@@ -1,6 +1,71 @@
 {
   "questions": [
     {
+      "question": "Quel artiste hollandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Vincent van Gogh",
+        "Piet Mondrian",
+        "Jan Vermeer"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1786929388317_0_f41xmo",
+      "addedAt": "2026-08-17T01:16:28.317Z"
+    },
+    {
+      "question": "Quel continent est le plus grand en superficie ?",
+      "options": [
+        "L'Afrique",
+        "L'Amérique du Nord",
+        "L'Asie",
+        "L'Europe"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1786929388317_1_3oy0vn",
+      "addedAt": "2026-08-17T01:16:28.317Z"
+    },
+    {
+      "question": "Quel philosophe grec a créé la première académie à Athènes ?",
+      "options": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Héraclite"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1786929388317_2_vx27qb",
+      "addedAt": "2026-08-17T01:16:28.317Z"
+    },
+    {
+      "question": "Quel peintre impressionniste français a peint une série de 'Nymphéas' ?",
+      "options": [
+        "Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1786929388317_3_ws69i9",
+      "addedAt": "2026-08-17T01:16:28.317Z"
+    },
+    {
+      "question": "Quel fruit tropical est riche en vitamine C et porte le nom d'un oiseau ?",
+      "options": [
+        "La mangue",
+        "Le kiwi",
+        "La papaye",
+        "L'ananas"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1786929388317_4_qtkkce",
+      "addedAt": "2026-08-17T01:16:28.317Z"
+    },
+    {
       "question": "Quel philosophe grec ancien a fondé l'Académie d'Athènes en 387 avant J.-C. ?",
       "options": [
         "Socrate",
@@ -3964,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1785631465642_3_cxs9wc",
       "addedAt": "2026-08-02T00:44:25.642Z"
-    },
+    }
+  ],
+  "version": 386,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-17T01:16:28.318Z",
+  "archivedQuestions": [
     {
       "question": "Quel peintre flamand a peint 'Le Fils prodigue' en 1667 ?",
       "options": [
@@ -4029,115 +4099,6 @@
       "category": "Cinéma",
       "id": "q_1785631465642_8_9yra3u",
       "addedAt": "2026-08-02T00:44:25.642Z"
-    }
-  ],
-  "version": 385,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-17T00:39:54.779Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel athlète jamaïcain détient le record du monde du 100 mètres ?",
-      "options": [
-        "Usain Bolt",
-        "Yohan Blake",
-        "Nesta Carter",
-        "Justin Gatlin"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1785631465642_9_bmgjiq",
-      "addedAt": "2026-08-02T00:44:25.642Z"
-    },
-    {
-      "question": "Quel minéral est la forme cristalline la plus dure de carbone ?",
-      "options": [
-        "Le graphite",
-        "Le charbon",
-        "Le diamant",
-        "Le carbure"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1785631465642_10_xdunkp",
-      "addedAt": "2026-08-02T00:44:25.642Z"
-    },
-    {
-      "question": "Quel écrivain français a remporté le Prix Nobel de littérature en 1964 ?",
-      "options": [
-        "Jean-Paul Sartre",
-        "Albert Camus",
-        "Simone de Beauvoir",
-        "François Mauriac"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1785552632381_0_5ie73i",
-      "addedAt": "2026-08-01T02:50:32.381Z"
-    },
-    {
-      "question": "Quel sport collectif se joue avec un ballon de cuir et 11 joueurs par équipe sur un terrain rectangulaire ?",
-      "options": [
-        "Le rugby",
-        "Le football américain",
-        "Le handball",
-        "Le hockey sur glace"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1785552632381_1_f5w6xd",
-      "addedAt": "2026-08-01T02:50:32.381Z"
-    },
-    {
-      "question": "Quel peintre néerlandais a peint 'La Nuit étoilée' ?",
-      "options": [
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Paul Klee",
-        "Joan Miró"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1785552632381_2_6fdmad",
-      "addedAt": "2026-08-01T02:50:32.381Z"
-    },
-    {
-      "question": "En quel siècle a été construit le château de Versailles ?",
-      "options": [
-        "16e siècle",
-        "17e siècle",
-        "18e siècle",
-        "19e siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1785552632381_3_afm3nl",
-      "addedAt": "2026-08-01T02:50:32.381Z"
-    },
-    {
-      "question": "Quel réalisateur a créé le personnage de James Bond au cinéma dans les années 1960 ?",
-      "options": [
-        "Alfred Hitchcock",
-        "David Lean",
-        "Terence Young",
-        "Stanley Kubrick"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1785552632381_4_fpc7s1",
-      "addedAt": "2026-08-01T02:50:32.381Z"
-    },
-    {
-      "question": "Quel fromage français est connu pour ses veines bleues et son goût piquant ?",
-      "options": [
-        "Le Camembert",
-        "Le Roquefort",
-        "Le Comté",
-        "Le Brie"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1785552632381_5_7mq4l8",
-      "addedAt": "2026-08-01T02:50:32.381Z"
     }
   ],
   "poolSize": 310
