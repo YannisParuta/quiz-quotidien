@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel gaz est produit par les plantes lors de la photosynthèse ?",
+      "options": [
+        "Dioxyde de carbone",
+        "Oxygène",
+        "Azote",
+        "Hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787015641301_1_uoratd",
+      "addedAt": "2026-08-18T01:14:01.301Z"
+    },
+    {
+      "question": "Quel auteur a écrit 'Le Seigneur des Anneaux' ?",
+      "options": [
+        "George R.R. Martin",
+        "J.R.R. Tolkien",
+        "C.S. Lewis",
+        "Stephen King"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1787015641301_2_nzjx3u",
+      "addedAt": "2026-08-18T01:14:01.301Z"
+    },
+    {
+      "question": "En quel sport olympique utilise-t-on un épée, un fleuret ou un sabre ?",
+      "options": [
+        "Tir à l'arc",
+        "Escrime",
+        "Boxe",
+        "Lutte"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1787015641301_3_fheueq",
+      "addedAt": "2026-08-18T01:14:01.301Z"
+    },
+    {
+      "question": "Quel élément chimique est liquide à température ambiante ?",
+      "options": [
+        "Fer",
+        "Mercure",
+        "Cuivre",
+        "Aluminium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787015641301_4_xqf86u",
+      "addedAt": "2026-08-18T01:14:01.301Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la saga 'Matrix' ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Lana Wachowski",
+        "James Cameron"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1787015641301_5_lb2t9z",
+      "addedAt": "2026-08-18T01:14:01.301Z"
+    },
+    {
+      "question": "Quel légume est techniquement une fleur non pollinisée ?",
+      "options": [
+        "Carotte",
+        "Brocoli",
+        "Pomme de terre",
+        "Oignon"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1787015641301_6_7ydjnk",
+      "addedAt": "2026-08-18T01:14:01.301Z"
+    },
+    {
+      "question": "Quel plat français consiste en une soupe à base de poisson et de safran ?",
+      "options": [
+        "Bouillabaisse",
+        "Consommé",
+        "Bisque",
+        "Velouté"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1787015641301_7_1cgb5l",
+      "addedAt": "2026-08-18T01:14:01.301Z"
+    },
+    {
+      "question": "Quel langage de programmation est connu pour être utilisé en data science et intelligence artificielle ?",
+      "options": [
+        "Java",
+        "Python",
+        "C++",
+        "Ruby"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1787015641301_8_ianwxe",
+      "addedAt": "2026-08-18T01:14:01.301Z"
+    },
+    {
+      "question": "Quel océan est le plus grand par superficie ?",
+      "options": [
+        "Océan Atlantique",
+        "Océan Pacifique",
+        "Océan Indien",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1787015641300_0_bgc9lb",
+      "addedAt": "2026-08-18T01:14:01.300Z"
+    },
+    {
       "question": "Combien de cordes possède une guitare classique standard ?",
       "options": [
         "5 cordes",
@@ -3912,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1785716185617_6_dy88dy",
       "addedAt": "2026-08-03T00:16:25.617Z"
-    },
+    }
+  ],
+  "version": 388,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-18T01:14:01.301Z",
+  "archivedQuestions": [
     {
       "question": "Quel mouvement artistique a été initié par Andy Warhol dans les années 1960 ?",
       "options": [
@@ -4029,128 +4151,6 @@
       "category": "Mathématiques",
       "id": "q_1785638975466_6_lpoasd",
       "addedAt": "2026-08-02T02:49:35.466Z"
-    }
-  ],
-  "version": 387,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-18T00:09:55.561Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus haut pic des Pyrénées ?",
-      "options": [
-        "Le pic d'Ossau",
-        "Le Mont-Perdu",
-        "Le pic de Casamanya",
-        "L'Aneto"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1785638975466_7_it9gg1",
-      "addedAt": "2026-08-02T02:49:35.466Z"
-    },
-    {
-      "question": "Quel animal terrestre possède les yeux les plus grands en proportion de son corps ?",
-      "options": [
-        "La girafe",
-        "Le lémurien",
-        "La chauve-souris vampire",
-        "Le tarsier"
-      ],
-      "correctAnswer": 3,
-      "category": "Nature",
-      "id": "q_1785638975466_8_1j3t5z",
-      "addedAt": "2026-08-02T02:49:35.466Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la trilogie 'Retour vers le futur' ?",
-      "options": [
-        "Steven Spielberg",
-        "Robert Zemeckis",
-        "James Cameron",
-        "Joe Dante"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1785638975466_9_jp474z",
-      "addedAt": "2026-08-02T02:49:35.466Z"
-    },
-    {
-      "question": "Quel est le plus ancien système d'écriture encore utilisé dans le monde moderne ?",
-      "options": [
-        "Les hiéroglyphes égyptiens",
-        "L'alphabet latin",
-        "Les caractères chinois",
-        "L'alphabet grec"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1785638975466_10_myonm9",
-      "addedAt": "2026-08-02T02:49:35.466Z"
-    },
-    {
-      "question": "Quel sport nautique utilise une planche et une voile triangulaire ?",
-      "options": [
-        "Le kitesurf",
-        "La planche à voile",
-        "Le wakeboard",
-        "Le jet-ski"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1785638975466_11_hy2ugd",
-      "addedAt": "2026-08-02T02:49:35.466Z"
-    },
-    {
-      "question": "Quel pays a inventé le sushi traditionnel ?",
-      "options": [
-        "La Thaïlande",
-        "La Chine",
-        "Le Japon",
-        "La Corée"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1785631465642_0_ug63o6",
-      "addedAt": "2026-08-02T00:44:25.642Z"
-    },
-    {
-      "question": "Combien de symphonies complètes a composées Ludwig van Beethoven ?",
-      "options": [
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1785631465642_1_m5putk",
-      "addedAt": "2026-08-02T00:44:25.642Z"
-    },
-    {
-      "question": "Quel scientifique a développé la théorie de la relativité restreinte ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Stephen Hawking"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785631465642_2_z7w5gq",
-      "addedAt": "2026-08-02T00:44:25.642Z"
-    },
-    {
-      "question": "Quelle capitale sud-américaine est la plus haute du monde ?",
-      "options": [
-        "Lima",
-        "Bogotá",
-        "La Paz",
-        "Quito"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1785631465642_3_cxs9wc",
-      "addedAt": "2026-08-02T00:44:25.642Z"
     }
   ],
   "poolSize": 310
