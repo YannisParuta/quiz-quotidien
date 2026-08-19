@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "En quel année la Révolution française a-t-elle débuté ?",
+      "options": [
+        "1776",
+        "1789",
+        "1799",
+        "1815"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1787098444293_0_hfn95p",
+      "addedAt": "2026-08-19T00:14:04.293Z"
+    },
+    {
+      "question": "Quel est l'organe responsable de la photosynthèse chez les plantes ?",
+      "options": [
+        "La racine",
+        "La feuille",
+        "La tige",
+        "La fleur"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787098444293_1_7aar4w",
+      "addedAt": "2026-08-19T00:14:04.293Z"
+    },
+    {
+      "question": "Quel peintre espagnol a créé le mouvement cubiste ?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Antonio Gaudí"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1787098444293_2_t0261c",
+      "addedAt": "2026-08-19T00:14:04.293Z"
+    },
+    {
+      "question": "Combien de continents existent sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1787098444293_3_5t2frl",
+      "addedAt": "2026-08-19T00:14:04.293Z"
+    },
+    {
+      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Anton Tchekhov",
+        "Alexandre Pouchkine"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1787098444293_4_4axb1x",
+      "addedAt": "2026-08-19T00:14:04.293Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a composé 'Une petite musique de nuit' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert",
+        "Johann Strauss"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1787098444293_5_35gz39",
+      "addedAt": "2026-08-19T00:14:04.293Z"
+    },
+    {
+      "question": "Quel sport compte 9 manches appelées 'innings' ?",
+      "options": [
+        "Le cricket",
+        "Le baseball",
+        "Le softball",
+        "Le rounders"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1787098444293_6_j2kswh",
+      "addedAt": "2026-08-19T00:14:04.293Z"
+    },
+    {
+      "question": "Quel est le capital de la Nouvelle-Zélande ?",
+      "options": [
+        "Auckland",
+        "Christchurch",
+        "Wellington",
+        "Dunedin"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1787098444293_7_t99885",
+      "addedAt": "2026-08-19T00:14:04.293Z"
+    },
+    {
+      "question": "Quel type de vin français provient exclusivement de la région de Champagne ?",
+      "options": [
+        "Le Bordeaux",
+        "Le Champagne",
+        "Le Bourgogne",
+        "Le Alsace"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1787098444293_8_vkewgz",
+      "addedAt": "2026-08-19T00:14:04.293Z"
+    },
+    {
+      "question": "Quel réalisateur a créé le personnage de Batman dans ses films ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "James Cameron",
+        "Quentin Tarantino"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1787098444293_9_8ga6dz",
+      "addedAt": "2026-08-19T00:14:04.293Z"
+    },
+    {
+      "question": "Combien de cordes possède une guitare standard ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1787098444293_10_1t5m7b",
+      "addedAt": "2026-08-19T00:14:04.293Z"
+    },
+    {
       "question": "Quel gaz est produit par les plantes lors de la photosynthèse ?",
       "options": [
         "Dioxyde de carbone",
@@ -3886,7 +4029,12 @@
       "category": "Technologie",
       "id": "q_1785725438849_6_31su73",
       "addedAt": "2026-08-03T02:50:38.849Z"
-    },
+    }
+  ],
+  "version": 389,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-19T00:14:04.293Z",
+  "archivedQuestions": [
     {
       "question": "Quel fruit tropical contient une enzyme capable de digérer les protéines ?",
       "options": [
@@ -4029,128 +4177,6 @@
       "category": "Gastronomie",
       "id": "q_1785716185617_6_dy88dy",
       "addedAt": "2026-08-03T00:16:25.617Z"
-    }
-  ],
-  "version": 388,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-18T01:14:01.301Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mouvement artistique a été initié par Andy Warhol dans les années 1960 ?",
-      "options": [
-        "L'impressionnisme",
-        "L'art pop",
-        "L'expressionnisme abstrait",
-        "Le surréalisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1785716185617_7_5mx0d5",
-      "addedAt": "2026-08-03T00:16:25.617Z"
-    },
-    {
-      "question": "Quel langage de programmation est utilisé pour créer des pages web interactives côté client ?",
-      "options": [
-        "Python",
-        "PHP",
-        "JavaScript",
-        "Java"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1785716185617_8_4ovjqf",
-      "addedAt": "2026-08-03T00:16:25.617Z"
-    },
-    {
-      "question": "Quel pays a inventé le café moulu moderne au 19e siècle ?",
-      "options": [
-        "La Turquie",
-        "L'Éthiopie",
-        "L'Allemagne",
-        "Le Brésil"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1785638975466_0_cylca7",
-      "addedAt": "2026-08-02T02:49:35.466Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la radioactivité en 1896 ?",
-      "options": [
-        "Marie Curie",
-        "Henri Becquerel",
-        "Ernest Rutherford",
-        "Niels Bohr"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785638975466_1_wf2xxq",
-      "addedAt": "2026-08-02T02:49:35.466Z"
-    },
-    {
-      "question": "En quel siècle l'imprimerie a-t-elle été inventée par Gutenberg ?",
-      "options": [
-        "13e siècle",
-        "14e siècle",
-        "15e siècle",
-        "16e siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1785638975466_2_p1pguw",
-      "addedAt": "2026-08-02T02:49:35.466Z"
-    },
-    {
-      "question": "Quel est le plus grand glacier d'Europe continentale ?",
-      "options": [
-        "Le glacier de Jökulgrunn",
-        "Le glacier d'Aletsch",
-        "Le glacier de Vatnajökull",
-        "Le glacier de Jostedalsbreen"
-      ],
-      "correctAnswer": 3,
-      "category": "Géographie",
-      "id": "q_1785638975466_3_bf8miw",
-      "addedAt": "2026-08-02T02:49:35.466Z"
-    },
-    {
-      "question": "Quel compositeur a écrit la symphonie 'Pastorale' inspirée par la nature ?",
-      "options": [
-        "Mozart",
-        "Beethoven",
-        "Bach",
-        "Brahms"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1785638975466_4_65cz4i",
-      "addedAt": "2026-08-02T02:49:35.466Z"
-    },
-    {
-      "question": "Quel est le plus profond océan du monde en moyenne ?",
-      "options": [
-        "L'océan Atlantique",
-        "L'océan Pacifique",
-        "L'océan Indien",
-        "L'océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1785638975466_5_9lxi3t",
-      "addedAt": "2026-08-02T02:49:35.466Z"
-    },
-    {
-      "question": "Quel mathématicien italien a développé la suite de Fibonacci ?",
-      "options": [
-        "Léonard de Vinci",
-        "Léonard Fibonacci",
-        "Galilée",
-        "Torricelli"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1785638975466_6_lpoasd",
-      "addedAt": "2026-08-02T02:49:35.466Z"
     }
   ],
   "poolSize": 310
