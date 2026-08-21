@@ -1,6 +1,97 @@
 {
   "questions": [
     {
+      "question": "Quel peintre espagnol a créé 'La Persistance de la mémoire' avec ses montres molles ?",
+      "options": [
+        "Joan Miró",
+        "Salvador Dalí",
+        "Juan Gris",
+        "Miquel Barceló"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1787273407389_0_10vpgj",
+      "addedAt": "2026-08-21T00:50:07.389Z"
+    },
+    {
+      "question": "Quel compositeur italien a écrit 'Les Quatre Saisons' ?",
+      "options": [
+        "Giuseppe Verdi",
+        "Gioachino Rossini",
+        "Antonio Vivaldi",
+        "Claudio Monteverdi"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1787273407389_1_fiwktr",
+      "addedAt": "2026-08-21T00:50:07.389Z"
+    },
+    {
+      "question": "Quel est l'animal terrestre le plus rapide ?",
+      "options": [
+        "Le lion",
+        "L'antilope",
+        "Le guépard",
+        "L'autruche"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1787273407389_2_h654rr",
+      "addedAt": "2026-08-21T00:50:07.389Z"
+    },
+    {
+      "question": "Quel scientifique a formulé la théorie de la relativité ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Max Planck"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787273407389_3_x5ooue",
+      "addedAt": "2026-08-21T00:50:07.389Z"
+    },
+    {
+      "question": "Quel réalisateur britannique a créé 'Pulp Fiction' ?",
+      "options": [
+        "Denis Villeneuve",
+        "Quentin Tarantino",
+        "Christopher Nolan",
+        "Guy Ritchie"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1787273407389_4_j21am5",
+      "addedAt": "2026-08-21T00:50:07.389Z"
+    },
+    {
+      "question": "Quel fruit tropical est la plus grande baie du monde ?",
+      "options": [
+        "La mangue",
+        "L'ananas",
+        "La papaye",
+        "La pastèque"
+      ],
+      "correctAnswer": 3,
+      "category": "Gastronomie",
+      "id": "q_1787273407389_5_2thtnh",
+      "addedAt": "2026-08-21T00:50:07.389Z"
+    },
+    {
+      "question": "Quel framework JavaScript est utilisé pour construire des interfaces utilisateur dynamiques ?",
+      "options": [
+        "Django",
+        "Laravel",
+        "React",
+        "Flask"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1787273407389_6_iaxhe2",
+      "addedAt": "2026-08-21T00:50:07.389Z"
+    },
+    {
       "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?",
       "options": [
         "Oxygène",
@@ -3938,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1785889682073_7_o3k60j",
       "addedAt": "2026-08-05T00:28:02.073Z"
-    },
+    }
+  ],
+  "version": 393,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-21T00:50:07.390Z",
+  "archivedQuestions": [
     {
       "question": "Quel courant artistique a été fondé par Pablo Picasso et Georges Braque ?",
       "options": [
@@ -4028,128 +4124,6 @@
       "correctAnswer": 1,
       "category": "Science",
       "id": "q_1785810859441_2_wlchqx",
-      "addedAt": "2026-08-04T02:34:19.441Z"
-    }
-  ],
-  "version": 392,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-20T01:14:40.073Z",
-  "archivedQuestions": [
-    {
-      "question": "En quel sport Serena Williams a-t-elle remporté 23 titres du Grand Chelem ?",
-      "options": [
-        "Badminton",
-        "Tennis",
-        "Squash",
-        "Ping-pong"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1785810859441_3_9nb91f",
-      "addedAt": "2026-08-04T02:34:19.441Z"
-    },
-    {
-      "question": "Quel mouvement artistique a été fondé par Pablo Picasso et Georges Braque ?",
-      "options": [
-        "Surréalisme",
-        "Cubisme",
-        "Expressionnisme",
-        "Fauvisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1785810859441_4_pbg0aw",
-      "addedAt": "2026-08-04T02:34:19.441Z"
-    },
-    {
-      "question": "Quel instrument de musique possède 88 touches ?",
-      "options": [
-        "Violon",
-        "Guitare acoustique",
-        "Piano",
-        "Harpe"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1785810859441_5_sdqhqt",
-      "addedAt": "2026-08-04T02:34:19.441Z"
-    },
-    {
-      "question": "Quel est le plus grand temple bouddhiste du monde ?",
-      "options": [
-        "Temple du Botataung",
-        "Borobudur",
-        "Temple d'Angkor Vat",
-        "Pagode de Shwedagon"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1785810859441_6_001ld2",
-      "addedAt": "2026-08-04T02:34:19.441Z"
-    },
-    {
-      "question": "Quel type de plante carnivore attire ses proies avec une odeur de charogne ?",
-      "options": [
-        "Dionée attrape-mouche",
-        "Sarracénie",
-        "Népenthès",
-        "Grassette"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1785810859441_7_ydsydq",
-      "addedAt": "2026-08-04T02:34:19.441Z"
-    },
-    {
-      "question": "Quel est le nombre de côtés d'un hectogone régulier ?",
-      "options": [
-        "80",
-        "90",
-        "100",
-        "110"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1785810859441_8_oaywfq",
-      "addedAt": "2026-08-04T02:34:19.441Z"
-    },
-    {
-      "question": "Quel réalisateur a créé le film 'Blade Runner' en 1982 ?",
-      "options": [
-        "George Lucas",
-        "James Cameron",
-        "Ridley Scott",
-        "Steven Spielberg"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1785810859441_9_mf0j6w",
-      "addedAt": "2026-08-04T02:34:19.441Z"
-    },
-    {
-      "question": "Quel pays produit le plus de cacao au monde ?",
-      "options": [
-        "Brésil",
-        "Cameroun",
-        "Ghana",
-        "Côte d'Ivoire"
-      ],
-      "correctAnswer": 3,
-      "category": "Gastronomie",
-      "id": "q_1785810859441_10_jd2927",
-      "addedAt": "2026-08-04T02:34:19.441Z"
-    },
-    {
-      "question": "Quel système d'exploitation a été créé par Linus Torvalds ?",
-      "options": [
-        "macOS",
-        "Linux",
-        "Android",
-        "iOS"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1785810859441_11_zuikkc",
       "addedAt": "2026-08-04T02:34:19.441Z"
     }
   ],
