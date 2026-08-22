@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel mathématicien suisse a développé le calcul infinitésimal au XVIIe siècle ?",
+      "options": [
+        "Isaac Newton",
+        "Gottfried Wilhelm Leibniz",
+        "Pierre de Fermat",
+        "Blaise Pascal"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1787359116674_0_7a3gt1",
+      "addedAt": "2026-08-22T00:38:36.674Z"
+    },
+    {
+      "question": "Quel pays possède le plus grand nombre de lacs au monde ?",
+      "options": [
+        "Suède",
+        "Finlande",
+        "Canada",
+        "Norvège"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1787359116674_1_udk4ab",
+      "addedAt": "2026-08-22T00:38:36.674Z"
+    },
+    {
+      "question": "Quel élément chimique est symbolisé par le sigle 'Au' ?",
+      "options": [
+        "Argent",
+        "Aluminium",
+        "Or",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1787359116674_2_7tdj2f",
+      "addedAt": "2026-08-22T00:38:36.674Z"
+    },
+    {
+      "question": "Quel compositeur français a écrit le ballet 'Daphnis et Chloé' ?",
+      "options": [
+        "Claude Debussy",
+        "Maurice Ravel",
+        "Gabriel Fauré",
+        "Erik Satie"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1787359116674_3_d0yj14",
+      "addedAt": "2026-08-22T00:38:36.674Z"
+    },
+    {
+      "question": "Quel type de protéine accélère les réactions chimiques dans les cellules vivantes ?",
+      "options": [
+        "Lipide",
+        "Enzyme",
+        "Sucre",
+        "Acide nucléique"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787359116674_4_613t78",
+      "addedAt": "2026-08-22T00:38:36.674Z"
+    },
+    {
+      "question": "Quel artiste impressionniste français a peint 'Les Nymphéas' ?",
+      "options": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1787359116674_5_zg5vif",
+      "addedAt": "2026-08-22T00:38:36.674Z"
+    },
+    {
+      "question": "En quel sport la 'Ryder Cup' est-elle la plus prestigieuse compétition ?",
+      "options": [
+        "Tennis",
+        "Golf",
+        "Cricket",
+        "Badminton"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1787359116674_6_jfwtcp",
+      "addedAt": "2026-08-22T00:38:36.674Z"
+    },
+    {
+      "question": "Quel romancier britannique a créé le personnage de Sherlock Holmes ?",
+      "options": [
+        "Oscar Wilde",
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "H.G. Wells"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1787359116674_7_mj4rf7",
+      "addedAt": "2026-08-22T00:38:36.674Z"
+    },
+    {
+      "question": "Quel film de science-fiction de Stanley Kubrick est adapté d'une nouvelle d'Arthur C. Clarke ?",
+      "options": [
+        "Orange mécanique",
+        "2001 : L'Odyssée de l'espace",
+        "Shining",
+        "Docteur Folamour"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1787359116674_8_p8hnoo",
+      "addedAt": "2026-08-22T00:38:36.674Z"
+    },
+    {
+      "question": "Quel processus biologique transforme le raisin en vin ?",
+      "options": [
+        "Photosynthèse",
+        "Respiration cellulaire",
+        "Fermentation",
+        "Oxydation"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1787359116674_9_9zjc0e",
+      "addedAt": "2026-08-22T00:38:36.674Z"
+    },
+    {
+      "question": "Quel était le nom de l'ancienne Thaïlande avant 1939 ?",
+      "options": [
+        "Birmanie",
+        "Siam",
+        "Annam",
+        "Indochine française"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1787359116674_10_ll8xt8",
+      "addedAt": "2026-08-22T00:38:36.674Z"
+    },
+    {
+      "question": "Quel carnivore terrestre possède la plus grande vitesse de course ?",
+      "options": [
+        "Lion",
+        "Loup",
+        "Guépard",
+        "Hyène"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1787359116674_11_qfh5h9",
+      "addedAt": "2026-08-22T00:38:36.674Z"
+    },
+    {
       "question": "Quel est le plus petit pays du monde en termes de superficie ?",
       "options": [
         "Monaco",
@@ -3873,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1785975103193_8_bplkib",
       "addedAt": "2026-08-06T00:11:43.193Z"
-    },
+    }
+  ],
+  "version": 395,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-22T00:38:36.675Z",
+  "archivedQuestions": [
     {
       "question": "Quel langage de balisage est utilisé pour créer des pages web ?",
       "options": [
@@ -4029,115 +4190,6 @@
       "category": "Technologie",
       "id": "q_1785897181926_8_xuoyc2",
       "addedAt": "2026-08-05T02:33:01.926Z"
-    }
-  ],
-  "version": 394,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-21T01:18:20.309Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel écrivain français a remporté le Prix Nobel de littérature en 2014 ?",
-      "options": [
-        "Patrick Modiano",
-        "Didier Drogba",
-        "Franck Thilliez",
-        "Joël Dicker"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1785889682073_0_u5apzr",
-      "addedAt": "2026-08-05T00:28:02.073Z"
-    },
-    {
-      "question": "Quel minéral constitue les diamants ?",
-      "options": [
-        "Le graphite",
-        "Le carbone",
-        "Le silicium",
-        "Le quartz"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1785889682073_1_aqvk60",
-      "addedAt": "2026-08-05T00:28:02.073Z"
-    },
-    {
-      "question": "En quelle année la première Olympiade moderne a-t-elle eu lieu ?",
-      "options": [
-        "1896",
-        "1912",
-        "1900",
-        "1908"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1785889682073_2_deb7k8",
-      "addedAt": "2026-08-05T00:28:02.073Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Asie ?",
-      "options": [
-        "Le Mékong",
-        "Le Yangtzé",
-        "L'Indus",
-        "L'Amour"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1785889682073_3_99fm1y",
-      "addedAt": "2026-08-05T00:28:02.073Z"
-    },
-    {
-      "question": "Quel genre musical est associé à John Coltrane ?",
-      "options": [
-        "Le blues",
-        "Le jazz",
-        "Le rock",
-        "La musique classique"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1785889682073_4_3go1u3",
-      "addedAt": "2026-08-05T00:28:02.073Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère terrestre actuel ?",
-      "options": [
-        "Le rhinocéros blanc",
-        "L'hippopotame",
-        "L'éléphant d'Afrique",
-        "L'ours grizzly"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1785889682073_5_2znf0j",
-      "addedAt": "2026-08-05T00:28:02.073Z"
-    },
-    {
-      "question": "En quelle année le mur de Berlin a-t-il été construit ?",
-      "options": [
-        "1959",
-        "1961",
-        "1963",
-        "1965"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1785889682073_6_v3qdb3",
-      "addedAt": "2026-08-05T00:28:02.073Z"
-    },
-    {
-      "question": "Quel cinéaste a réalisé 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "David Fincher",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1785889682073_7_o3k60j",
-      "addedAt": "2026-08-05T00:28:02.073Z"
     }
   ],
   "poolSize": 310
