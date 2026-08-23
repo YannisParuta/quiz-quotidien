@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel compositeur autrichien a écrit la célèbre 'Marche turque' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Franz Schubert",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 0,
+      "category": "Musique",
+      "id": "q_1787443299213_0_cs1hf7",
+      "addedAt": "2026-08-23T00:01:39.213Z"
+    },
+    {
+      "question": "Quel pays produit le plus de café au monde ?",
+      "options": [
+        "Vietnam",
+        "Colombie",
+        "Brésil",
+        "Éthiopie"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1787443299213_1_zui5bs",
+      "addedAt": "2026-08-23T00:01:39.213Z"
+    },
+    {
+      "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
+      "options": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Marie Curie",
+        "Joseph Lister"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1787443299213_2_pc9u3w",
+      "addedAt": "2026-08-23T00:01:39.213Z"
+    },
+    {
+      "question": "Quel fleuve traverse le plus de pays en Europe ?",
+      "options": [
+        "Le Rhin",
+        "Le Danube",
+        "La Volga",
+        "La Loire"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1787443299213_3_hc23uc",
+      "addedAt": "2026-08-23T00:01:39.213Z"
+    },
+    {
+      "question": "Quel animal terrestre possède le cœur le plus gros ?",
+      "options": [
+        "L'éléphant",
+        "La girafe",
+        "La baleine bleue",
+        "L'hippopotame"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1787443299213_4_z04w0p",
+      "addedAt": "2026-08-23T00:01:39.213Z"
+    },
+    {
+      "question": "Quel nombre est à la fois un carré parfait et un nombre de Fibonacci ?",
+      "options": [
+        "4",
+        "9",
+        "16",
+        "25"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1787443299213_5_jr9dvr",
+      "addedAt": "2026-08-23T00:01:39.213Z"
+    },
+    {
+      "question": "Quel cinéma propose des séances de films en plein air pendant l'été en France ?",
+      "options": [
+        "Un drive-in",
+        "Un cinéma d'art et d'essai",
+        "Un cinéma itinérant",
+        "Une projection extérieure"
+      ],
+      "correctAnswer": 3,
+      "category": "Cinéma",
+      "id": "q_1787443299213_6_3shven",
+      "addedAt": "2026-08-23T00:01:39.213Z"
+    },
+    {
+      "question": "Quel minéral est l'une des formes cristallines du carbone pur ?",
+      "options": [
+        "Le rubis",
+        "Le diamant",
+        "L'émeraude",
+        "Le saphir"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787443299213_7_kig9tl",
+      "addedAt": "2026-08-23T00:01:39.213Z"
+    },
+    {
+      "question": "Quel célèbre physicien indien a remporté le prix Nobel de physique en 1930 ?",
+      "options": [
+        "Satyendra Nath Bose",
+        "Chandrasekhara Venkata Raman",
+        "Homi Jahangir Bhabha",
+        "Vikram Sarabhai"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787443299213_8_dv8kbz",
+      "addedAt": "2026-08-23T00:01:39.213Z"
+    },
+    {
+      "question": "En quelle année l'Afrique du Sud a-t-elle tenu ses premières élections démocratiques ?",
+      "options": [
+        "1990",
+        "1992",
+        "1994",
+        "1996"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1787443299213_9_dqokem",
+      "addedAt": "2026-08-23T00:01:39.213Z"
+    },
+    {
+      "question": "Quel type de technologie permet la communication sans fil à courte distance comme le Bluetooth ?",
+      "options": [
+        "La fibre optique",
+        "Les ondes radio",
+        "Les micro-ondes",
+        "Les rayons infrarouges"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1787443299213_10_xmadp3",
+      "addedAt": "2026-08-23T00:01:39.213Z"
+    },
+    {
       "question": "Quel scientifique a énoncé la théorie de l'évolution des espèces ?",
       "options": [
         "Isaac Newton",
@@ -3886,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1786063611775_12_tor8wo",
       "addedAt": "2026-08-07T00:46:51.775Z"
-    },
+    }
+  ],
+  "version": 397,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-23T00:01:39.214Z",
+  "archivedQuestions": [
     {
       "question": "Quel gaz les plantes absorbent-elles principalement lors de la photosynthèse ?",
       "options": [
@@ -4029,141 +4177,6 @@
       "category": "Histoire",
       "id": "q_1785983750140_9_w6u9vh",
       "addedAt": "2026-08-06T02:35:50.140Z"
-    }
-  ],
-  "version": 396,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-22T01:13:56.978Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel insecte social possède une reine et fabrique du miel ?",
-      "options": [
-        "Fourmi",
-        "Guêpe",
-        "Abeille",
-        "Termite"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1785983750140_10_h79t32",
-      "addedAt": "2026-08-06T02:35:50.140Z"
-    },
-    {
-      "question": "Quel océan est le plus profond du monde ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1785975103193_0_tbw6en",
-      "addedAt": "2026-08-06T00:11:43.193Z"
-    },
-    {
-      "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
-      "options": [
-        "Oxygène",
-        "Azote",
-        "Dioxyde de carbone",
-        "Hydrogène"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1785975103193_1_j1vj3y",
-      "addedAt": "2026-08-06T00:11:43.193Z"
-    },
-    {
-      "question": "Quel musée abrite la Joconde de Léonard de Vinci ?",
-      "options": [
-        "Musée du Vatican",
-        "Musée de l'Ermitage",
-        "Musée du Louvre",
-        "Galerie des Offices"
-      ],
-      "correctAnswer": 2,
-      "category": "Culture",
-      "id": "q_1785975103193_2_zc8glh",
-      "addedAt": "2026-08-06T00:11:43.193Z"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de volley-ball sur le terrain ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1785975103193_3_dg4ah8",
-      "addedAt": "2026-08-06T00:11:43.193Z"
-    },
-    {
-      "question": "Quel sculpteur italien a réalisé la statue du David ?",
-      "options": [
-        "Donatello",
-        "Michelange",
-        "Bernin",
-        "Cellini"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1785975103193_4_pxu88q",
-      "addedAt": "2026-08-06T00:11:43.193Z"
-    },
-    {
-      "question": "Quel animal terrestre possède le plus long cou ?",
-      "options": [
-        "Autruche",
-        "Girafe",
-        "Alpaga",
-        "Émeu"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1785975103193_5_te49bo",
-      "addedAt": "2026-08-06T00:11:43.193Z"
-    },
-    {
-      "question": "Combien de côtés possède un octogone ?",
-      "options": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1785975103193_6_86u7u8",
-      "addedAt": "2026-08-06T00:11:43.193Z"
-    },
-    {
-      "question": "Quel musicien allemand a composé la Symphonie n°9 'Ode à la joie' ?",
-      "options": [
-        "Bach",
-        "Mozart",
-        "Beethoven",
-        "Brahms"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1785975103193_7_bqo9s1",
-      "addedAt": "2026-08-06T00:11:43.193Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le film 'Pulp Fiction' ?",
-      "options": [
-        "Jean-Luc Godard",
-        "François Truffaut",
-        "Claude Chabrol",
-        "Quentin Tarantino"
-      ],
-      "correctAnswer": 3,
-      "category": "Cinéma",
-      "id": "q_1785975103193_8_bplkib",
-      "addedAt": "2026-08-06T00:11:43.193Z"
     }
   ],
   "poolSize": 310
