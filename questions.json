@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a écrit 'Les Misérables' ?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1787534290022_0_ym8yzh",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
+      "question": "En quel année l'homme a-t-il marché pour la première fois sur la Lune ?",
+      "options": [
+        "1967",
+        "1969",
+        "1971",
+        "1965"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1787534290022_1_td7idr",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit 'La Marche de Radetzky' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Johann Strauss Sr.",
+        "Ludwig van Beethoven",
+        "Georg Friedrich Haendel"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1787534290022_2_xg705w",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
+      "question": "En quel année la Déclaration des Droits de l'Homme a-t-elle été adoptée en France ?",
+      "options": [
+        "1789",
+        "1791",
+        "1793",
+        "1795"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1787534290022_3_4wkibl",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
+      "question": "Quel réalisateur britannique est connu pour ses films de science-fiction dystopique ?",
+      "options": [
+        "Stanley Kubrick",
+        "David Fincher",
+        "Denis Villeneuve",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1787534290022_4_ewxssd",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
+      "question": "Quel type de cellule sanguine est responsable de l'immunité ?",
+      "options": [
+        "Hématies",
+        "Lymphocytes",
+        "Plaquettes",
+        "Érythrocytes"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787534290022_5_72f36r",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
+      "question": "Quel animal terrestre possède la plus longue langue en proportion de son corps ?",
+      "options": [
+        "Girafe",
+        "Fourmilier",
+        "Caméléon",
+        "Okapi"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1787534290022_6_aqo00m",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
+      "question": "En quel année le tunnel sous la Manche a-t-il été ouvert au trafic ?",
+      "options": [
+        "1992",
+        "1994",
+        "1996",
+        "1998"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1787534290022_7_mtrpz5",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
+      "question": "Quel jus de fruit fermenté est traditionnellement consommé comme boisson en Normandie ?",
+      "options": [
+        "Jus de poire",
+        "Jus de raisin",
+        "Jus de pomme",
+        "Jus de prune"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1787534290022_8_l7u40k",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
+      "question": "Quel mathématicien grec antique a énoncé le théorème sur les triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1787534290022_9_ooxkhy",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
+      "question": "Quel sport olympique combine le tir à l'arc et la course à pied ?",
+      "options": [
+        "Pentathlon moderne",
+        "Biathlon",
+        "Triathlon",
+        "Décathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1787534290022_10_eecbr0",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
+      "question": "Quel mouvement artistique du 20ème siècle a privilégié l'abstraction et les formes géométriques ?",
+      "options": [
+        "Cubisme",
+        "Dadaïsme",
+        "Expressionnisme",
+        "Constructivisme"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1787534290022_11_8b5c29",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
+      "question": "Quel gaz noble est utilisé dans les enseignes lumineuses ?",
+      "options": [
+        "Hélium",
+        "Argon",
+        "Néon",
+        "Xénon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1787534290022_12_9ia9cn",
+      "addedAt": "2026-08-24T01:18:10.022Z"
+    },
+    {
       "question": "Quel océan est le plus profond du monde ?",
       "options": [
         "Océan Atlantique",
@@ -3860,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1786153240557_10_pcki1p",
       "addedAt": "2026-08-08T01:40:40.557Z"
-    },
+    }
+  ],
+  "version": 400,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-24T01:18:10.022Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le plus haut sommet du continent africain ?",
       "options": [
@@ -4029,128 +4203,6 @@
       "category": "Musique",
       "id": "q_1786070452993_2_titqye",
       "addedAt": "2026-08-07T02:40:52.993Z"
-    }
-  ],
-  "version": 399,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-24T00:15:03.578Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel pays est le plus grand producteur de cacao au monde ?",
-      "options": [
-        "Ghana",
-        "Cameroun",
-        "Côte d'Ivoire",
-        "Équateur"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1786070452993_3_nkb0lt",
-      "addedAt": "2026-08-07T02:40:52.993Z"
-    },
-    {
-      "question": "Quel film de science-fiction a été réalisé par Stanley Kubrick en 1968 ?",
-      "options": [
-        "Blade Runner",
-        "2001 : L'Odyssée de l'espace",
-        "Alien",
-        "Solaris"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1786070452993_4_dt57b0",
-      "addedAt": "2026-08-07T02:40:52.993Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet d'Afrique ?",
-      "options": [
-        "Mont Kenya",
-        "Kilimanjaro",
-        "Pic de Stanley",
-        "Mont Speke"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1786070452993_5_cabvvq",
-      "addedAt": "2026-08-07T02:40:52.993Z"
-    },
-    {
-      "question": "Quel mathématicien suisse a résolu le problème des sept ponts de Königsberg ?",
-      "options": [
-        "Bernoulli",
-        "Euler",
-        "Lagrange",
-        "Fermat"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1786070452993_6_x88d4w",
-      "addedAt": "2026-08-07T02:40:52.993Z"
-    },
-    {
-      "question": "En quel année l'homme a-t-il marché sur la Lune pour la première fois ?",
-      "options": [
-        "1966",
-        "1968",
-        "1969",
-        "1971"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1786070452993_7_afdram",
-      "addedAt": "2026-08-07T02:40:52.993Z"
-    },
-    {
-      "question": "Quel animal est capable de tourner sa tête à 270 degrés ?",
-      "options": [
-        "Le hibou",
-        "La chouette",
-        "Le serpent",
-        "L'autruche"
-      ],
-      "correctAnswer": 0,
-      "category": "Nature",
-      "id": "q_1786070452993_8_gf8m71",
-      "addedAt": "2026-08-07T02:40:52.993Z"
-    },
-    {
-      "question": "Quel sport consiste à frapper une petite balle avec des clubs sur un parcours de 18 trous ?",
-      "options": [
-        "Le croquet",
-        "Le golf",
-        "Le hockey sur gazon",
-        "Le badminton"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1786070452993_9_naz02j",
-      "addedAt": "2026-08-07T02:40:52.993Z"
-    },
-    {
-      "question": "Quel est le plus grand désert chaud du monde ?",
-      "options": [
-        "Désert de Gobi",
-        "Désert du Kalahari",
-        "Sahara",
-        "Désert d'Arabie"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1786070452993_10_zaq0on",
-      "addedAt": "2026-08-07T02:40:52.993Z"
-    },
-    {
-      "question": "Quel écrivain russe a écrit 'Crime et Châtiment' au XIXe siècle ?",
-      "options": [
-        "Léon Tolstoï",
-        "Fiodor Dostoïevski",
-        "Anton Tchekhov",
-        "Ivan Tourgueniev"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1786063611775_0_mmeb8u",
-      "addedAt": "2026-08-07T00:46:51.775Z"
     }
   ],
   "poolSize": 310
