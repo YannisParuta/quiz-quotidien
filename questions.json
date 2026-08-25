@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "En quel siècle la Renaissance italienne a-t-elle commencé ?",
+      "options": [
+        "XIIIe siècle",
+        "XIVe siècle",
+        "XVIe siècle",
+        "XVIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1787617488964_0_nnz1wb",
+      "addedAt": "2026-08-25T00:24:48.964Z"
+    },
+    {
+      "question": "Quel gaz est principalement responsable de l'effet de serre ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787617488964_1_l2u06w",
+      "addedAt": "2026-08-25T00:24:48.964Z"
+    },
+    {
+      "question": "Quel musée parisien abrite la Victoire de Samothrace ?",
+      "options": [
+        "Le Louvre",
+        "Le Musée d'Orsay",
+        "Le Musée Rodin",
+        "Le Centre Pompidou"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1787617488964_2_lsbedz",
+      "addedAt": "2026-08-25T00:24:48.964Z"
+    },
+    {
+      "question": "Quel écrivain russe a écrit 'Les Frères Karamazov' ?",
+      "options": [
+        "Tolstoï",
+        "Dostoïevski",
+        "Pouchkine",
+        "Tchekhov"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1787617488964_3_arpgdi",
+      "addedAt": "2026-08-25T00:24:48.964Z"
+    },
+    {
+      "question": "Combien de symphonies a composées Beethoven ?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1787617488964_4_op1vnb",
+      "addedAt": "2026-08-25T00:24:48.964Z"
+    },
+    {
+      "question": "Quel animal terrestre est le plus rapide ?",
+      "options": [
+        "Le lion",
+        "Le guépard",
+        "L'antilope",
+        "Le cheval"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1787617488964_5_oy7ply",
+      "addedAt": "2026-08-25T00:24:48.964Z"
+    },
+    {
+      "question": "En quel année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1967",
+        "1969",
+        "1971",
+        "1972"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787617488964_6_qvmgbv",
+      "addedAt": "2026-08-25T00:24:48.964Z"
+    },
+    {
+      "question": "Quel est le plus grand lac d'eau douce d'Europe ?",
+      "options": [
+        "Le lac de Genève",
+        "Le lac Ladoga",
+        "Le lac de Constance",
+        "Le lac Onega"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1787617488964_7_4nb0sj",
+      "addedAt": "2026-08-25T00:24:48.964Z"
+    },
+    {
+      "question": "Quel chef français célèbre est connu pour la sauce béarnaise ?",
+      "options": [
+        "Escoffier",
+        "Brillat-Savarin",
+        "Paul Bocuse",
+        "Jacques Pépin"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1787617488964_8_imyvsm",
+      "addedAt": "2026-08-25T00:24:48.964Z"
+    },
+    {
+      "question": "Quel peintre flamand du XVIIe siècle est connu pour ses scènes de débauche ?",
+      "options": [
+        "Peter Brueghel",
+        "Jan van Eyck",
+        "Rogier van der Weyden",
+        "Quentin Massys"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1787617488964_9_ak30rk",
+      "addedAt": "2026-08-25T00:24:48.964Z"
+    },
+    {
       "question": "Quel écrivain français a écrit 'Les Misérables' ?",
       "options": [
         "Alexandre Dumas",
@@ -3899,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1786153240557_0_lifdxm",
       "addedAt": "2026-08-08T01:40:40.557Z"
-    },
+    }
+  ],
+  "version": 401,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-25T00:24:48.964Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le plus grand organe du corps humain ?",
       "options": [
@@ -4029,180 +4164,6 @@
       "category": "Gastronomie",
       "id": "q_1786153240557_10_pcki1p",
       "addedAt": "2026-08-08T01:40:40.557Z"
-    }
-  ],
-  "version": 400,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-24T01:18:10.022Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus haut sommet du continent africain ?",
-      "options": [
-        "Mont Kenya",
-        "Kilimandjaro",
-        "Mont Speke",
-        "Mont Stanley"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1786149048986_0_c8f8cj",
-      "addedAt": "2026-08-08T00:30:48.986Z"
-    },
-    {
-      "question": "Combien de chromosomes possède un être humain ?",
-      "options": [
-        "23",
-        "46",
-        "48",
-        "52"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1786149048986_1_3g0s3l",
-      "addedAt": "2026-08-08T00:30:48.986Z"
-    },
-    {
-      "question": "Quel artiste impressionniste français a peint des séries de Nymphéas ?",
-      "options": [
-        "Monet",
-        "Renoir",
-        "Cézanne",
-        "Degas"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1786149048986_2_hu7rs6",
-      "addedAt": "2026-08-08T00:30:48.986Z"
-    },
-    {
-      "question": "Quel sport utilise un filet et des raquettes sur un terrain délimité par des lignes ?",
-      "options": [
-        "Badminton",
-        "Squash",
-        "Racquetball",
-        "Tennis"
-      ],
-      "correctAnswer": 3,
-      "category": "Sport",
-      "id": "q_1786149048986_3_9sqku2",
-      "addedAt": "2026-08-08T00:30:48.986Z"
-    },
-    {
-      "question": "Quel plat français consiste en œufs brouillés avec du poisson fumé et de la sauce ?",
-      "options": [
-        "Bouillabaisse",
-        "Œufs à la robe des champs",
-        "Œufs Royale",
-        "Omelette norvégienne"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1786149048986_4_bzut54",
-      "addedAt": "2026-08-08T00:30:48.986Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère marin du monde ?",
-      "options": [
-        "Dauphin",
-        "Baleine bleue",
-        "Phoque",
-        "Otarie"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1786149048986_5_3vvta3",
-      "addedAt": "2026-08-08T00:30:48.986Z"
-    },
-    {
-      "question": "Quel mathématicien italien a introduit la suite de Fibonacci en Europe ?",
-      "options": [
-        "Léonard de Pise",
-        "Galilée",
-        "Torricelli",
-        "Cardano"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1786149048986_6_7hyfhz",
-      "addedAt": "2026-08-08T00:30:48.986Z"
-    },
-    {
-      "question": "Quel cinéaste français a réalisé 'Inception' et 'Interstellar' ?",
-      "options": [
-        "Luc Besson",
-        "Christopher Nolan",
-        "Denis Villeneuve",
-        "Quentin Tarantino"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1786149048986_7_ir57eu",
-      "addedAt": "2026-08-08T00:30:48.986Z"
-    },
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
-      "options": [
-        "Java",
-        "Python",
-        "Ruby",
-        "JavaScript"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1786149048986_8_74awy4",
-      "addedAt": "2026-08-08T00:30:48.986Z"
-    },
-    {
-      "question": "Quel végétal souterrain est utilisé pour produire le tapioca ?",
-      "options": [
-        "Pomme de terre",
-        "Igname",
-        "Manioc",
-        "Betterave"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1786149048986_9_5fewr7",
-      "addedAt": "2026-08-08T00:30:48.986Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle commencé ?",
-      "options": [
-        "1785",
-        "1789",
-        "1793",
-        "1801"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1786070452993_0_9bvjdu",
-      "addedAt": "2026-08-07T02:40:52.993Z"
-    },
-    {
-      "question": "Quel artiste néerlandais a coupé une partie de son oreille ?",
-      "options": [
-        "Rembrandt",
-        "Vincent van Gogh",
-        "Johannes Vermeer",
-        "Piet Mondrian"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1786070452993_1_edl31i",
-      "addedAt": "2026-08-07T02:40:52.993Z"
-    },
-    {
-      "question": "Combien de symphonies Beethoven a-t-il composées ?",
-      "options": [
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1786070452993_2_titqye",
-      "addedAt": "2026-08-07T02:40:52.993Z"
     }
   ],
   "poolSize": 310
