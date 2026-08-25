@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel mathématicien grec ancien a énoncé le théorème célèbre sur les triangles rectangles ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1787620582024_0_w3z44d",
+      "addedAt": "2026-08-25T01:16:22.024Z"
+    },
+    {
+      "question": "Quel gaz est le plus abundant dans l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Argon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1787620582024_1_a1wz7c",
+      "addedAt": "2026-08-25T01:16:22.024Z"
+    },
+    {
+      "question": "Quel animal terrestre court le plus vite ?",
+      "options": [
+        "Lion",
+        "Antilope",
+        "Guépard",
+        "Cheval de course"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1787620582024_2_zxwz85",
+      "addedAt": "2026-08-25T01:16:22.024Z"
+    },
+    {
+      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1965",
+        "1969",
+        "1972",
+        "1975"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787620582024_3_qcaxrk",
+      "addedAt": "2026-08-25T01:16:22.024Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit la 'Symphonie n°9 en ré mineur' ?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Johannes Brahms"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1787620582024_4_jybrcs",
+      "addedAt": "2026-08-25T01:16:22.024Z"
+    },
+    {
+      "question": "Quel processus chimique transforme les raisins en vin ?",
+      "options": [
+        "Oxydation",
+        "Fermentation",
+        "Distillation",
+        "Cristallisation"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1787620582024_5_n13cmi",
+      "addedAt": "2026-08-25T01:16:22.024Z"
+    },
+    {
+      "question": "Quel empire a construit la Grande Muraille de Chine ?",
+      "options": [
+        "Dynastie Ming",
+        "Dynastie Qin",
+        "Dynastie Tang",
+        "Dynastie Han"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1787620582024_6_c9vpek",
+      "addedAt": "2026-08-25T01:16:22.024Z"
+    },
+    {
+      "question": "Quel réalisateur italien a créé le film 'La Dolce Vita' ?",
+      "options": [
+        "Sergio Leone",
+        "Federico Fellini",
+        "Vittorio De Sica",
+        "Michelangelo Antonioni"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1787620582024_7_nlzvbu",
+      "addedAt": "2026-08-25T01:16:22.024Z"
+    },
+    {
+      "question": "Combien de chromosomes possède un être humain normal ?",
+      "options": [
+        "23",
+        "46",
+        "92",
+        "64"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787620582024_8_4f2ybl",
+      "addedAt": "2026-08-25T01:16:22.024Z"
+    },
+    {
+      "question": "Quel mouvement artistique du XXe siècle était basé sur l'expression émotionnelle pure ?",
+      "options": [
+        "Cubisme",
+        "Expressionnisme abstrait",
+        "Futurisme",
+        "Dadaïsme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1787620582024_9_6pjlzo",
+      "addedAt": "2026-08-25T01:16:22.024Z"
+    },
+    {
       "question": "En quel siècle la Renaissance italienne a-t-elle commencé ?",
       "options": [
         "XIIIe siècle",
@@ -3899,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1786235661137_2_a1wquz",
       "addedAt": "2026-08-09T00:34:21.137Z"
-    },
+    }
+  ],
+  "version": 402,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-25T01:16:22.024Z",
+  "archivedQuestions": [
     {
       "question": "Quel écrivain français est connu pour ses aventures de Sherlock Holmes... non, attendez, quel écrivain britannique ?",
       "options": [
@@ -4028,141 +4163,6 @@
       "correctAnswer": 1,
       "category": "Histoire",
       "id": "q_1786153240557_0_lifdxm",
-      "addedAt": "2026-08-08T01:40:40.557Z"
-    }
-  ],
-  "version": 401,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-25T00:24:48.964Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus grand organe du corps humain ?",
-      "options": [
-        "Le cerveau",
-        "Le cœur",
-        "La peau",
-        "Le foie"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1786153240557_1_b2dojn",
-      "addedAt": "2026-08-08T01:40:40.557Z"
-    },
-    {
-      "question": "Qui a peint la Nuit étoilée ?",
-      "options": [
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Claude Monet",
-        "Salvador Dalí"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1786153240557_2_ts0n7b",
-      "addedAt": "2026-08-08T01:40:40.557Z"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de football sur le terrain ?",
-      "options": [
-        "9",
-        "10",
-        "11",
-        "12"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1786153240557_3_0oky92",
-      "addedAt": "2026-08-08T01:40:40.557Z"
-    },
-    {
-      "question": "En quel année l'imprimerie a-t-elle été inventée par Gutenberg ?",
-      "options": [
-        "1440",
-        "1492",
-        "1520",
-        "1580"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1786153240557_4_2gbhgb",
-      "addedAt": "2026-08-08T01:40:40.557Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde en surface ?",
-      "options": [
-        "Monaco",
-        "Andorre",
-        "Le Vatican",
-        "San Marin"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1786153240557_5_5x7can",
-      "addedAt": "2026-08-08T01:40:40.557Z"
-    },
-    {
-      "question": "Quelle particule subatomique a une charge électrique négative ?",
-      "options": [
-        "Le proton",
-        "Le neutron",
-        "L'électron",
-        "Le photon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1786153240557_6_8hszly",
-      "addedAt": "2026-08-08T01:40:40.557Z"
-    },
-    {
-      "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
-      "options": [
-        "1917",
-        "Parasite",
-        "Joker",
-        "Le Mans 66"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1786153240557_7_3kpncr",
-      "addedAt": "2026-08-08T01:40:40.557Z"
-    },
-    {
-      "question": "Combien de cordes a une guitare classique ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1786153240557_8_3u0msj",
-      "addedAt": "2026-08-08T01:40:40.557Z"
-    },
-    {
-      "question": "Quel est le protocole Internet utilisé pour accéder aux pages web sécurisées ?",
-      "options": [
-        "HTTP",
-        "HTTPS",
-        "FTP",
-        "SMTP"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1786153240557_9_7r346u",
-      "addedAt": "2026-08-08T01:40:40.557Z"
-    },
-    {
-      "question": "Quel plat italien à base de pâtes et de sauce tomate est emblématique de Naples ?",
-      "options": [
-        "Les lasagnes",
-        "La carbonara",
-        "Les spaghetti bolognaise",
-        "La pizza margherita"
-      ],
-      "correctAnswer": 3,
-      "category": "Gastronomie",
-      "id": "q_1786153240557_10_pcki1p",
       "addedAt": "2026-08-08T01:40:40.557Z"
     }
   ],
