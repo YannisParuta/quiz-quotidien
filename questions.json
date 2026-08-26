@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique britannique a découvert la structure en double hélice de l'ADN ?",
+      "options": [
+        "Linus Pauling",
+        "Francis Crick",
+        "Rosalind Franklin",
+        "James Watson"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787707150613_0_z493ub",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
+      "question": "Quel est le plus haut sommet des Alpes ?",
+      "options": [
+        "Le Mont-Blanc",
+        "Le Gran Paradiso",
+        "La Bernina",
+        "Le Cervin"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1787707150613_1_h4a0f8",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
+      "question": "Quel poète français du XIXe siècle a écrit 'Le Corbeau et la Fontaine' ?",
+      "options": [
+        "Jean de La Fontaine",
+        "Charles Baudelaire",
+        "Arthur Rimbaud",
+        "Stéphane Mallarmé"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1787707150613_2_jpdkq5",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
+      "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+      "options": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Queenstown"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1787707150613_3_sbhlv3",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
+      "question": "Quel athlète jamaïcain détient le record du monde du 100 mètres ?",
+      "options": [
+        "Yohan Blake",
+        "Usain Bolt",
+        "Asafa Powell",
+        "Nesta Carter"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1787707150613_4_2ey7rh",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
+      "question": "En chimie, qu'est-ce qu'un isomère ?",
+      "options": [
+        "Une molécule avec plus d'atomes que les autres",
+        "Des composés ayant la même formule chimique mais des structures différentes",
+        "Un atome instable",
+        "Une réaction chimique rapide"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787707150613_5_5g6sru",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit la Symphonie n°9 avec l'Ode à la Joie ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Strauss",
+        "Richard Wagner"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1787707150613_6_8eop95",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
+      "question": "Quel mouvement littéraire s'oppose au naturalisme au XIXe siècle ?",
+      "options": [
+        "Le réalisme",
+        "Le symbolisme",
+        "Le classicisme",
+        "Le romantisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1787707150613_7_xm2966",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
+      "question": "Quel type d'organisme est un mycète ?",
+      "options": [
+        "Une bactérie",
+        "Un champignon",
+        "Une algue",
+        "Un virus"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787707150613_8_2upq3a",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
+      "question": "Quel architecte français a conçu le Centre Pompidou à Paris ?",
+      "options": [
+        "Le Corbusier",
+        "Renzo Piano et Richard Rogers",
+        "Norman Foster",
+        "Jean Nouvel"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1787707150613_9_gtkuwh",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
+      "question": "En quelle année la Grande Muraille de Chine a-t-elle été complétée ?",
+      "options": [
+        "1368",
+        "1644",
+        "1850",
+        "Elle n'a jamais été entièrement complétée"
+      ],
+      "correctAnswer": 3,
+      "category": "Histoire",
+      "id": "q_1787707150613_10_da9w5m",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
+      "question": "Quel système musical définit les notes par leurs rapports de fréquence acoustique ?",
+      "options": [
+        "La gamme pentatonique",
+        "La musique atonale",
+        "Le tempérament égal",
+        "La tonalité dodécaphonique"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1787707150613_11_hq5qhf",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
+      "question": "Quel est le plus grand satellite naturel de Jupiter ?",
+      "options": [
+        "Europe",
+        "Ganymède",
+        "Io",
+        "Callisto"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787707150613_12_dfk4j5",
+      "addedAt": "2026-08-26T01:19:10.613Z"
+    },
+    {
       "question": "Quel est le plus haut sommet du continent africain ?",
       "options": [
         "Mont Kenya",
@@ -3860,7 +4029,12 @@
       "category": "Mathématiques",
       "id": "q_1786326586659_6_glkf5q",
       "addedAt": "2026-08-10T01:49:46.659Z"
-    },
+    }
+  ],
+  "version": 404,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-26T01:19:10.614Z",
+  "archivedQuestions": [
     {
       "question": "Quel cinéaste français a réalisé 'Amélie Poulain' ?",
       "options": [
@@ -4029,180 +4203,6 @@
       "category": "Art",
       "id": "q_1786321876073_8_qwbhax",
       "addedAt": "2026-08-10T00:31:16.073Z"
-    }
-  ],
-  "version": 403,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-26T00:52:31.662Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel sport nautique se pratique sur une planche à voile ?",
-      "options": [
-        "Le wakeboard",
-        "La voile",
-        "Le windsurf",
-        "Le kayak"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1786321876073_9_jcmoy9",
-      "addedAt": "2026-08-10T00:31:16.073Z"
-    },
-    {
-      "question": "Quel est le plus grand océan du monde ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1786239972849_0_b337q4",
-      "addedAt": "2026-08-09T01:46:12.849Z"
-    },
-    {
-      "question": "Quel peintre espagnol est connu pour le mouvement du Surréalisme ?",
-      "options": [
-        "Pablo Picasso",
-        "Salvador Dalí",
-        "Joan Miró",
-        "Juan Gris"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1786239972849_1_l4t7q4",
-      "addedAt": "2026-08-09T01:46:12.849Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la radioactivité ?",
-      "options": [
-        "Albert Einstein",
-        "Marie Curie",
-        "Niels Bohr",
-        "Ernest Rutherford"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1786239972849_2_t55ee2",
-      "addedAt": "2026-08-09T01:46:12.849Z"
-    },
-    {
-      "question": "Quel sport se joue avec un ballon ovale entre deux équipes de 15 joueurs ?",
-      "options": [
-        "Football américain",
-        "Rugby",
-        "Football",
-        "Cricket"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1786239972849_3_ax6u5i",
-      "addedAt": "2026-08-09T01:46:12.849Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde en superficie ?",
-      "options": [
-        "Monaco",
-        "San Marin",
-        "Cité du Vatican",
-        "Liechtenstein"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1786239972849_4_y01cwf",
-      "addedAt": "2026-08-09T01:46:12.849Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit 'Eine kleine Nachtmusik' ?",
-      "options": [
-        "Franz Schubert",
-        "Wolfgang Amadeus Mozart",
-        "Joseph Haydn",
-        "Johann Strauss"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1786239972849_5_hs39sg",
-      "addedAt": "2026-08-09T01:46:12.849Z"
-    },
-    {
-      "question": "Quel phénomène astronomique se produit quand la Lune passe entre la Terre et le Soleil ?",
-      "options": [
-        "Éclipse lunaire",
-        "Éclipse solaire",
-        "Conjonction",
-        "Opposition"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1786239972849_6_apy6b0",
-      "addedAt": "2026-08-09T01:46:12.849Z"
-    },
-    {
-      "question": "Quel réalisateur français a créé le film 'Amélie' ?",
-      "options": [
-        "Luc Besson",
-        "Jean-Pierre Jeunet",
-        "Michel Gondry",
-        "Cédric Klapisch"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1786239972849_7_213bhk",
-      "addedAt": "2026-08-09T01:46:12.849Z"
-    },
-    {
-      "question": "Quel langage de programmation est utilisé pour créer des applications Android ?",
-      "options": [
-        "Python",
-        "C++",
-        "Kotlin",
-        "PHP"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1786239972849_8_nq175c",
-      "addedAt": "2026-08-09T01:46:12.849Z"
-    },
-    {
-      "question": "Quel élément chimique a pour symbole Au ?",
-      "options": [
-        "Argent",
-        "Or",
-        "Aluminium",
-        "Arsenic"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1786235661137_0_asumo8",
-      "addedAt": "2026-08-09T00:34:21.137Z"
-    },
-    {
-      "question": "Quel film réalisé par Stanley Kubrick est basé sur un roman de Stephen King ?",
-      "options": [
-        "2001 : L'Odyssée de l'espace",
-        "Shining",
-        "Orange mécanique",
-        "Full Metal Jacket"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1786235661137_1_7raowz",
-      "addedAt": "2026-08-09T00:34:21.137Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1786235661137_2_a1wquz",
-      "addedAt": "2026-08-09T00:34:21.137Z"
     }
   ],
   "poolSize": 310
