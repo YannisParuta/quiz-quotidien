@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut sommet du continent africain ?",
+      "options": [
+        "Mont Kenya",
+        "Kilimandjaro",
+        "Mont Stanley",
+        "Pic de Ras Dashen"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1787705551661_0_vl2cqs",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
+      "question": "En quelle année l'homme a-t-il marché pour la première fois sur la Lune ?",
+      "options": [
+        "1965",
+        "1969",
+        "1971",
+        "1973"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1787705551661_1_blmwl1",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
+      "question": "Quel gaz est le plus abondant dans l'atmosphère terrestre ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Azote",
+        "Hélium"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1787705551661_2_ai7jmt",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
+      "question": "Combien de joueurs composent une équipe de volley-ball sur le terrain ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1787705551661_3_vfbo8t",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
+      "question": "Quel artiste français est célèbre pour ses nymphéas peints à plusieurs reprises ?",
+      "options": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Paul Cézanne",
+        "Henri Matisse"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1787705551661_4_42psd7",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
+      "question": "Quel insecte produit du miel en collectant le nectar des fleurs ?",
+      "options": [
+        "Papillon",
+        "Fourmi",
+        "Abeille",
+        "Libellule"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1787705551661_5_ff7lax",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
+      "question": "Quel mathématicien suisse a résolu le problème des sept ponts de Königsberg ?",
+      "options": [
+        "Leonhard Euler",
+        "Carl Friedrich Gauss",
+        "Pierre-Simon Laplace",
+        "Niels Abel"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1787705551661_6_voiq8r",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
+      "question": "Quel instrument à vent est le plus grave de la famille des bois ?",
+      "options": [
+        "Clarinette",
+        "Hautbois",
+        "Basson",
+        "Flûte"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1787705551661_7_of3n16",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
+      "question": "Quel film animé Pixar raconte l'histoire d'une boîte de jouets ?",
+      "options": [
+        "Monstres & Cie",
+        "Toy Story",
+        "Vice-Versa",
+        "Raiponce"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1787705551661_8_0q3r7q",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
+      "question": "Quel fruit est traditionnellement utilisé pour préparer la marmelade en Écosse ?",
+      "options": [
+        "Cerise",
+        "Orange amère",
+        "Fraise",
+        "Prune"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1787705551661_9_b72fcs",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
+      "question": "Quel traité a officialisé la fin de la Première Guerre mondiale ?",
+      "options": [
+        "Traité de Versailles",
+        "Traité de Paris",
+        "Traité de Brest-Litovsk",
+        "Traité de Locarno"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1787705551661_10_sakhko",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
+      "question": "Quel élément chimique porte le symbole Fe ?",
+      "options": [
+        "Fluor",
+        "Fer",
+        "Francium",
+        "Fermium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787705551661_11_njg7yv",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
+      "question": "Quel désert est le plus grand du monde ?",
+      "options": [
+        "Désert du Sahara",
+        "Désert de Gobi",
+        "Désert d'Arabie",
+        "Désert de Kalahari"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1787705551661_12_6lowow",
+      "addedAt": "2026-08-26T00:52:31.661Z"
+    },
+    {
       "question": "Quel mathématicien grec ancien a énoncé le théorème célèbre sur les triangles rectangles ?",
       "options": [
         "Archimède",
@@ -3860,7 +4029,12 @@
       "category": "Art",
       "id": "q_1786321876073_8_qwbhax",
       "addedAt": "2026-08-10T00:31:16.073Z"
-    },
+    }
+  ],
+  "version": 403,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-26T00:52:31.662Z",
+  "archivedQuestions": [
     {
       "question": "Quel sport nautique se pratique sur une planche à voile ?",
       "options": [
@@ -4029,141 +4203,6 @@
       "category": "Musique",
       "id": "q_1786235661137_2_a1wquz",
       "addedAt": "2026-08-09T00:34:21.137Z"
-    }
-  ],
-  "version": 402,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-25T01:16:22.024Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel écrivain français est connu pour ses aventures de Sherlock Holmes... non, attendez, quel écrivain britannique ?",
-      "options": [
-        "Conan Doyle",
-        "Oscar Wilde",
-        "Charles Dickens",
-        "Thomas Hardy"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1786235661137_3_80rkjy",
-      "addedAt": "2026-08-09T00:34:21.137Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet de l'Afrique ?",
-      "options": [
-        "Le Mont Kenya",
-        "Le Kilimandjaro",
-        "Le Mont Stanley",
-        "Le Mont Speke"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1786235661137_4_3hys7i",
-      "addedAt": "2026-08-09T00:34:21.137Z"
-    },
-    {
-      "question": "Quel savant italien a amélioré la lunette astronomique au début du XVIIe siècle ?",
-      "options": [
-        "Léonard de Vinci",
-        "Galilée",
-        "Torricelli",
-        "Cassini"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1786235661137_5_ut1wj3",
-      "addedAt": "2026-08-09T00:34:21.137Z"
-    },
-    {
-      "question": "Quel oiseau est capable de voler à la plus grande altitude ?",
-      "options": [
-        "L'aigle royal",
-        "L'oie des neiges",
-        "Le vautour de Rüppell",
-        "Le faucon pèlerin"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1786235661137_6_zn754w",
-      "addedAt": "2026-08-09T00:34:21.137Z"
-    },
-    {
-      "question": "Quel est le nombre de faces d'un dodécaèdre régulier ?",
-      "options": [
-        "8",
-        "10",
-        "12",
-        "20"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1786235661137_7_p523ny",
-      "addedAt": "2026-08-09T00:34:21.137Z"
-    },
-    {
-      "question": "Quel artiste surréaliste espagnol est connu pour ses montres molles ?",
-      "options": [
-        "Pablo Picasso",
-        "Joan Miró",
-        "Salvador Dalí",
-        "Antoni Gaudí"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1786235661137_8_14boee",
-      "addedAt": "2026-08-09T00:34:21.137Z"
-    },
-    {
-      "question": "Quel plat italien traditionnel est composé de riz, de safran et de bouillon ?",
-      "options": [
-        "La Pasta Carbonara",
-        "Le Risotto",
-        "La Polenta",
-        "Les Gnocchis"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1786235661137_9_4cs4pf",
-      "addedAt": "2026-08-09T00:34:21.137Z"
-    },
-    {
-      "question": "Quel est le port naturel le plus profond du monde ?",
-      "options": [
-        "Port de Sydney",
-        "Port de San Francisco",
-        "Port de Singapour",
-        "Fjord de Sognefjord"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1786235661137_10_s7k2fl",
-      "addedAt": "2026-08-09T00:34:21.137Z"
-    },
-    {
-      "question": "Quel langage de programmation a été créé par Guido van Rossum en 1991 ?",
-      "options": [
-        "Java",
-        "Python",
-        "Ruby",
-        "JavaScript"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1786235661137_11_4ziw0a",
-      "addedAt": "2026-08-09T00:34:21.137Z"
-    },
-    {
-      "question": "En quelle année la Première Guerre mondiale a-t-elle commencé ?",
-      "options": [
-        "1912",
-        "1914",
-        "1916",
-        "1918"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1786153240557_0_lifdxm",
-      "addedAt": "2026-08-08T01:40:40.557Z"
     }
   ],
   "poolSize": 310
