@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel biologiste britannique a proposé la théorie de l'évolution par sélection naturelle ?",
+      "options": [
+        "Alfred Russel Wallace",
+        "Charles Darwin",
+        "Thomas Huxley",
+        "Jean-Baptiste Lamarck"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787817305613_0_2dqarc",
+      "addedAt": "2026-08-27T07:55:05.613Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit les 'Quatre Saisons' de Vivaldi ?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Georges Friedrich Haendel",
+        "Antonio Vivaldi",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1787817305613_1_lptpks",
+      "addedAt": "2026-08-27T07:55:05.613Z"
+    },
+    {
+      "question": "Quel est le plus grand désert chaud du monde ?",
+      "options": [
+        "Le Sahara",
+        "Le Kalahari",
+        "Le désert Arabique",
+        "Le Gobi"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1787817305613_2_cco2yh",
+      "addedAt": "2026-08-27T07:55:05.613Z"
+    },
+    {
+      "question": "Quel mathématicien grec a découvert le principe de la flottabilité dans son bain ?",
+      "options": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1787817305613_3_inj2g8",
+      "addedAt": "2026-08-27T07:55:05.613Z"
+    },
+    {
+      "question": "En quel siècle s'est déroulée la Renaissance italienne ?",
+      "options": [
+        "XIIIe siècle",
+        "XIVe siècle",
+        "XVe-XVIe siècles",
+        "XVIIe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1787817305613_4_l89xf1",
+      "addedAt": "2026-08-27T07:55:05.613Z"
+    },
+    {
+      "question": "Quel type de protéine est responsable de la contraction musculaire ?",
+      "options": [
+        "L'hémoglobine",
+        "L'actine et la myosine",
+        "L'insuline",
+        "La kératine"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787817305613_5_4vktop",
+      "addedAt": "2026-08-27T07:55:05.613Z"
+    },
+    {
+      "question": "Quel réalisateur a créé la trilogie 'Retour vers le Futur' ?",
+      "options": [
+        "Steven Spielberg",
+        "Robert Zemeckis",
+        "George Lucas",
+        "James Cameron"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1787817305613_6_jl1b7y",
+      "addedAt": "2026-08-27T07:55:05.613Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre actuel ?",
+      "options": [
+        "La girafe",
+        "Le rhinocéros",
+        "L'éléphant d'Afrique",
+        "L'hippopotame"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1787817305613_7_9vcl7m",
+      "addedAt": "2026-08-27T07:55:05.613Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été développé par Microsoft en 1985 ?",
+      "options": [
+        "OS/2",
+        "Windows",
+        "DOS",
+        "Unix"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1787817305613_8_cd4ekh",
+      "addedAt": "2026-08-27T07:55:05.613Z"
+    },
+    {
+      "question": "Quel sport utilise un ballon orange et se joue entre deux équipes de cinq joueurs ?",
+      "options": [
+        "Le volley-ball",
+        "Le basket-ball",
+        "Le handball",
+        "Le football américain"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1787817305613_9_sopyj0",
+      "addedAt": "2026-08-27T07:55:05.613Z"
+    },
+    {
+      "question": "Quel artiste surréaliste espagnol est connu pour ses montres molles ?",
+      "options": [
+        "Joan Miró",
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Juan Gris"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1787817305613_10_rmo90f",
+      "addedAt": "2026-08-27T07:55:05.613Z"
+    },
+    {
       "question": "Quel phénomène météorologique se produit lorsque la température descend sous zéro degré Celsius et que l'humidité se cristallise ?",
       "options": [
         "Le givre",
@@ -3886,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1786412780188_7_sa2z8g",
       "addedAt": "2026-08-11T01:46:20.188Z"
-    },
+    }
+  ],
+  "version": 406,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-27T07:55:05.614Z",
+  "archivedQuestions": [
     {
       "question": "En quelle année la Déclaration des droits de l'homme a-t-elle été adoptée ?",
       "options": [
@@ -4029,180 +4177,6 @@
       "category": "Cinéma",
       "id": "q_1786408369196_6_qnymwv",
       "addedAt": "2026-08-11T00:32:49.196Z"
-    }
-  ],
-  "version": 405,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-27T00:33:29.877Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel protocole de communication Internet a précédé le World Wide Web ?",
-      "options": [
-        "HTTP",
-        "FTP",
-        "Gopher",
-        "SMTP"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1786408369196_7_mds6ar",
-      "addedAt": "2026-08-11T00:32:49.196Z"
-    },
-    {
-      "question": "Quel musicien baroque italien a composé les 'Quatre Saisons' ?",
-      "options": [
-        "Georg Friedrich Händel",
-        "Antonio Vivaldi",
-        "Jean-Sébastien Bach",
-        "Georg Telemann"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1786408369196_8_w32ok6",
-      "addedAt": "2026-08-11T00:32:49.196Z"
-    },
-    {
-      "question": "Quel enzyme est responsable de la digestion des protéines dans l'estomac ?",
-      "options": [
-        "L'amylase",
-        "La lipase",
-        "La pepsine",
-        "La trypsine"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1786408369196_9_y9bmw1",
-      "addedAt": "2026-08-11T00:32:49.196Z"
-    },
-    {
-      "question": "Quel pays a remporté la Coupe d'Afrique des Nations 2021 ?",
-      "options": [
-        "le Sénégal",
-        "l'Algérie",
-        "l'Égypte",
-        "le Cameroun"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1786408369196_10_pe3s3m",
-      "addedAt": "2026-08-11T00:32:49.196Z"
-    },
-    {
-      "question": "Quel est le plat traditionnel espagnol à base de riz, safran et fruits de mer ?",
-      "options": [
-        "La paella",
-        "Le gazpacho",
-        "Les tapas",
-        "La tortilla"
-      ],
-      "correctAnswer": 0,
-      "category": "Gastronomie",
-      "id": "q_1786408369196_11_7fkest",
-      "addedAt": "2026-08-11T00:32:49.196Z"
-    },
-    {
-      "question": "Quel animal marin peut changer de couleur pour communiquer et se camoufler ?",
-      "options": [
-        "Le dauphin",
-        "La pieuvre",
-        "La raie",
-        "Le requin-baleine"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1786408369196_12_5clt9m",
-      "addedAt": "2026-08-11T00:32:49.196Z"
-    },
-    {
-      "question": "Quel écrivain belge a créé le détective Hercule Poirot ?",
-      "options": [
-        "Simenon",
-        "Agatha Christie",
-        "Fleming",
-        "Le Carré"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1786326586659_0_bln3zd",
-      "addedAt": "2026-08-10T01:49:46.659Z"
-    },
-    {
-      "question": "Quel est le plus grand désert froid du monde ?",
-      "options": [
-        "Désert d'Atacama",
-        "Désert du Gobi",
-        "Antarctique",
-        "Désert de Kalahari"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1786326586659_1_9rd3pp",
-      "addedAt": "2026-08-10T01:49:46.659Z"
-    },
-    {
-      "question": "Quel peintre espagnol a cofondé le mouvement surréaliste ?",
-      "options": [
-        "Joan Miró",
-        "Salvador Dalí",
-        "Juan Gris",
-        "Miró Dalí"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1786326586659_2_p4kdyj",
-      "addedAt": "2026-08-10T01:49:46.659Z"
-    },
-    {
-      "question": "En quelle année la Révolution française a-t-elle éclaté ?",
-      "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1786326586659_3_6ci16d",
-      "addedAt": "2026-08-10T01:49:46.659Z"
-    },
-    {
-      "question": "Quel est le plus grand lac d'Europe ?",
-      "options": [
-        "Lac de Genève",
-        "Lac Ladoga",
-        "Lac Onega",
-        "Lac Balaton"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1786326586659_4_zygrfk",
-      "addedAt": "2026-08-10T01:49:46.659Z"
-    },
-    {
-      "question": "Combien de pattes possède une araignée ?",
-      "options": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1786326586659_5_wy6u4q",
-      "addedAt": "2026-08-10T01:49:46.659Z"
-    },
-    {
-      "question": "Quel mathématicien grec a énoncé le théorème de Pythagore ?",
-      "options": [
-        "Euclide",
-        "Archimède",
-        "Pythagore",
-        "Thalès"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1786326586659_6_glkf5q",
-      "addedAt": "2026-08-10T01:49:46.659Z"
     }
   ],
   "poolSize": 310
