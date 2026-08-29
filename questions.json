@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a remporté le prix Nobel de littérature en 1947 ?",
+      "options": [
+        "André Gide",
+        "François Mauriac",
+        "Albert Camus",
+        "Jean-Paul Sartre"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1787983074109_0_0txkll",
+      "addedAt": "2026-08-29T05:57:54.109Z"
+    },
+    {
+      "question": "Quel minéral est la forme cristalline du dioxyde de carbone solide ?",
+      "options": [
+        "Calcite",
+        "Quartz",
+        "Glace sèche",
+        "Feldspath"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1787983074109_1_om1giu",
+      "addedAt": "2026-08-29T05:57:54.109Z"
+    },
+    {
+      "question": "En quel année l'Afrique du Sud a-t-elle aboli officiellement l'apartheid ?",
+      "options": [
+        "1990",
+        "1994",
+        "1992",
+        "1996"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1787983074109_2_ks6l32",
+      "addedAt": "2026-08-29T05:57:54.109Z"
+    },
+    {
+      "question": "Quel compositeur français a créé le ballet 'Daphnis et Chloé' ?",
+      "options": [
+        "Claude Debussy",
+        "Maurice Ravel",
+        "Gabriel Fauré",
+        "Erik Satie"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1787983074109_3_j17biz",
+      "addedAt": "2026-08-29T05:57:54.109Z"
+    },
+    {
+      "question": "Quel réalisateur français a réalisé 'La Jetée' en 1962 ?",
+      "options": [
+        "Jean-Luc Godard",
+        "Chris Marker",
+        "Alain Resnais",
+        "François Truffaut"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1787983074109_4_pwc5cx",
+      "addedAt": "2026-08-29T05:57:54.109Z"
+    },
+    {
+      "question": "Combien de côtés possède un dodécagone ?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1787983074109_5_5mkw4v",
+      "addedAt": "2026-08-29T05:57:54.109Z"
+    },
+    {
+      "question": "Quel port français est le plus important en volume de trafic de conteneurs ?",
+      "options": [
+        "Le Havre",
+        "Marseille",
+        "Dunkerque",
+        "Nantes"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1787983074109_6_na9x68",
+      "addedAt": "2026-08-29T05:57:54.109Z"
+    },
+    {
+      "question": "Quelle technique culinaire consiste à cuire les aliments à la braise en les enveloppant dans du papier ?",
+      "options": [
+        "Pocher",
+        "Braiser",
+        "Cuire en papillote",
+        "Glacer"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1787983074109_7_gk7xb0",
+      "addedAt": "2026-08-29T05:57:54.109Z"
+    },
+    {
+      "question": "Quel scientifique a découvert la radioactivité en 1896 ?",
+      "options": [
+        "Madame Curie",
+        "Henri Becquerel",
+        "Ernest Rutherford",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787983074109_8_e7xa1a",
+      "addedAt": "2026-08-29T05:57:54.109Z"
+    },
+    {
+      "question": "Quel mouvement artistique du XXe siècle est associé à Salvador Dalí ?",
+      "options": [
+        "Cubisme",
+        "Surréalisme",
+        "Futurisme",
+        "Dadaïsme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1787983074109_9_dn4ez6",
+      "addedAt": "2026-08-29T05:57:54.109Z"
+    },
+    {
+      "question": "Quel empire antique a construit la Grande Muraille de Chine ?",
+      "options": [
+        "L'empire Han",
+        "L'empire Qin",
+        "L'empire Ming",
+        "L'empire Tang"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1787983074109_10_y8a1nf",
+      "addedAt": "2026-08-29T05:57:54.109Z"
+    },
+    {
       "question": "Quel explorateur portugais a contourné le cap de Bonne-Espérance en 1488 ?",
       "options": [
         "Christophe Colomb",
@@ -3886,7 +4029,12 @@
       "category": "Nature",
       "id": "q_1786672707437_8_v4u4px",
       "addedAt": "2026-08-14T01:58:27.437Z"
-    },
+    }
+  ],
+  "version": 410,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-29T05:57:54.109Z",
+  "archivedQuestions": [
     {
       "question": "Quel mathématicien français a donné son nom au théorème fondamental sur les triangles rectangles ?",
       "options": [
@@ -4029,167 +4177,6 @@
       "category": "Art",
       "id": "q_1786586436210_2_721nij",
       "addedAt": "2026-08-13T02:00:36.210Z"
-    }
-  ],
-  "version": 409,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-29T00:33:32.697Z",
-  "archivedQuestions": [
-    {
-      "question": "Combien de continents existe-t-il sur Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1786586436210_3_15072s",
-      "addedAt": "2026-08-13T02:00:36.210Z"
-    },
-    {
-      "question": "Quel mathématicien a développé le calcul infinitésimal ?",
-      "options": [
-        "Isaac Newton et Gottfried Leibniz",
-        "Euclide",
-        "Archimède",
-        "Pythagore"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1786586436210_4_d0xvqt",
-      "addedAt": "2026-08-13T02:00:36.210Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide du monde terrestre ?",
-      "options": [
-        "Lion",
-        "Antilope",
-        "Guépard",
-        "Zèbre"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1786586436210_5_muxhaj",
-      "addedAt": "2026-08-13T02:00:36.210Z"
-    },
-    {
-      "question": "Quel élément chimique est le plus abondant dans l'univers ?",
-      "options": [
-        "Oxygène",
-        "Hydrogène",
-        "Carbone",
-        "Hélium"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1786586436210_6_zez1gw",
-      "addedAt": "2026-08-13T02:00:36.210Z"
-    },
-    {
-      "question": "Quel est le plus grand mammifère du monde ?",
-      "options": [
-        "Éléphant africain",
-        "Girafe",
-        "Baleine bleue",
-        "Hippopotame"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1786586436210_7_7cct3n",
-      "addedAt": "2026-08-13T02:00:36.210Z"
-    },
-    {
-      "question": "En quelle année la Bastille a-t-elle été prise lors de la Révolution française ?",
-      "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1786586436210_8_d9myw2",
-      "addedAt": "2026-08-13T02:00:36.210Z"
-    },
-    {
-      "question": "Quel scientifique a formulé les trois lois du mouvement ?",
-      "options": [
-        "Albert Einstein",
-        "Galilée",
-        "Isaac Newton",
-        "Stephen Hawking"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1786582002640_0_obuoua",
-      "addedAt": "2026-08-13T00:46:42.641Z"
-    },
-    {
-      "question": "Quel instrument de musique traditionnel japonais possède treize cordes ?",
-      "options": [
-        "Shamisen",
-        "Koto",
-        "Shakuhachi",
-        "Taiko"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1786582002641_1_50zb24",
-      "addedAt": "2026-08-13T00:46:42.641Z"
-    },
-    {
-      "question": "Quel peintre français est célèbre pour ses peintures de nymphéas ?",
-      "options": [
-        "Paul Cézanne",
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Camille Pissarro"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1786582002641_2_gb5mgl",
-      "addedAt": "2026-08-13T00:46:42.641Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "David Fincher",
-        "Joel Coen"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1786582002641_3_mvg0fx",
-      "addedAt": "2026-08-13T00:46:42.641Z"
-    },
-    {
-      "question": "Quel processus permet aux animaux de se reproduire par échange de gènes ?",
-      "options": [
-        "Mitose",
-        "Fission binaire",
-        "Méiose",
-        "Apoptose"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1786582002641_4_zh59vk",
-      "addedAt": "2026-08-13T00:46:42.641Z"
-    },
-    {
-      "question": "Quel poète français du 19e siècle a écrit 'Les Fleurs du Mal' ?",
-      "options": [
-        "Victor Hugo",
-        "Charles Baudelaire",
-        "Arthur Rimbaud",
-        "Paul Verlaine"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1786582002641_5_60evfe",
-      "addedAt": "2026-08-13T00:46:42.641Z"
     }
   ],
   "poolSize": 310
