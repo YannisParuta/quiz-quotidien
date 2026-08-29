@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel explorateur portugais a contourné le cap de Bonne-Espérance en 1488 ?",
+      "options": [
+        "Christophe Colomb",
+        "Bartolomeu Dias",
+        "Vasco de Gama",
+        "Ferdinand Magellan"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1787963612696_0_p59fhh",
+      "addedAt": "2026-08-29T00:33:32.696Z"
+    },
+    {
+      "question": "Quel gaz provoque l'effet de serre dans notre atmosphère ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1787963612696_1_77ipdx",
+      "addedAt": "2026-08-29T00:33:32.696Z"
+    },
+    {
+      "question": "En quel matériau les statues de l'Île de Pâques sont-elles sculptées ?",
+      "options": [
+        "Marbre blanc",
+        "Roche volcanique",
+        "Calcaire",
+        "Granit"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1787963612696_2_hby0mt",
+      "addedAt": "2026-08-29T00:33:32.696Z"
+    },
+    {
+      "question": "Quel courant artistique du début du 20e siècle a été fondé par Pablo Picasso et Georges Braque ?",
+      "options": [
+        "Le surréalisme",
+        "Le cubisme",
+        "Le dadaïsme",
+        "L'expressionnisme"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1787963612696_3_xzh14p",
+      "addedAt": "2026-08-29T00:33:32.696Z"
+    },
+    {
+      "question": "Quel mathématicien grec a découvert le principe de la poussée hydrostatique ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1787963612696_4_l6rdrr",
+      "addedAt": "2026-08-29T00:33:32.696Z"
+    },
+    {
+      "question": "Quel instrument de musique à vent est caractérisé par ses lamelles en bambou ?",
+      "options": [
+        "La flûte traversière",
+        "La pan flûte",
+        "La clarinette",
+        "Le hautbois"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1787963612696_5_fhbm9e",
+      "addedAt": "2026-08-29T00:33:32.696Z"
+    },
+    {
+      "question": "Quel poisson est capable de reconnaître son reflet dans un miroir ?",
+      "options": [
+        "Le poisson rouge",
+        "Le poisson-clown",
+        "Le poisson-baliste",
+        "Le trout"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1787963612696_6_xscidk",
+      "addedAt": "2026-08-29T00:33:32.696Z"
+    },
+    {
+      "question": "Quel chef cuisinier français a inventé la sauce béarnaise ?",
+      "options": [
+        "Paul Bocuse",
+        "Auguste Escoffier",
+        "Jean-François Piège",
+        "Un cuisinier anonyme"
+      ],
+      "correctAnswer": 3,
+      "category": "Gastronomie",
+      "id": "q_1787963612696_7_r1l06r",
+      "addedAt": "2026-08-29T00:33:32.696Z"
+    },
+    {
+      "question": "Quel sport nordique combine le ski de fond et le tir à la carabine ?",
+      "options": [
+        "Le ski alpin",
+        "Le biathlon",
+        "Le pentathlon moderne",
+        "Le ski de vitesse"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1787963612696_8_9nxuoo",
+      "addedAt": "2026-08-29T00:33:32.696Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé 'Amélie Poulain' ?",
+      "options": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Michel Gondry",
+        "Olivier Assayas"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1787963612696_9_lsnul4",
+      "addedAt": "2026-08-29T00:33:32.696Z"
+    },
+    {
+      "question": "Quel langage de programmation a été créé par Guido van Rossum ?",
+      "options": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "Ruby"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1787963612696_10_xw2dn4",
+      "addedAt": "2026-08-29T00:33:32.696Z"
+    },
+    {
+      "question": "Quel écrivain français du 18e siècle a écrit 'Candide' ?",
+      "options": [
+        "Jean-Jacques Rousseau",
+        "Denis Diderot",
+        "Voltaire",
+        "Montesquieu"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1787963612696_11_nuot4e",
+      "addedAt": "2026-08-29T00:33:32.696Z"
+    },
+    {
       "question": "Quel est le plus grand désert du monde ?",
       "options": [
         "Le désert du Sahara",
@@ -3873,7 +4029,12 @@
       "category": "Art",
       "id": "q_1786586436210_2_721nij",
       "addedAt": "2026-08-13T02:00:36.210Z"
-    },
+    }
+  ],
+  "version": 409,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-29T00:33:32.697Z",
+  "archivedQuestions": [
     {
       "question": "Combien de continents existe-t-il sur Terre ?",
       "options": [
@@ -4029,180 +4190,6 @@
       "category": "Littérature",
       "id": "q_1786582002641_5_60evfe",
       "addedAt": "2026-08-13T00:46:42.641Z"
-    }
-  ],
-  "version": 408,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-28T09:59:08.998Z",
-  "archivedQuestions": [
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle principalement émergé ?",
-      "options": [
-        "13e siècle",
-        "14e siècle",
-        "15e siècle",
-        "16e siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1786582002641_6_57aokd",
-      "addedAt": "2026-08-13T00:46:42.641Z"
-    },
-    {
-      "question": "Quel mathématicien grec a formulé le théorème sur les triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Archimède",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1786582002641_7_ink255",
-      "addedAt": "2026-08-13T00:46:42.641Z"
-    },
-    {
-      "question": "Quel scientifique a formulé la loi de la gravitation universelle ?",
-      "options": [
-        "Albert Einstein",
-        "Isaac Newton",
-        "Galileo Galilei",
-        "Stephen Hawking"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1786499899811_0_06tdlv",
-      "addedAt": "2026-08-12T01:58:19.811Z"
-    },
-    {
-      "question": "Quel peintre néerlandais a coupé une partie de son oreille ?",
-      "options": [
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Henri de Toulouse-Lautrec",
-        "Paul Gauguin"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1786499899811_1_atgoq2",
-      "addedAt": "2026-08-12T01:58:19.811Z"
-    },
-    {
-      "question": "Quel auteur a écrit 'Orgueille et Préjugés' ?",
-      "options": [
-        "Charlotte Brontë",
-        "Jane Austen",
-        "Emily Dickinson",
-        "George Eliot"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1786499899811_2_9e10x1",
-      "addedAt": "2026-08-12T01:58:19.811Z"
-    },
-    {
-      "question": "Quel artiste cubain a cofondé le mouvement cubiste avec Pablo Picasso ?",
-      "options": [
-        "Salvador Dalí",
-        "Juan Gris",
-        "Georges Braque",
-        "Joan Miró"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1786499899811_3_fsjdqw",
-      "addedAt": "2026-08-12T01:58:19.811Z"
-    },
-    {
-      "question": "Quel instrument à cordes est typique de la musique classique indienne ?",
-      "options": [
-        "Le sitar",
-        "Le oud",
-        "La harpe",
-        "Le luth"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1786499899811_4_o9wu58",
-      "addedAt": "2026-08-12T01:58:19.811Z"
-    },
-    {
-      "question": "Quel sport olympique consiste à lancer un javelot ?",
-      "options": [
-        "Le lancer de poids",
-        "L'athlétisme",
-        "Le décathlon",
-        "Le saut en hauteur"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1786499899811_5_nsmbu6",
-      "addedAt": "2026-08-12T01:58:19.811Z"
-    },
-    {
-      "question": "Quel type de cuisine est caractérisé par l'utilisation du wok et de baguettes ?",
-      "options": [
-        "La cuisine méditerranéenne",
-        "La cuisine asiatique",
-        "La cuisine française",
-        "La cuisine latine"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1786499899811_6_pg593f",
-      "addedAt": "2026-08-12T01:58:19.811Z"
-    },
-    {
-      "question": "Quel animal est le symbole de la conservation des espèces menacées ?",
-      "options": [
-        "L'aigle chauve",
-        "Le panda géant",
-        "Le lion africain",
-        "La baleine bleue"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1786499899811_7_qzj8ug",
-      "addedAt": "2026-08-12T01:58:19.811Z"
-    },
-    {
-      "question": "Quel réalisateur a dirigé 'Parasite', film sud-coréen primé aux Oscars ?",
-      "options": [
-        "Park Chan-wook",
-        "Bong Joon-ho",
-        "Lee Ang",
-        "Kim Ki-duk"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1786499899811_8_9plzao",
-      "addedAt": "2026-08-12T01:58:19.811Z"
-    },
-    {
-      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
-      "options": [
-        "Allemagne",
-        "Brésil",
-        "France",
-        "Belgique"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1786493187176_3_7r9l6t",
-      "addedAt": "2026-08-12T00:06:27.176Z"
-    },
-    {
-      "question": "Quel processus permet aux animaux de se reproduire sans partenaire ?",
-      "options": [
-        "Reproduction sexuée",
-        "Reproduction asexuée",
-        "Fécondation croisée",
-        "Parthénogenèse"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1786493187175_0_4zl5ea",
-      "addedAt": "2026-08-12T00:06:27.175Z"
     }
   ],
   "poolSize": 310
