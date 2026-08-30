@@ -1,6 +1,201 @@
 {
   "questions": [
     {
+      "question": "Quel économiste écossais a écrit 'La Richesse des nations' en 1776 ?",
+      "options": [
+        "David Hume",
+        "Adam Smith",
+        "John Locke",
+        "Thomas Hobbes"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1788050012280_0_s76hcj",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel type de molécule est responsable du stockage de l'information génétique ?",
+      "options": [
+        "Protéine",
+        "Lipide",
+        "Acide désoxyribonucléique",
+        "Glucide"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1788050012280_1_y5qdn3",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "En quel année l'écrivain George Orwell a-t-il publié '1984' ?",
+      "options": [
+        "1945",
+        "1948",
+        "1949",
+        "1952"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1788050012280_2_4624z6",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel volcan d'Indonésie a provoqué l'une des plus grandes éruptions de l'histoire en 1883 ?",
+      "options": [
+        "Mont Merapi",
+        "Krakatoa",
+        "Mont Agung",
+        "Tambora"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1788050012280_3_a7lg20",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel mathématicien grec ancien est connu pour son théorème sur les triangles rectangles ?",
+      "options": [
+        "Archimède",
+        "Euclide",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1788050012280_4_7y3ga3",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel sculpteur français a créé 'Le Penseur' au début du XXe siècle ?",
+      "options": [
+        "Auguste Rodin",
+        "Frédéric Bartholdi",
+        "François Rude",
+        "Jean-Baptiste Carpeaux"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1788050012280_5_63tjzn",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel procédé culinaire consiste à cuire des aliments à basse température dans du gras ?",
+      "options": [
+        "Braisage",
+        "Confit",
+        "Pochage",
+        "Sauté"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1788050012280_6_nnpxqb",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel neurologue autrichien a fondé la psychanalyse ?",
+      "options": [
+        "Carl Jung",
+        "Sigmund Freud",
+        "Alfred Adler",
+        "Wilhelm Reich"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1788050012280_7_8welw5",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel désert africain s'étend sur environ 9 millions de kilomètres carrés ?",
+      "options": [
+        "Kalahari",
+        "Sahara",
+        "Namib",
+        "Atacama"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1788050012280_8_5jd8cw",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel compositeur allemand a écrit les 'Variations Goldberg' ?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "George Friedrich Haendel",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1788050012280_9_zujmlu",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel phénomène optique explique pourquoi le ciel est bleu ?",
+      "options": [
+        "Réfraction",
+        "Diffraction de Rayleigh",
+        "Dispersion",
+        "Réflexion interne totale"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1788050012280_10_h09zic",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel romancier français du XIXe siècle a écrit 'Madame Bovary' ?",
+      "options": [
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Honoré de Balzac",
+        "Alexandre Dumas"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1788050012280_11_inhnxt",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel sport nautique utilise une planche et se pratique sur les vagues ?",
+      "options": [
+        "Voile",
+        "Wakeboard",
+        "Surf",
+        "Paddle"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1788050012280_12_wp9zh4",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel système informatique a été développé par Linux Torvalds en 1991 ?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Unix"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1788050012280_13_35qyrk",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
+      "question": "Quel champignon comestible est caractérisé par son chapeau noir et sa chair blanche ?",
+      "options": [
+        "Cèpe",
+        "Chanterelle",
+        "Truffe noire",
+        "Morille"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1788050012280_14_gyf5z3",
+      "addedAt": "2026-08-30T00:33:32.280Z"
+    },
+    {
       "question": "Quel écrivain français a remporté le prix Nobel de littérature en 1947 ?",
       "options": [
         "André Gide",
@@ -3834,7 +4029,12 @@
       "category": "Science",
       "id": "q_1786754279525_1_acs3te",
       "addedAt": "2026-08-15T00:37:59.525Z"
-    },
+    }
+  ],
+  "version": 411,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-30T00:33:32.281Z",
+  "archivedQuestions": [
     {
       "question": "Quel artiste italien de la Renaissance a peint la chapelle Sixtine ?",
       "options": [
@@ -4029,154 +4229,6 @@
       "category": "Nature",
       "id": "q_1786672707437_8_v4u4px",
       "addedAt": "2026-08-14T01:58:27.437Z"
-    }
-  ],
-  "version": 410,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-29T05:57:54.109Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel mathématicien français a donné son nom au théorème fondamental sur les triangles rectangles ?",
-      "options": [
-        "René Descartes",
-        "Pierre de Fermat",
-        "Pythagore",
-        "Blaise Pascal"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1786672707437_9_rahy17",
-      "addedAt": "2026-08-14T01:58:27.437Z"
-    },
-    {
-      "question": "Quel vin français provient exclusivement de la région de Champagne ?",
-      "options": [
-        "Le Prosecco",
-        "Le Champagne",
-        "Le Crémant",
-        "Le Cava"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1786672707437_10_hukhc5",
-      "addedAt": "2026-08-14T01:58:27.437Z"
-    },
-    {
-      "question": "Quel système informatique open-source a été créé par Linus Torvalds en 1991 ?",
-      "options": [
-        "Windows",
-        "macOS",
-        "Linux",
-        "Android"
-      ],
-      "correctAnswer": 2,
-      "category": "Technologie",
-      "id": "q_1786672707437_11_vhqti5",
-      "addedAt": "2026-08-14T01:58:27.437Z"
-    },
-    {
-      "question": "Quel animal est le mammifère terrestre le plus rapide ?",
-      "options": [
-        "Lion",
-        "Antilope pronghorn",
-        "Guépard",
-        "Gazelle"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1786667134922_1_egarfv",
-      "addedAt": "2026-08-14T00:25:34.922Z"
-    },
-    {
-      "question": "Combien de valences possède généralement l'atome de carbone ?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1786667134922_2_3792y4",
-      "addedAt": "2026-08-14T00:25:34.922Z"
-    },
-    {
-      "question": "Quel réalisateur italien a créé 'Le Parrain' ?",
-      "options": [
-        "Sergio Leone",
-        "Federico Fellini",
-        "Francis Ford Coppola",
-        "Bernardo Bertolucci"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1786667134922_3_l4w575",
-      "addedAt": "2026-08-14T00:25:34.922Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en vitamine C et originaire d'Asie du Sud-Est ?",
-      "options": [
-        "Mangue",
-        "Papaye",
-        "Ananas",
-        "Noix de coco"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1786667134922_4_rnkqbb",
-      "addedAt": "2026-08-14T00:25:34.922Z"
-    },
-    {
-      "question": "Quel peintre hollandais a coupé une partie de son oreille ?",
-      "options": [
-        "Rembrandt",
-        "Johannes Vermeer",
-        "Vincent van Gogh",
-        "Pieter Bruegel"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1786667134921_0_39l1am",
-      "addedAt": "2026-08-14T00:25:34.921Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet du monde ?",
-      "options": [
-        "K2",
-        "Mont Blanc",
-        "Mont Everest",
-        "Kilimandjaro"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1786586436210_0_drlm4a",
-      "addedAt": "2026-08-13T02:00:36.210Z"
-    },
-    {
-      "question": "Quel virus cause le COVID-19 ?",
-      "options": [
-        "SARS-CoV-1",
-        "SARS-CoV-2",
-        "MERS-CoV",
-        "H1N1"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1786586436210_1_jncjpm",
-      "addedAt": "2026-08-13T02:00:36.210Z"
-    },
-    {
-      "question": "Quel peintre impressionniste a coupé une partie de son oreille ?",
-      "options": [
-        "Paul Cézanne",
-        "Claude Monet",
-        "Vincent van Gogh",
-        "Pierre-Auguste Renoir"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1786586436210_2_721nij",
-      "addedAt": "2026-08-13T02:00:36.210Z"
     }
   ],
   "poolSize": 310
