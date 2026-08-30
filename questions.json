@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel chimiste français a découvert la radioactivité en 1896 ?",
+      "options": [
+        "Pierre Curie",
+        "Henri Becquerel",
+        "Marie Curie",
+        "Ernest Rutherford"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1788062581671_0_zkewhs",
+      "addedAt": "2026-08-30T04:03:01.671Z"
+    },
+    {
+      "question": "Quel écrivain français a créé le personnage de Monte-Cristo ?",
+      "options": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Gustave Flaubert",
+        "Honoré de Balzac"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1788062581671_1_2rof48",
+      "addedAt": "2026-08-30T04:03:01.671Z"
+    },
+    {
+      "question": "Quel musicien américain a révolutionné le jazz avec le bebop ?",
+      "options": [
+        "Miles Davis",
+        "Dizzy Gillespie",
+        "John Coltrane",
+        "Charlie Parker"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1788062581671_2_srmitx",
+      "addedAt": "2026-08-30T04:03:01.671Z"
+    },
+    {
+      "question": "Combien de cordes possède un violon ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1788062581671_3_qjj3sy",
+      "addedAt": "2026-08-30T04:03:01.671Z"
+    },
+    {
+      "question": "Quel est le plus grand organe du corps humain ?",
+      "options": [
+        "Le cœur",
+        "Le foie",
+        "La peau",
+        "Les poumons"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1788062581671_4_tt6ktv",
+      "addedAt": "2026-08-30T04:03:01.671Z"
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+      "options": [
+        "Allemagne",
+        "France",
+        "Belgique",
+        "Croatie"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1788062581671_5_7y4y4g",
+      "addedAt": "2026-08-30T04:03:01.671Z"
+    },
+    {
+      "question": "Quel est le plus petit pays du monde en termes de surface ?",
+      "options": [
+        "Monaco",
+        "Liechtenstein",
+        "Cité du Vatican",
+        "Andorre"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1788062581671_6_tvj0ku",
+      "addedAt": "2026-08-30T04:03:01.671Z"
+    },
+    {
+      "question": "Quel type de mammifère pond des œufs ?",
+      "options": [
+        "L'ornithorynque",
+        "Le dauphin",
+        "La chauve-souris",
+        "Le hérisson"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1788062581671_7_cs4h4a",
+      "addedAt": "2026-08-30T04:03:01.671Z"
+    },
+    {
+      "question": "Quel mathématicien grec a énoncé le théorème sur les triangles rectangles ?",
+      "options": [
+        "Archimède",
+        "Pythagore",
+        "Euclide",
+        "Thalès"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1788062581671_8_jfadkm",
+      "addedAt": "2026-08-30T04:03:01.671Z"
+    },
+    {
+      "question": "Quel réalisateur japonais a créé le film 'Le Voyage de Chihiro' ?",
+      "options": [
+        "Akira Kurosawa",
+        "Hayao Miyazaki",
+        "Isao Takahata",
+        "Satoshi Kon"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1788062581671_9_weoyfj",
+      "addedAt": "2026-08-30T04:03:01.671Z"
+    },
+    {
+      "question": "Quelle pâte italienne en forme de tubes est également appelée 'macaroni' ?",
+      "options": [
+        "Penne",
+        "Rigatoni",
+        "Cannelloni",
+        "Fusilli"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1788062581671_10_jpml22",
+      "addedAt": "2026-08-30T04:03:01.671Z"
+    },
+    {
       "question": "Quel économiste écossais a écrit 'La Richesse des nations' en 1776 ?",
       "options": [
         "David Hume",
@@ -3886,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1786840566239_7_gdoa6s",
       "addedAt": "2026-08-16T00:36:06.239Z"
-    },
+    }
+  ],
+  "version": 412,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-30T04:03:01.672Z",
+  "archivedQuestions": [
     {
       "question": "Quel fleuve est le plus long d'Afrique ?",
       "options": [
@@ -4029,206 +4177,6 @@
       "category": "Science",
       "id": "q_1786754279525_1_acs3te",
       "addedAt": "2026-08-15T00:37:59.525Z"
-    }
-  ],
-  "version": 411,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-30T00:33:32.281Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel artiste italien de la Renaissance a peint la chapelle Sixtine ?",
-      "options": [
-        "Raphaël",
-        "Michel-Ange",
-        "Léonard de Vinci",
-        "Botticelli"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1786754279525_2_8i71q4",
-      "addedAt": "2026-08-15T00:37:59.525Z"
-    },
-    {
-      "question": "Quel instrument à vent est caractérisé par ses trous et sa forme conique ?",
-      "options": [
-        "La trompette",
-        "Le hautbois",
-        "La flûte traversière",
-        "Le saxophone"
-      ],
-      "correctAnswer": 3,
-      "category": "Musique",
-      "id": "q_1786754279525_3_ujcroy",
-      "addedAt": "2026-08-15T00:37:59.525Z"
-    },
-    {
-      "question": "Quel mathématicien suisse a formulé la relation E=mc² ?",
-      "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Leonhard Euler",
-        "Carl Friedrich Gauss"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1786754279525_4_v70arz",
-      "addedAt": "2026-08-15T00:37:59.525Z"
-    },
-    {
-      "question": "En quelle année l'Égypte ancienne s'est-elle unifiée sous le premier pharaon ?",
-      "options": [
-        "3000 av. J.-C.",
-        "2500 av. J.-C.",
-        "1500 av. J.-C.",
-        "1000 av. J.-C."
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1786754279525_5_txn5dt",
-      "addedAt": "2026-08-15T00:37:59.525Z"
-    },
-    {
-      "question": "Quel type de cellule humaine est responsable du transport de l'oxygène ?",
-      "options": [
-        "Les globules blancs",
-        "Les plaquettes",
-        "Les globules rouges",
-        "Les neurones"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1786754279525_6_psjbtf",
-      "addedAt": "2026-08-15T00:37:59.525Z"
-    },
-    {
-      "question": "Quel réalisateur britannique est connu pour ses films de suspense psychologique ?",
-      "options": [
-        "Stanley Kubrick",
-        "Alfred Hitchcock",
-        "David Fincher",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1786754279525_7_em1bix",
-      "addedAt": "2026-08-15T00:37:59.525Z"
-    },
-    {
-      "question": "Quel célèbre explorateur portugais a découvert la route maritime vers l'Inde en 1498 ?",
-      "options": [
-        "Bartolomeu Dias",
-        "Vasco de Gama",
-        "Ferdinand Magellan",
-        "Christophe Colomb"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1786672707437_0_xxapgt",
-      "addedAt": "2026-08-14T01:58:27.437Z"
-    },
-    {
-      "question": "Quel processus biologique permet aux plantes de convertir la lumière en énergie ?",
-      "options": [
-        "La fermentation",
-        "La photosynthèse",
-        "La respiration cellulaire",
-        "La mitose"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1786672707437_1_0psk07",
-      "addedAt": "2026-08-14T01:58:27.437Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance a-t-elle principalement eu lieu en Europe ?",
-      "options": [
-        "XIIe siècle",
-        "XVe et XVIe siècles",
-        "XVIIe siècle",
-        "XVIIIe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1786672707437_2_96q3kl",
-      "addedAt": "2026-08-14T01:58:27.437Z"
-    },
-    {
-      "question": "Quel peintre impressionniste français est célèbre pour ses séries de Nymphéas ?",
-      "options": [
-        "Edgar Degas",
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Frédéric Bazille"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1786672707437_3_vr5opr",
-      "addedAt": "2026-08-14T01:58:27.437Z"
-    },
-    {
-      "question": "Quel type de symétrie possède un papillon ?",
-      "options": [
-        "Symétrie radiale",
-        "Symétrie axiale",
-        "Asymétrie",
-        "Symétrie centrale"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1786672707437_4_dn62i8",
-      "addedAt": "2026-08-14T01:58:27.437Z"
-    },
-    {
-      "question": "Quel sport d'équipe espagnol s'apparente au handball joué à cheval ?",
-      "options": [
-        "La pelote basque",
-        "Le polo",
-        "Le jaleo",
-        "La corrida"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1786672707437_5_sb0o6o",
-      "addedAt": "2026-08-14T01:58:27.437Z"
-    },
-    {
-      "question": "Quel archipel volcanique est situé à environ 1000 km des côtes de l'Équateur ?",
-      "options": [
-        "Les îles Marquises",
-        "Les îles Galápagos",
-        "Les îles Aléoutiennes",
-        "Les îles Hawaïennes"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1786672707437_6_hh6s9n",
-      "addedAt": "2026-08-14T01:58:27.437Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit la pièce 'La Marche Turque' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Franz Joseph Haydn",
-        "Antonio Vivaldi"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1786672707437_7_fm3u0m",
-      "addedAt": "2026-08-14T01:58:27.437Z"
-    },
-    {
-      "question": "Quel animal marin est capable de changer la température de son corps ?",
-      "options": [
-        "Le requin blanc",
-        "La baleine bleue",
-        "Le thon rouge",
-        "L'hippocampe"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1786672707437_8_v4u4px",
-      "addedAt": "2026-08-14T01:58:27.437Z"
     }
   ],
   "poolSize": 310
