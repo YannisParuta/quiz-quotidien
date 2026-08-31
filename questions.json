@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a découvert la structure en double hélice de l'ADN ?",
+      "options": [
+        "Marie Curie",
+        "Rosalind Franklin et James Watson",
+        "Gregor Mendel",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1788136412419_0_97ctkf",
+      "addedAt": "2026-08-31T00:33:32.420Z"
+    },
+    {
+      "question": "Quel type de cuisine espagnole utilise le safran et le riz en tant qu'ingrédients principaux ?",
+      "options": [
+        "Tapas",
+        "Paella",
+        "Gazpacho",
+        "Croquetas"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1788136412420_1_xibt04",
+      "addedAt": "2026-08-31T00:33:32.420Z"
+    },
+    {
+      "question": "Quel compositeur russe a écrit le ballet 'Le Lac des Cygnes' ?",
+      "options": [
+        "Igor Stravinski",
+        "Piotr Ilitch Tchaïkovski",
+        "Modest Moussorgski",
+        "Nikolaï Rimski-Korsakov"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1788136412420_2_on1q81",
+      "addedAt": "2026-08-31T00:33:32.420Z"
+    },
+    {
+      "question": "Quel artiste belge a créé le mouvement surréaliste avec 'Le Fils de l'Homme' ?",
+      "options": [
+        "James Ensor",
+        "René Magritte",
+        "Paul Delvaux",
+        "Théo van Rysselberghe"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1788136412420_3_ze3mj9",
+      "addedAt": "2026-08-31T00:33:32.420Z"
+    },
+    {
+      "question": "Quel animal est le seul mammifère capable de voler naturellement ?",
+      "options": [
+        "L'écureuil volant",
+        "La chauve-souris",
+        "L'opossum volant",
+        "Le lémur volant"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1788136412420_4_bn0gor",
+      "addedAt": "2026-08-31T00:33:32.420Z"
+    },
+    {
+      "question": "Quel mathématicien grec a énoncé le théorème des triangles rectangles ?",
+      "options": [
+        "Euclide",
+        "Archimède",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1788136412420_5_rycui9",
+      "addedAt": "2026-08-31T00:33:32.420Z"
+    },
+    {
+      "question": "En quelle année la chute du mur de Berlin a-t-elle eu lieu ?",
+      "options": [
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1788136412420_6_v13jr1",
+      "addedAt": "2026-08-31T00:33:32.420Z"
+    },
+    {
+      "question": "Quel réalisateur britannique est connu pour ses films de suspense psychologique comme 'Psychose' ?",
+      "options": [
+        "David Lean",
+        "Stanley Kubrick",
+        "Alfred Hitchcock",
+        "Carol Reed"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1788136412420_7_eyk0wr",
+      "addedAt": "2026-08-31T00:33:32.420Z"
+    },
+    {
+      "question": "Quel élément chimique a le symbole Au sur le tableau périodique ?",
+      "options": [
+        "Argent",
+        "Or",
+        "Aluminium",
+        "Arsenic"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1788136412420_8_mosac5",
+      "addedAt": "2026-08-31T00:33:32.420Z"
+    },
+    {
       "question": "Quel chimiste français a découvert la radioactivité en 1896 ?",
       "options": [
         "Pierre Curie",
@@ -3912,7 +4029,12 @@
       "category": "Technologie",
       "id": "q_1786843141595_7_5jy7ey",
       "addedAt": "2026-08-16T01:19:01.595Z"
-    },
+    }
+  ],
+  "version": 413,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-08-31T00:33:32.420Z",
+  "archivedQuestions": [
     {
       "question": "Quel fruit tropical est riche en enzyme bromélaïne qui aide à la digestion ?",
       "options": [
@@ -4029,154 +4151,6 @@
       "category": "Géographie",
       "id": "q_1786840566239_7_gdoa6s",
       "addedAt": "2026-08-16T00:36:06.239Z"
-    }
-  ],
-  "version": 412,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-08-30T04:03:01.672Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel fleuve est le plus long d'Afrique ?",
-      "options": [
-        "Le Congo",
-        "Le Nil",
-        "Le Niger",
-        "Le Zambèze"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1786756464775_0_juz0bd",
-      "addedAt": "2026-08-15T01:14:24.775Z"
-    },
-    {
-      "question": "Quel gaz constitue environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "L'oxygène",
-        "Le dioxyde de carbone",
-        "L'azote",
-        "L'argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1786756464775_1_dnbli9",
-      "addedAt": "2026-08-15T01:14:24.775Z"
-    },
-    {
-      "question": "Quel artiste moderne a cofondé le mouvement Cubiste ?",
-      "options": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Joan Miró",
-        "Marc Chagall"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1786756464775_2_0doo6u",
-      "addedAt": "2026-08-15T01:14:24.775Z"
-    },
-    {
-      "question": "Quel était le vrai nom du philosophe Platon ?",
-      "options": [
-        "Aristocles",
-        "Socrate",
-        "Aristote",
-        "Démocrite"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1786756464775_3_h5fjxs",
-      "addedAt": "2026-08-15T01:14:24.775Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en vitamine C et provient principalement des Antilles ?",
-      "options": [
-        "La noix de coco",
-        "La mangue",
-        "L'ananas",
-        "La papaye"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1786756464775_4_i4viiu",
-      "addedAt": "2026-08-15T01:14:24.775Z"
-    },
-    {
-      "question": "Quel écran de cinéma géant a été le premier format de projection numérique IMAX ?",
-      "options": [
-        "3D-Max",
-        "IMAX Digital",
-        "Digital Cinema",
-        "4DX"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1786756464775_5_sk4p34",
-      "addedAt": "2026-08-15T01:14:24.775Z"
-    },
-    {
-      "question": "Quel nombre premier suit immédiatement le nombre 23 ?",
-      "options": [
-        "24",
-        "25",
-        "29",
-        "31"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1786756464775_6_f0ll1a",
-      "addedAt": "2026-08-15T01:14:24.775Z"
-    },
-    {
-      "question": "Quel type de cuisson consiste à immerger les aliments dans un liquide chaud sans bouillir ?",
-      "options": [
-        "Braiser",
-        "Pocher",
-        "Rôtir",
-        "Frire"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1786756464775_7_y8les7",
-      "addedAt": "2026-08-15T01:14:24.775Z"
-    },
-    {
-      "question": "Quel continent est le plus peuplé de la Terre ?",
-      "options": [
-        "L'Afrique",
-        "L'Amérique du Nord",
-        "L'Asie",
-        "L'Europe"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1786756464775_8_eo5flo",
-      "addedAt": "2026-08-15T01:14:24.775Z"
-    },
-    {
-      "question": "En quel année la Bastille a-t-elle été prise lors de la Révolution française ?",
-      "options": [
-        "1787",
-        "1789",
-        "1791",
-        "1793"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1786754279525_0_pgsswa",
-      "addedAt": "2026-08-15T00:37:59.525Z"
-    },
-    {
-      "question": "Quel gaz représente environ 78% de l'atmosphère terrestre ?",
-      "options": [
-        "L'oxygène",
-        "L'azote",
-        "Le dioxyde de carbone",
-        "L'hélium"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1786754279525_1_acs3te",
-      "addedAt": "2026-08-15T00:37:59.525Z"
     }
   ],
   "poolSize": 310
