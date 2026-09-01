@@ -1,6 +1,175 @@
 {
   "questions": [
     {
+      "question": "En quelle année la Révolution française a-t-elle commencé ?",
+      "options": [
+        "1776",
+        "1789",
+        "1799",
+        "1804"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1788235010151_0_bed5c6",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
+      "question": "Quel est le processus par lequel les plantes convertissent la lumière en énergie chimique ?",
+      "options": [
+        "La respiration cellulaire",
+        "La photosynthèse",
+        "La fermentation",
+        "La mitose"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1788235010151_1_4e0vvc",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
+      "question": "Quel festival de cinéma français est le plus célèbre au monde ?",
+      "options": [
+        "Le Festival de Deauville",
+        "Le Festival de Cannes",
+        "Le Festival de Berlin",
+        "Le Festival de Venise"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1788235010151_2_uq1314",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
+      "question": "Quel sculpteur italien a créé la statue du David ?",
+      "options": [
+        "Donatello",
+        "Michelange",
+        "Bernin",
+        "Cellini"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1788235010151_3_mu87r6",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
+      "question": "Quel roman de Jane Austen raconte l'histoire d'Elizabeth Bennet ?",
+      "options": [
+        "Persuasion",
+        "Orgueil et Préjugés",
+        "Emma",
+        "Raison et Sentiments"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1788235010151_4_3voh92",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
+      "question": "Quel type d'animal est le seul à avoir quatre chambres dans son cœur ?",
+      "options": [
+        "Les oiseaux",
+        "Les poissons",
+        "Les dauphins",
+        "Les mammifères"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1788235010151_5_mf8nso",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
+      "question": "Combien de sommets de plus de 8000 mètres existe-t-il sur Terre ?",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1788235010151_6_vcstvc",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
+      "question": "Quel mathématicien a formulé le dernier théorème qui porte son nom ?",
+      "options": [
+        "Euler",
+        "Gauss",
+        "Fermat",
+        "Newton"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1788235010151_7_9jn2ie",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
+      "question": "Quel instrument de musique traditionnel japonais a 13 cordes ?",
+      "options": [
+        "Le shamisen",
+        "Le koto",
+        "Le taiko",
+        "Le shakuhachi"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1788235010151_8_441kwe",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
+      "question": "Quel micro-organisme unicellulaire cause la malaria ?",
+      "options": [
+        "Une bactérie",
+        "Un virus",
+        "Un protozoaire",
+        "Un champignon"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1788235010151_9_5dqoov",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
+      "question": "Quel pays est le plus grand producteur mondial de cacao ?",
+      "options": [
+        "Ghana",
+        "Côte d'Ivoire",
+        "Indonésie",
+        "Équateur"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1788235010151_10_127upm",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été créé par Linus Torvalds ?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1788235010151_11_8ut5u6",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
+      "question": "Quel lac d'Afrique est le plus profond du continent ?",
+      "options": [
+        "Le lac Victoria",
+        "Le lac Tanganyka",
+        "Le lac Malawi",
+        "Le lac Albert"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1788235010151_12_rcnzwt",
+      "addedAt": "2026-09-01T03:56:50.151Z"
+    },
+    {
       "question": "Quel est le plus grand organisme vivant du monde ?",
       "options": [
         "La baleine bleue",
@@ -3860,7 +4029,12 @@
       "category": "Technologie",
       "id": "q_1787015641301_8_ianwxe",
       "addedAt": "2026-08-18T01:14:01.301Z"
-    },
+    }
+  ],
+  "version": 416,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-01T03:56:50.152Z",
+  "archivedQuestions": [
     {
       "question": "Quel océan est le plus grand par superficie ?",
       "options": [
@@ -4029,128 +4203,6 @@
       "category": "Histoire",
       "id": "q_1786929388317_2_vx27qb",
       "addedAt": "2026-08-17T01:16:28.317Z"
-    }
-  ],
-  "version": 415,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-01T00:33:31.799Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel peintre impressionniste français a peint une série de 'Nymphéas' ?",
-      "options": [
-        "Auguste Renoir",
-        "Claude Monet",
-        "Edgar Degas",
-        "Camille Pissarro"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1786929388317_3_ws69i9",
-      "addedAt": "2026-08-17T01:16:28.317Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en vitamine C et porte le nom d'un oiseau ?",
-      "options": [
-        "La mangue",
-        "Le kiwi",
-        "La papaye",
-        "L'ananas"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1786929388317_4_qtkkce",
-      "addedAt": "2026-08-17T01:16:28.317Z"
-    },
-    {
-      "question": "Quel philosophe grec ancien a fondé l'Académie d'Athènes en 387 avant J.-C. ?",
-      "options": [
-        "Socrate",
-        "Platon",
-        "Aristote",
-        "Épicure"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1786927194778_0_vrzw17",
-      "addedAt": "2026-08-17T00:39:54.778Z"
-    },
-    {
-      "question": "Quel organe humain produit l'insuline ?",
-      "options": [
-        "Le foie",
-        "Le pancréas",
-        "L'estomac",
-        "Les reins"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1786927194778_1_8esivf",
-      "addedAt": "2026-08-17T00:39:54.778Z"
-    },
-    {
-      "question": "Quel artiste français a peint 'Les Nymphéas' comme série de tableaux ?",
-      "options": [
-        "Paul Cézanne",
-        "Claude Monet",
-        "Henri Matisse",
-        "Pierre-Auguste Renoir"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1786927194778_2_ouay42",
-      "addedAt": "2026-08-17T00:39:54.778Z"
-    },
-    {
-      "question": "Combien de continents compte la Terre ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1786927194778_3_94567s",
-      "addedAt": "2026-08-17T00:39:54.778Z"
-    },
-    {
-      "question": "Quel physicien a énoncé les trois lois du mouvement ?",
-      "options": [
-        "Galileo Galilei",
-        "Isaac Newton",
-        "Johannes Kepler",
-        "Christiaan Huygens"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1786927194778_4_eshgv9",
-      "addedAt": "2026-08-17T00:39:54.778Z"
-    },
-    {
-      "question": "Quel sport d'équipe utilise un filet et se joue avec un ballon léger sur un terrain intérieur ?",
-      "options": [
-        "Le handball",
-        "Le badminton",
-        "Le volley-ball",
-        "Le squash"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1786927194778_5_iqovr0",
-      "addedAt": "2026-08-17T00:39:54.778Z"
-    },
-    {
-      "question": "Quel musicien classique allemand est devenu sourd à la fin de sa vie ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Johann Sebastian Bach",
-        "Ludwig van Beethoven",
-        "George Friedrich Haendel"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1786927194778_6_vxm3fn",
-      "addedAt": "2026-08-17T00:39:54.778Z"
     }
   ],
   "poolSize": 310
