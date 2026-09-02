@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel savant italien a perfectionné le télescope au début du 17ème siècle ?",
+      "options": [
+        "Giordano Bruno",
+        "Galileo Galilei",
+        "Leonardo da Vinci",
+        "Nicolaus Copernicus"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire des Sciences",
+      "id": "q_1788309212443_0_0xqbk0",
+      "addedAt": "2026-09-02T00:33:32.443Z"
+    },
+    {
+      "question": "Quel processus permet aux animaux de se reproduire sans partenaire ?",
+      "options": [
+        "Reproduction sexuée",
+        "Reproduction asexuée",
+        "Fécondation croisée",
+        "Mitose sexuelle"
+      ],
+      "correctAnswer": 1,
+      "category": "Biologie",
+      "id": "q_1788309212443_1_66svjh",
+      "addedAt": "2026-09-02T00:33:32.443Z"
+    },
+    {
+      "question": "Quelle est la capitale de la Slovénie ?",
+      "options": [
+        "Bratislava",
+        "Ljubljana",
+        "Zagreb",
+        "Belgrade"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1788309212443_2_a52bwh",
+      "addedAt": "2026-09-02T00:33:32.443Z"
+    },
+    {
+      "question": "Quel chimiste français a découvert les éléments radium et polonium ?",
+      "options": [
+        "Antoine Lavoisier",
+        "Marie Curie",
+        "Louis Pasteur",
+        "Claude Bernard"
+      ],
+      "correctAnswer": 1,
+      "category": "Sciences",
+      "id": "q_1788309212443_3_j00lf9",
+      "addedAt": "2026-09-02T00:33:32.443Z"
+    },
+    {
+      "question": "Dans quel roman de fantasy la cité perdue d'Atlantis joue-t-elle un rôle central ?",
+      "options": [
+        "Le Hobbit",
+        "Percy Jackson et le voleur de foudre",
+        "Eragon",
+        "Chroniques de Narnia"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1788309212443_4_oqlx3q",
+      "addedAt": "2026-09-02T00:33:32.443Z"
+    },
+    {
+      "question": "Quel type de instrument de musique est un ukulélé ?",
+      "options": [
+        "Instrument à vent",
+        "Instrument à cordes pincées",
+        "Instrument à percussion",
+        "Instrument à clavier"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1788309212443_5_fzassv",
+      "addedAt": "2026-09-02T00:33:32.443Z"
+    },
+    {
+      "question": "Quel artiste impressionniste français est connu pour ses peintures de meules de foin ?",
+      "options": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1788309212443_6_t42rtf",
+      "addedAt": "2026-09-02T00:33:32.443Z"
+    },
+    {
+      "question": "Combien de côtés possède un heptagon régulier ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1788309212443_7_tmeivk",
+      "addedAt": "2026-09-02T00:33:32.443Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre ?",
+      "options": [
+        "Rhinocéros blanc",
+        "Girafe",
+        "Éléphant d'Afrique",
+        "Hippopotame"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1788309212443_8_c1phti",
+      "addedAt": "2026-09-02T00:33:32.443Z"
+    },
+    {
+      "question": "En quel année la construction de la tour Eiffel a-t-elle été terminée ?",
+      "options": [
+        "1887",
+        "1888",
+        "1889",
+        "1890"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1788309212443_9_m1t2co",
+      "addedAt": "2026-09-02T00:33:32.443Z"
+    },
+    {
       "question": "En quelle année la Révolution française a-t-elle commencé ?",
       "options": [
         "1776",
@@ -3899,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1787098444293_8_vkewgz",
       "addedAt": "2026-08-19T00:14:04.293Z"
-    },
+    }
+  ],
+  "version": 417,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-02T00:33:32.443Z",
+  "archivedQuestions": [
     {
       "question": "Quel réalisateur a créé le personnage de Batman dans ses films ?",
       "options": [
@@ -4029,180 +4164,6 @@
       "category": "Technologie",
       "id": "q_1787015641301_8_ianwxe",
       "addedAt": "2026-08-18T01:14:01.301Z"
-    }
-  ],
-  "version": 416,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-01T03:56:50.152Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel océan est le plus grand par superficie ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1787015641300_0_bgc9lb",
-      "addedAt": "2026-08-18T01:14:01.300Z"
-    },
-    {
-      "question": "Combien de cordes possède une guitare classique standard ?",
-      "options": [
-        "5 cordes",
-        "6 cordes",
-        "7 cordes",
-        "8 cordes"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1787011795560_0_yjpdk0",
-      "addedAt": "2026-08-18T00:09:55.560Z"
-    },
-    {
-      "question": "Quel est le plus grand carnivore terrestre actuellement vivant ?",
-      "options": [
-        "Le lion",
-        "Le grizzli",
-        "L'ours polaire",
-        "Le léopard"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1787011795560_1_oe1gok",
-      "addedAt": "2026-08-18T00:09:55.560Z"
-    },
-    {
-      "question": "Quel est le seul mammifère capable de voler ?",
-      "options": [
-        "L'écureuil volant",
-        "La chauve-souris",
-        "Le lemur volant",
-        "Le dragon de Komodo"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1787011795560_2_lvtaq0",
-      "addedAt": "2026-08-18T00:09:55.560Z"
-    },
-    {
-      "question": "En quel année le Titanic a-t-il coulé ?",
-      "options": [
-        "1910",
-        "1912",
-        "1915",
-        "1920"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1787011795560_3_mbwm81",
-      "addedAt": "2026-08-18T00:09:55.560Z"
-    },
-    {
-      "question": "Quelle est la vitesse approximative de la lumière dans le vide ?",
-      "options": [
-        "300 000 km/s",
-        "3 000 km/s",
-        "30 000 km/s",
-        "150 000 km/s"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1787011795560_4_xrmmb5",
-      "addedAt": "2026-08-18T00:09:55.560Z"
-    },
-    {
-      "question": "Quel réalisateur a filmé 'Le Seigneur des anneaux' en trois films ?",
-      "options": [
-        "Steven Spielberg",
-        "Peter Jackson",
-        "James Cameron",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1787011795560_5_e930zy",
-      "addedAt": "2026-08-18T00:09:55.560Z"
-    },
-    {
-      "question": "Combien de faces possède un icosaèdre régulier ?",
-      "options": [
-        "8 faces",
-        "12 faces",
-        "20 faces",
-        "30 faces"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1787011795560_6_j4kcpv",
-      "addedAt": "2026-08-18T00:09:55.560Z"
-    },
-    {
-      "question": "Quel est le plus haut gratte-ciel du monde en 2024 ?",
-      "options": [
-        "la Burj Khalifa à Dubaï",
-        "la Torre Shanghai",
-        "la Makkah Royal Clock Tower",
-        "One World Trade Center"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1787011795560_7_9kvgfz",
-      "addedAt": "2026-08-18T00:09:55.560Z"
-    },
-    {
-      "question": "Quel type de cuisine utilise principalement le wok comme ustensile de cuisson ?",
-      "options": [
-        "La cuisine indienne",
-        "La cuisine chinoise",
-        "La cuisine thaïlandaise",
-        "La cuisine vietnamienne"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1787011795560_8_fkp8x4",
-      "addedAt": "2026-08-18T00:09:55.560Z"
-    },
-    {
-      "question": "Quel artiste hollandais a coupé une partie de son oreille ?",
-      "options": [
-        "Rembrandt",
-        "Vincent van Gogh",
-        "Piet Mondrian",
-        "Jan Vermeer"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1786929388317_0_f41xmo",
-      "addedAt": "2026-08-17T01:16:28.317Z"
-    },
-    {
-      "question": "Quel continent est le plus grand en superficie ?",
-      "options": [
-        "L'Afrique",
-        "L'Amérique du Nord",
-        "L'Asie",
-        "L'Europe"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1786929388317_1_3oy0vn",
-      "addedAt": "2026-08-17T01:16:28.317Z"
-    },
-    {
-      "question": "Quel philosophe grec a créé la première académie à Athènes ?",
-      "options": [
-        "Socrate",
-        "Platon",
-        "Aristote",
-        "Héraclite"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1786929388317_2_vx27qb",
-      "addedAt": "2026-08-17T01:16:28.317Z"
     }
   ],
   "poolSize": 310
