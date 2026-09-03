@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "En quelle année la Bastille a-t-elle été prise durant la Révolution française ?",
+      "options": [
+        "1789",
+        "1792",
+        "1795",
+        "1799"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1788405521333_0_9z7kcd",
+      "addedAt": "2026-09-03T03:18:41.333Z"
+    },
+    {
+      "question": "Qui a peint le plafond de la Chapelle Sixtine ?",
+      "options": [
+        "Raphaël",
+        "Michel-Ange",
+        "Léonard de Vinci",
+        "Botticelli"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1788405521333_1_gd7avk",
+      "addedAt": "2026-09-03T03:18:41.333Z"
+    },
+    {
+      "question": "Combien de cordes possède un violon standard ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1788405521333_2_idwp9n",
+      "addedAt": "2026-09-03T03:18:41.333Z"
+    },
+    {
+      "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
+      "options": [
+        "Oxygène",
+        "Azote",
+        "Dioxyde de carbone",
+        "Hydrogène"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1788405521333_3_5gddlr",
+      "addedAt": "2026-09-03T03:18:41.333Z"
+    },
+    {
+      "question": "Quel sport est dominé par Novak Djokovic au cours des deux dernières décennies ?",
+      "options": [
+        "Badminton",
+        "Tennis",
+        "Squash",
+        "Ping-pong"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1788405521333_4_kmrkrj",
+      "addedAt": "2026-09-03T03:18:41.333Z"
+    },
+    {
+      "question": "Quel archipel volcanique appartient à l'Équateur en Amérique du Sud ?",
+      "options": [
+        "Les Açores",
+        "Les Îles Galápagos",
+        "Les Îles Canaries",
+        "Les Îles Hawaï"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1788405521333_5_5sy5y6",
+      "addedAt": "2026-09-03T03:18:41.333Z"
+    },
+    {
+      "question": "Quel animal est le plus grand mammifère marin de la Terre ?",
+      "options": [
+        "Dauphin",
+        "Phoque",
+        "Baleine bleue",
+        "Otarie"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1788405521333_6_bne8f9",
+      "addedAt": "2026-09-03T03:18:41.333Z"
+    },
+    {
+      "question": "Quel langage de programmation est principalement utilisé pour les applications web côté client ?",
+      "options": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "C++"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1788405521333_7_ql5x9p",
+      "addedAt": "2026-09-03T03:18:41.333Z"
+    },
+    {
+      "question": "Quel plat italien traditionnel est composé de pâtes et de sauce tomate ?",
+      "options": [
+        "Risotto",
+        "Spaghetti bolognaise",
+        "Polenta",
+        "Osso buco"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1788405521333_8_hfwz5o",
+      "addedAt": "2026-09-03T03:18:41.333Z"
+    },
+    {
       "question": "Quel élément chimique a le symbole 'Au' ?",
       "options": [
         "Argent",
@@ -3912,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1787188480072_6_sqmo8m",
       "addedAt": "2026-08-20T01:14:40.072Z"
-    },
+    }
+  ],
+  "version": 420,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-03T03:18:41.334Z",
+  "archivedQuestions": [
     {
       "question": "Quel est le plus rapide des animaux terrestres ?",
       "options": [
@@ -4029,154 +4151,6 @@
       "category": "Gastronomie",
       "id": "q_1787184632983_6_x0v32w",
       "addedAt": "2026-08-20T00:10:32.983Z"
-    }
-  ],
-  "version": 419,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-03T00:33:28.139Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel cinéaste français a créé le mouvement de la 'Nouvelle Vague' ?",
-      "options": [
-        "Claude Godard",
-        "François Truffaut",
-        "Alain Robbe-Grillet",
-        "Michelangelo Antonioni"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1787184632983_7_urdwdm",
-      "addedAt": "2026-08-20T00:10:32.983Z"
-    },
-    {
-      "question": "Quel animal est le plus rapide sur terre ?",
-      "options": [
-        "Cheval",
-        "Antilope",
-        "Guépard",
-        "Gazelle"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1787184632983_8_pf33b6",
-      "addedAt": "2026-08-20T00:10:32.983Z"
-    },
-    {
-      "question": "Quel théorème mathématique porte le nom d'un savant grec antique ?",
-      "options": [
-        "Théorème d'Euclide",
-        "Théorème de Pythagore",
-        "Théorème d'Archimède",
-        "Théorème de Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1787184632983_9_3yo4u1",
-      "addedAt": "2026-08-20T00:10:32.983Z"
-    },
-    {
-      "question": "Quel est le point culminant de l'Afrique ?",
-      "options": [
-        "Le Mont Kenya",
-        "Le Kilimandjaro",
-        "Le Mont Stanley",
-        "Le Mont Speke"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1787102125549_0_f8mwqv",
-      "addedAt": "2026-08-19T01:15:25.549Z"
-    },
-    {
-      "question": "Quel écrivain a créé les aventures de Sherlock Holmes ?",
-      "options": [
-        "Arthur Conan Doyle",
-        "Agatha Christie",
-        "Oscar Wilde",
-        "H.G. Wells"
-      ],
-      "correctAnswer": 0,
-      "category": "Littérature",
-      "id": "q_1787102125549_1_frhv5y",
-      "addedAt": "2026-08-19T01:15:25.549Z"
-    },
-    {
-      "question": "Quel est le nombre de joueurs dans une équipe de volley-ball en jeu ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1787102125549_2_yvblq2",
-      "addedAt": "2026-08-19T01:15:25.549Z"
-    },
-    {
-      "question": "Qui a peint les Nymphéas ?",
-      "options": [
-        "Claude Monet",
-        "Vincent Van Gogh",
-        "Henri Matisse",
-        "Paul Cézanne"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1787102125549_3_3im6eh",
-      "addedAt": "2026-08-19T01:15:25.549Z"
-    },
-    {
-      "question": "Quel est le plus long tunnel ferroviaire du monde ?",
-      "options": [
-        "Le tunnel du Gothard",
-        "Le tunnel sous la Manche",
-        "Le tunnel du Mont-Blanc",
-        "Le tunnel de Seikan"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1787102125549_4_4zo16o",
-      "addedAt": "2026-08-19T01:15:25.549Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la franchise 'Star Wars' ?",
-      "options": [
-        "Steven Spielberg",
-        "George Lucas",
-        "James Cameron",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1787102125549_5_xv99zc",
-      "addedAt": "2026-08-19T01:15:25.549Z"
-    },
-    {
-      "question": "Quel ingrédient principal compose le guacamole ?",
-      "options": [
-        "La tomate",
-        "L'avocat",
-        "Le piment",
-        "Le citron"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1787102125549_6_3d5615",
-      "addedAt": "2026-08-19T01:15:25.549Z"
-    },
-    {
-      "question": "Quel est le nombre de paires de chromosomes dans une cellule humaine ?",
-      "options": [
-        "22",
-        "23",
-        "24",
-        "25"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787102125549_7_4kbx5v",
-      "addedAt": "2026-08-19T01:15:25.549Z"
     }
   ],
   "poolSize": 310
