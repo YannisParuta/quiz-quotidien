@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel réalisateur français a créé 'La Jetée', un film expérimental basé sur des photographies fixes ?",
+      "options": [
+        "Jean-Luc Godard",
+        "Chris Marker",
+        "François Truffaut",
+        "Jean Vigo"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1788482012239_0_wc3n78",
+      "addedAt": "2026-09-04T00:33:32.239Z"
+    },
+    {
+      "question": "Quel archipel volcanique situé en Afrique de l'Est est célèbre pour sa faune endémique ?",
+      "options": [
+        "Îles Galápagos",
+        "Îles Canaries",
+        "Îles Comores",
+        "Îles Marquises"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1788482012239_1_lp6mx0",
+      "addedAt": "2026-09-04T00:33:32.239Z"
+    },
+    {
+      "question": "Quel poète français du XIXe siècle a écrit 'Le Corbeau' ?",
+      "options": [
+        "Victor Hugo",
+        "Charles Baudelaire",
+        "Arthur Rimbaud",
+        "Paul Verlaine"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1788482012239_2_pb5h0l",
+      "addedAt": "2026-09-04T00:33:32.239Z"
+    },
+    {
+      "question": "En informatique, que signifie l'acronyme 'API' ?",
+      "options": [
+        "Application Programming Interface",
+        "Advanced Processing Instruction",
+        "Automated Production Index",
+        "Application Protocol Implementation"
+      ],
+      "correctAnswer": 0,
+      "category": "Technologie",
+      "id": "q_1788482012239_3_5x2wgv",
+      "addedAt": "2026-09-04T00:33:32.239Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a peint 'Autoportrait à l'oreille bandée' ?",
+      "options": [
+        "Rembrandt",
+        "Vincent Van Gogh",
+        "Johannes Vermeer",
+        "Pieter Bruegel"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1788482012239_4_dlydkq",
+      "addedAt": "2026-09-04T00:33:32.239Z"
+    },
+    {
+      "question": "Quel animal marin peut changer de couleur en quelques secondes ?",
+      "options": [
+        "Dauphin",
+        "Pieuvre",
+        "Raie",
+        "Requin marteau"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1788482012239_5_p2xynh",
+      "addedAt": "2026-09-04T00:33:32.239Z"
+    },
+    {
+      "question": "Quel célèbre mathématicien grec a énoncé un théorème sur les triangles rectangles ?",
+      "options": [
+        "Archimède",
+        "Euclide",
+        "Pythagore",
+        "Thalès"
+      ],
+      "correctAnswer": 2,
+      "category": "Mathématiques",
+      "id": "q_1788482012239_6_kpj10f",
+      "addedAt": "2026-09-04T00:33:32.239Z"
+    },
+    {
+      "question": "Quel plat espagnol traditionnel est à base de riz, de safran et de fruits de mer ?",
+      "options": [
+        "Gazpacho",
+        "Paella",
+        "Churros",
+        "Tortilla"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1788482012239_7_rfn28l",
+      "addedAt": "2026-09-04T00:33:32.239Z"
+    },
+    {
+      "question": "Quel sport olympique d'été combine la natation, le cyclisme et la course à pied ?",
+      "options": [
+        "Pentathlon moderne",
+        "Triathlon",
+        "Décathlon",
+        "Biathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1788482012239_8_4n95yw",
+      "addedAt": "2026-09-04T00:33:32.239Z"
+    },
+    {
       "question": "En quelle année la Bastille a-t-elle été prise durant la Révolution française ?",
       "options": [
         "1789",
@@ -3912,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1787273407389_4_j21am5",
       "addedAt": "2026-08-21T00:50:07.389Z"
-    },
+    }
+  ],
+  "version": 421,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-04T00:33:32.240Z",
+  "archivedQuestions": [
     {
       "question": "Quel fruit tropical est la plus grande baie du monde ?",
       "options": [
@@ -4029,128 +4151,6 @@
       "category": "Gastronomie",
       "id": "q_1787188480072_6_sqmo8m",
       "addedAt": "2026-08-20T01:14:40.072Z"
-    }
-  ],
-  "version": 420,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-03T03:18:41.334Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel est le plus rapide des animaux terrestres ?",
-      "options": [
-        "Lion",
-        "Gazelle",
-        "Guépard",
-        "Antilope"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1787188480072_7_2kaumq",
-      "addedAt": "2026-08-20T01:14:40.072Z"
-    },
-    {
-      "question": "Quel réalisateur a créé la trilogie 'La Trilogie du Dollars' avec Clint Eastwood ?",
-      "options": [
-        "George Stevens",
-        "Sergio Leone",
-        "John Ford",
-        "Howard Hawks"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1787188480072_8_wjedb8",
-      "addedAt": "2026-08-20T01:14:40.072Z"
-    },
-    {
-      "question": "Quel astronome polonais a proposé l'héliocentrisme à la Renaissance ?",
-      "options": [
-        "Tycho Brahé",
-        "Nicolas Copernic",
-        "Galileo Galilei",
-        "Johannes Kepler"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire des Sciences",
-      "id": "q_1787184632983_0_l9yzrh",
-      "addedAt": "2026-08-20T00:10:32.983Z"
-    },
-    {
-      "question": "En quelle année la photographie a-t-elle été inventée par Nicéphore Niépce ?",
-      "options": [
-        "1822",
-        "1839",
-        "1851",
-        "1875"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1787184632983_1_o19qug",
-      "addedAt": "2026-08-20T00:10:32.983Z"
-    },
-    {
-      "question": "Quel écrivain britannique a créé le détective Sherlock Holmes ?",
-      "options": [
-        "Agatha Christie",
-        "Arthur Conan Doyle",
-        "Oscar Wilde",
-        "Thomas Hardy"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1787184632983_2_4qpfqy",
-      "addedAt": "2026-08-20T00:10:32.983Z"
-    },
-    {
-      "question": "Quel type de cellule humaine ne possède pas de noyau ?",
-      "options": [
-        "Neurone",
-        "Globule rouge",
-        "Cellule musculaire",
-        "Cellule nerveuse"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787184632983_3_ajdxpn",
-      "addedAt": "2026-08-20T00:10:32.983Z"
-    },
-    {
-      "question": "En quel sport Pelé a-t-il remporté trois Coupes du monde ?",
-      "options": [
-        "Tennis",
-        "Athlétisme",
-        "Football",
-        "Basketball"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1787184632983_4_tets2a",
-      "addedAt": "2026-08-20T00:10:32.983Z"
-    },
-    {
-      "question": "Quel compositeur allemand est célèbre pour ses neuf symphonies ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Franz Joseph Haydn",
-        "Ludwig van Beethoven",
-        "Johann Sebastian Bach"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1787184632983_5_c8h00d",
-      "addedAt": "2026-08-20T00:10:32.983Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en vitamine C et provient principalement du Brésil ?",
-      "options": [
-        "Banane",
-        "Mangue",
-        "Açai",
-        "Goyave"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1787184632983_6_x0v32w",
-      "addedAt": "2026-08-20T00:10:32.983Z"
     }
   ],
   "poolSize": 310
