@@ -1,6 +1,123 @@
 {
   "questions": [
     {
+      "question": "Quel architecte italien a conçu la basilique Saint-Pierre de Rome ?",
+      "options": [
+        "Donato Bramante",
+        "Michelangelo",
+        "Gian Lorenzo Bernini",
+        "Carlo Maderno"
+      ],
+      "correctAnswer": 0,
+      "category": "Art et Architecture",
+      "id": "q_1788578392649_0_ta5ubd",
+      "addedAt": "2026-09-05T03:19:52.649Z"
+    },
+    {
+      "question": "Quel gaz les plantes absorbent-elles pour la photosynthèse ?",
+      "options": [
+        "L'oxygène",
+        "L'azote",
+        "Le dioxyde de carbone",
+        "L'hydrogène"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1788578392649_1_go8bv1",
+      "addedAt": "2026-09-05T03:19:52.649Z"
+    },
+    {
+      "question": "Quel philosophe grec ancien a enseigné à Athènes dans le Lycée ?",
+      "options": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Épicure"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1788578392649_2_vhf41o",
+      "addedAt": "2026-09-05T03:19:52.649Z"
+    },
+    {
+      "question": "Quel type de cuisine est caractérisé par l'utilisation abondante de piments et d'épices ?",
+      "options": [
+        "La cuisine thaïlandaise",
+        "La cuisine scandinave",
+        "La cuisine méditerranéenne",
+        "La cuisine française"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1788578392649_3_eqlhxu",
+      "addedAt": "2026-09-05T03:19:52.649Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé le film 'Amélie' ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Jean-Pierre Jeunet",
+        "Claude Chabrol"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1788578392649_4_n22650",
+      "addedAt": "2026-09-05T03:19:52.649Z"
+    },
+    {
+      "question": "Quel instrument de musique a le plus de cordes parmi ces quatre ?",
+      "options": [
+        "La guitare",
+        "Le violon",
+        "La harpe",
+        "Le piano"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1788578392649_5_eoh6tg",
+      "addedAt": "2026-09-05T03:19:52.649Z"
+    },
+    {
+      "question": "Quel système permet de coder les lettres par des points et des tirets ?",
+      "options": [
+        "Le code ASCII",
+        "Le code Morse",
+        "Le code QR",
+        "Le code binaire"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1788578392649_6_cohbkc",
+      "addedAt": "2026-09-05T03:19:52.649Z"
+    },
+    {
+      "question": "Quel animal est le plus rapide du règne animal ?",
+      "options": [
+        "L'antilope",
+        "Le guépard",
+        "Le faucon pèlerin",
+        "Le lièvre"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1788578392649_7_o2gb1e",
+      "addedAt": "2026-09-05T03:19:52.649Z"
+    },
+    {
+      "question": "Quel mathématicien français a établi le 'Dernier théorème' portant son nom ?",
+      "options": [
+        "Pierre de Fermat",
+        "Blaise Pascal",
+        "Augustin-Louis Cauchy",
+        "Henri Poincaré"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1788578392649_8_ph4cfn",
+      "addedAt": "2026-09-05T03:19:52.649Z"
+    },
+    {
       "question": "Quel est le plus haut sommet du monde ?",
       "options": [
         "K2",
@@ -3912,7 +4029,12 @@
       "category": "Mathématiques",
       "id": "q_1787361236977_6_upw0vr",
       "addedAt": "2026-08-22T01:13:56.977Z"
-    },
+    }
+  ],
+  "version": 424,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-05T03:19:52.650Z",
+  "archivedQuestions": [
     {
       "question": "Quelle université britannique est la plus ancienne ?",
       "options": [
@@ -4029,141 +4151,6 @@
       "category": "Art",
       "id": "q_1787359116674_5_zg5vif",
       "addedAt": "2026-08-22T00:38:36.674Z"
-    }
-  ],
-  "version": 423,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-05T00:33:31.127Z",
-  "archivedQuestions": [
-    {
-      "question": "En quel sport la 'Ryder Cup' est-elle la plus prestigieuse compétition ?",
-      "options": [
-        "Tennis",
-        "Golf",
-        "Cricket",
-        "Badminton"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1787359116674_6_jfwtcp",
-      "addedAt": "2026-08-22T00:38:36.674Z"
-    },
-    {
-      "question": "Quel romancier britannique a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Oscar Wilde",
-        "Arthur Conan Doyle",
-        "Agatha Christie",
-        "H.G. Wells"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1787359116674_7_mj4rf7",
-      "addedAt": "2026-08-22T00:38:36.674Z"
-    },
-    {
-      "question": "Quel film de science-fiction de Stanley Kubrick est adapté d'une nouvelle d'Arthur C. Clarke ?",
-      "options": [
-        "Orange mécanique",
-        "2001 : L'Odyssée de l'espace",
-        "Shining",
-        "Docteur Folamour"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1787359116674_8_p8hnoo",
-      "addedAt": "2026-08-22T00:38:36.674Z"
-    },
-    {
-      "question": "Quel processus biologique transforme le raisin en vin ?",
-      "options": [
-        "Photosynthèse",
-        "Respiration cellulaire",
-        "Fermentation",
-        "Oxydation"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1787359116674_9_9zjc0e",
-      "addedAt": "2026-08-22T00:38:36.674Z"
-    },
-    {
-      "question": "Quel était le nom de l'ancienne Thaïlande avant 1939 ?",
-      "options": [
-        "Birmanie",
-        "Siam",
-        "Annam",
-        "Indochine française"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1787359116674_10_ll8xt8",
-      "addedAt": "2026-08-22T00:38:36.674Z"
-    },
-    {
-      "question": "Quel carnivore terrestre possède la plus grande vitesse de course ?",
-      "options": [
-        "Lion",
-        "Loup",
-        "Guépard",
-        "Hyène"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1787359116674_11_qfh5h9",
-      "addedAt": "2026-08-22T00:38:36.674Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde en termes de superficie ?",
-      "options": [
-        "Monaco",
-        "Liechtenstein",
-        "Vatican",
-        "Malte"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1787275100308_0_5dzu0j",
-      "addedAt": "2026-08-21T01:18:20.308Z"
-    },
-    {
-      "question": "Quel peintres a coupé une partie de son oreille ?",
-      "options": [
-        "Pablo Picasso",
-        "Salvador Dalí",
-        "Vincent van Gogh",
-        "Paul Cézanne"
-      ],
-      "correctAnswer": 2,
-      "category": "Art",
-      "id": "q_1787275100308_1_4u2ag7",
-      "addedAt": "2026-08-21T01:18:20.308Z"
-    },
-    {
-      "question": "Quel est l'animal le plus rapide du monde ?",
-      "options": [
-        "Autruche",
-        "Gazelle",
-        "Guépard",
-        "Lièvre"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1787275100308_2_ko920f",
-      "addedAt": "2026-08-21T01:18:20.308Z"
-    },
-    {
-      "question": "En quel sport Cristiano Ronaldo a-t-il établi la plupart de ses records ?",
-      "options": [
-        "Basket-ball",
-        "Cyclisme",
-        "Football",
-        "Tennis"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1787275100308_3_28egvh",
-      "addedAt": "2026-08-21T01:18:20.308Z"
     }
   ],
   "poolSize": 310
