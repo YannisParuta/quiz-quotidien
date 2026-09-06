@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel architecte français a conçu la Tour Eiffel pour l'Exposition universelle de 1889 ?",
+      "options": [
+        "Gustave Eiffel",
+        "Eugène Viollet-le-Duc",
+        "Hector Guimard",
+        "Auguste Perret"
+      ],
+      "correctAnswer": 0,
+      "category": "Architecture",
+      "id": "q_1788654812353_0_x4y7ul",
+      "addedAt": "2026-09-06T00:33:32.353Z"
+    },
+    {
+      "question": "Quel gaz constitue environ 78% de l'atmosphère terrestre ?",
+      "options": [
+        "L'oxygène",
+        "L'azote",
+        "Le dioxyde de carbone",
+        "L'hélium"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1788654812353_1_wn7yx3",
+      "addedAt": "2026-09-06T00:33:32.353Z"
+    },
+    {
+      "question": "Quel écrivain français a écrit le roman 'Le Père Goriot' ?",
+      "options": [
+        "Alexandre Dumas",
+        "Honoré de Balzac",
+        "Stendhal",
+        "Prosper Mérimée"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1788654812353_2_0jlfud",
+      "addedAt": "2026-09-06T00:33:32.353Z"
+    },
+    {
+      "question": "Quel peintre flamand a peint 'La Persistance de la mémoire' avec ses montres molles ?",
+      "options": [
+        "Salvador Dalí",
+        "René Magritte",
+        "Paul Klee",
+        "Joan Miró"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1788654812353_3_qjeytr",
+      "addedAt": "2026-09-06T00:33:32.353Z"
+    },
+    {
+      "question": "En quel sport se déroulent des compétitions appelées 'Grand Chelem' ?",
+      "options": [
+        "Le golf",
+        "Le tennis",
+        "L'athlétisme",
+        "L'équitation"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1788654812353_4_mwlhrc",
+      "addedAt": "2026-09-06T00:33:32.353Z"
+    },
+    {
+      "question": "Quel légume méditerranéen contient une enzyme appelée bromélaïne... attendez, non, c'est l'aubergine qui contient de la solanine ?",
+      "options": [
+        "La tomate",
+        "Le concombre",
+        "L'aubergine",
+        "Le poivron"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1788654812353_5_z64e3r",
+      "addedAt": "2026-09-06T00:33:32.353Z"
+    },
+    {
+      "question": "Quel philosophe grec ancien a fondé l'Académie et était le maître d'Aristote ?",
+      "options": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Pythagore"
+      ],
+      "correctAnswer": 1,
+      "category": "Philosophie",
+      "id": "q_1788654812353_6_5jtiky",
+      "addedAt": "2026-09-06T00:33:32.353Z"
+    },
+    {
+      "question": "Quel processus naturel convertit le dioxyde de carbone en oxygène dans les plantes ?",
+      "options": [
+        "La respiration",
+        "La photosynthèse",
+        "La transpiration",
+        "La fermentation"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1788654812353_7_ry6g6k",
+      "addedAt": "2026-09-06T00:33:32.353Z"
+    },
+    {
+      "question": "Quel cinéaste français est célèbre pour la technique du 'jump cut' et 'À bout de souffle' ?",
+      "options": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Claude Chabrol",
+        "Jacques Rivette"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1788654812353_8_tcueuw",
+      "addedAt": "2026-09-06T00:33:32.353Z"
+    },
+    {
+      "question": "Quel type de particule subatomique a une charge positive ?",
+      "options": [
+        "L'électron",
+        "Le proton",
+        "Le neutron",
+        "Le photon"
+      ],
+      "correctAnswer": 1,
+      "category": "Physique",
+      "id": "q_1788654812353_9_jqs5ag",
+      "addedAt": "2026-09-06T00:33:32.353Z"
+    },
+    {
+      "question": "En quel siècle la Révolution française a-t-elle eu lieu ?",
+      "options": [
+        "XVIIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle",
+        "XXe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1788654812353_10_vbdy8h",
+      "addedAt": "2026-09-06T00:33:32.353Z"
+    },
+    {
       "question": "Quel architecte italien a conçu la basilique Saint-Pierre de Rome ?",
       "options": [
         "Donato Bramante",
@@ -3886,7 +4029,12 @@
       "category": "Cinéma",
       "id": "q_1787443299213_6_3shven",
       "addedAt": "2026-08-23T00:01:39.213Z"
-    },
+    }
+  ],
+  "version": 425,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-06T00:33:32.354Z",
+  "archivedQuestions": [
     {
       "question": "Quel minéral est l'une des formes cristallines du carbone pur ?",
       "options": [
@@ -4029,128 +4177,6 @@
       "category": "Mathématiques",
       "id": "q_1787361236977_6_upw0vr",
       "addedAt": "2026-08-22T01:13:56.977Z"
-    }
-  ],
-  "version": 424,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-05T03:19:52.650Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle université britannique est la plus ancienne ?",
-      "options": [
-        "Cambridge",
-        "Oxford",
-        "Durham",
-        "Bristol"
-      ],
-      "correctAnswer": 1,
-      "category": "Culture",
-      "id": "q_1787361236977_7_vo5u5y",
-      "addedAt": "2026-08-22T01:13:56.977Z"
-    },
-    {
-      "question": "Quel métal est utilisé pour fabriquer les panneaux solaires ?",
-      "options": [
-        "Cuivre",
-        "Silicium",
-        "Aluminium",
-        "Nickel"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1787361236977_8_iqtmct",
-      "addedAt": "2026-08-22T01:13:56.977Z"
-    },
-    {
-      "question": "Quel mammifère marin est connu pour son chant complexe et mélodieux ?",
-      "options": [
-        "Dauphin",
-        "Baleine à bosse",
-        "Otarie",
-        "Phoque"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1787361236977_9_grzpab",
-      "addedAt": "2026-08-22T01:13:56.977Z"
-    },
-    {
-      "question": "Quel mathématicien suisse a développé le calcul infinitésimal au XVIIe siècle ?",
-      "options": [
-        "Isaac Newton",
-        "Gottfried Wilhelm Leibniz",
-        "Pierre de Fermat",
-        "Blaise Pascal"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1787359116674_0_7a3gt1",
-      "addedAt": "2026-08-22T00:38:36.674Z"
-    },
-    {
-      "question": "Quel pays possède le plus grand nombre de lacs au monde ?",
-      "options": [
-        "Suède",
-        "Finlande",
-        "Canada",
-        "Norvège"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1787359116674_1_udk4ab",
-      "addedAt": "2026-08-22T00:38:36.674Z"
-    },
-    {
-      "question": "Quel élément chimique est symbolisé par le sigle 'Au' ?",
-      "options": [
-        "Argent",
-        "Aluminium",
-        "Or",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1787359116674_2_7tdj2f",
-      "addedAt": "2026-08-22T00:38:36.674Z"
-    },
-    {
-      "question": "Quel compositeur français a écrit le ballet 'Daphnis et Chloé' ?",
-      "options": [
-        "Claude Debussy",
-        "Maurice Ravel",
-        "Gabriel Fauré",
-        "Erik Satie"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1787359116674_3_d0yj14",
-      "addedAt": "2026-08-22T00:38:36.674Z"
-    },
-    {
-      "question": "Quel type de protéine accélère les réactions chimiques dans les cellules vivantes ?",
-      "options": [
-        "Lipide",
-        "Enzyme",
-        "Sucre",
-        "Acide nucléique"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787359116674_4_613t78",
-      "addedAt": "2026-08-22T00:38:36.674Z"
-    },
-    {
-      "question": "Quel artiste impressionniste français a peint 'Les Nymphéas' ?",
-      "options": [
-        "Pierre-Auguste Renoir",
-        "Claude Monet",
-        "Edgar Degas",
-        "Camille Pissarro"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1787359116674_5_zg5vif",
-      "addedAt": "2026-08-22T00:38:36.674Z"
     }
   ],
   "poolSize": 310
