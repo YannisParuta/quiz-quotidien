@@ -1,6 +1,110 @@
 {
   "questions": [
     {
+      "question": "Quel architecte français a conçu la Tour Eiffel ?",
+      "options": [
+        "Gustave Eiffel",
+        "Eugène Viollet-le-Duc",
+        "Henri Labrouste",
+        "Charles Garnier"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1788741212045_0_iqreyr",
+      "addedAt": "2026-09-07T00:33:32.045Z"
+    },
+    {
+      "question": "Combien de cordes possède un violon classique ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1788741212045_1_5roeyq",
+      "addedAt": "2026-09-07T00:33:32.045Z"
+    },
+    {
+      "question": "Quel scientifique a découvert la radioactivité ?",
+      "options": [
+        "Marie Curie",
+        "Pierre Curie",
+        "Henri Becquerel",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1788741212045_2_9rr1ch",
+      "addedAt": "2026-09-07T00:33:32.045Z"
+    },
+    {
+      "question": "En quel année l'Empire romain s'est-il effondré en Occident ?",
+      "options": [
+        "312",
+        "476",
+        "800",
+        "1066"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1788741212045_3_yntkp2",
+      "addedAt": "2026-09-07T00:33:32.045Z"
+    },
+    {
+      "question": "Quel film d'animation Pixar a remporté l'Oscar du meilleur film d'animation en 2010 ?",
+      "options": [
+        "Toy Story 3",
+        "Vice-Versa",
+        "Le Monde de Nemo",
+        "Raiponce"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1788741212045_4_qwp5l1",
+      "addedAt": "2026-09-07T00:33:32.045Z"
+    },
+    {
+      "question": "Quel plat italien à base de pâtes et fromage est originaire de Rome ?",
+      "options": [
+        "Carbonara",
+        "Bolognaise",
+        "Alfredo",
+        "Amatriciana"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1788741212045_5_zd1x74",
+      "addedAt": "2026-09-07T00:33:32.045Z"
+    },
+    {
+      "question": "Quel mathématicien français a donné son nom à la droite dans un triangle ?",
+      "options": [
+        "Théorème de Pythagore",
+        "Droite d'Euler",
+        "Théorème de Thalès",
+        "Bissectrice de Pascal"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1788741212045_6_pamhog",
+      "addedAt": "2026-09-07T00:33:32.045Z"
+    },
+    {
+      "question": "Quel gymnaste soviétique a marqué l'histoire des Jeux olympiques en 1972 avec une perfection technique ?",
+      "options": [
+        "Olga Korbut",
+        "Nadia Comăneci",
+        "Larisa Latynina",
+        "Svetlana Khorkina"
+      ],
+      "correctAnswer": 0,
+      "category": "Sport",
+      "id": "q_1788741212045_7_i8aao3",
+      "addedAt": "2026-09-07T00:33:32.045Z"
+    },
+    {
       "question": "En quelle année la Révolution française a-t-elle débuté ?",
       "options": [
         "1776",
@@ -3925,7 +4029,12 @@
       "category": "Géographie",
       "id": "q_1787530503577_8_505xf4",
       "addedAt": "2026-08-24T00:15:03.577Z"
-    },
+    }
+  ],
+  "version": 427,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-07T00:33:32.046Z",
+  "archivedQuestions": [
     {
       "question": "Quel compositeur allemand a écrit le 'Clair de lune' ?",
       "options": [
@@ -4029,154 +4138,6 @@
       "category": "Sport",
       "id": "q_1787448035676_7_ihnuud",
       "addedAt": "2026-08-23T01:20:35.676Z"
-    }
-  ],
-  "version": 426,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-06T03:19:42.949Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel réalisateur britannique est célèbre pour ses films d'horreur et de suspense comme 'Psycho' ?",
-      "options": [
-        "David Lean",
-        "Alfred Hitchcock",
-        "Peter Yates",
-        "Michael Powell"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1787448035676_8_7ny9bh",
-      "addedAt": "2026-08-23T01:20:35.676Z"
-    },
-    {
-      "question": "Quel élément chimique a pour symbole 'Au' et est précieux ?",
-      "options": [
-        "L'argent",
-        "L'or",
-        "L'aluminium",
-        "L'arsenic"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787448035676_9_h0ywr6",
-      "addedAt": "2026-08-23T01:20:35.676Z"
-    },
-    {
-      "question": "Quelle capitale européenne est surnommée 'la ville des ponts' ?",
-      "options": [
-        "Venise",
-        "Amsterdam",
-        "Prague",
-        "Bruges"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1787448035676_10_gzood0",
-      "addedAt": "2026-08-23T01:20:35.676Z"
-    },
-    {
-      "question": "Quel langage de balisage est utilisé pour structurer les pages web ?",
-      "options": [
-        "CSS",
-        "HTML",
-        "JavaScript",
-        "Python"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1787448035676_11_8397zb",
-      "addedAt": "2026-08-23T01:20:35.676Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit la célèbre 'Marche turque' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Franz Schubert",
-        "Antonio Vivaldi"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1787443299213_0_cs1hf7",
-      "addedAt": "2026-08-23T00:01:39.213Z"
-    },
-    {
-      "question": "Quel pays produit le plus de café au monde ?",
-      "options": [
-        "Vietnam",
-        "Colombie",
-        "Brésil",
-        "Éthiopie"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1787443299213_1_zui5bs",
-      "addedAt": "2026-08-23T00:01:39.213Z"
-    },
-    {
-      "question": "Quel scientifique a découvert la pénicilline par hasard en 1928 ?",
-      "options": [
-        "Alexander Fleming",
-        "Louis Pasteur",
-        "Marie Curie",
-        "Joseph Lister"
-      ],
-      "correctAnswer": 0,
-      "category": "Science",
-      "id": "q_1787443299213_2_pc9u3w",
-      "addedAt": "2026-08-23T00:01:39.213Z"
-    },
-    {
-      "question": "Quel fleuve traverse le plus de pays en Europe ?",
-      "options": [
-        "Le Rhin",
-        "Le Danube",
-        "La Volga",
-        "La Loire"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1787443299213_3_hc23uc",
-      "addedAt": "2026-08-23T00:01:39.213Z"
-    },
-    {
-      "question": "Quel animal terrestre possède le cœur le plus gros ?",
-      "options": [
-        "L'éléphant",
-        "La girafe",
-        "La baleine bleue",
-        "L'hippopotame"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1787443299213_4_z04w0p",
-      "addedAt": "2026-08-23T00:01:39.213Z"
-    },
-    {
-      "question": "Quel nombre est à la fois un carré parfait et un nombre de Fibonacci ?",
-      "options": [
-        "4",
-        "9",
-        "16",
-        "25"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1787443299213_5_jr9dvr",
-      "addedAt": "2026-08-23T00:01:39.213Z"
-    },
-    {
-      "question": "Quel cinéma propose des séances de films en plein air pendant l'été en France ?",
-      "options": [
-        "Un drive-in",
-        "Un cinéma d'art et d'essai",
-        "Un cinéma itinérant",
-        "Une projection extérieure"
-      ],
-      "correctAnswer": 3,
-      "category": "Cinéma",
-      "id": "q_1787443299213_6_3shven",
-      "addedAt": "2026-08-23T00:01:39.213Z"
     }
   ],
   "poolSize": 310
