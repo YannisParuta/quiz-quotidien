@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel sport olympique se pratique sur des pistes de glace avec des pierres ?",
+      "options": [
+        "Le bobsleigh",
+        "Le curling",
+        "Le patinage de vitesse",
+        "Le skeleton"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1788751085097_0_1vn8en",
+      "addedAt": "2026-09-07T03:18:05.097Z"
+    },
+    {
+      "question": "Quel mouvement artistique a été fondé par Salvador Dalí ?",
+      "options": [
+        "Le cubisme",
+        "Le dadaïsme",
+        "Le surréalisme",
+        "Le futurisme"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1788751085097_1_dk7eb7",
+      "addedAt": "2026-09-07T03:18:05.097Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit '4 Saisons' ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Antonio Vivaldi",
+        "Johann Sebastian Bach",
+        "George Friedrich Haendel"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1788751085097_2_ekakkz",
+      "addedAt": "2026-09-07T03:18:05.097Z"
+    },
+    {
+      "question": "Quel réalisateur français a créé la cinémathèque française en 1936 ?",
+      "options": [
+        "Orson Welles",
+        "Henri Langlois",
+        "Jean-Luc Godard",
+        "François Truffaut"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1788751085097_3_knwboy",
+      "addedAt": "2026-09-07T03:18:05.097Z"
+    },
+    {
+      "question": "Quel insecte produit de la soie ?",
+      "options": [
+        "L'abeille",
+        "Le ver à soie",
+        "La coccinelle",
+        "La fourmi"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1788751085097_4_hyvzvt",
+      "addedAt": "2026-09-07T03:18:05.097Z"
+    },
+    {
+      "question": "Combien de côtés a un pentagone régulier ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1788751085097_5_em4hk5",
+      "addedAt": "2026-09-07T03:18:05.097Z"
+    },
+    {
+      "question": "Quel est le pays d'origine de la pizza ?",
+      "options": [
+        "La Grèce",
+        "L'Espagne",
+        "L'Italie",
+        "La France"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1788751085097_6_akex4l",
+      "addedAt": "2026-09-07T03:18:05.097Z"
+    },
+    {
+      "question": "En quel année l'imprimerie a-t-elle été inventée par Gutenberg ?",
+      "options": [
+        "1440",
+        "1492",
+        "1500",
+        "1520"
+      ],
+      "correctAnswer": 0,
+      "category": "Histoire",
+      "id": "q_1788751085097_7_u94x7v",
+      "addedAt": "2026-09-07T03:18:05.097Z"
+    },
+    {
+      "question": "Quel gaz est produit par les plantes lors de la photosynthèse ?",
+      "options": [
+        "Le dioxyde de carbone",
+        "L'oxygène",
+        "L'azote",
+        "L'hydrogène"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1788751085097_8_4r6mkm",
+      "addedAt": "2026-09-07T03:18:05.097Z"
+    },
+    {
+      "question": "Quel écrivain irlandais a écrit 'Ulysse' en 1922 ?",
+      "options": [
+        "William Butler Yeats",
+        "Bram Stoker",
+        "James Joyce",
+        "Samuel Beckett"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1788751085097_9_478xv8",
+      "addedAt": "2026-09-07T03:18:05.097Z"
+    },
+    {
       "question": "Quel architecte français a conçu la Tour Eiffel ?",
       "options": [
         "Gustave Eiffel",
@@ -3899,7 +4029,12 @@
       "category": "Art",
       "id": "q_1787534290022_11_8b5c29",
       "addedAt": "2026-08-24T01:18:10.022Z"
-    },
+    }
+  ],
+  "version": 428,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-07T03:18:05.098Z",
+  "archivedQuestions": [
     {
       "question": "Quel gaz noble est utilisé dans les enseignes lumineuses ?",
       "options": [
@@ -4029,115 +4164,6 @@
       "category": "Géographie",
       "id": "q_1787530503577_8_505xf4",
       "addedAt": "2026-08-24T00:15:03.577Z"
-    }
-  ],
-  "version": 427,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-07T00:33:32.046Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel compositeur allemand a écrit le 'Clair de lune' ?",
-      "options": [
-        "Ludwig van Beethoven",
-        "Claude Debussy",
-        "Wolfgang Amadeus Mozart",
-        "Johannes Brahms"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1787448035676_0_pc31b7",
-      "addedAt": "2026-08-23T01:20:35.676Z"
-    },
-    {
-      "question": "Quel peintre espagnol est célèbre pour son style cubiste et 'Guernica' ?",
-      "options": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Joan Miró",
-        "Antoni Gaudí"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1787448035676_1_r9di02",
-      "addedAt": "2026-08-23T01:20:35.676Z"
-    },
-    {
-      "question": "Quel est le plus long fleuve d'Asie ?",
-      "options": [
-        "Le Gange",
-        "Le Yangtsé",
-        "L'Amour",
-        "L'Indus"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1787448035676_2_ybxlwf",
-      "addedAt": "2026-08-23T01:20:35.676Z"
-    },
-    {
-      "question": "Quel auteur français a écrit 'Les Misérables' ?",
-      "options": [
-        "Balzac",
-        "Victor Hugo",
-        "Émile Zola",
-        "Gustave Flaubert"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1787448035676_3_b8ccj9",
-      "addedAt": "2026-08-23T01:20:35.676Z"
-    },
-    {
-      "question": "Quel mathématicien grec a découvert le principe de la poussée hydrostatique en prenant un bain ?",
-      "options": [
-        "Pythagore",
-        "Archimède",
-        "Euclide",
-        "Thales"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1787448035676_4_kiwbi0",
-      "addedAt": "2026-08-23T01:20:35.676Z"
-    },
-    {
-      "question": "Quel fruit tropical est riche en bromélaïne, une enzyme digestive ?",
-      "options": [
-        "La mangue",
-        "L'ananas",
-        "La papaye",
-        "La goyave"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1787448035676_5_tv4njz",
-      "addedAt": "2026-08-23T01:20:35.676Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
-      "options": [
-        "XIIIe siècle",
-        "XVe siècle",
-        "XVIIe siècle",
-        "XVIIIe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1787448035676_6_glljd7",
-      "addedAt": "2026-08-23T01:20:35.676Z"
-    },
-    {
-      "question": "Quel sport olympique consiste à lancer un javelot le plus loin possible ?",
-      "options": [
-        "Le lancer du disque",
-        "Le lancer du poids",
-        "Le lancer du javelot",
-        "Le lancer du marteau"
-      ],
-      "correctAnswer": 2,
-      "category": "Sport",
-      "id": "q_1787448035676_7_ihnuud",
-      "addedAt": "2026-08-23T01:20:35.676Z"
     }
   ],
   "poolSize": 310
