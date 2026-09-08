@@ -1,6 +1,136 @@
 {
   "questions": [
     {
+      "question": "Quel scientifique a découvert la pénicilline en 1928 ?",
+      "options": [
+        "Marie Curie",
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Jonas Salk"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1788827608619_0_cw4wue",
+      "addedAt": "2026-09-08T00:33:28.619Z"
+    },
+    {
+      "question": "Quel pays produit le plus de cacao au monde ?",
+      "options": [
+        "Ghana",
+        "Cameroun",
+        "Côte d'Ivoire",
+        "Équateur"
+      ],
+      "correctAnswer": 2,
+      "category": "Géographie",
+      "id": "q_1788827608619_1_5mwtyx",
+      "addedAt": "2026-09-08T00:33:28.619Z"
+    },
+    {
+      "question": "En quel année la Bastille a-t-elle été prise lors de la Révolution française ?",
+      "options": [
+        "1787",
+        "1789",
+        "1791",
+        "1793"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1788827608619_2_kjzqg0",
+      "addedAt": "2026-09-08T00:33:28.619Z"
+    },
+    {
+      "question": "Combien de cordes possède un violoncelle standard ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1788827608619_3_kblrn2",
+      "addedAt": "2026-09-08T00:33:28.619Z"
+    },
+    {
+      "question": "Quel artiste surréaliste espagnol a peint 'La Persistance de la mémoire' ?",
+      "options": [
+        "Pablo Picasso",
+        "Joan Miró",
+        "Salvador Dalí",
+        "Antoni Gaudí"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1788827608619_4_iud1oq",
+      "addedAt": "2026-09-08T00:33:28.619Z"
+    },
+    {
+      "question": "Quel mathématicien italien a introduit la suite numérique connue sous son nom au XIIIe siècle ?",
+      "options": [
+        "Leonardo Fibonacci",
+        "Girolamo Cardano",
+        "Tartaglia",
+        "Nicolò Fontana"
+      ],
+      "correctAnswer": 0,
+      "category": "Mathématiques",
+      "id": "q_1788827608619_5_s9ifar",
+      "addedAt": "2026-09-08T00:33:28.619Z"
+    },
+    {
+      "question": "En quel année le premier iPhone a-t-il été lancé ?",
+      "options": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1788827608619_6_oduequ",
+      "addedAt": "2026-09-08T00:33:28.619Z"
+    },
+    {
+      "question": "Quel chef-d'œuvre de la gastronomie française est un flan aux œufs et au lait ?",
+      "options": [
+        "Crème brûlée",
+        "Flan",
+        "Panna cotta",
+        "Mousse au chocolat"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1788827608619_7_dkbt09",
+      "addedAt": "2026-09-08T00:33:28.619Z"
+    },
+    {
+      "question": "Quel animal mammifère pond des œufs ?",
+      "options": [
+        "Ornithorynque",
+        "Dauphin",
+        "Chauve-souris",
+        "Girafe"
+      ],
+      "correctAnswer": 0,
+      "category": "Nature",
+      "id": "q_1788827608619_8_3esb8w",
+      "addedAt": "2026-09-08T00:33:28.619Z"
+    },
+    {
+      "question": "Quel événement sportif international se dispute tous les quatre ans depuis 1896 ?",
+      "options": [
+        "Coupe du Monde de football",
+        "Jeux Olympiques",
+        "Tour de France",
+        "Wimbledon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1788827608619_9_x0knvx",
+      "addedAt": "2026-09-08T00:33:28.619Z"
+    },
+    {
       "question": "Quel sport olympique se pratique sur des pistes de glace avec des pierres ?",
       "options": [
         "Le bobsleigh",
@@ -3899,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1787534290022_1_td7idr",
       "addedAt": "2026-08-24T01:18:10.022Z"
-    },
+    }
+  ],
+  "version": 429,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-08T00:33:28.619Z",
+  "archivedQuestions": [
     {
       "question": "Quel compositeur allemand a écrit 'La Marche de Radetzky' ?",
       "options": [
@@ -4029,141 +4164,6 @@
       "category": "Art",
       "id": "q_1787534290022_11_8b5c29",
       "addedAt": "2026-08-24T01:18:10.022Z"
-    }
-  ],
-  "version": 428,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-07T03:18:05.098Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel gaz noble est utilisé dans les enseignes lumineuses ?",
-      "options": [
-        "Hélium",
-        "Argon",
-        "Néon",
-        "Xénon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1787534290022_12_9ia9cn",
-      "addedAt": "2026-08-24T01:18:10.022Z"
-    },
-    {
-      "question": "Quel océan est le plus profond du monde ?",
-      "options": [
-        "Océan Atlantique",
-        "Océan Pacifique",
-        "Océan Indien",
-        "Océan Arctique"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1787530503577_0_dymtgl",
-      "addedAt": "2026-08-24T00:15:03.577Z"
-    },
-    {
-      "question": "Quel musée parisien abrite la Joconde ?",
-      "options": [
-        "Musée d'Orsay",
-        "Louvre",
-        "Pompidou",
-        "Rodin"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1787530503577_1_23o00u",
-      "addedAt": "2026-08-24T00:15:03.577Z"
-    },
-    {
-      "question": "Quel est le plus grand récif corallien du monde ?",
-      "options": [
-        "Récif de Belize",
-        "Grande Barrière de corail",
-        "Récif des Maldives",
-        "Récif de Palau"
-      ],
-      "correctAnswer": 1,
-      "category": "Nature",
-      "id": "q_1787530503577_2_tb7bkh",
-      "addedAt": "2026-08-24T00:15:03.577Z"
-    },
-    {
-      "question": "Quel cinéaste a réalisé 'Pulp Fiction' en 1994 ?",
-      "options": [
-        "Martin Scorsese",
-        "Quentin Tarantino",
-        "David Fincher",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1787530503577_3_mi9aoc",
-      "addedAt": "2026-08-24T00:15:03.577Z"
-    },
-    {
-      "question": "Quel fruit tropical est connu pour être riche en potassium ?",
-      "options": [
-        "Mangue",
-        "Papaye",
-        "Banane",
-        "Ananas"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1787530503577_4_pcfo33",
-      "addedAt": "2026-08-24T00:15:03.577Z"
-    },
-    {
-      "question": "Combien de faces a un dodécaèdre régulier ?",
-      "options": [
-        "8 faces",
-        "10 faces",
-        "12 faces",
-        "20 faces"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1787530503577_5_d44js0",
-      "addedAt": "2026-08-24T00:15:03.577Z"
-    },
-    {
-      "question": "Quel navigateur français a découvert le Canada au XVIe siècle ?",
-      "options": [
-        "Christophe Colomb",
-        "Jacques Cartier",
-        "Samuel de Champlain",
-        "Jean Cabot"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1787530503577_6_w3jwbb",
-      "addedAt": "2026-08-24T00:15:03.577Z"
-    },
-    {
-      "question": "Quel langage de balisage est utilisé pour créer des pages web ?",
-      "options": [
-        "CSS",
-        "HTML",
-        "JavaScript",
-        "Python"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1787530503577_7_ka6u66",
-      "addedAt": "2026-08-24T00:15:03.577Z"
-    },
-    {
-      "question": "Quel continent est le plus froid de la Terre ?",
-      "options": [
-        "Arctique",
-        "Antarctique",
-        "Groenland",
-        "Sibérie"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1787530503577_8_505xf4",
-      "addedAt": "2026-08-24T00:15:03.577Z"
     }
   ],
   "poolSize": 310
