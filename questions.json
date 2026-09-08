@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus petit os du corps humain ?",
+      "options": [
+        "L'étrier",
+        "Le marteau",
+        "L'enclume",
+        "La rotule"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1788837924446_0_9fduxs",
+      "addedAt": "2026-09-08T03:25:24.446Z"
+    },
+    {
+      "question": "Quel écrivain britannique a créé les aventures de Sherlock Holmes ?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Oscar Wilde",
+        "Charles Dickens"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1788837924446_1_z8yaum",
+      "addedAt": "2026-09-08T03:25:24.446Z"
+    },
+    {
+      "question": "Quel sport olympique combine le ski et le tir à la carabine ?",
+      "options": [
+        "Le curling",
+        "Le biathlon",
+        "Le pentathlon",
+        "Le triathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1788837924446_2_wmaerk",
+      "addedAt": "2026-09-08T03:25:24.446Z"
+    },
+    {
+      "question": "Quel peintre néerlandais a coupé une partie de son oreille ?",
+      "options": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Vincent van Gogh",
+        "Hieronymus Bosch"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1788837924446_3_0tb0gf",
+      "addedAt": "2026-09-08T03:25:24.446Z"
+    },
+    {
+      "question": "Qui a découvert la pénicilline accidentellement en 1928 ?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Marie Curie",
+        "Joseph Lister"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1788837924446_4_dm1ztv",
+      "addedAt": "2026-09-08T03:25:24.446Z"
+    },
+    {
+      "question": "En quelle année l'imprimerie a-t-elle été inventée par Gutenberg ?",
+      "options": [
+        "1420",
+        "1440",
+        "1460",
+        "1480"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1788837924446_5_yxozj3",
+      "addedAt": "2026-09-08T03:25:24.446Z"
+    },
+    {
+      "question": "Quel style musical a été créé à la Nouvelle-Orléans au début du XXe siècle ?",
+      "options": [
+        "Le blues",
+        "Le jazz",
+        "Le rock",
+        "Le reggae"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1788837924446_6_m64bfs",
+      "addedAt": "2026-09-08T03:25:24.446Z"
+    },
+    {
+      "question": "Quel réalisateur a mis en scène la trilogie 'Le Seigneur des Anneaux' ?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Peter Jackson",
+        "James Cameron"
+      ],
+      "correctAnswer": 2,
+      "category": "Cinéma",
+      "id": "q_1788837924446_7_kyx7vo",
+      "addedAt": "2026-09-08T03:25:24.446Z"
+    },
+    {
+      "question": "Quel élément chimique est essentiel à la photosynthèse des plantes ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "Le potassium"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1788837924446_8_496q4v",
+      "addedAt": "2026-09-08T03:25:24.446Z"
+    },
+    {
+      "question": "Quel phénomène météorologique est mesuré sur l'échelle de Beaufort ?",
+      "options": [
+        "La température",
+        "Le vent",
+        "La pression atmosphérique",
+        "L'humidité"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1788837924446_9_pxh7qc",
+      "addedAt": "2026-09-08T03:25:24.446Z"
+    },
+    {
+      "question": "Quel type de cuisine est caractérisé par l'utilisation du five spice et de la sauce soja ?",
+      "options": [
+        "La cuisine thaï",
+        "La cuisine indienne",
+        "La cuisine chinoise",
+        "La cuisine vietnamienne"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1788837924446_10_l4je4z",
+      "addedAt": "2026-09-08T03:25:24.446Z"
+    },
+    {
       "question": "Quel scientifique a découvert la pénicilline en 1928 ?",
       "options": [
         "Marie Curie",
@@ -3886,7 +4029,12 @@
       "category": "Histoire",
       "id": "q_1787617488964_0_nnz1wb",
       "addedAt": "2026-08-25T00:24:48.964Z"
-    },
+    }
+  ],
+  "version": 430,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-08T03:25:24.447Z",
+  "archivedQuestions": [
     {
       "question": "Quel gaz est principalement responsable de l'effet de serre ?",
       "options": [
@@ -4028,141 +4176,6 @@
       "correctAnswer": 1,
       "category": "Histoire",
       "id": "q_1787534290022_1_td7idr",
-      "addedAt": "2026-08-24T01:18:10.022Z"
-    }
-  ],
-  "version": 429,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-08T00:33:28.619Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel compositeur allemand a écrit 'La Marche de Radetzky' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Johann Strauss Sr.",
-        "Ludwig van Beethoven",
-        "Georg Friedrich Haendel"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1787534290022_2_xg705w",
-      "addedAt": "2026-08-24T01:18:10.022Z"
-    },
-    {
-      "question": "En quel année la Déclaration des Droits de l'Homme a-t-elle été adoptée en France ?",
-      "options": [
-        "1789",
-        "1791",
-        "1793",
-        "1795"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1787534290022_3_4wkibl",
-      "addedAt": "2026-08-24T01:18:10.022Z"
-    },
-    {
-      "question": "Quel réalisateur britannique est connu pour ses films de science-fiction dystopique ?",
-      "options": [
-        "Stanley Kubrick",
-        "David Fincher",
-        "Denis Villeneuve",
-        "Christopher Nolan"
-      ],
-      "correctAnswer": 0,
-      "category": "Cinéma",
-      "id": "q_1787534290022_4_ewxssd",
-      "addedAt": "2026-08-24T01:18:10.022Z"
-    },
-    {
-      "question": "Quel type de cellule sanguine est responsable de l'immunité ?",
-      "options": [
-        "Hématies",
-        "Lymphocytes",
-        "Plaquettes",
-        "Érythrocytes"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787534290022_5_72f36r",
-      "addedAt": "2026-08-24T01:18:10.022Z"
-    },
-    {
-      "question": "Quel animal terrestre possède la plus longue langue en proportion de son corps ?",
-      "options": [
-        "Girafe",
-        "Fourmilier",
-        "Caméléon",
-        "Okapi"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1787534290022_6_aqo00m",
-      "addedAt": "2026-08-24T01:18:10.022Z"
-    },
-    {
-      "question": "En quel année le tunnel sous la Manche a-t-il été ouvert au trafic ?",
-      "options": [
-        "1992",
-        "1994",
-        "1996",
-        "1998"
-      ],
-      "correctAnswer": 1,
-      "category": "Technologie",
-      "id": "q_1787534290022_7_mtrpz5",
-      "addedAt": "2026-08-24T01:18:10.022Z"
-    },
-    {
-      "question": "Quel jus de fruit fermenté est traditionnellement consommé comme boisson en Normandie ?",
-      "options": [
-        "Jus de poire",
-        "Jus de raisin",
-        "Jus de pomme",
-        "Jus de prune"
-      ],
-      "correctAnswer": 2,
-      "category": "Gastronomie",
-      "id": "q_1787534290022_8_l7u40k",
-      "addedAt": "2026-08-24T01:18:10.022Z"
-    },
-    {
-      "question": "Quel mathématicien grec antique a énoncé le théorème sur les triangles rectangles ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Archimède",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1787534290022_9_ooxkhy",
-      "addedAt": "2026-08-24T01:18:10.022Z"
-    },
-    {
-      "question": "Quel sport olympique combine le tir à l'arc et la course à pied ?",
-      "options": [
-        "Pentathlon moderne",
-        "Biathlon",
-        "Triathlon",
-        "Décathlon"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1787534290022_10_eecbr0",
-      "addedAt": "2026-08-24T01:18:10.022Z"
-    },
-    {
-      "question": "Quel mouvement artistique du 20ème siècle a privilégié l'abstraction et les formes géométriques ?",
-      "options": [
-        "Cubisme",
-        "Dadaïsme",
-        "Expressionnisme",
-        "Constructivisme"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1787534290022_11_8b5c29",
       "addedAt": "2026-08-24T01:18:10.022Z"
     }
   ],
