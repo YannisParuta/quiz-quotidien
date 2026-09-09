@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel peintre espagnol est connu pour ses montres molles ?",
+      "options": [
+        "Pablo Picasso",
+        "Joan Miró",
+        "Salvador Dalí",
+        "Antonio Gaudí"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1788924541390_0_0ap6k5",
+      "addedAt": "2026-09-09T03:29:01.390Z"
+    },
+    {
+      "question": "Combien de côtés possède un hexagone régulier ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1788924541390_1_vpn8ts",
+      "addedAt": "2026-09-09T03:29:01.390Z"
+    },
+    {
+      "question": "Quel est le plus grand désert d'Afrique du Nord ?",
+      "options": [
+        "Désert du Sahara",
+        "Désert de Kalahari",
+        "Désert du Namib",
+        "Désert du Négev"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1788924541390_2_4oncgx",
+      "addedAt": "2026-09-09T03:29:01.390Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit 'Une petite musique de nuit' ?",
+      "options": [
+        "Franz Schubert",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Strauss"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1788924541390_3_zjincs",
+      "addedAt": "2026-09-09T03:29:01.390Z"
+    },
+    {
+      "question": "Quel réalisateur britannique a créé la saga 'Harry Potter' ?",
+      "options": [
+        "Christopher Nolan",
+        "David Yates",
+        "Alfonso Cuarón",
+        "Mike Newell"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1788924541390_4_6kpild",
+      "addedAt": "2026-09-09T03:29:01.390Z"
+    },
+    {
+      "question": "Quel type de protéine transporte l'oxygène dans le sang ?",
+      "options": [
+        "L'hémoglobine",
+        "L'insuline",
+        "L'amylase",
+        "La glycine"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1788924541390_5_wx8ncc",
+      "addedAt": "2026-09-09T03:29:01.390Z"
+    },
+    {
+      "question": "En quel pays se trouve la Sagrada Familia ?",
+      "options": [
+        "Portugal",
+        "Italie",
+        "Espagne",
+        "France"
+      ],
+      "correctAnswer": 2,
+      "category": "Culture",
+      "id": "q_1788924541390_6_k8eple",
+      "addedAt": "2026-09-09T03:29:01.390Z"
+    },
+    {
+      "question": "Quel animal est le plus rapide sur terre ?",
+      "options": [
+        "Le lion",
+        "Le guépard",
+        "L'antilope",
+        "Le cheval"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1788924541390_7_awmsjy",
+      "addedAt": "2026-09-09T03:29:01.390Z"
+    },
+    {
+      "question": "Quel sport olympique combine le tir et la course à pied ?",
+      "options": [
+        "Le pentathlon moderne",
+        "Le biathlon",
+        "Le triathlon",
+        "Le décathlon"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1788924541390_8_ze39mb",
+      "addedAt": "2026-09-09T03:29:01.390Z"
+    },
+    {
+      "question": "Quel fromage français est produit en Normandie et est connu pour son odeur forte ?",
+      "options": [
+        "Camembert",
+        "Époisses",
+        "Roquefort",
+        "Comté"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1788924541390_9_u01p0h",
+      "addedAt": "2026-09-09T03:29:01.390Z"
+    },
+    {
+      "question": "Quel système d'exploitation a été développé par Linus Torvalds ?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1788924541390_10_6cgb50",
+      "addedAt": "2026-09-09T03:29:01.390Z"
+    },
+    {
       "question": "Quel océan est le plus profond du monde ?",
       "options": [
         "Océan Atlantique",
@@ -3886,7 +4029,12 @@
       "category": "Sport",
       "id": "q_1787705551661_3_vfbo8t",
       "addedAt": "2026-08-26T00:52:31.661Z"
-    },
+    }
+  ],
+  "version": 432,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-09T03:29:01.391Z",
+  "archivedQuestions": [
     {
       "question": "Quel artiste français est célèbre pour ses nymphéas peints à plusieurs reprises ?",
       "options": [
@@ -4029,128 +4177,6 @@
       "category": "Science",
       "id": "q_1787620582024_1_a1wz7c",
       "addedAt": "2026-08-25T01:16:22.024Z"
-    }
-  ],
-  "version": 431,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-09T00:33:31.662Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel animal terrestre court le plus vite ?",
-      "options": [
-        "Lion",
-        "Antilope",
-        "Guépard",
-        "Cheval de course"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1787620582024_2_zxwz85",
-      "addedAt": "2026-08-25T01:16:22.024Z"
-    },
-    {
-      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
-      "options": [
-        "1965",
-        "1969",
-        "1972",
-        "1975"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787620582024_3_qcaxrk",
-      "addedAt": "2026-08-25T01:16:22.024Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit la 'Symphonie n°9 en ré mineur' ?",
-      "options": [
-        "Johann Sebastian Bach",
-        "Ludwig van Beethoven",
-        "Wolfgang Amadeus Mozart",
-        "Johannes Brahms"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1787620582024_4_jybrcs",
-      "addedAt": "2026-08-25T01:16:22.024Z"
-    },
-    {
-      "question": "Quel processus chimique transforme les raisins en vin ?",
-      "options": [
-        "Oxydation",
-        "Fermentation",
-        "Distillation",
-        "Cristallisation"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1787620582024_5_n13cmi",
-      "addedAt": "2026-08-25T01:16:22.024Z"
-    },
-    {
-      "question": "Quel empire a construit la Grande Muraille de Chine ?",
-      "options": [
-        "Dynastie Ming",
-        "Dynastie Qin",
-        "Dynastie Tang",
-        "Dynastie Han"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1787620582024_6_c9vpek",
-      "addedAt": "2026-08-25T01:16:22.024Z"
-    },
-    {
-      "question": "Quel réalisateur italien a créé le film 'La Dolce Vita' ?",
-      "options": [
-        "Sergio Leone",
-        "Federico Fellini",
-        "Vittorio De Sica",
-        "Michelangelo Antonioni"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1787620582024_7_nlzvbu",
-      "addedAt": "2026-08-25T01:16:22.024Z"
-    },
-    {
-      "question": "Combien de chromosomes possède un être humain normal ?",
-      "options": [
-        "23",
-        "46",
-        "92",
-        "64"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787620582024_8_4f2ybl",
-      "addedAt": "2026-08-25T01:16:22.024Z"
-    },
-    {
-      "question": "Quel mouvement artistique du XXe siècle était basé sur l'expression émotionnelle pure ?",
-      "options": [
-        "Cubisme",
-        "Expressionnisme abstrait",
-        "Futurisme",
-        "Dadaïsme"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1787620582024_9_6pjlzo",
-      "addedAt": "2026-08-25T01:16:22.024Z"
-    },
-    {
-      "question": "En quel siècle la Renaissance italienne a-t-elle commencé ?",
-      "options": [
-        "XIIIe siècle",
-        "XIVe siècle",
-        "XVIe siècle",
-        "XVIIe siècle"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1787617488964_0_nnz1wb",
-      "addedAt": "2026-08-25T00:24:48.964Z"
     }
   ],
   "poolSize": 310
