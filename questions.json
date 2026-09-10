@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain russe a écrit le roman 'Crime et Châtiment' ?",
+      "options": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Anton Tchekhov",
+        "Ivan Tourgueniev"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1789010804783_0_1xlaao",
+      "addedAt": "2026-09-10T03:26:44.783Z"
+    },
+    {
+      "question": "En quel année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1967",
+        "1969",
+        "1971",
+        "1965"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1789010804783_1_7cwpyz",
+      "addedAt": "2026-09-10T03:26:44.783Z"
+    },
+    {
+      "question": "Quel peintre impressionniste français a coupé une partie de son oreille ?",
+      "options": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Vincent van Gogh",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 2,
+      "category": "Art",
+      "id": "q_1789010804783_2_kvco0a",
+      "addedAt": "2026-09-10T03:26:44.783Z"
+    },
+    {
+      "question": "Quel est le plus long fleuve d'Afrique ?",
+      "options": [
+        "Le Congo",
+        "Le Nil",
+        "Le Niger",
+        "Le Zambèze"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1789010804783_3_1ops31",
+      "addedAt": "2026-09-10T03:26:44.783Z"
+    },
+    {
+      "question": "Quel instrument de musique à cordes est traditionnellement utilisé en Espagne pour jouer du flamenco ?",
+      "options": [
+        "La mandoline",
+        "La guitare",
+        "La harpe",
+        "Le luth"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1789010804783_4_gg0bqn",
+      "addedAt": "2026-09-10T03:26:44.783Z"
+    },
+    {
+      "question": "Quel scientifique français a développé le vaccin antirabique ?",
+      "options": [
+        "Claude Bernard",
+        "Louis Pasteur",
+        "Marie Curie",
+        "Jean-Baptiste Lamarck"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1789010804783_5_9cap81",
+      "addedAt": "2026-09-10T03:26:44.783Z"
+    },
+    {
+      "question": "Quel gâteau français traditionnel est composé de choux à la crème disposés en pyramide ?",
+      "options": [
+        "Le mille-feuille",
+        "Le Paris-Brest",
+        "Le croquembouche",
+        "L'éclair"
+      ],
+      "correctAnswer": 2,
+      "category": "Gastronomie",
+      "id": "q_1789010804783_6_7i1wjo",
+      "addedAt": "2026-09-10T03:26:44.783Z"
+    },
+    {
+      "question": "Quel empire romain s'est effondré en 476 après J.-C. ?",
+      "options": [
+        "L'Empire romain d'Orient",
+        "L'Empire romain d'Occident",
+        "L'Empire byzantin",
+        "L'Empire perse"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1789010804783_7_7hlo4x",
+      "addedAt": "2026-09-10T03:26:44.783Z"
+    },
+    {
+      "question": "Quel mathématicien suisse a résolu le problème des sept ponts de Königsberg ?",
+      "options": [
+        "Carl Friedrich Gauss",
+        "Leonhard Euler",
+        "Jakob Bernoulli",
+        "Joseph-Louis Lagrange"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1789010804783_8_kicqsb",
+      "addedAt": "2026-09-10T03:26:44.783Z"
+    },
+    {
+      "question": "Quel film de science-fiction réalisé par James Cameron est sorti en 1984 ?",
+      "options": [
+        "Alien",
+        "The Terminator",
+        "Predator",
+        "Robocop"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1789010804783_9_y6i0xc",
+      "addedAt": "2026-09-10T03:26:44.783Z"
+    },
+    {
+      "question": "Quel animal est considéré comme le plus rapide sur terre ?",
+      "options": [
+        "La gazelle",
+        "Le guépard",
+        "L'autruche",
+        "L'antilope"
+      ],
+      "correctAnswer": 1,
+      "category": "Nature",
+      "id": "q_1789010804783_10_eh2692",
+      "addedAt": "2026-09-10T03:26:44.783Z"
+    },
+    {
       "question": "Quel physicien indien a remporté le prix Nobel de physique en 1930 pour sa découverte de la diffusion de la lumière ?",
       "options": [
         "Satyendra Nath Bose",
@@ -3886,7 +4029,12 @@
       "category": "Gastronomie",
       "id": "q_1787790809877_12_240yto",
       "addedAt": "2026-08-27T00:33:29.877Z"
-    },
+    }
+  ],
+  "version": 434,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-10T03:26:44.784Z",
+  "archivedQuestions": [
     {
       "question": "Quel architecte a conçu le Musée Guggenheim de New York ?",
       "options": [
@@ -4029,193 +4177,6 @@
       "category": "Littérature",
       "id": "q_1787707150613_2_jpdkq5",
       "addedAt": "2026-08-26T01:19:10.613Z"
-    }
-  ],
-  "version": 433,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-10T00:33:33.609Z",
-  "archivedQuestions": [
-    {
-      "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
-      "options": [
-        "Auckland",
-        "Wellington",
-        "Christchurch",
-        "Queenstown"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1787707150613_3_sbhlv3",
-      "addedAt": "2026-08-26T01:19:10.613Z"
-    },
-    {
-      "question": "Quel athlète jamaïcain détient le record du monde du 100 mètres ?",
-      "options": [
-        "Yohan Blake",
-        "Usain Bolt",
-        "Asafa Powell",
-        "Nesta Carter"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1787707150613_4_2ey7rh",
-      "addedAt": "2026-08-26T01:19:10.613Z"
-    },
-    {
-      "question": "En chimie, qu'est-ce qu'un isomère ?",
-      "options": [
-        "Une molécule avec plus d'atomes que les autres",
-        "Des composés ayant la même formule chimique mais des structures différentes",
-        "Un atome instable",
-        "Une réaction chimique rapide"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787707150613_5_5g6sru",
-      "addedAt": "2026-08-26T01:19:10.613Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit la Symphonie n°9 avec l'Ode à la Joie ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Johann Strauss",
-        "Richard Wagner"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1787707150613_6_8eop95",
-      "addedAt": "2026-08-26T01:19:10.613Z"
-    },
-    {
-      "question": "Quel mouvement littéraire s'oppose au naturalisme au XIXe siècle ?",
-      "options": [
-        "Le réalisme",
-        "Le symbolisme",
-        "Le classicisme",
-        "Le romantisme"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1787707150613_7_xm2966",
-      "addedAt": "2026-08-26T01:19:10.613Z"
-    },
-    {
-      "question": "Quel type d'organisme est un mycète ?",
-      "options": [
-        "Une bactérie",
-        "Un champignon",
-        "Une algue",
-        "Un virus"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787707150613_8_2upq3a",
-      "addedAt": "2026-08-26T01:19:10.613Z"
-    },
-    {
-      "question": "Quel architecte français a conçu le Centre Pompidou à Paris ?",
-      "options": [
-        "Le Corbusier",
-        "Renzo Piano et Richard Rogers",
-        "Norman Foster",
-        "Jean Nouvel"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1787707150613_9_gtkuwh",
-      "addedAt": "2026-08-26T01:19:10.613Z"
-    },
-    {
-      "question": "En quelle année la Grande Muraille de Chine a-t-elle été complétée ?",
-      "options": [
-        "1368",
-        "1644",
-        "1850",
-        "Elle n'a jamais été entièrement complétée"
-      ],
-      "correctAnswer": 3,
-      "category": "Histoire",
-      "id": "q_1787707150613_10_da9w5m",
-      "addedAt": "2026-08-26T01:19:10.613Z"
-    },
-    {
-      "question": "Quel système musical définit les notes par leurs rapports de fréquence acoustique ?",
-      "options": [
-        "La gamme pentatonique",
-        "La musique atonale",
-        "Le tempérament égal",
-        "La tonalité dodécaphonique"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1787707150613_11_hq5qhf",
-      "addedAt": "2026-08-26T01:19:10.613Z"
-    },
-    {
-      "question": "Quel est le plus grand satellite naturel de Jupiter ?",
-      "options": [
-        "Europe",
-        "Ganymède",
-        "Io",
-        "Callisto"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787707150613_12_dfk4j5",
-      "addedAt": "2026-08-26T01:19:10.613Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet du continent africain ?",
-      "options": [
-        "Mont Kenya",
-        "Kilimandjaro",
-        "Mont Stanley",
-        "Pic de Ras Dashen"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1787705551661_0_vl2cqs",
-      "addedAt": "2026-08-26T00:52:31.661Z"
-    },
-    {
-      "question": "En quelle année l'homme a-t-il marché pour la première fois sur la Lune ?",
-      "options": [
-        "1965",
-        "1969",
-        "1971",
-        "1973"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1787705551661_1_blmwl1",
-      "addedAt": "2026-08-26T00:52:31.661Z"
-    },
-    {
-      "question": "Quel gaz est le plus abondant dans l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Azote",
-        "Hélium"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1787705551661_2_ai7jmt",
-      "addedAt": "2026-08-26T00:52:31.661Z"
-    },
-    {
-      "question": "Combien de joueurs composent une équipe de volley-ball sur le terrain ?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1787705551661_3_vfbo8t",
-      "addedAt": "2026-08-26T00:52:31.661Z"
     }
   ],
   "poolSize": 310
