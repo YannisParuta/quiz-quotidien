@@ -1,6 +1,188 @@
 {
   "questions": [
     {
+      "question": "Quel physicien indien a remporté le prix Nobel de physique en 1930 pour sa découverte de la diffusion de la lumière ?",
+      "options": [
+        "Satyendra Nath Bose",
+        "Chandrasekhara Venkata Raman",
+        "Homi Jahangir Bhabha",
+        "Vikram Sarabhai"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1789000413608_0_lvtx75",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "En quel siècle l'imprimerie a-t-elle été inventée en Europe par Gutenberg ?",
+      "options": [
+        "XIe siècle",
+        "XIIe siècle",
+        "XVe siècle",
+        "XVIe siècle"
+      ],
+      "correctAnswer": 2,
+      "category": "Histoire",
+      "id": "q_1789000413608_1_3ioa5q",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "Quel écrivain belge francophone a créé le personnage du détective Tintin ?",
+      "options": [
+        "Amélie Nothomb",
+        "Hergé",
+        "François Schuiten",
+        "Toile Meunier"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1789000413608_2_1s0gvp",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "Quel désert africain est le plus grand désert chaud du monde ?",
+      "options": [
+        "Le désert du Kalahari",
+        "Le désert du Sahara",
+        "Le désert de Namibie",
+        "Le désert libyen"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1789000413608_3_tx2uy5",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "Combien de cordes possède une harpe celtique traditionnelle ?",
+      "options": [
+        "12 cordes",
+        "22 cordes",
+        "32 cordes",
+        "42 cordes"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1789000413608_4_yyi2ew",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "Quel mathématicien suisse a introduit la notation f(x) pour les fonctions ?",
+      "options": [
+        "Isaac Newton",
+        "Leonhard Euler",
+        "Jacob Bernoulli",
+        "Jean-Baptiste le Rond d'Alembert"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1789000413608_5_gd112g",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "Quel type de cuisine italienne est originaire de la région de Basilicate ?",
+      "options": [
+        "La cuisine toscane",
+        "La cuisine lucane",
+        "La cuisine piémontaise",
+        "La cuisine sicilienne"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1789000413608_6_ejrpe5",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "En quel siècle la Renaissance italienne a-t-elle principalement eu lieu ?",
+      "options": [
+        "XIIIe siècle",
+        "XIVe-XVIe siècles",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1789000413608_7_ou6nds",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "Quel scientifique français a découvert la radioactivité naturelle ?",
+      "options": [
+        "Marie Curie",
+        "Henri Becquerel",
+        "Pierre Curie",
+        "Antoine Lavoisier"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1789000413608_8_fxvpdy",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "Quel est le plus grand fleuve d'Asie du Sud-Est ?",
+      "options": [
+        "Le Yangtsé",
+        "Le Mékong",
+        "L'Irrawaddy",
+        "Le Brahmapoutre"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1789000413608_9_3iwiv8",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "En quel siècle le haïku a-t-il été formalisé comme poème japonais ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1789000413608_10_ichd11",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "Quel athlète français a remporté les Jeux Olympiques en decathlon en 2012 ?",
+      "options": [
+        "Christophe Lemaitre",
+        "Gilles Dorval",
+        "Kévin Mayer",
+        "Jean-Pierre Elong Mbassi"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1789000413608_11_pte5cs",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "Quel navigateur portugais a été le premier à contourner le cap de Bonne-Espérance ?",
+      "options": [
+        "Christophe Colomb",
+        "Bartolomeu Dias",
+        "Vasco de Gama",
+        "Ferdinand Magellan"
+      ],
+      "correctAnswer": 1,
+      "category": "Histoire",
+      "id": "q_1789000413608_12_mit33j",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
+      "question": "Quel métal précieux est extrait principalement en Afrique du Sud et en Russie ?",
+      "options": [
+        "L'argent",
+        "Le palladium",
+        "L'or",
+        "Le platine"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1789000413608_13_lgumeq",
+      "addedAt": "2026-09-10T00:33:33.608Z"
+    },
+    {
       "question": "Quel peintre espagnol est connu pour ses montres molles ?",
       "options": [
         "Pablo Picasso",
@@ -3847,7 +4029,12 @@
       "category": "Littérature",
       "id": "q_1787707150613_2_jpdkq5",
       "addedAt": "2026-08-26T01:19:10.613Z"
-    },
+    }
+  ],
+  "version": 433,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-10T00:33:33.609Z",
+  "archivedQuestions": [
     {
       "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
       "options": [
@@ -4029,154 +4216,6 @@
       "category": "Sport",
       "id": "q_1787705551661_3_vfbo8t",
       "addedAt": "2026-08-26T00:52:31.661Z"
-    }
-  ],
-  "version": 432,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-09T03:29:01.391Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel artiste français est célèbre pour ses nymphéas peints à plusieurs reprises ?",
-      "options": [
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Paul Cézanne",
-        "Henri Matisse"
-      ],
-      "correctAnswer": 0,
-      "category": "Art",
-      "id": "q_1787705551661_4_42psd7",
-      "addedAt": "2026-08-26T00:52:31.661Z"
-    },
-    {
-      "question": "Quel insecte produit du miel en collectant le nectar des fleurs ?",
-      "options": [
-        "Papillon",
-        "Fourmi",
-        "Abeille",
-        "Libellule"
-      ],
-      "correctAnswer": 2,
-      "category": "Nature",
-      "id": "q_1787705551661_5_ff7lax",
-      "addedAt": "2026-08-26T00:52:31.661Z"
-    },
-    {
-      "question": "Quel mathématicien suisse a résolu le problème des sept ponts de Königsberg ?",
-      "options": [
-        "Leonhard Euler",
-        "Carl Friedrich Gauss",
-        "Pierre-Simon Laplace",
-        "Niels Abel"
-      ],
-      "correctAnswer": 0,
-      "category": "Mathématiques",
-      "id": "q_1787705551661_6_voiq8r",
-      "addedAt": "2026-08-26T00:52:31.661Z"
-    },
-    {
-      "question": "Quel instrument à vent est le plus grave de la famille des bois ?",
-      "options": [
-        "Clarinette",
-        "Hautbois",
-        "Basson",
-        "Flûte"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1787705551661_7_of3n16",
-      "addedAt": "2026-08-26T00:52:31.661Z"
-    },
-    {
-      "question": "Quel film animé Pixar raconte l'histoire d'une boîte de jouets ?",
-      "options": [
-        "Monstres & Cie",
-        "Toy Story",
-        "Vice-Versa",
-        "Raiponce"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1787705551661_8_0q3r7q",
-      "addedAt": "2026-08-26T00:52:31.661Z"
-    },
-    {
-      "question": "Quel fruit est traditionnellement utilisé pour préparer la marmelade en Écosse ?",
-      "options": [
-        "Cerise",
-        "Orange amère",
-        "Fraise",
-        "Prune"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1787705551661_9_b72fcs",
-      "addedAt": "2026-08-26T00:52:31.661Z"
-    },
-    {
-      "question": "Quel traité a officialisé la fin de la Première Guerre mondiale ?",
-      "options": [
-        "Traité de Versailles",
-        "Traité de Paris",
-        "Traité de Brest-Litovsk",
-        "Traité de Locarno"
-      ],
-      "correctAnswer": 0,
-      "category": "Histoire",
-      "id": "q_1787705551661_10_sakhko",
-      "addedAt": "2026-08-26T00:52:31.661Z"
-    },
-    {
-      "question": "Quel élément chimique porte le symbole Fe ?",
-      "options": [
-        "Fluor",
-        "Fer",
-        "Francium",
-        "Fermium"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787705551661_11_njg7yv",
-      "addedAt": "2026-08-26T00:52:31.661Z"
-    },
-    {
-      "question": "Quel désert est le plus grand du monde ?",
-      "options": [
-        "Désert du Sahara",
-        "Désert de Gobi",
-        "Désert d'Arabie",
-        "Désert de Kalahari"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1787705551661_12_6lowow",
-      "addedAt": "2026-08-26T00:52:31.661Z"
-    },
-    {
-      "question": "Quel mathématicien grec ancien a énoncé le théorème célèbre sur les triangles rectangles ?",
-      "options": [
-        "Archimède",
-        "Pythagore",
-        "Euclide",
-        "Thalès"
-      ],
-      "correctAnswer": 1,
-      "category": "Mathématiques",
-      "id": "q_1787620582024_0_w3z44d",
-      "addedAt": "2026-08-25T01:16:22.024Z"
-    },
-    {
-      "question": "Quel gaz est le plus abundant dans l'atmosphère terrestre ?",
-      "options": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Azote",
-        "Argon"
-      ],
-      "correctAnswer": 2,
-      "category": "Science",
-      "id": "q_1787620582024_1_a1wz7c",
-      "addedAt": "2026-08-25T01:16:22.024Z"
     }
   ],
   "poolSize": 310
