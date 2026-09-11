@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel écrivain français a écrit 'Les Misérables' au 19e siècle ?",
+      "options": [
+        "Alexandre Dumas",
+        "Victor Hugo",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1789086812095_0_7150um",
+      "addedAt": "2026-09-11T00:33:32.095Z"
+    },
+    {
+      "question": "Quel gaz est le plus abondant dans l'atmosphère terrestre ?",
+      "options": [
+        "L'oxygène",
+        "Le dioxyde de carbone",
+        "L'azote",
+        "L'hydrogène"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1789086812095_1_ypimsm",
+      "addedAt": "2026-09-11T00:33:32.095Z"
+    },
+    {
+      "question": "Quel instrument de musique possède 88 touches ?",
+      "options": [
+        "La guitare",
+        "Le violon",
+        "Le piano",
+        "La harpe"
+      ],
+      "correctAnswer": 2,
+      "category": "Musique",
+      "id": "q_1789086812095_2_26c7gw",
+      "addedAt": "2026-09-11T00:33:32.095Z"
+    },
+    {
+      "question": "Quel est le plus grand fleuve d'Amérique du Sud ?",
+      "options": [
+        "Le fleuve Paraná",
+        "Le fleuve Amazone",
+        "Le fleuve Orénoque",
+        "Le fleuve Madeira"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1789086812095_3_7wkmbh",
+      "addedAt": "2026-09-11T00:33:32.095Z"
+    },
+    {
+      "question": "Quel artiste impressionniste français est célèbre pour ses 'Nymphéas' ?",
+      "options": [
+        "Paul Cézanne",
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1789086812095_4_1yym65",
+      "addedAt": "2026-09-11T00:33:32.095Z"
+    },
+    {
+      "question": "Quel royaume animal inclut les créatures comme les papillons et les abeilles ?",
+      "options": [
+        "Les arachnides",
+        "Les crustacés",
+        "Les insectes",
+        "Les mollusques"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1789086812095_5_2ep2k2",
+      "addedAt": "2026-09-11T00:33:32.095Z"
+    },
+    {
+      "question": "Quel chimiste français a découvert la pasteurisation ?",
+      "options": [
+        "Marie Curie",
+        "Louis Pasteur",
+        "Antoine Lavoisier",
+        "André-Marie Ampère"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1789086812095_6_rej1t7",
+      "addedAt": "2026-09-11T00:33:32.095Z"
+    },
+    {
+      "question": "En quel sport professionnel utilise-t-on une raquette et une balle jaune sur un court rectangulaire ?",
+      "options": [
+        "Le badminton",
+        "Le squash",
+        "Le tennis",
+        "Le paddle"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1789086812095_7_k2n6dq",
+      "addedAt": "2026-09-11T00:33:32.095Z"
+    },
+    {
+      "question": "Quel plat italien à base de pâtes et de sauce à la tomate s'appelle 'spaghetti à la...' ?",
+      "options": [
+        "Bolognaise",
+        "Carbonara",
+        "Amatriciana",
+        "Puttanesca"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1789086812095_8_m4o02n",
+      "addedAt": "2026-09-11T00:33:32.095Z"
+    },
+    {
+      "question": "Quel réalisateur allemand a créé le film 'Metropolis' en 1927 ?",
+      "options": [
+        "Fritz Lang",
+        "F.W. Murnau",
+        "Ernst Lubitsch",
+        "Robert Wiene"
+      ],
+      "correctAnswer": 0,
+      "category": "Cinéma",
+      "id": "q_1789086812095_9_l6w3ue",
+      "addedAt": "2026-09-11T00:33:32.095Z"
+    },
+    {
+      "question": "Quel processus biologique convertit la lumière en énergie chimique chez les plantes ?",
+      "options": [
+        "La respiration",
+        "La fermentation",
+        "La photosynthèse",
+        "La transpiration"
+      ],
+      "correctAnswer": 2,
+      "category": "Science",
+      "id": "q_1789086812095_10_2rqilu",
+      "addedAt": "2026-09-11T00:33:32.095Z"
+    },
+    {
+      "question": "Quel système informatique propriétaire a été lancé par Apple en 2001 pour les ordinateurs ?",
+      "options": [
+        "Windows XP",
+        "macOS",
+        "Linux",
+        "Ubuntu"
+      ],
+      "correctAnswer": 1,
+      "category": "Technologie",
+      "id": "q_1789086812095_11_fi5gg6",
+      "addedAt": "2026-09-11T00:33:32.095Z"
+    },
+    {
       "question": "Quel écrivain russe a écrit le roman 'Crime et Châtiment' ?",
       "options": [
         "Léon Tolstoï",
@@ -3873,7 +4029,12 @@
       "category": "Mathématiques",
       "id": "q_1787817305613_3_inj2g8",
       "addedAt": "2026-08-27T07:55:05.613Z"
-    },
+    }
+  ],
+  "version": 435,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-11T00:33:32.096Z",
+  "archivedQuestions": [
     {
       "question": "En quel siècle s'est déroulée la Renaissance italienne ?",
       "options": [
@@ -4029,154 +4190,6 @@
       "category": "Gastronomie",
       "id": "q_1787790809877_12_240yto",
       "addedAt": "2026-08-27T00:33:29.877Z"
-    }
-  ],
-  "version": 434,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-10T03:26:44.784Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel architecte a conçu le Musée Guggenheim de New York ?",
-      "options": [
-        "I.M. Pei",
-        "Frank Lloyd Wright",
-        "Ludwig Mies van der Rohe",
-        "Le Corbusier"
-      ],
-      "correctAnswer": 1,
-      "category": "Architecture",
-      "id": "q_1787790809876_0_dheyjy",
-      "addedAt": "2026-08-27T00:33:29.876Z"
-    },
-    {
-      "question": "En quel siècle la porcelaine a-t-elle été inventée en Chine ?",
-      "options": [
-        "VIe siècle",
-        "VIIe siècle",
-        "VIIIe siècle",
-        "IXe siècle"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1787790809876_1_9fc69k",
-      "addedAt": "2026-08-27T00:33:29.876Z"
-    },
-    {
-      "question": "Quel compositeur autrichien a écrit la célèbre 'Marche des Turcs' ?",
-      "options": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Johann Strauss II",
-        "Franz Joseph Haydn"
-      ],
-      "correctAnswer": 0,
-      "category": "Musique",
-      "id": "q_1787790809876_2_l52xlp",
-      "addedAt": "2026-08-27T00:33:29.876Z"
-    },
-    {
-      "question": "Quel écrivain français a créé le personnage de Sherlock Holmes ?",
-      "options": [
-        "Émile Zola",
-        "Guy de Maupassant",
-        "Arthur Conan Doyle",
-        "Alexandre Dumas"
-      ],
-      "correctAnswer": 2,
-      "category": "Littérature",
-      "id": "q_1787790809876_3_gwrd6e",
-      "addedAt": "2026-08-27T00:33:29.876Z"
-    },
-    {
-      "question": "Quel groupe de montagnes sépare la France de l'Espagne ?",
-      "options": [
-        "Alpes",
-        "Pyrénées",
-        "Carpates",
-        "Apennins"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1787790809876_4_pnn0z8",
-      "addedAt": "2026-08-27T00:33:29.876Z"
-    },
-    {
-      "question": "Quel organisme vivant produit la moisissure qui a permis la création de la pénicilline ?",
-      "options": [
-        "Une bactérie",
-        "Un champignon",
-        "Un virus",
-        "Une algue"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787790809876_5_hvkbnl",
-      "addedAt": "2026-08-27T00:33:29.876Z"
-    },
-    {
-      "question": "Quel réalisateur italien a créé le concept du 'Néoréalisme' au cinéma ?",
-      "options": [
-        "Federico Fellini",
-        "Michelangelo Antonioni",
-        "Vittorio De Sica",
-        "Bernardo Bertolucci"
-      ],
-      "correctAnswer": 2,
-      "category": "Cinéma",
-      "id": "q_1787790809876_6_gnq3dt",
-      "addedAt": "2026-08-27T00:33:29.876Z"
-    },
-    {
-      "question": "Combien de cordes possède un violoncelle ?",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1787790809876_7_2czfue",
-      "addedAt": "2026-08-27T00:33:29.876Z"
-    },
-    {
-      "question": "Quel scientifique britannique a découvert la structure en double hélice de l'ADN ?",
-      "options": [
-        "Linus Pauling",
-        "Francis Crick",
-        "Rosalind Franklin",
-        "James Watson"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787707150613_0_z493ub",
-      "addedAt": "2026-08-26T01:19:10.613Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet des Alpes ?",
-      "options": [
-        "Le Mont-Blanc",
-        "Le Gran Paradiso",
-        "La Bernina",
-        "Le Cervin"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1787707150613_1_h4a0f8",
-      "addedAt": "2026-08-26T01:19:10.613Z"
-    },
-    {
-      "question": "Quel poète français du XIXe siècle a écrit 'Le Corbeau et la Fontaine' ?",
-      "options": [
-        "Jean de La Fontaine",
-        "Charles Baudelaire",
-        "Arthur Rimbaud",
-        "Stéphane Mallarmé"
-      ],
-      "correctAnswer": 1,
-      "category": "Littérature",
-      "id": "q_1787707150613_2_jpdkq5",
-      "addedAt": "2026-08-26T01:19:10.613Z"
     }
   ],
   "poolSize": 310
