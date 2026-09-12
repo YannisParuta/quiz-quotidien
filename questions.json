@@ -1,6 +1,162 @@
 {
   "questions": [
     {
+      "question": "Quel est le plus haut sommet d'Afrique ?",
+      "options": [
+        "Le Kilimandjaro",
+        "Le Mont Kenya",
+        "Le pic de Speke",
+        "Le Mont Stanley"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1789183782157_0_tpc5b4",
+      "addedAt": "2026-09-12T03:29:42.157Z"
+    },
+    {
+      "question": "Quel élément chimique est représenté par le symbole 'Au' ?",
+      "options": [
+        "L'argent",
+        "L'or",
+        "L'aluminium",
+        "L'argon"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1789183782157_1_ko1phc",
+      "addedAt": "2026-09-12T03:29:42.157Z"
+    },
+    {
+      "question": "Quel écrivain américain a écrit 'Le Seigneur des mouches' ?",
+      "options": [
+        "J.R.R. Tolkien",
+        "William Golding",
+        "Ray Bradbury",
+        "Isaac Asimov"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1789183782157_2_nb0hse",
+      "addedAt": "2026-09-12T03:29:42.157Z"
+    },
+    {
+      "question": "Quel est le siège du Parlement européen ?",
+      "options": [
+        "Bruxelles",
+        "Strasbourg",
+        "Luxembourg",
+        "Amsterdam"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1789183782157_3_mdbfoq",
+      "addedAt": "2026-09-12T03:29:42.157Z"
+    },
+    {
+      "question": "Quel artiste a peint la Nuit étoilée ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Henri Matisse",
+        "Wassily Kandinsky"
+      ],
+      "correctAnswer": 1,
+      "category": "Art",
+      "id": "q_1789183782157_4_0eef3d",
+      "addedAt": "2026-09-12T03:29:42.157Z"
+    },
+    {
+      "question": "Quel est le plus grand mammifère terrestre du monde ?",
+      "options": [
+        "L'hippopotame",
+        "La girafe",
+        "L'éléphant d'Afrique",
+        "Le rhinocéros"
+      ],
+      "correctAnswer": 2,
+      "category": "Nature",
+      "id": "q_1789183782157_5_pwzc70",
+      "addedAt": "2026-09-12T03:29:42.157Z"
+    },
+    {
+      "question": "Quel mathématicien français a donné son nom au théorème de Pythagore en Occident, bien qu'il soit antérieur ?",
+      "options": [
+        "Descartes",
+        "Fermat",
+        "Pascal",
+        "Lagrange"
+      ],
+      "correctAnswer": 1,
+      "category": "Mathématiques",
+      "id": "q_1789183782157_6_arkipp",
+      "addedAt": "2026-09-12T03:29:42.157Z"
+    },
+    {
+      "question": "Quel sport est considéré comme le 'roi des sports' en France ?",
+      "options": [
+        "Le tennis",
+        "Le rugby",
+        "Le cyclisme",
+        "L'escrime"
+      ],
+      "correctAnswer": 2,
+      "category": "Sport",
+      "id": "q_1789183782157_7_v5e1st",
+      "addedAt": "2026-09-12T03:29:42.157Z"
+    },
+    {
+      "question": "Quel compositeur autrichien a écrit plus de 600 compositions musicales ?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert",
+        "Joseph Haydn",
+        "Anton Bruckner"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1789183782157_8_uwt7op",
+      "addedAt": "2026-09-12T03:29:42.157Z"
+    },
+    {
+      "question": "Quel cinéaste français a réalisé 'Les Quatre Cents Coups' ?",
+      "options": [
+        "Jean-Luc Godard",
+        "François Truffaut",
+        "Claude Chabrol",
+        "Agnès Varda"
+      ],
+      "correctAnswer": 1,
+      "category": "Cinéma",
+      "id": "q_1789183782157_9_cjfny7",
+      "addedAt": "2026-09-12T03:29:42.157Z"
+    },
+    {
+      "question": "Quel est le langage de programmation le plus utilisé pour développer des applications web côté client ?",
+      "options": [
+        "Java",
+        "C++",
+        "JavaScript",
+        "PHP"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1789183782157_10_85hwrc",
+      "addedAt": "2026-09-12T03:29:42.157Z"
+    },
+    {
+      "question": "Quel plat traditionnel italien est préparé avec du riz, du safran et du fromage ?",
+      "options": [
+        "La pizza",
+        "Le risotto à la milanaise",
+        "La polenta",
+        "Les pâtes alla carbonara"
+      ],
+      "correctAnswer": 1,
+      "category": "Gastronomie",
+      "id": "q_1789183782157_11_94w8zb",
+      "addedAt": "2026-09-12T03:29:42.157Z"
+    },
+    {
       "question": "Quel artiste néerlandais a coupé une partie de son oreille en 1888 ?",
       "options": [
         "Vincent van Gogh",
@@ -3873,7 +4029,12 @@
       "category": "Musique",
       "id": "q_1787963612696_5_fhbm9e",
       "addedAt": "2026-08-29T00:33:32.696Z"
-    },
+    }
+  ],
+  "version": 438,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-12T03:29:42.157Z",
+  "archivedQuestions": [
     {
       "question": "Quel poisson est capable de reconnaître son reflet dans un miroir ?",
       "options": [
@@ -4029,154 +4190,6 @@
       "category": "Science",
       "id": "q_1787911148997_5_32487i",
       "addedAt": "2026-08-28T09:59:08.997Z"
-    }
-  ],
-  "version": 437,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-12T00:33:32.049Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel sculpteur italien a réalisé la statue du David ?",
-      "options": [
-        "Donatello",
-        "Michelangelo",
-        "Gian Lorenzo Bernini",
-        "Andrea del Verrocchio"
-      ],
-      "correctAnswer": 1,
-      "category": "Art",
-      "id": "q_1787911148997_6_tkp7rg",
-      "addedAt": "2026-08-28T09:59:08.997Z"
-    },
-    {
-      "question": "Dans quel sport utilise-t-on une raquette et une balle de ping-pong ?",
-      "options": [
-        "Le badminton",
-        "Le tennis de table",
-        "Le squash",
-        "Le tennis"
-      ],
-      "correctAnswer": 1,
-      "category": "Sport",
-      "id": "q_1787911148997_7_em212r",
-      "addedAt": "2026-08-28T09:59:08.997Z"
-    },
-    {
-      "question": "Quel philosophe grec ancien a fondé l'Académie d'Athènes ?",
-      "options": [
-        "Socrate",
-        "Platon",
-        "Aristote",
-        "Pythagore"
-      ],
-      "correctAnswer": 1,
-      "category": "Histoire",
-      "id": "q_1787911148997_8_dxpt53",
-      "addedAt": "2026-08-28T09:59:08.997Z"
-    },
-    {
-      "question": "Quel est le plus haut volcan actif du monde ?",
-      "options": [
-        "Le Krakatoa",
-        "Le Vésuve",
-        "L'Ojos del Salado",
-        "Le Sakurajima"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1787911148997_9_yjo2w7",
-      "addedAt": "2026-08-28T09:59:08.997Z"
-    },
-    {
-      "question": "Quel tissu biologique supporte les plantes et les maintient rigides ?",
-      "options": [
-        "Le phloème",
-        "Le xylème",
-        "L'épiderme",
-        "L'endoderme"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787911148997_10_2l9qu8",
-      "addedAt": "2026-08-28T09:59:08.997Z"
-    },
-    {
-      "question": "Quel cinéaste français a réalisé 'Amélie Poulain' ?",
-      "options": [
-        "Luc Besson",
-        "Jean-Pierre Jeunet",
-        "Quentin Tarantino",
-        "Francis Ford Coppola"
-      ],
-      "correctAnswer": 1,
-      "category": "Cinéma",
-      "id": "q_1787911148997_11_fx1hqy",
-      "addedAt": "2026-08-28T09:59:08.997Z"
-    },
-    {
-      "question": "Quel est le plus vieux vin connu du monde encore conservé ?",
-      "options": [
-        "Un vin romain du 1er siècle avant J.C.",
-        "Un vin français du 14e siècle",
-        "Un vin italien du 12e siècle",
-        "Un vin grec antique du 6e siècle avant J.C."
-      ],
-      "correctAnswer": 3,
-      "category": "Gastronomie",
-      "id": "q_1787911148997_12_f4zpfq",
-      "addedAt": "2026-08-28T09:59:08.997Z"
-    },
-    {
-      "question": "Quel physicien a développé la théorie de la relativité restreinte en 1905 ?",
-      "options": [
-        "Max Planck",
-        "Albert Einstein",
-        "Niels Bohr",
-        "Werner Heisenberg"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787877212322_0_yd2u11",
-      "addedAt": "2026-08-28T00:33:32.322Z"
-    },
-    {
-      "question": "Quel est le plus haut sommet d'Afrique ?",
-      "options": [
-        "Mont Kenya",
-        "Kilimanjaro",
-        "Mont Stanley",
-        "Chaîne de l'Atlas"
-      ],
-      "correctAnswer": 1,
-      "category": "Géographie",
-      "id": "q_1787877212322_1_i7eanr",
-      "addedAt": "2026-08-28T00:33:32.322Z"
-    },
-    {
-      "question": "Quel empereur romain a construit le Colosseum ?",
-      "options": [
-        "Auguste",
-        "Tibère",
-        "Vespasien",
-        "Domitien"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1787877212322_2_hp09xt",
-      "addedAt": "2026-08-28T00:33:32.322Z"
-    },
-    {
-      "question": "Quel est le plus petit pays du monde en superficie ?",
-      "options": [
-        "Monaco",
-        "Liechtenstein",
-        "Cité du Vatican",
-        "San Marin"
-      ],
-      "correctAnswer": 2,
-      "category": "Géographie",
-      "id": "q_1787877212322_3_hufe5m",
-      "addedAt": "2026-08-28T00:33:32.322Z"
     }
   ],
   "poolSize": 310
