@@ -1,6 +1,149 @@
 {
   "questions": [
     {
+      "question": "Quel artiste néerlandais a coupé une partie de son oreille en 1888 ?",
+      "options": [
+        "Vincent van Gogh",
+        "Paul Klee",
+        "Piet Mondrian",
+        "Johannes Vermeer"
+      ],
+      "correctAnswer": 0,
+      "category": "Art",
+      "id": "q_1789173212049_0_frfa07",
+      "addedAt": "2026-09-12T00:33:32.049Z"
+    },
+    {
+      "question": "Quel écrivain japonais a écrit 'Kafka sur le rivage' ?",
+      "options": [
+        "Yasunari Kawabata",
+        "Haruki Murakami",
+        "Junichiro Tanizaki",
+        "Kenzaburo Oe"
+      ],
+      "correctAnswer": 1,
+      "category": "Littérature",
+      "id": "q_1789173212049_1_r877gj",
+      "addedAt": "2026-09-12T00:33:32.049Z"
+    },
+    {
+      "question": "Quel minéral composant le diamant est le plus dur de tous les minéraux naturels ?",
+      "options": [
+        "Le corindon",
+        "Le carbone cristallisé",
+        "Le quartz",
+        "L'émeraude"
+      ],
+      "correctAnswer": 1,
+      "category": "Science",
+      "id": "q_1789173212049_2_vw6uen",
+      "addedAt": "2026-09-12T00:33:32.049Z"
+    },
+    {
+      "question": "En quel continent se situe le désert de Gobi ?",
+      "options": [
+        "Afrique",
+        "Asie",
+        "Amérique du Sud",
+        "Australie"
+      ],
+      "correctAnswer": 1,
+      "category": "Géographie",
+      "id": "q_1789173212049_3_vkezvu",
+      "addedAt": "2026-09-12T00:33:32.049Z"
+    },
+    {
+      "question": "Quel pays a inventé le jeu du badminton tel que nous le connaissons ?",
+      "options": [
+        "La Chine",
+        "L'Inde",
+        "La Thaïlande",
+        "L'Indonésie"
+      ],
+      "correctAnswer": 1,
+      "category": "Sport",
+      "id": "q_1789173212049_4_w8vauu",
+      "addedAt": "2026-09-12T00:33:32.049Z"
+    },
+    {
+      "question": "Quel scientifique polonais a découvert le polonium et le radium ?",
+      "options": [
+        "Marie Curie",
+        "Pierre Curie",
+        "Ernest Rutherford",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 0,
+      "category": "Science",
+      "id": "q_1789173212049_5_cep6fb",
+      "addedAt": "2026-09-12T00:33:32.049Z"
+    },
+    {
+      "question": "Quel nombre de cordes possède une guitare classique standard ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "category": "Musique",
+      "id": "q_1789173212049_6_josnpe",
+      "addedAt": "2026-09-12T00:33:32.049Z"
+    },
+    {
+      "question": "Quel algorithme de tri a été inventé par Donald Knuth pour améliorer les performances ?",
+      "options": [
+        "Quick Sort",
+        "Merge Sort",
+        "Heap Sort",
+        "Bubble Sort"
+      ],
+      "correctAnswer": 2,
+      "category": "Technologie",
+      "id": "q_1789173212049_7_ii8944",
+      "addedAt": "2026-09-12T00:33:32.049Z"
+    },
+    {
+      "question": "Quel type de fromage français est caractérisé par ses veines bleues ?",
+      "options": [
+        "Le Roquefort",
+        "Le Comté",
+        "Le Camembert",
+        "Le Brie"
+      ],
+      "correctAnswer": 0,
+      "category": "Gastronomie",
+      "id": "q_1789173212049_8_hpk283",
+      "addedAt": "2026-09-12T00:33:32.049Z"
+    },
+    {
+      "question": "Quel historien français a écrit 'Les Trois Mousquetaires' ?",
+      "options": [
+        "Victor Hugo",
+        "Honoré de Balzac",
+        "Alexandre Dumas",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 2,
+      "category": "Littérature",
+      "id": "q_1789173212049_9_mgeiqq",
+      "addedAt": "2026-09-12T00:33:32.049Z"
+    },
+    {
+      "question": "Quel est le plus grand lac d'eau douce du monde ?",
+      "options": [
+        "Le lac Supérieur",
+        "Le lac Baïkal",
+        "Le lac Tanganyika",
+        "Le lac Michigan"
+      ],
+      "correctAnswer": 0,
+      "category": "Géographie",
+      "id": "q_1789173212049_10_g0tp2r",
+      "addedAt": "2026-09-12T00:33:32.049Z"
+    },
+    {
       "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
       "options": [
         "1965",
@@ -3886,7 +4029,12 @@
       "category": "Science",
       "id": "q_1787911148997_5_32487i",
       "addedAt": "2026-08-28T09:59:08.997Z"
-    },
+    }
+  ],
+  "version": 437,
+  "last_cleaned": "2026-02-08T16:32:10.222Z",
+  "last_updated": "2026-09-12T00:33:32.049Z",
+  "archivedQuestions": [
     {
       "question": "Quel sculpteur italien a réalisé la statue du David ?",
       "options": [
@@ -4029,141 +4177,6 @@
       "category": "Géographie",
       "id": "q_1787877212322_3_hufe5m",
       "addedAt": "2026-08-28T00:33:32.322Z"
-    }
-  ],
-  "version": 436,
-  "last_cleaned": "2026-02-08T16:32:10.222Z",
-  "last_updated": "2026-09-11T03:23:57.946Z",
-  "archivedQuestions": [
-    {
-      "question": "Quel type de cellule du corps humain est responsable de la défense immunitaire ?",
-      "options": [
-        "Globules rouges",
-        "Globules blancs",
-        "Plaquettes",
-        "Cellules musculaires"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787877212322_4_h9kov9",
-      "addedAt": "2026-08-28T00:33:32.322Z"
-    },
-    {
-      "question": "En quelle année l'Homme a-t-il inventé l'imprimerie à caractères mobiles ?",
-      "options": [
-        "1440",
-        "1490",
-        "1550",
-        "1600"
-      ],
-      "correctAnswer": 0,
-      "category": "Technologie",
-      "id": "q_1787877212322_5_tvajjr",
-      "addedAt": "2026-08-28T00:33:32.322Z"
-    },
-    {
-      "question": "Quel compositeur allemand du 18e siècle est connu pour ses Symphonies ?",
-      "options": [
-        "Richard Wagner",
-        "Joseph Haydn",
-        "Georg Friedrich Händel",
-        "Antonio Vivaldi"
-      ],
-      "correctAnswer": 1,
-      "category": "Musique",
-      "id": "q_1787877212322_6_po23c9",
-      "addedAt": "2026-08-28T00:33:32.322Z"
-    },
-    {
-      "question": "Quel sport est considéré comme le plus ancien sport organisé du monde ?",
-      "options": [
-        "La lutte",
-        "L'athlétisme",
-        "L'équitation",
-        "La natation"
-      ],
-      "correctAnswer": 0,
-      "category": "Sport",
-      "id": "q_1787877212322_7_ewm7lh",
-      "addedAt": "2026-08-28T00:33:32.322Z"
-    },
-    {
-      "question": "Quel philosophe grec antique a fondé l'école du Lycée ?",
-      "options": [
-        "Platon",
-        "Socrate",
-        "Aristote",
-        "Héraclite"
-      ],
-      "correctAnswer": 2,
-      "category": "Histoire",
-      "id": "q_1787877212322_8_yfh7m4",
-      "addedAt": "2026-08-28T00:33:32.322Z"
-    },
-    {
-      "question": "Quel fromage français est caractérisé par ses veines bleues ?",
-      "options": [
-        "Camembert",
-        "Roquefort",
-        "Comté",
-        "Brie"
-      ],
-      "correctAnswer": 1,
-      "category": "Gastronomie",
-      "id": "q_1787877212322_9_mocd4b",
-      "addedAt": "2026-08-28T00:33:32.322Z"
-    },
-    {
-      "question": "Quel biologiste britannique a proposé la théorie de l'évolution par sélection naturelle ?",
-      "options": [
-        "Alfred Russel Wallace",
-        "Charles Darwin",
-        "Thomas Huxley",
-        "Jean-Baptiste Lamarck"
-      ],
-      "correctAnswer": 1,
-      "category": "Science",
-      "id": "q_1787817305613_0_2dqarc",
-      "addedAt": "2026-08-27T07:55:05.613Z"
-    },
-    {
-      "question": "Quel compositeur allemand a écrit les 'Quatre Saisons' de Vivaldi ?",
-      "options": [
-        "Johann Sebastian Bach",
-        "Georges Friedrich Haendel",
-        "Antonio Vivaldi",
-        "Wolfgang Amadeus Mozart"
-      ],
-      "correctAnswer": 2,
-      "category": "Musique",
-      "id": "q_1787817305613_1_lptpks",
-      "addedAt": "2026-08-27T07:55:05.613Z"
-    },
-    {
-      "question": "Quel est le plus grand désert chaud du monde ?",
-      "options": [
-        "Le Sahara",
-        "Le Kalahari",
-        "Le désert Arabique",
-        "Le Gobi"
-      ],
-      "correctAnswer": 0,
-      "category": "Géographie",
-      "id": "q_1787817305613_2_cco2yh",
-      "addedAt": "2026-08-27T07:55:05.613Z"
-    },
-    {
-      "question": "Quel mathématicien grec a découvert le principe de la flottabilité dans son bain ?",
-      "options": [
-        "Euclide",
-        "Pythagore",
-        "Archimède",
-        "Thalès"
-      ],
-      "correctAnswer": 2,
-      "category": "Mathématiques",
-      "id": "q_1787817305613_3_inj2g8",
-      "addedAt": "2026-08-27T07:55:05.613Z"
     }
   ],
   "poolSize": 310
