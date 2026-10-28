@@ -1,11 +1,14 @@
 // api/stats.js
-// GET /api/stats → statistiques d'usage du quiz (pour le dashboard et la domotique)
+// GET /api/stats → statistiques d'usage du quiz (lues par la domotique, voir docs/INTEGRATION-DOMOTIQUE.md)
 
 import { getSql, ensureSchema, TARGET_QUESTIONS } from '../lib/db.js';
 
 const HISTORY_DAYS = 14;
 
 export default async function handler(req, res) {
+  // Lisible depuis n'importe quelle origine (dashboard externe, domotique)
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  if (req.method === 'OPTIONS') return res.status(204).end();
   if (req.method !== 'GET') {
     return res.status(405).json({ success: false, error: 'Méthode non autorisée' });
   }
