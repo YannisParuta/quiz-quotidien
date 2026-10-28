@@ -15,6 +15,18 @@ const getYesterdayKey = () => {
     return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
 };
 
+// Statistiques anonymes (compteurs du jour, sans cookie ni identifiant)
+const track = (event, data = {}) => {
+    try {
+        fetch('/api/track', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ event, ...data }),
+            keepalive: true
+        }).catch(() => {});
+    } catch (e) {}
+};
+
 // Titre dynamique avec la date (SEO : contenu frais chaque jour)
 const updatePageTitle = () => {
     const d = new Date();
@@ -218,6 +230,7 @@ function DailyQuiz() {
                 throw new Error('Aucune question disponible');
             }
             const selected = data.questions;
+            track('visit'); // premier chargement du jour sur cet appareil
 
             try {
                 localStorage.setItem(dateKey, JSON.stringify({ questions: selected, date: today.toISOString() }));
@@ -262,6 +275,7 @@ function DailyQuiz() {
 
             setScore(finalScore);
             setQuizCompleted(true);
+            track('complete', { score: finalScore });
 
             const dateKey = getTodayKey();
             localStorage.setItem(`quiz-completed-${dateKey}`, 'true');
@@ -303,21 +317,34 @@ function DailyQuiz() {
         return `🎯 Quiz Quotidien - ${dateString} 🎯\nScore : ${score}/${dailyQuiz.length}\n${squares}\n${emoji} ${comment}${streakLine}\n\nhttps://quiz-quotidien.fr`;
     };
 
-    const shareOnWhatsApp = () => window.open(`https://wa.me/?text=${encodeURIComponent(buildShareText())}`, '_blank');
-    const shareOnTwitter  = () => window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(buildShareText())}`, '_blank');
+    const shareOnWhatsApp = () => {
+        track('share_whatsapp');
+        window.open(`https://wa.me/?text=${encodeURIComponent(buildShareText())}`, '_blank');
+    };
+    const shareOnTwitter = () => {
+        track('share_x');
+        window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(buildShareText())}`, '_blank');
+    };
 
     const shareGeneric = () => {
+        track('share_copy');
         const text = buildShareText();
         if (navigator.share) {
             navigator.share({ title: 'Mon score au Quiz Quotidien', text }).catch(() => {});
         } else {
-            try { navigator.clipboard.writeText(text); alert('✅ Score copié dans le presse-papier !'); }
-            catch {
+            const fallbackCopy = () => {
                 const ta = document.createElement('textarea');
                 ta.value = text; ta.style.position = 'fixed'; ta.style.left = '-999999px';
                 document.body.appendChild(ta); ta.select();
                 try { document.execCommand('copy'); alert('✅ Score copié !'); } catch {}
                 ta.remove();
+            };
+            if (navigator.clipboard) {
+                navigator.clipboard.writeText(text)
+                    .then(() => alert('✅ Score copié dans le presse-papier !'))
+                    .catch(fallbackCopy);
+            } else {
+                fallbackCopy();
             }
         }
     };
