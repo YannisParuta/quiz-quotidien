@@ -15,9 +15,8 @@ export default async function handler(req, res) {
   try {
     await ensureSchema();
     const sql = getSql();
-    const rows = await sql`
-      SELECT id, question, options, correct_answer, category FROM questions ORDER BY id
-    `;
+    // Tirage sur les seuls ids, puis lecture des 10 questions retenues
+    const rows = await sql`SELECT id FROM questions ORDER BY id`;
 
     if (rows.length < QUESTIONS_PER_DAY) {
       return res.status(503).json({ success: false, error: 'Pas assez de questions en base' });
@@ -36,12 +35,17 @@ export default async function handler(req, res) {
       selected = seededShuffle(rows, hashString(`day-${date}`)).slice(0, QUESTIONS_PER_DAY);
     }
 
+    const ids = selected.map(r => r.id);
+    const byId = new Map((await sql`
+      SELECT id, question, options, correct_answer, category FROM questions WHERE id = ANY(${ids})
+    `).map(q => [q.id, q]));
+
     // Le quiz d'une date donnée ne change qu'à l'ajout de questions → cache CDN 1 h
     res.setHeader('Cache-Control', 's-maxage=3600, stale-while-revalidate=600');
     return res.status(200).json({
       success: true,
       date,
-      questions: selected.map(q => ({
+      questions: ids.map(id => byId.get(id)).map(q => ({
         id: q.id,
         question: q.question,
         options: q.options,
