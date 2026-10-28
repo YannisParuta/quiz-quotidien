@@ -255,21 +255,12 @@
                     setError(null);
                     checkIfQuizCompleted();
 
-                    const response = await fetch(`/questions.json?v=${Date.now()}`);
-                    if (!response.ok) throw new Error('Erreur de chargement des questions');
-                    const data = await response.json();
-
-                    if (!data.questions || !Array.isArray(data.questions) || data.questions.length === 0) {
-                        throw new Error('Aucune question disponible');
-                    }
-
                     const today = new Date();
                     const year  = today.getFullYear();
                     const month = today.getMonth();      // 0-indexed
                     const day   = today.getDate();       // 1-31
-                    const currentVersion = data.version || 1;
 
-                    // Clé de cache stable par jour (sans version → stable toute la journée)
+                    // Clé de cache stable par jour
                     const dateKey = `quiz-monthly-${year}-${month + 1}-${day}`;
 
                     // Try cache
@@ -297,44 +288,19 @@
                         toRemove.forEach(k => localStorage.removeItem(k));
                     } catch (e) {}
 
-                    // ── Sélection mensuelle anti-répétition ──────────────────────
-                    // PRNG (LCG) : génère des valeurs DIFFÉRENTES à chaque appel pour un seed donné
-                    const makePrng = (seed) => {
-                        let s = ((seed ^ 0x9E3779B9) >>> 0) || 1;
-                        return () => {
-                            s = Math.imul(s ^ (s >>> 16), 0x45d9f3b);
-                            s = (s ^ (s >>> 16)) >>> 0;
-                            return s / 0xFFFFFFFF;
-                        };
-                    };
-                    // Fisher-Yates : mélange réel et déterministe
-                    const seededShuffle = (arr, seed) => {
-                        const a = [...arr];
-                        const rand = makePrng(seed);
-                        for (let i = a.length - 1; i > 0; i--) {
-                            const j = Math.floor(rand() * (i + 1));
-                            [a[i], a[j]] = [a[j], a[i]];
-                        }
-                        return a;
-                    };
+                    // Sélection du jour faite côté serveur, depuis la base de données
+                    const isoDate = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+                    const response = await fetch(`/api/daily-quiz?date=${isoDate}`);
+                    if (!response.ok) throw new Error('Erreur de chargement des questions');
+                    const data = await response.json();
 
-                    const dayIndex = (day - 1) % 31; // 0 pour le 1er, 30 pour le 31
-
-                    let selected;
-                    if (data.questions.length >= 310) {
-                        // Pool complet : seed mensuel → même ordre pour tous → tranche exclusive par jour
-                        const monthSeed = year * 100 + month;
-                        const shuffled  = seededShuffle(data.questions, monthSeed);
-                        selected = shuffled.slice(dayIndex * 10, dayIndex * 10 + 10);
-                    } else {
-                        // Pool < 310 (transition) : seed journalier → questions différentes chaque jour
-                        const daySeed  = today.setHours(0, 0, 0, 0) + day * 7919 + month * 999983;
-                        const shuffled = seededShuffle(data.questions, daySeed);
-                        selected = shuffled.slice(0, 10);
+                    if (!data.questions || !Array.isArray(data.questions) || data.questions.length === 0) {
+                        throw new Error('Aucune question disponible');
                     }
+                    const selected = data.questions;
 
                     try {
-                        localStorage.setItem(dateKey, JSON.stringify({ questions: selected, date: today.toISOString(), version: currentVersion }));
+                        localStorage.setItem(dateKey, JSON.stringify({ questions: selected, date: today.toISOString() }));
                     } catch (e) {}
 
                     setDailyQuiz(selected);
