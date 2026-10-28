@@ -4,6 +4,8 @@
 **Project:** Quiz Quotidien
 **Type:** Static HTML Application with CDN Dependencies
 
+> **Mise à jour 2026-10-28 :** problèmes résolus. Babel Standalone et le Tailwind CDN ont été retirés : le JSX est précompilé avec esbuild et le CSS généré par Tailwind CLI au build Vercel (`npm run build`). React 18.3.1 est désormais une dépendance npm empaquetée.
+
 ---
 
 ## Executive Summary
